@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 3,
 	"max_players": 32,
-	"bots": 9,
-	"map": "dorf",
+	"bots": 0,
+	"map": "awp_tower_cs2remixv1.2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
