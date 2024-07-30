@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_summer_jail_v3",
+	"map": "jb_prison_architect_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
 }

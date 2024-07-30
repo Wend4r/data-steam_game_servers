@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_deathstar",
+	"map": "surf_asrown",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_deathstar,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_asrown,secure"
 }

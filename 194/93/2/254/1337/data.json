@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,128 tickrate,agents,case,free vip,gloves,knife,mirage,s"
+	"gametype": "!,128 tickrate,agents,case,free vip,gloves,knife,mirage,shop,tw"
 }
