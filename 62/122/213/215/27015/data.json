@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "jb_pyrenees_v1_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!bajail,!jail,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,vip,zm,zombie,"
+	"gametype": "empty,!bajail,!jail,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,vip,zm,z"
 }
