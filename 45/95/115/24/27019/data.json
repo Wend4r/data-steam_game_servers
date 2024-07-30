@@ -2,18 +2,18 @@
 	"addr": "45.95.115.24:27019",
 	"gameport": 27019,
 	"steamid": "85568392930864295",
-	"name": "HjemEZEZ Surf",
+	"name": "[DK] HJEMEZEZ | Surf | Timer | WS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "surf_boreas",
+	"map": "surf_cyberwave",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "danish,hjemezez,surf,timer,ws,secure"
+	"gametype": "empty,danish,hjemezez,surf,timer,ws,secure"
 }

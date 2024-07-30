@@ -1,7 +1,7 @@
 {
 	"addr": "46.105.58.28:27015",
 	"gameport": 27015,
-	"steamid": "90200501068048385",
+	"steamid": "90200501237993473",
 	"name": "LES NUFS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

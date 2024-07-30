@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 12,
-	"bots": 0,
-	"map": "aim_redline_cs2",
+	"bots": 1,
+	"map": "kz_1v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

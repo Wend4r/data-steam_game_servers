@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 4,
-	"map": "de_dust2_night",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FUN,secure"
+	"gametype": "FUN,secure"
 }
