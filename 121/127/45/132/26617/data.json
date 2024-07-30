@@ -1,7 +1,8 @@
 {
 	"addr": "121.127.45.132:26617",
 	"gameport": 26617,
-	"steamid": "90200481106967561",
+	"specport": 26618,
+	"steamid": "90200507652582409",
 	"name": "kolon3 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

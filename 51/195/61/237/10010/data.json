@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10010",
 	"gameport": 10010,
-	"steamid": "90200504104190991",
-	"name": "Monsters HvH Tournament - free @ fshost.me",
+	"steamid": "90200507737198607",
+	"name": "aletgerginn - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 5,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

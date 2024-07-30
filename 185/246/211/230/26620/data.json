@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.211.230:26620",
 	"gameport": 26620,
-	"steamid": "90200506973882381",
-	"name": "REMINDERS powered by PRACC.COM",
+	"steamid": "90200507746859021",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

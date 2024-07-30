@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26947",
 	"gameport": 26947,
-	"steamid": "90200481107012617",
+	"steamid": "90200507652640777",
 	"name": "mibr powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

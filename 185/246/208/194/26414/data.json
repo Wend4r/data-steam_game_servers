@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.208.194:26414",
+	"gameport": 26414,
+	"steamid": "90200507781994510",
+	"name": "Cookiez powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 13,
+	"bots": 4,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
