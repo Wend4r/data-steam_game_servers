@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "cs_workout_d_prefab",
+	"map": "de_island",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 27,
 	"bots": 2,
-	"map": "mg_jump_obstacles_new_csgo_fixe",
+	"map": "mg_shiyi_naipi_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "93x,bbs.93x.net,game,mg,multigames,xnet,secure"
+	"gametype": "empty,93x,bbs.93x.net,game,mg,multigames,xnet,secure"
 }
