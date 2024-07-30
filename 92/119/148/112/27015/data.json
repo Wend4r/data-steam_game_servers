@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 38,
 	"bots": 3,
 	"map": "surf_bluewinter_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gfl,gflclan,private,surf,secure"
+	"gametype": "empty,gfl,gflclan,private,surf,secure"
 }

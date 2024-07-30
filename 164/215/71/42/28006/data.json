@@ -1,0 +1,20 @@
+{
+	"addr": "164.215.71.42:28006",
+	"gameport": 28006,
+	"specport": 38006,
+	"steamid": "85568392931605389",
+	"name": "VSCL.RU@CW#06",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

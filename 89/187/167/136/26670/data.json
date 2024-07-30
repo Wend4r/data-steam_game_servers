@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
