@@ -1,19 +1,19 @@
 {
 	"addr": "37.120.190.58:27037",
 	"gameport": 27037,
-	"steamid": "90200485500104725",
+	"steamid": "90200503303612437",
 	"name": "[Ger|Pub|FF|16K| [TWD] Oldies - Brauhaus] Wingman",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 6,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ger|pub|ff|16k| [twd] oldies - brauhaus,msm,wingman,secure"
+	"gametype": "empty,ger|pub|ff|16k| [twd] oldies - brauhaus,msm,wingman,insec"
 }
