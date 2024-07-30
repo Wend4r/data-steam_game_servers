@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HvH,Hvh,Hvh.hvh,download,free,gamesense,gorzelniahvh,hVh,invite,logitech,neverlose,onetap,pandora,primordial,rawetrip,ins"
+	"gametype": "HvH,Hvh,Hvh.hvh,download,free,gamesense,gorzelniahvh,hVh,invite,logitech,neverlose,onetap,pandora,primordial,rawetrip,insecure"
 }
