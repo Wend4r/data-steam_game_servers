@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.97:26103",
 	"gameport": 26103,
+	"specport": 26104,
 	"steamid": "90200500402188293",
 	"name": "Jesse's Practice server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 6,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

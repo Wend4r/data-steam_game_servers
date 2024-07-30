@@ -1,19 +1,19 @@
 {
 	"addr": "109.61.80.167:26843",
 	"gameport": 26843,
-	"steamid": "90200500465258522",
+	"steamid": "90200500636131354",
 	"name": "NicoF1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 5,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
