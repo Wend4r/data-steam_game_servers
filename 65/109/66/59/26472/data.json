@@ -2,7 +2,7 @@
 	"addr": "65.109.66.59:26472",
 	"gameport": 26472,
 	"specport": 26473,
-	"steamid": "90200501216175117",
+	"steamid": "90200502385825805",
 	"name": "eBASH powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
