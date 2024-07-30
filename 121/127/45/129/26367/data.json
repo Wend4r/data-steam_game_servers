@@ -2,7 +2,7 @@
 	"addr": "121.127.45.129:26367",
 	"gameport": 26367,
 	"steamid": "85568392923980508",
-	"name": "XPLAY.GG • CS2 2x2 #21 • [DK]",
+	"name": "CS2 2x2 #21 DK",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

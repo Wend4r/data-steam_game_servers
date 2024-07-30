@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26924",
 	"gameport": 26924,
+	"specport": 27020,
 	"steamid": "90200485896180762",
 	"name": "SE Discord - EU",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 3,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_skyline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
