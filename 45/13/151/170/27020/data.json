@@ -1,13 +1,13 @@
 {
 	"addr": "45.13.151.170:27020",
 	"gameport": 27020,
-	"steamid": "85568392931833180",
-	"name": "Counter-Strike: Global Offensive",
+	"steamid": "85568392931387230",
+	"name": "[CSGO] ★ RUN.USP.RO ★ PRE | GSTRAFE [HNS/OLDGROUNDS] ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,128 tick,gravity,gstrafe,hns,pre,secure"
 }

@@ -2,8 +2,8 @@
 	"addr": "65.109.91.88:26163",
 	"gameport": 26163,
 	"specport": 26164,
-	"steamid": "90200498022578188",
-	"name": "FORTIS powered by PRACC.COM",
+	"steamid": "90200499579998220",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
