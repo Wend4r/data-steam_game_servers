@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 45,
-	"bots": 0,
-	"map": "surf_serenity",
+	"bots": 3,
+	"map": "surf_bananenfliege",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,102,102tick,gf,gofree,surf,surftimer,surf_serenity,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_bananenfliege,secure"
 }
