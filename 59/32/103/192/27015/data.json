@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_color_levels",
+	"map": "ze_luciddreams_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
