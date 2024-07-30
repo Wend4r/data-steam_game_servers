@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Portugal,Retake,Retakes,Spain,insecure"
+	"gametype": "Portugal,Retake,Retakes,Spain,secure"
 }

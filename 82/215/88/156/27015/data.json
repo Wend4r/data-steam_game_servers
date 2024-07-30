@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ar_pool_day",
+	"map": "ar_monastery",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,Arms,Arms Race,Race,insecure"
+	"gametype": "empty,128,Arms,Arms Race,Race,insecure"
 }
