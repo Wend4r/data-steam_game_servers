@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!KNIFE,!WS,AIM REDLINE,AWP LEGO,JAILBREAK,secure"
+	"gametype": "empty,!KNIFE,!WS,AIM REDLINE,AWP LEGO,JAILBREAK,secure"
 }
