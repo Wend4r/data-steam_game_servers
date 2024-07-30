@@ -8,12 +8,12 @@
 	"version": "1.35.3.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_baxter_2016",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2016,64-tick,64t,64tick,autobhop,bhop,cc,classic,classiccounter,femboy,femboykz,fkz,gokz,kreedz,kz,kzt,kztimer,surf,vanil"
+	"gametype": "2016,64-tick,64t,64tick,autobhop,bhop,cc,classic,classiccounter,femboy,femboykz,fkz,gokz,kreedz,kz,kzt,kztimer,surf,vanilla,vnl"
 }

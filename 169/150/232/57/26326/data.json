@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.232.57:26326",
+	"gameport": 26326,
+	"specport": 26327,
+	"steamid": "90200506780616721",
+	"name": "Promatic-Life-Reborn powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
