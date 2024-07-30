@@ -1,7 +1,7 @@
 {
 	"addr": "194.160.135.60:27015",
 	"gameport": 27015,
-	"steamid": "90200508418070547",
+	"steamid": "90200511170737171",
 	"name": "Infor CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

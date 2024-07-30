@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.232.56:26522",
 	"gameport": 26522,
-	"steamid": "90200511294289936",
-	"name": "Revenge Nation powered by PRACC.COM",
+	"steamid": "90200511296869392",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
