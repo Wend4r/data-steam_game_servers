@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.206.85:26341",
+	"gameport": 26341,
+	"specport": 26342,
+	"steamid": "90200511628150788",
+	"name": "[P] PopFlash Scrim - new_york_city - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 9,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,secure"
+}
