@@ -1,8 +1,7 @@
 {
 	"addr": "37.61.231.231:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "85568392922845057",
+	"steamid": "85568392922844635",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 33,
-	"bots": 4,
+	"bots": 3,
 	"map": "de_piranesi_d_prefab",
 	"secure": true,
 	"dedicated": true,

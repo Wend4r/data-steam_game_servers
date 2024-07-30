@@ -12,7 +12,7 @@
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
 	"gametype": "empty,128tick,csgo,public,skins,insecure"
