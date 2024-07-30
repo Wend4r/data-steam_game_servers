@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_utopia_njv",
+	"map": "surf_nyx",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mod,sg,steam-gamers,steamgamers,surf,surf_,t1,usa,secure"
+	"gametype": "mod,sg,steam-gamers,steamgamers,surf,surf_,t1,usa,secure"
 }
