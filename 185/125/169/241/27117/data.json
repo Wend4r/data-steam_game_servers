@@ -1,0 +1,19 @@
+{
+	"addr": "185.125.169.241:27117",
+	"gameport": 27117,
+	"steamid": "85568392920235715",
+	"name": "[CSGO] Recess.no #16 Bhop [ Timer | 2500+Maps | Styles | 128 Ti",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 128,
+	"bots": 0,
+	"map": "bhop_stref_amazon",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tickrate,NO,autobhop,bhop,bunnyhop,hsw,increased_maxplayers,jump,rcs,recess,replay,rtv,style,tier,tier,whitelist,s"
+}
