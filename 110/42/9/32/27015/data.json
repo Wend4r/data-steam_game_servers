@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.32:27015",
 	"gameport": 27015,
-	"steamid": "90200497569818630",
+	"steamid": "90200501378169862",
 	"name": "【KOD社区】混战1F|免费龙狙潘多拉",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 4,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
