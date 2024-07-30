@@ -10,7 +10,7 @@
 	"region": 21,
 	"players": 4,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
