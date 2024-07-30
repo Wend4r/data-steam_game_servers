@@ -1,0 +1,20 @@
+{
+	"addr": "141.148.206.235:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392929682104",
+	"name": "✪ blue's multi server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:19763592i,CM2.Network,Tournament,pcw,war,insecure"
+}
