@@ -1,8 +1,7 @@
 {
 	"addr": "89.187.167.137:26881",
 	"gameport": 26881,
-	"specport": 26882,
-	"steamid": "90200483016426521",
+	"steamid": "90200508422642713",
 	"name": "Welcome to the ZnK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

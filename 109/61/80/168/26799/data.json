@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26799",
 	"gameport": 26799,
-	"steamid": "90200483011406875",
+	"steamid": "90200508371979291",
 	"name": "BerndsServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Bernd,dathost,dathost.net,secure"
+	"gametype": "empty,Bernd,dathost,dathost.net,insecure"
 }

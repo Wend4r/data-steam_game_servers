@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ajan,!knife,!ws,7/24,FUN,redline,secure"
+	"gametype": "!ajan,!knife,!ws,7/24,FUN,redline,secure"
 }

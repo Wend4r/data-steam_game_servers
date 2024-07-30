@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.168:26519",
 	"gameport": 26519,
-	"specport": 26520,
 	"steamid": "85568392931866580",
 	"name": "SyntaxCS2",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

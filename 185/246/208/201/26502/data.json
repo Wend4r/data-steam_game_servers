@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.201:26502",
 	"gameport": 26502,
-	"steamid": "90200483025717269",
+	"steamid": "90200508448976917",
 	"name": "Masnoni",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
