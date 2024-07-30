@@ -1,7 +1,8 @@
 {
 	"addr": "79.127.196.41:26029",
 	"gameport": 26029,
-	"steamid": "90200478238593031",
+	"specport": 26030,
+	"steamid": "90200503510247431",
 	"name": "Portugal powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

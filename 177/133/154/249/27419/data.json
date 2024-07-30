@@ -1,19 +1,19 @@
 {
 	"addr": "177.133.154.249:27419",
 	"gameport": 27419,
-	"steamid": "90200503054333968",
+	"steamid": "90200503428302864",
 	"name": "toguro camp",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

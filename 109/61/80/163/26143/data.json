@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26143",
 	"gameport": 26143,
-	"specport": 26144,
-	"steamid": "90200477789027350",
+	"steamid": "90200503485110294",
 	"name": "Dunes CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 3,
-	"map": "de_3000",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
