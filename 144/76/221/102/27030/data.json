@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 33,
-	"bots": 2,
-	"map": "dorf",
+	"bots": 1,
+	"map": "aim_gas_station",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "community,kandru,secure"
+	"gametype": "empty,community,kandru,secure"
 }
