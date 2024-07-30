@@ -1,6 +1,7 @@
 {
 	"addr": "103.14.247.206:27021",
 	"gameport": 27021,
+	"specport": 27022,
 	"steamid": "90200499635386370",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 10,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

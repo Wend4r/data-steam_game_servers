@@ -1,0 +1,19 @@
+{
+	"addr": "212.87.213.3:27015",
+	"gameport": 27015,
+	"steamid": "85568392931756425",
+	"name": "Zgubid@ni CS2 | !ws !agents !knifes !skins",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!ws !knife !gloves !agents !shop,secure"
+}
