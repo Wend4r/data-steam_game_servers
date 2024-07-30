@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.182:26160",
+	"gameport": 26160,
+	"steamid": "90200508700273664",
+	"name": "Leetify CS2 Retakes by Not the FBI",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

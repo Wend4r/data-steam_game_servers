@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_bobiii_hd_yea",
+	"map": "mg_ghosts_cave_yea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
+	"gametype": "empty,!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
 }
