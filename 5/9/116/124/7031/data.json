@@ -1,0 +1,19 @@
+{
+	"addr": "5.9.116.124:7031",
+	"gameport": 7031,
+	"steamid": "90200506767001604",
+	"name": "A Pterodactyl hosted Space Engineer Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_thera",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

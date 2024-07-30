@@ -1,0 +1,19 @@
+{
+	"addr": "46.187.33.39:27031",
+	"gameport": 27031,
+	"steamid": "85568392932006675",
+	"name": "Ameli | Public | 128tick | Skins",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128tick,csgo,public,skins,secure"
+}
