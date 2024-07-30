@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 6,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,portugal,pt,secure"
+	"gametype": "portugal,pt,secure"
 }
