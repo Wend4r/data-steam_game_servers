@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
 	"map": "surf_greatriver_xdre4m",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Legends,Legends S,after,br,brasil,chv,combat surf,csgo,drevenz,era,era SA,host,hostzone,lust,mysk,sao paulo,sp,surf,surf "
+	"gametype": "Legends,Legends S,after,br,brasil,chv,combat surf,csgo,drevenz,era,era SA,host,hostzone,lust,mysk,sao paulo,sp,surf,surf combat"
 }

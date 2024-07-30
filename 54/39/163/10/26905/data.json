@@ -2,18 +2,18 @@
 	"addr": "54.39.163.10:26905",
 	"gameport": 26905,
 	"steamid": "85568392931957147",
-	"name": "ⓆⒸ ⚜️ QUÉBEC RETAKES 5V5 | OFFICIAL MAP | WARMUP |",
+	"name": "⚜️ QUÉBEC RETAKES 5V5 |OFFICIAL MAP|MISE A JOUR!|!knife!gl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
