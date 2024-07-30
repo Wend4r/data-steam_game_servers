@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26236",
 	"gameport": 26236,
-	"steamid": "90200477758392333",
+	"steamid": "90200503565629453",
 	"name": "Gaimin Gladiators powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
