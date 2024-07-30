@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "surf_klue",
+	"map": "surf_reprise",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gloves,i"
+	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gl"
 }
