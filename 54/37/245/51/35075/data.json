@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_network_2008_final",
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_network_2008_fi"
+	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_boreas,secure"
 }
