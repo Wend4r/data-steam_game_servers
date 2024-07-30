@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128 tick,gravity,gstrafe,hns,increased_maxplayers,pre,secure"
+	"gametype": "128 tick,classic zombie,csgo,gravity,increased_maxplayers,plague,zm,zombie,secure"
 }
