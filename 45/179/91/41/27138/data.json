@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 18,
 	"bots": 0,
-	"map": "awp_lego_expert_kat",
+	"map": "aim_deagle_sand",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
