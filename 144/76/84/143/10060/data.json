@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10060",
 	"gameport": 10060,
-	"steamid": "90200503394661385",
-	"name": "antek123 - free @ fshost.me",
+	"steamid": "90200503780721673",
+	"name": "velohvhtournament - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
-	"max_players": 4,
+	"players": 3,
+	"max_players": 6,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": true,
+	"map": "de_inferno",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "insecure"
 }
