@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26418",
 	"gameport": 26418,
-	"steamid": "90200479000232974",
+	"steamid": "90200506936311822",
 	"name": "Vexar (ADVANCED) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

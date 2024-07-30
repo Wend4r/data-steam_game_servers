@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "am_garden",
+	"map": "am_dust2014_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!skins,!ws,1v1,ant,arena,drop,free,gold,lv"
+	"gametype": "!gloves,!knife,!skins,!ws,1v1,ant,arena,drop,free,gold,lvl,memb"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.169:26277",
 	"gameport": 26277,
-	"specport": 26278,
-	"steamid": "90200478502792220",
+	"steamid": "90200507001434140",
 	"name": "Ascension",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
