@@ -1,0 +1,19 @@
+{
+	"addr": "54.38.142.181:30085",
+	"gameport": 30085,
+	"steamid": "90200507383279647",
+	"name": "[PL] ArenaSkilla.pl # ONLY AWP # SKINY KOSY !MVP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "awp_two_towers",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,AWP;SKINY;KOSY;GLOVES;MUSIC;ONLY AWP;LEGO,secure"
+}

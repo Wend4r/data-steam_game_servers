@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:47117",
 	"gameport": 47117,
-	"steamid": "90200482073903118",
+	"steamid": "90200507304000526",
 	"name": "nirik gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
