@@ -2,18 +2,18 @@
 	"addr": "51.38.114.152:49458",
 	"gameport": 49458,
 	"steamid": "85568392931822049",
-	"name": "[RO/EN] ★ AlyxHvH | Counter-Strike 2 | Rapid Fire / Spread | ",
+	"name": "[RO/EN] ★ AlyxHvH | MM HvH | Bacau - Romania",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 6,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,alyx,alyxhvh,cheating,cs2,cs2hvh,gamesense,insecure,l"
+	"gametype": "10fps,10vs10,alyx,alyxhvh,csgohvh,europe,galaxy,gamesense,hvh,mirage,mm,insecure"
 }
