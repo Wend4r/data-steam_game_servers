@@ -1,0 +1,20 @@
+{
+	"addr": "209.14.23.30:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392923353674",
+	"name": "- Amazonia Telecom Games -",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 30,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:19763592i,...   Venha para a Amazonia Telecom!   ,insecure"
+}

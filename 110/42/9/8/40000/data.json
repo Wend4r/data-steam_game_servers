@@ -1,6 +1,7 @@
 {
 	"addr": "110.42.9.8:40000",
 	"gameport": 40000,
+	"specport": 27020,
 	"steamid": "90200500505479182",
 	"name": "TGPRO Scrim Prac Rental",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
