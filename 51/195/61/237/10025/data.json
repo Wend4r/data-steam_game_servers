@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10025",
 	"gameport": 10025,
-	"steamid": "90200499138200591",
-	"name": "pizda - free @ fshost.me",
+	"steamid": "90200500135558159",
+	"name": "3x3 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
-	"max_players": 4,
+	"players": 6,
+	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
