@@ -1,6 +1,7 @@
 {
 	"addr": "81.182.243.255:27020",
 	"gameport": 27020,
+	"specport": 27021,
 	"steamid": "85568392931716871",
 	"name": "#MixWars.hu :: Playtesting 1",
 	"appid": 730,
@@ -10,9 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

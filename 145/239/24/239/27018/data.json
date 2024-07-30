@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_aurelia",
+	"map": "de_ravine",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

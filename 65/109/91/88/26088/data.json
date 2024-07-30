@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26088",
 	"gameport": 26088,
-	"steamid": "90200489732584460",
+	"steamid": "90200500257080332",
 	"name": "Gagnen priva",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "kz_variety",
+	"map": "kz_colors",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
