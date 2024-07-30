@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 6,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!agents,!gloves,!knife,!vip,!ws,automix,geo,georgia,geostrike,m"
+	"gametype": "empty,!agents,!gloves,!knife,!vip,!ws,automix,geo,georgia,geost"
 }
