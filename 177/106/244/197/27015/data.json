@@ -1,6 +1,7 @@
 {
 	"addr": "177.106.244.197:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200508599025684",
 	"name": "SERVER DEDICADO 1",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 10,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

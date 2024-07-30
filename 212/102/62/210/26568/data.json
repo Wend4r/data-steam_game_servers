@@ -2,7 +2,7 @@
 	"addr": "212.102.62.210:26568",
 	"gameport": 26568,
 	"specport": 26569,
-	"steamid": "90200482957052957",
+	"steamid": "90200511747806237",
 	"name": "4eku4e powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
