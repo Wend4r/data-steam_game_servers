@@ -1,19 +1,19 @@
 {
 	"addr": "5.57.39.193:27015",
 	"gameport": 27015,
-	"steamid": "90200507302094862",
+	"steamid": "90200507669451790",
 	"name": "Bilakh.ir",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
