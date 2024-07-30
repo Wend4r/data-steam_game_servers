@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS2,CSGO,IL,Israel,KNIFE,Knife,Retake,Retakes,WEPLAY,WS,W"
+	"gametype": "CS2,CSGO,IL,Israel,KNIFE,Knife,Retake,Retakes,WEPLAY,WS,WePlay,"
 }

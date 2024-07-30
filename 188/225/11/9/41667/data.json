@@ -1,0 +1,19 @@
+{
+	"addr": "188.225.11.9:41667",
+	"gameport": 41667,
+	"steamid": "85568392931554542",
+	"name": "Freezing-Blood CS:2 | AIM #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 20,
+	"bots": 0,
+	"map": "aim_uspcars_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

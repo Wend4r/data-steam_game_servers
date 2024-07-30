@@ -1,0 +1,19 @@
+{
+	"addr": "185.91.116.45:29023",
+	"gameport": 29023,
+	"steamid": "90200499598953490",
+	"name": "[EU/CZ/SK] ZeddiHub | AWP / Surf | Bunnyhop + NoSpread | !ws !k",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,awp,bunnyhop,combo,cs2,cz,eu,gloves,knife,new,noscope,nos"
+}

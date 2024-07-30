@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 4,
-	"map": "gg_simpsons_dust",
+	"bots": 8,
+	"map": "gg_lotus_extended",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
+	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
 }
