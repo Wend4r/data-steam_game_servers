@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,india,relative,showdown,insecure"
+	"gametype": "india,relative,showdown,secure"
 }

@@ -2,18 +2,18 @@
 	"addr": "46.8.53.27:27060",
 	"gameport": 27060,
 	"steamid": "85568392931721041",
-	"name": "Strike League | team_logovo_eblanov ! ShdX prod. vs team_zhexiu",
+	"name": "Strike League | team_прен vs team_zhexius",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 4,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_lake",
+	"map": "de_safehouse",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
