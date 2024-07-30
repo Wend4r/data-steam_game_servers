@@ -12,7 +12,7 @@
 	"players": 10,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_mutiny",
+	"map": "cs_downtown_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

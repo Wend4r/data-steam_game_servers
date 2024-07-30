@@ -1,0 +1,19 @@
+{
+	"addr": "1.12.66.228:666",
+	"gameport": 666,
+	"steamid": "85568392932018953",
+	"name": "弹弓--1155服务器",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,HVH,anmeng,link,insecure"
+}
