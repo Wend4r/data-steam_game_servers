@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
 }

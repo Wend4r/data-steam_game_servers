@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 20,
 	"bots": 0,
-	"map": "seek_street_rework_bs",
+	"map": "seek_violetto",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspub"
+	"gametype": "BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspublic,gl"
 }
