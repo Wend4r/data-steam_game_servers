@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.169:26462",
+	"gameport": 26462,
+	"specport": 26463,
+	"steamid": "90200502363853852",
+	"name": "Souless pracc/scrim",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 3,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
