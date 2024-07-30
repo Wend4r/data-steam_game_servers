@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 30,
 	"bots": 0,
 	"map": "mg_mario_joi_hdr_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
+	"gametype": "!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
 }

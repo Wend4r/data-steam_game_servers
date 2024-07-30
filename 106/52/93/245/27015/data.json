@@ -1,20 +1,19 @@
 {
 	"addr": "106.52.93.245:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200489922904067",
+	"steamid": "90200502067580931",
 	"name": "[时崎]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 4,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
-	"bots": 10,
-	"map": "de_ravine",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
