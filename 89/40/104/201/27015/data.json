@@ -1,6 +1,7 @@
 {
 	"addr": "89.40.104.201:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392930490685",
 	"name": "[CS2] CS.EPIC-GAMERS.RO !viptest !gloves !agents !music",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 26,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
