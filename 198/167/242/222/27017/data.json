@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "cs_workout_d_prefab",
+	"bots": 8,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CS#,Custom,War3cs2,Warcraft,secure"
+	"gametype": "empty,CS#,Custom,War3cs2,Warcraft,secure"
 }
