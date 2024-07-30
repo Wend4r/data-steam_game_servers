@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 26,
 	"bots": 0,
 	"map": "kz_cyb_adrenaline_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
+	"gametype": "csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
 }
