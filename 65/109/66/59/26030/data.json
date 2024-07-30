@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26030",
 	"gameport": 26030,
-	"steamid": "90200485698312205",
+	"steamid": "90200503786381325",
 	"name": "LansMens",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

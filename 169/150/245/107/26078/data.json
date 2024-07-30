@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.107:26078",
+	"gameport": 26078,
+	"specport": 26079,
+	"steamid": "90200503826555919",
+	"name": "Leetify CS2 KZ by ComédiePuma522",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kz_niche",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
