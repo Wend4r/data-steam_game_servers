@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 25,
 	"bots": 0,
 	"map": "rewert/seek_sandy_area_rp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,!viptest,*grp:554109,1158599i,128tick,2450706,883,938619,964095,anime,hide and seek,hideandseek,hns,maniac,maniacmod,no-s"
+	"gametype": "empty,!shop,!viptest,*grp:554109,1158599i,128tick,2450706,883,938619,964095,anime,hide and seek,hideandseek,hns,maniac,maniacmo"
 }
