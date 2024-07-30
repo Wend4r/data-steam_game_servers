@@ -1,8 +1,7 @@
 {
 	"addr": "65.109.66.59:26481",
 	"gameport": 26481,
-	"specport": 26482,
-	"steamid": "90200475543792653",
+	"steamid": "90200501575415821",
 	"name": "WinFakt powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

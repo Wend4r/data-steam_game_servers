@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 16,
-	"bots": 8,
-	"map": "de_ancient",
+	"bots": 10,
+	"map": "refrag_warmup",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

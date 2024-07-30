@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.167:26948",
 	"gameport": 26948,
-	"specport": 26949,
-	"steamid": "90200476465069082",
+	"steamid": "90200501655073818",
 	"name": "AllEyesOnPraccServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
