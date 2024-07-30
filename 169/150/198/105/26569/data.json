@@ -2,18 +2,18 @@
 	"addr": "169.150.198.105:26569",
 	"gameport": 26569,
 	"steamid": "85568392923979301",
-	"name": "CS2 ARENA #20 BR",
+	"name": "XPLAY.GG • CS2 ARENA #20 • [BR]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 21,
 	"bots": 0,
-	"map": "am_warehouse2_gg",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
