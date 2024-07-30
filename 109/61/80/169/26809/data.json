@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 12,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_flick",
 	"secure": true,
 	"dedicated": true,

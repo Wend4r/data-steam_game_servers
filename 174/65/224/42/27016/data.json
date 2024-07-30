@@ -1,7 +1,7 @@
 {
 	"addr": "174.65.224.42:27016",
 	"gameport": 27016,
-	"steamid": "90200506816651289",
+	"steamid": "90200507213032473",
 	"name": "acquiescence",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_alien_city",
 	"secure": false,
 	"dedicated": true,
