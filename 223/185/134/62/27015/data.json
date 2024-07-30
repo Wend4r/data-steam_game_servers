@@ -1,7 +1,7 @@
 {
 	"addr": "223.185.134.62:27015",
 	"gameport": 27015,
-	"steamid": "90200500661851146",
+	"steamid": "90200503005909002",
 	"name": "WindowsGSM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

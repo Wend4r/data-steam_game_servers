@@ -2,7 +2,7 @@
 	"addr": "188.124.36.215:27915",
 	"gameport": 27915,
 	"steamid": "85568392932018937",
-	"name": "Counter-Strike: Global Offensive",
+	"name": "MyRUN [МАНЬЯК] !WS !KNIFE !GLOVES",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,*grp:5114777i,128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
 }
