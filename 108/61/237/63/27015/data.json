@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 16,
-	"bots": 2,
-	"map": "fy_pool_day",
+	"bots": 1,
+	"map": "acs2_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cabrestos,secure"
+	"gametype": "cabrestos,secure"
 }

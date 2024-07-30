@@ -1,0 +1,19 @@
+{
+	"addr": "176.123.169.188:44229",
+	"gameport": 44229,
+	"steamid": "85568392931580078",
+	"name": "Freezing-Blood CS:2 | AWP ONLY #2 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 20,
+	"bots": 0,
+	"map": "awp_lego_2_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
