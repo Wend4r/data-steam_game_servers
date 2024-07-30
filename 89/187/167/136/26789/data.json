@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.136:26789",
 	"gameport": 26789,
-	"steamid": "90200500608148504",
+	"steamid": "90200500947501080",
 	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 4,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
