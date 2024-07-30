@@ -11,7 +11,7 @@
 	"region": 3,
 	"players": 27,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,

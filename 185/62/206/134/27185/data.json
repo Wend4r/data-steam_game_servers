@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 64,
 	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "fragnet,fragnet.net,high performance,insecure"
+	"gametype": "empty,fragnet,fragnet.net,high performance,insecure"
 }

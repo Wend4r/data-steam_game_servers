@@ -1,0 +1,19 @@
+{
+	"addr": "68.14.32.19:27015",
+	"gameport": 27015,
+	"steamid": "85568392931825558",
+	"name": "CatPRO-CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 12,
+	"bots": 9,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
