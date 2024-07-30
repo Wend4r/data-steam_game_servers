@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 3,
-	"map": "surf_ameliorate_",
+	"map": "surf_beyond",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_ameliorate_,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_beyond,secure"
 }
