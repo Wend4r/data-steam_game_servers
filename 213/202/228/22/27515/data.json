@@ -1,0 +1,19 @@
+{
+	"addr": "213.202.228.22:27515",
+	"gameport": 27515,
+	"steamid": "85568392931421175",
+	"name": "Hopes Test Krematorium",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,www.gameserver.gamed.de,secure"
+}

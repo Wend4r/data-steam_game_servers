@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CPH-Gaming.DK,DK,secure"
+	"gametype": "empty,CPH-Gaming.DK,DK,insecure"
 }

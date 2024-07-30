@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26201",
 	"gameport": 26201,
-	"steamid": "90200504182773766",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200504184591366",
+	"name": "bad news chikens powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

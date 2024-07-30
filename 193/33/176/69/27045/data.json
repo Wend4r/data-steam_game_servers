@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.69:27045",
 	"gameport": 27045,
-	"steamid": "90200503919773725",
+	"steamid": "90200504193292317",
 	"name": "HvH | Stulejka 16K [SRCDS.pro] @pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,secure"
+	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,insecure"
 }

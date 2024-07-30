@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secu"
+	"gametype": "!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secure"
 }
