@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_ravine",
+	"map": "de_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 28,
 	"bots": 0,
-	"map": "surf_catrix",
+	"map": "surf_lullaby",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
 }
