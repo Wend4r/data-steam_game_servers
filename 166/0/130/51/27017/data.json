@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 35,
 	"bots": 0,
-	"map": "surf_mesa_revo",
+	"map": "surf_galaxy_easy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

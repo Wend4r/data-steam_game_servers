@@ -1,19 +1,19 @@
 {
 	"addr": "146.19.87.239:27017",
 	"gameport": 27017,
-	"steamid": "90200478090870784",
+	"steamid": "90200507486345216",
 	"name": "#2→ AWP | LEGEND",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
