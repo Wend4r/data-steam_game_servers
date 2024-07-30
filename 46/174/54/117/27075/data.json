@@ -2,7 +2,7 @@
 	"addr": "46.174.54.117:27075",
 	"gameport": 27075,
 	"steamid": "90200477081345036",
-	"name": "genesis 14389: team_w1zard vs team_𝕆 𝕃 𝔼 ℂ𝕙 𝕂 ",
+	"name": "[genesis] League #15",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
