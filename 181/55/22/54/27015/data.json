@@ -1,19 +1,19 @@
 {
 	"addr": "181.55.22.54:27015",
 	"gameport": 27015,
-	"steamid": "90200500625694740",
-	"name": "CODEREKT.XYZ | Servidor de desarrollo | working on v1.0.6 updat",
+	"steamid": "90200501142797332",
+	"name": "CODEREKT.XYZ | Servidor de desarrollo | working on v1.0.6",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 6,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
