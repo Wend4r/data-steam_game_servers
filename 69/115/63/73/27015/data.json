@@ -1,0 +1,19 @@
+{
+	"addr": "69.115.63.73:27015",
+	"gameport": 27015,
+	"steamid": "90200503083481091",
+	"name": "Space's Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 1,
+	"max_players": 32,
+	"bots": 5,
+	"map": "cs_office",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}

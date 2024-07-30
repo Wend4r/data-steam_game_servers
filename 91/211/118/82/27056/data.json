@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "awp_lego_2_hlibchuk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HolyHender,cases,gloves,knife,mirage,rank,ws,secure"
+	"gametype": "empty,HolyHender,cases,gloves,knife,mirage,rank,ws,secure"
 }

@@ -2,19 +2,19 @@
 	"addr": "45.136.205.131:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200478857109517",
+	"steamid": "90200502998285325",
 	"name": "{PA1} БЕЗЖАЛОСТНЫЙ PUBLIK | 128tik|!ws|!viptest|no-",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 3,
 	"max_players": 30,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam,secure"
+	"gametype": "*grp:5114777i,no-steam,secure"
 }

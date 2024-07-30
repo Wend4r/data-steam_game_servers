@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 11,
+	"players": 13,
 	"max_players": 30,
 	"bots": 1,
-	"map": "myrun/dom",
+	"map": "myrun/seek_sandy_area",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64tick,Knife choice CORE,cs:go,csgo,maniac,minigames,no-steam\" \"hns,spb,маньяк,insecure"
+	"gametype": "64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
 }
