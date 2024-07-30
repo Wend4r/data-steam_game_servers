@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "bhop_ancientcanal",
+	"map": "bhop_coma",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

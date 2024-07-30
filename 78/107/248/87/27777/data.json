@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_mutation_prison_v0_3_p",
+	"map": "ze_artika_base_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mo"
+	"gametype": "!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mos,esca"
 }
