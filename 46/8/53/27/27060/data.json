@@ -2,18 +2,18 @@
 	"addr": "46.8.53.27:27060",
 	"gameport": 27060,
 	"steamid": "85568392931721041",
-	"name": "Strike League | team_InseCurSens vs team_Tweedlex",
+	"name": "Strike League | team_! Legias vs team_хазе",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 4,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_cache",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

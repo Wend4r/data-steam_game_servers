@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 22,
-	"bots": 15,
-	"map": "de_vertigo",
+	"bots": 16,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
