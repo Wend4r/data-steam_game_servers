@@ -1,19 +1,19 @@
 {
 	"addr": "49.235.146.154:27019",
 	"gameport": 27019,
-	"steamid": "90200226401866760",
+	"steamid": "90200501411169288",
 	"name": "fair competition",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.2",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

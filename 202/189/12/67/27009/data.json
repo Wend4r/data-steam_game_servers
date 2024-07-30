@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,hvh,mm,nn,roland,soul,insecure"
+	"gametype": "hvh,mm,nn,roland,soul,insecure"
 }
