@@ -1,0 +1,19 @@
+{
+	"addr": "62.72.228.206:27015",
+	"gameport": 27015,
+	"steamid": "85568392930292047",
+	"name": "swedisholdtimers.net | Custom Maps",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 40,
+	"bots": 0,
+	"map": "de_santo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

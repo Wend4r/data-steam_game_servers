@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 38,
 	"bots": 0,
 	"map": "awp_lego_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Admin,DROP,FUN,HANCOSX,PRO,TURK,dust2,hancosx,map,surf,turk,sec"
+	"gametype": "empty,Admin,DROP,FUN,HANCOSX,PRO,TURK,dust2,hancosx,map,surf,tu"
 }
