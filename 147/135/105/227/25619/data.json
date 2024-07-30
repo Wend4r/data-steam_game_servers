@@ -1,0 +1,19 @@
+{
+	"addr": "147.135.105.227:25619",
+	"gameport": 25619,
+	"steamid": "90200490604164103",
+	"name": "Apex Hosting Counterstrike: Global Offensive Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 255,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,increased_maxplayers,secure"
+}

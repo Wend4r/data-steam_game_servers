@@ -1,0 +1,20 @@
+{
+	"addr": "145.239.24.239:27015",
+	"gameport": 27015,
+	"specport": 30015,
+	"steamid": "85568392931777280",
+	"name": "██ ★ FAIRGAME.pl ★ [ONLY MIRAGE] ⚫ SKINY / RANK / VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 19,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

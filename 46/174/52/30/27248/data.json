@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.52.30:27248",
+	"gameport": 27248,
+	"steamid": "85568392931810350",
+	"name": "[E.G] Весёлый DeathRun [!knife|!ws,!gl|!shop]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "dr_stone",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!!!!!,!gl,!knife,!ws,128tr,1v1,RecoilCase,bhop,deathrun,drop,fast drops,fastdrop,fastdrops,idle,multimod,no-steam,secure,"
+}

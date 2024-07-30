@@ -1,0 +1,19 @@
+{
+	"addr": "209.222.98.176:27029",
+	"gameport": 27029,
+	"steamid": "85568392921354974",
+	"name": "PigServer CS2 PRIVATE-New York",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

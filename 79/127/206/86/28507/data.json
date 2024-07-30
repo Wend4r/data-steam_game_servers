@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.206.86:28507",
+	"gameport": 28507,
+	"steamid": "85568392928386464",
+	"name": "Gamebling.com deathmatch",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_tuscan",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

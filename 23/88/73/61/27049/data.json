@@ -1,0 +1,19 @@
+{
+	"addr": "23.88.73.61:27049",
+	"gameport": 27049,
+	"steamid": "85568392931846578",
+	"name": "CS2 BHOP #3 [DE] — CYBERSHOKE.NET (TIER 1-2 - EASY)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "bhop_classicrainbowaux_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,bhop,bhop_classi,drop,eu,en,germany,ger,de,cybershoke,cyb"
+}

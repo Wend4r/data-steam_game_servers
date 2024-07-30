@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.54.30:10074",
+	"gameport": 10074,
+	"steamid": "85568392931607785",
+	"name": "CS2 Самый лучший Public",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

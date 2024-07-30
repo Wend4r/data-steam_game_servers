@@ -1,0 +1,19 @@
+{
+	"addr": "101.98.37.42:27017",
+	"gameport": 27017,
+	"specport": 27022,
+	"steamid": "85568392931027714",
+	"name": "Nip's CSGO server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "82.208.17.49:27868",
+	"gameport": 27868,
+	"specport": 26868,
+	"steamid": "85568392925160174",
+	"name": "Epiczone.sk | MIRAGE ONLY [TICK 128, !ws !knife !gloves]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 2,
+	"max_players": 14,
+	"bots": 9,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage only,only,only mirage,ping,pl,public,sk,slovak,warmup,ws,secure"
+}

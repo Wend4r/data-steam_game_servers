@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.109:27803",
+	"gameport": 27803,
+	"steamid": "85568392931461421",
+	"name": "dinorus",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "cs_office_vanity",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

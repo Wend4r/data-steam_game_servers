@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.49.150:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931982339",
+	"name": "Paradise | MANIAC [CS-GO]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 5,
+	"max_players": 24,
+	"bots": 1,
+	"map": "seek_sandy_area",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gl,!gloves,!knife,!ws,128tick,AWP,HNS,KZ,Knife choice CORE,MANIAC,Public,anime,cases,dom,hns,lvl,maniac,pa,shop,skins,vip,vips"
+}

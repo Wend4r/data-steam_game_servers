@@ -1,0 +1,19 @@
+{
+	"addr": "85.238.113.171:49435",
+	"gameport": 49435,
+	"steamid": "85568392931817301",
+	"name": "AWP_LEGO_2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 24,
+	"max_players": 64,
+	"bots": 0,
+	"map": "AWP_LEGO",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "SKINS/VIPS/BATTLEPASS"
+}

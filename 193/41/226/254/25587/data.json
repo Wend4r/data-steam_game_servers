@@ -1,0 +1,19 @@
+{
+	"addr": "193.41.226.254:25587",
+	"gameport": 25587,
+	"steamid": "85568392931322116",
+	"name": "CHRONICALSde Retake 01 [4v5][Warmup]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,4v5,CHRON,CHRONICALS,CHRONICALSde,CHRONgg,Cde,Cgg,Instade"
+}

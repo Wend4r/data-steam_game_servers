@@ -1,0 +1,19 @@
+{
+	"addr": "89.111.172.236:10225",
+	"gameport": 10225,
+	"steamid": "85568392930692072",
+	"name": "SMOTRA CS:2 | AIM+AWP #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 65,
+	"bots": 0,
+	"map": "aim_usp",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "\u0001\u0001,ws,gloves,knifes"
+}

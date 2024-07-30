@@ -1,0 +1,20 @@
+{
+	"addr": "148.113.1.122:26294",
+	"gameport": 26294,
+	"specport": 26295,
+	"steamid": "90200498834728983",
+	"name": "Showdown FFADM Mumbai | No Lag | Mirage Only",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 18,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,india,relative,showdown,insecure"
+}

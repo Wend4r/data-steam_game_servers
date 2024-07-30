@@ -1,0 +1,19 @@
+{
+	"addr": "72.5.195.31:27015",
+	"gameport": 27015,
+	"steamid": "85568392921734378",
+	"name": "sneaK's Retakes #1 !ws|!knife|!gloves|128 Tick|Chicago",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,*grp:10536493i,csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,w"
+}

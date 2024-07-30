@@ -1,0 +1,19 @@
+{
+	"addr": "51.38.114.152:6096",
+	"gameport": 6096,
+	"steamid": "85568392931585343",
+	"name": "eXpidors.Ru | HVH | ONLY SCOUT | MIRAGE | Roll Fix",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+}

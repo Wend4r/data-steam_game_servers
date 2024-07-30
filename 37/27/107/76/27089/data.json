@@ -1,0 +1,19 @@
+{
+	"addr": "37.27.107.76:27089",
+	"gameport": 27089,
+	"steamid": "85568392931712384",
+	"name": "FemboyKZ - ClassicCounter | EU | VNL KZ 64t",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.3.6",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "kz_baxter_2016",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,2016,64-tick,64t,64tick,autobhop,bhop,cc,classic,classiccounter,femboy,femboykz,fkz,gokz,kreedz,kz,kzt,kztimer,surf,vanil"
+}

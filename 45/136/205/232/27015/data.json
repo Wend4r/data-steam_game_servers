@@ -1,0 +1,19 @@
+{
+	"addr": "45.136.205.232:27015",
+	"gameport": 27015,
+	"steamid": "85568392931976805",
+	"name": "&#10084; [EU, RU] XsenHvH | CS2 | DT fix | NoSpread &#10084; ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,cs2,hvh,nospread,ns,pub,public,xsenax,insecure"
+}

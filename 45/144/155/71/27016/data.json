@@ -1,0 +1,19 @@
+{
+	"addr": "45.144.155.71:27016",
+	"gameport": 27016,
+	"steamid": "85568392930598748",
+	"name": "ArenaPlayBG.EU | CS2 Public #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

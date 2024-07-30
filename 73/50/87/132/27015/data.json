@@ -1,0 +1,19 @@
+{
+	"addr": "73.50.87.132:27015",
+	"gameport": 27015,
+	"steamid": "85568392931015062",
+	"name": "Counter-strike 2 Dedicated server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "45.92.38.55:28048",
+	"gameport": 28048,
+	"steamid": "85568392931848842",
+	"name": "CS2 2X2 | 2v2 #226 [SE] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "2x2,2vs2,2v2,cyber,de_nuke,cybershoke,duel,drop,en,fi,gloves,eu"
+}

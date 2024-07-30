@@ -1,0 +1,19 @@
+{
+	"addr": "172.93.101.24:27032",
+	"gameport": 27032,
+	"steamid": "85568392931977230",
+	"name": "*Karma |MULTI 1v1 ARENA #2| discord.gg/surf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "aim_redline_fp",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,g"
+}

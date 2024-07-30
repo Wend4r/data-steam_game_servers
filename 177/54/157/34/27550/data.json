@@ -1,0 +1,19 @@
+{
+	"addr": "177.54.157.34:27550",
+	"gameport": 27550,
+	"steamid": "85568392931365078",
+	"name": "CPS BR CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.2",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "ar_baggage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

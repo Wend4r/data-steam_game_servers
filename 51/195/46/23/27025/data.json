@@ -1,0 +1,20 @@
+{
+	"addr": "51.195.46.23:27025",
+	"gameport": 27025,
+	"specport": 27020,
+	"steamid": "85568392922638086",
+	"name": "[FUNPLAY.PRO] Jailbreak CZ/SK !freevip",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "jb_snow_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop,simon,special,warden,secure"
+}

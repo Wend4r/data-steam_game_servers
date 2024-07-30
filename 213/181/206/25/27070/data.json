@@ -1,0 +1,19 @@
+{
+	"addr": "213.181.206.25:27070",
+	"gameport": 27070,
+	"steamid": "85568392931792153",
+	"name": "[EU/HU] UNBREAKABLE - Deathrun • Hamarosan",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "dr_dojo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbr"
+}

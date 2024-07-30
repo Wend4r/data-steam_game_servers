@@ -1,0 +1,19 @@
+{
+	"addr": "217.170.196.194:27080",
+	"gameport": 27080,
+	"steamid": "85568392925437021",
+	"name": "Nofo Academy 2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Spillvert.no,secure"
+}

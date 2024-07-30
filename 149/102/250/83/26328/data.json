@@ -1,0 +1,20 @@
+{
+	"addr": "149.102.250.83:26328",
+	"gameport": 26328,
+	"specport": 26329,
+	"steamid": "85568392930853442",
+	"name": "cs.kirs.online",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "de_brewery",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

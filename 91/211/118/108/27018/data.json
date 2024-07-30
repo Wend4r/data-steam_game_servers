@@ -1,0 +1,19 @@
+{
+	"addr": "91.211.118.108:27018",
+	"gameport": 27018,
+	"steamid": "85568392931473769",
+	"name": "#2 → AWP LEGO | BLUE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 3,
+	"max_players": 20,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

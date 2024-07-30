@@ -1,0 +1,19 @@
+{
+	"addr": "200.123.123.172:27022",
+	"gameport": 27022,
+	"steamid": "85568392931043692",
+	"name": "[03] AUTOMIX II # cloudservers.gg - (WS, KNIFE, GLOVES)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128 tick,automix,cloud,cloudservers,cs,gloves,knife,mar del plata,mdp,mm,official maps,rank,top,ws,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "139.159.253.159:1339",
+	"gameport": 1339,
+	"specport": 27020,
+	"steamid": "90199741492476937",
+	"name": "沫崽的狗窝",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,hidden,insecure"
+}

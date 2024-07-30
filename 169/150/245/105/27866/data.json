@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.105:27866",
+	"gameport": 27866,
+	"steamid": "85568392931821794",
+	"name": "Xqus Pracc",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

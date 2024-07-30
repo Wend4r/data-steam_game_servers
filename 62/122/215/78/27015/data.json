@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.215.78:27015",
+	"gameport": 27015,
+	"steamid": "85568392931721302",
+	"name": "[RU/EU] |Santa HvH| Rapid & Nospread [NO FIX] {Mirage Only}",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "HvH,insecure"
+}

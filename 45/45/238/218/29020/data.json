@@ -1,0 +1,19 @@
+{
+	"addr": "45.45.238.218:29020",
+	"gameport": 29020,
+	"steamid": "90200417020430349",
+	"name": "Best Maps Casual mode 24/7",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

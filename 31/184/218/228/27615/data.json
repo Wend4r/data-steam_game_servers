@@ -1,0 +1,20 @@
+{
+	"addr": "31.184.218.228:27615",
+	"gameport": 27615,
+	"specport": 27620,
+	"steamid": "85568392931759098",
+	"name": "MyRUN [МАНЬЯК] !WS !KNIFE !GLOVES",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 10,
+	"max_players": 30,
+	"bots": 1,
+	"map": "myrun/inner_city_2_snowy",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "64tick,Knife choice CORE,cs:go,csgo,maniac,minigames,no-steam\" \"hns,spb,маньяк,insecure"
+}

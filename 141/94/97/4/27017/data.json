@@ -1,0 +1,19 @@
+{
+	"addr": "141.94.97.4:27017",
+	"gameport": 27017,
+	"steamid": "85568392931755051",
+	"name": "[3K] Deathmatch #1 - !rank",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,aim,casual,deathmatch,dm,ffa,fun,headshot,highkill,noscop"
+}

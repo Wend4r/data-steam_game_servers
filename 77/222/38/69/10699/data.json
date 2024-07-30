@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.38.69:10699",
+	"gameport": 10699,
+	"steamid": "85568392931598737",
+	"name": "ВНИМАНИЕ! ОБНОВЛЕНИЕ CACHE! ЗАХОДИТЕ НА НАШ СЕРВЕР!",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

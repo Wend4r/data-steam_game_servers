@@ -1,0 +1,20 @@
+{
+	"addr": "138.201.224.168:27035",
+	"gameport": 27035,
+	"specport": 27022,
+	"steamid": "90200400342026260",
+	"name": "Europe",
+	"appid": 480,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 3,
+	"max_players": 10,
+	"bots": 8,
+	"map": "de_nuke_u1",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

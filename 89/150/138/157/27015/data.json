@@ -1,0 +1,19 @@
+{
+	"addr": "89.150.138.157:27015",
+	"gameport": 27015,
+	"steamid": "90199580206426139",
+	"name": "Gamle Gnavene Gnapotte",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.6.4",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,DM,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "66.179.218.81:26900",
+	"gameport": 26900,
+	"steamid": "90200409677447191",
+	"name": "Something to do until Half Life 3 comes out",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "fy_iceworld_s2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

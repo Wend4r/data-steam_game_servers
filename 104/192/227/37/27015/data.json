@@ -1,0 +1,19 @@
+{
+	"addr": "104.192.227.37:27015",
+	"gameport": 27015,
+	"steamid": "85568392931858723",
+	"name": "Happida-Land",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "gang",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

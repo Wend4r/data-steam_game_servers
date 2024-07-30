@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.214.244:27035",
+	"gameport": 27035,
+	"steamid": "85568392931848426",
+	"name": "CS2 EXECUTE #36 [RU] — CYBERSHOKE.NET (9 SLOTS)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "de_mirage,cybershoke,cyber,128,128tick,drop,execute,ffa,gloves,"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "89.163.192.226:27015",
+	"gameport": 27015,
+	"steamid": "90200376413977601",
+	"name": "gamed!de",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "am_redline_kat",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,www.gameserver.gamed.de,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "15.204.244.106:27015",
+	"gameport": 27015,
+	"steamid": "85568392931425163",
+	"name": "2018 HvH Legacy Deathmatch",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_hvh_v3_prodigy_dickkickem",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

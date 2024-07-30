@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.49:27189",
+	"gameport": 27189,
+	"steamid": "85568392931650602",
+	"name": "PLAYzone Tournament #13 By Fakaheda.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,PLAYzone,secure"
+}

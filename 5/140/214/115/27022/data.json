@@ -1,0 +1,19 @@
+{
+	"addr": "5.140.214.115:27022",
+	"gameport": 27022,
+	"steamid": "85568392931618613",
+	"name": "REBELS | СБЕГИ ОТ МАНЬЯКА",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "seek_winterday",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
+}

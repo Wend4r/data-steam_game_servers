@@ -1,0 +1,19 @@
+{
+	"addr": "136.243.174.101:27333",
+	"gameport": 27333,
+	"steamid": "85568392923885110",
+	"name": "AEQS - Weihnachtsfeier",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

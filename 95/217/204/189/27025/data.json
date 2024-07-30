@@ -1,0 +1,19 @@
+{
+	"addr": "95.217.204.189:27025",
+	"gameport": 27025,
+	"steamid": "90199810056913945",
+	"name": "Setti CSGO server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 2,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tick,Setti,competitive,download,fast,no-steam,non-"
+}

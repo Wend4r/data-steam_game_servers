@@ -1,0 +1,19 @@
+{
+	"addr": "89.111.172.236:10096",
+	"gameport": 10096,
+	"steamid": "85568392930691939",
+	"name": "\u0001\u0001\u0001███Freezing-Blood CS:2 | MIRAGE #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 65,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "\u0001\u0001,ws,gloves,knifes"
+}

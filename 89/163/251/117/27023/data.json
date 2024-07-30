@@ -1,0 +1,20 @@
+{
+	"addr": "89.163.251.117:27023",
+	"gameport": 27023,
+	"specport": 27024,
+	"steamid": "90200489643778057",
+	"name": "fbda28d539584c6d6426611f4196d6cf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 11,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_anubis",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

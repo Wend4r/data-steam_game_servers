@@ -1,0 +1,19 @@
+{
+	"addr": "157.90.230.67:27015",
+	"gameport": 27015,
+	"steamid": "85568392931736291",
+	"name": "[BOBER] €2000 HVH TOURNAMENT by Bober",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.6.4",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_cbble",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,16k,HVH,HvH,bober,hvh,ja pierdole,insecure"
+}

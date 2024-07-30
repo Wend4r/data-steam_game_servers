@@ -1,0 +1,20 @@
+{
+	"addr": "95.142.201.227:27049",
+	"gameport": 27049,
+	"specport": 29049,
+	"steamid": "85568392931044679",
+	"name": "cdn-vkplay-ekb1-049",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 17,
+	"bots": 1,
+	"map": "first_bluelines",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

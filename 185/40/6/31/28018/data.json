@@ -1,0 +1,19 @@
+{
+	"addr": "185.40.6.31:28018",
+	"gameport": 28018,
+	"steamid": "85568392931847252",
+	"name": "CS2 AIMDM | AIM #11 [LT] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "aim_map_s2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "aim_map_s2,aimdm,aim,128tick,128,cybershoke,en,deathmatch,dm,cy"
+}

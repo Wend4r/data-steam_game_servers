@@ -1,0 +1,19 @@
+{
+	"addr": "89.108.83.206:33333",
+	"gameport": 33333,
+	"steamid": "85568392924902889",
+	"name": "Zombie::[Net4ALL]::Workshop|SSD [CS 2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 29,
+	"max_players": 40,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,csdm,dm,sentry,guns,new,sentry guns,msk,windows,linux,maxplayers,n4a,super,cybershoke"
+}

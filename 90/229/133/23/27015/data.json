@@ -1,0 +1,20 @@
+{
+	"addr": "90.229.133.23:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392922549953",
+	"name": "# Gruvan CS2 # Custom maps # Public # Est.2002 # SWE #",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 2,
+	"max_players": 32,
+	"bots": 3,
+	"map": "de_sakura",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.38.69:10224",
+	"gameport": 10224,
+	"steamid": "85568392931598262",
+	"name": "CS2 | MADNESS project [ONLY MIRAGE] | [СКИНЫ | НОЖИ]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 65,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

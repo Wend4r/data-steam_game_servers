@@ -1,0 +1,19 @@
+{
+	"addr": "45.10.56.6:27015",
+	"gameport": 27015,
+	"steamid": "85568392931834021",
+	"name": "[TR] Anka | Maç Sunucusu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CS.Center,TR,awp,eldiven,fun,hediye,jail,jailbreak,nameta"
+}

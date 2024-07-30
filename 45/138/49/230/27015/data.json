@@ -1,0 +1,19 @@
+{
+	"addr": "45.138.49.230:27015",
+	"gameport": 27015,
+	"steamid": "85568392926393380",
+	"name": "[GER][CS2] Ballerwiese® 3XL | D2-Only | 16k$",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -3,
+	"players": 5,
+	"max_players": 40,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ballerwiese,bw,de_dust2,dust2,secure"
+}

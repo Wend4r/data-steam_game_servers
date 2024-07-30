@@ -1,0 +1,19 @@
+{
+	"addr": "139.185.45.31:27015",
+	"gameport": 27015,
+	"steamid": "85568392926130033",
+	"name": "Yes Daddy",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -4,
+	"players": 0,
+	"max_players": 7,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

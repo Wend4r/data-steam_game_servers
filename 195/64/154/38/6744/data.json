@@ -1,0 +1,19 @@
+{
+	"addr": "195.64.154.38:6744",
+	"gameport": 6744,
+	"steamid": "85568392931723679",
+	"name": "AWP | Napas Project | !ws !rank",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 31,
+	"max_players": 32,
+	"bots": 0,
+	"map": "awp_kazki_simple",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "193.124.118.86:20085",
+	"gameport": 20085,
+	"steamid": "85568392931954632",
+	"name": "CS2 - BlueSen #8 | PUBLIC FPS+ | SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage_fps_bs",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hns, mamiac, anime, awp, ws, gl, gloves, knife, public, fpspublic, bluesen"
+}

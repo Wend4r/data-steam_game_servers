@@ -1,0 +1,19 @@
+{
+	"addr": "93.186.198.107:27715",
+	"gameport": 27715,
+	"steamid": "85568392931324950",
+	"name": "Gungame powered by KOTP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,KOTP,www.gameserver.gamed.de,secure"
+}

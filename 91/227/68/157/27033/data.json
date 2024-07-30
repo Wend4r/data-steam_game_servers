@@ -1,0 +1,19 @@
+{
+	"addr": "91.227.68.157:27033",
+	"gameport": 27033,
+	"steamid": "85568392931380037",
+	"name": "( . 人 . ) БЕСПЛТАТНЫЙ PREMIUM НАВСЕГДА",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 246,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "public,pub,surf,awp,shop,rs,lvl,ws,knife,gloves,stickers,elustic,vip,free,vip,viptest"
+}

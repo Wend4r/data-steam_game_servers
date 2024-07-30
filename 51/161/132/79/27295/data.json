@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27295",
+	"gameport": 27295,
+	"steamid": "90181393961844766",
+	"name": "CSGO P Surf Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

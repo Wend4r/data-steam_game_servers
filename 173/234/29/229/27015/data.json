@@ -1,0 +1,19 @@
+{
+	"addr": "173.234.29.229:27015",
+	"gameport": 27015,
+	"steamid": "85568392924650078",
+	"name": "BadServers.net | GOKZ Tier 1-4 | Chicago",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "/2373968399/kz_itz_transcendent",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "bad,fl0m,gokz,kz,servers,secure"
+}

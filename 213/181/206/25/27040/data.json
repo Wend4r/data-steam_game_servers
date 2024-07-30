@@ -1,0 +1,20 @@
+{
+	"addr": "213.181.206.25:27040",
+	"gameport": 27040,
+	"specport": 23004,
+	"steamid": "85568392924179315",
+	"name": "[EU/HU] UNBREAKABLE - AWP • 10 AMMO • !ws • !knife",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 8,
+	"max_players": 25,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
+}

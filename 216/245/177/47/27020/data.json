@@ -1,0 +1,19 @@
+{
+	"addr": "216.245.177.47:27020",
+	"gameport": 27020,
+	"steamid": "85568392931830907",
+	"name": "EmD 24/7 Poolday Arms Race | US",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "ar_pool_day",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

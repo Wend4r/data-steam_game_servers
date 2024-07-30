@@ -1,0 +1,19 @@
+{
+	"addr": "87.225.77.152:28323",
+	"gameport": 28323,
+	"steamid": "85568392931101513",
+	"name": "Develop Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "mame_privet",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "zerkala,govno,svarog,sgaming,sourcegaming,cs2elite"
+}

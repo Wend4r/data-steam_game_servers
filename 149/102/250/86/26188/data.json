@@ -1,0 +1,19 @@
+{
+	"addr": "149.102.250.86:26188",
+	"gameport": 26188,
+	"steamid": "90200475660447750",
+	"name": "Minecraft Hunger Games Asia",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "minecraft",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

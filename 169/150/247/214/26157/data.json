@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.247.214:26157",
+	"gameport": 26157,
+	"specport": 26158,
+	"steamid": "90200482901253146",
+	"name": "cigulicounter",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 3,
+	"map": "cs_militia",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

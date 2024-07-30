@@ -1,0 +1,19 @@
+{
+	"addr": "91.211.247.247:27015",
+	"gameport": 27015,
+	"steamid": "85568392930292162",
+	"name": "[LT/EU] Public - Rampage.lt !ws !knife !gloves !ranks !vip",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuv"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "91.231.182.127:49601",
+	"gameport": 49601,
+	"steamid": "85568392931957638",
+	"name": "[CS2] ARTEX | +FPS DUST2 [STATS|VIP|SKINS]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2_artex",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,awp,cs2,de_dust2,fps,secure,skins,ua,ws,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "198.244.176.50:27022",
+	"gameport": 27022,
+	"steamid": "85568392923028435",
+	"name": "SameTeem.com - ZombieMod - Public - HLstatsX",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "/606048120/zm_blockcity_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,uk,ze,zombiemod,zombies,secure"
+}

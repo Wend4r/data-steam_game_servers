@@ -1,0 +1,19 @@
+{
+	"addr": "43.136.135.106:27015",
+	"gameport": 27015,
+	"steamid": "90200466485403649",
+	"name": "CS2 成都比赛服务器 [CHINA]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

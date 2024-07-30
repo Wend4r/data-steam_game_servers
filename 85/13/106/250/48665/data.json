@@ -1,0 +1,19 @@
+{
+	"addr": "85.13.106.250:48665",
+	"gameport": 48665,
+	"steamid": "90199797865949190",
+	"name": "MEX_CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

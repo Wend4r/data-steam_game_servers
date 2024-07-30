@@ -1,0 +1,20 @@
+{
+	"addr": "45.125.44.52:27060",
+	"gameport": 27060,
+	"specport": 37046,
+	"steamid": "85568392922946137",
+	"name": "【X社区】娱乐游戏[娱乐闯关 MG] 2#  ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 27,
+	"bots": 2,
+	"map": "mg_jump_obstacles_new_csgo_fixe",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,93x,bbs.93x.net,game,mg,multigames,xnet,secure"
+}

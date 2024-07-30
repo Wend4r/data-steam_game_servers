@@ -1,0 +1,20 @@
+{
+	"addr": "139.99.130.237:27070",
+	"gameport": 27070,
+	"specport": 28070,
+	"steamid": "90200467938788378",
+	"name": "GamerTorque | PES",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.4.8",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

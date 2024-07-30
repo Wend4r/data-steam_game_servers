@@ -1,0 +1,19 @@
+{
+	"addr": "90.188.227.113:27118",
+	"gameport": 27118,
+	"steamid": "85568392924475661",
+	"name": "IRK RETAKE#10 by ZUBAT",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,csgoirk.ru,cyberarena.pro,dm,ffa,steam,zubat,secure"
+}

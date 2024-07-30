@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.182:26382",
+	"gameport": 26382,
+	"specport": 26383,
+	"steamid": "90200483611584512",
+	"name": "kitten clan powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "91.211.118.59:27040",
+	"gameport": 27040,
+	"steamid": "85568392931046232",
+	"name": "A-TEAM CS:GO SERVER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "aim_map_usp_s",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,armsrace,ateam,csgo,secure"
+}

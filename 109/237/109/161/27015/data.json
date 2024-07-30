@@ -1,0 +1,20 @@
+{
+	"addr": "109.237.109.161:27015",
+	"gameport": 27015,
+	"specport": 27016,
+	"steamid": "90200489712728087",
+	"name": "NEZERLOR PROJECT ● AWP LEGO ONLY",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 3,
+	"max_players": 32,
+	"bots": 1,
+	"map": "awp_lego_2_mg_v3",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

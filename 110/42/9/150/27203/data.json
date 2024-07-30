@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.150:27203",
+	"gameport": 27203,
+	"steamid": "85568392923275121",
+	"name": "【僵尸乐园】滑翔 3#综合[100tick] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 1,
+	"max_players": 20,
+	"bots": 1,
+	"map": "surf_palm_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ZED,fastdl,surf,secure"
+}

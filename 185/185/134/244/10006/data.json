@@ -1,0 +1,19 @@
+{
+	"addr": "185.185.134.244:10006",
+	"gameport": 10006,
+	"steamid": "85568392931286900",
+	"name": "00 Gamers-Israel | SurfTimer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "surf_kitsune2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

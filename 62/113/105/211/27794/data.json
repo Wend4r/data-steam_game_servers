@@ -1,0 +1,19 @@
+{
+	"addr": "62.113.105.211:27794",
+	"gameport": 27794,
+	"steamid": "85568392929141019",
+	"name": "Develop Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": " 1.40.2.3\"",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "mg_four_towers_course_hdr",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "gloves,knife,ws,viptest,minigame,multimaps,awp,aim,surf,bhop,noprime,rank,mg,drop,h4fru"
+}

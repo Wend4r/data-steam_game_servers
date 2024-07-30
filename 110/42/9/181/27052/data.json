@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.181:27052",
+	"gameport": 27052,
+	"steamid": "85568392923275112",
+	"name": "【僵尸乐园】连跳 3#综合[100tick] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 25,
+	"bots": 4,
+	"map": "bhop_hologram2_full",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
+}

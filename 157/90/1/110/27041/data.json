@@ -1,0 +1,19 @@
+{
+	"addr": "157.90.1.110:27041",
+	"gameport": 27041,
+	"steamid": "85568392931848057",
+	"name": "CS2 CLUTCH #11 [DE] — CYBERSHOKE.NET (1VS3)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,clutch,clutch,de,cybershoke,128,128tick,cyber,de_mirage,d"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "95.31.1.242:27017",
+	"gameport": 27017,
+	"specport": 27020,
+	"steamid": "85568392931211403",
+	"name": "[Public] AWP Country [RU]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,public,awp,aim,fy,events,skins,knives,gloves,vip,stats,tr"
+}

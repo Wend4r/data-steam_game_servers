@@ -1,0 +1,19 @@
+{
+	"addr": "135.148.84.139:27017",
+	"gameport": 27017,
+	"steamid": "85568392931298148",
+	"name": "[IG] 24/7 Surf | Skill Surf T2-5 | ImperfectGamers.org  ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 1,
+	"max_players": 24,
+	"bots": 0,
+	"map": "surf_psycho",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+}

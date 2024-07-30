@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.169:26570",
+	"gameport": 26570,
+	"specport": 26571,
+	"steamid": "85568392931141260",
+	"name": "S15",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "aim_mountains",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

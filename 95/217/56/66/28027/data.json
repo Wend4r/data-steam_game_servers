@@ -1,0 +1,20 @@
+{
+	"addr": "95.217.56.66:28027",
+	"gameport": 28027,
+	"specport": 29027,
+	"steamid": "85568392924457783",
+	"name": "Kanaliiga #27",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.5",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,kanaliiga,secure"
+}

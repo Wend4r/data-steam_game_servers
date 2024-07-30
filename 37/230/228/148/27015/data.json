@@ -1,0 +1,19 @@
+{
+	"addr": "37.230.228.148:27015",
+	"gameport": 27015,
+	"steamid": "85568392925018625",
+	"name": "[SharkProject.ru] MM HVH | 16k | Only Mirage | 1 AWP | Roll Fix",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 6,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16K,AWP,HVH,Rage,SharkProject,insecure"
+}

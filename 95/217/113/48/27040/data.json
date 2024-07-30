@@ -1,0 +1,19 @@
+{
+	"addr": "95.217.113.48:27040",
+	"gameport": 27040,
+	"steamid": "85568392931697302",
+	"name": "Teehuone - Surf Top 100 [Tier 1-6] - 100tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 20,
+	"bots": 2,
+	"map": "surf_not_so_neb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "lumilinna,surf,teehuone,top,secure"
+}

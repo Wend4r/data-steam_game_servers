@@ -1,0 +1,19 @@
+{
+	"addr": "139.60.161.109:27043",
+	"gameport": 27043,
+	"steamid": "85568392931846749",
+	"name": "CS2 AWP #18 [US] — CYBERSHOKE.NET (ONLY AWP LEGO 2)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "awp_lego_2_winter",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,awp,awp_lego_2_winter,128tick,128,drop,en,cybershoke,cybe"
+}

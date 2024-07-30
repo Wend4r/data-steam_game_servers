@@ -1,0 +1,19 @@
+{
+	"addr": "185.138.176.81:27115",
+	"gameport": 27115,
+	"steamid": "85568392925509320",
+	"name": "CS-GO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.4.6",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

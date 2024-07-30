@@ -1,0 +1,19 @@
+{
+	"addr": "185.40.6.31:28054",
+	"gameport": 28054,
+	"steamid": "85568392931848764",
+	"name": "CS2 AWP #35 [LT] — CYBERSHOKE.NET (AWP CANNONS, ONLY BHOP_ROC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "awp_bhop_rocket",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "awp,awp_bhop_rocket,128tick,128,drop,en,cybershoke,bhop,cyber,f"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "162.248.90.231:27015",
+	"gameport": 27015,
+	"steamid": "85568392922241480",
+	"name": "SWOLERS ONLY",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

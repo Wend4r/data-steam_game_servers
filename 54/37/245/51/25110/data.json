@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.245.51:25110",
+	"gameport": 25110,
+	"steamid": "85568392920052939",
+	"name": "GoFree EU#7 | Utopia 24/7 !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 45,
+	"bots": 0,
+	"map": "surf_utopia_v3_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102,102tick,easysurf,gf,gk,gofree,goldknife,rank,stats,store,styles,surf,surf_utopia,surfing,surfing,surftimer,utopia,vip"
+}

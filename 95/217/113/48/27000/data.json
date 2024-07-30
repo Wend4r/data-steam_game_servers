@@ -1,0 +1,19 @@
+{
+	"addr": "95.217.113.48:27000",
+	"gameport": 27000,
+	"steamid": "85568392931697304",
+	"name": "Teehuone - Bhop EASY [Tier 1-2] - 100tick - !ws !knife !gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 25,
+	"bots": 2,
+	"map": "bhop_alt_terassi",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,eu,finland,jump,lumi,maps,muro,prestrafe,shavit,stats,suomi,tas,timer,timer,"
+}

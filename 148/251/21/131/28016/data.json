@@ -1,0 +1,19 @@
+{
+	"addr": "148.251.21.131:28016",
+	"gameport": 28016,
+	"steamid": "85568392931846995",
+	"name": "CS2 RETAKE #112 [DE] — CYBERSHOKE.NET (9 SLOTS)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 9,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "de_ancient,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa,ger,g"
+}

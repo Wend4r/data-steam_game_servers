@@ -1,0 +1,20 @@
+{
+	"addr": "95.217.56.67:28034",
+	"gameport": 28034,
+	"specport": 29034,
+	"steamid": "85568392924457790",
+	"name": "Kanaliiga #34",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.5",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,kanaliiga,secure"
+}

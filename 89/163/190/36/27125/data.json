@@ -1,0 +1,19 @@
+{
+	"addr": "89.163.190.36:27125",
+	"gameport": 27125,
+	"steamid": "85568392922238490",
+	"name": "Raging Pirates Retake Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 9,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,retake,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "51.77.47.244:27016",
+	"gameport": 27016,
+	"specport": 27021,
+	"steamid": "85568392925244410",
+	"name": "██ ★ uwujka.pl ★ [5vs5 #2] ⚫ TR128",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 4,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,4fun,de_,mirage,pl,poland,polska,prime,skins,tr128,uwujka,uwujka.pl,██,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "82.46.19.186:27016",
+	"gameport": 27016,
+	"steamid": "90200147758555158",
+	"name": "csgoserver.wormhole.ddnsgeek.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

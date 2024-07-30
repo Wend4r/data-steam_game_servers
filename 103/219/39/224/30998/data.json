@@ -1,0 +1,20 @@
+{
+	"addr": "103.219.39.224:30998",
+	"gameport": 30998,
+	"specport": 32998,
+	"steamid": "85568392925053770",
+	"name": "【GOD】#998 大厅 宁波",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 11,
+	"max_players": 52,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dm,god,pug,wolf,secure"
+}

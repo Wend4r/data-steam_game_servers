@@ -1,0 +1,19 @@
+{
+	"addr": "78.193.143.54:27016",
+	"gameport": 27016,
+	"steamid": "90200478624452615",
+	"name": "MaxCafe - Pracctice",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

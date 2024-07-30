@@ -1,0 +1,20 @@
+{
+	"addr": "106.52.145.242:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392924487528",
+	"name": "没人玩ZM的乐园（二刺猿满十） 1#",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,warmod,secure"
+}

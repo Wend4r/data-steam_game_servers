@@ -1,0 +1,19 @@
+{
+	"addr": "109.61.80.167:26329",
+	"gameport": 26329,
+	"steamid": "90200485895569434",
+	"name": "Skyline Gaming Studios Test",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 2,
+	"map": "croatia_cs2_v8",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "192.223.26.149:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931667689",
+	"name": "[edan.gg] 5v5 AutoHop #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,autohop,bhop,cas,edan,edan.gg,edan.pw,edans,gloves,knife,ws,x-la"
+}

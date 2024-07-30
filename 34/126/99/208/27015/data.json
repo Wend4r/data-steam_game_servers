@@ -1,0 +1,19 @@
+{
+	"addr": "34.126.99.208:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392924267925",
+	"name": "Headshot eSports SG server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.0.4",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

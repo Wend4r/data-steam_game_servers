@@ -1,0 +1,20 @@
+{
+	"addr": "74.91.115.201:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931297620",
+	"name": "[edan.gg] Old Maps [EU] [Old CS:GO]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "/637125018/de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tick,5v5,Edan's,Edan's C,Edans,Edans Community,autohop,bhop,de_oldnuke,edan,edan.gg,hop,knife,nuke,oldnuke,ws,x-la"
+}

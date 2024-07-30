@@ -1,0 +1,19 @@
+{
+	"addr": "176.103.58.29:10166",
+	"gameport": 10166,
+	"steamid": "85568392931756791",
+	"name": "[UA] MIRAGE [FPS BOOST] / !WS !KNIFE !RANK",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

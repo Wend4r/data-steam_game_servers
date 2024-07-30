@@ -1,0 +1,19 @@
+{
+	"addr": "45.136.204.203:27015",
+	"gameport": 27015,
+	"steamid": "85568392931143394",
+	"name": "██ MINIGAMES | ANIME | ✯ 5 ПPЫЖКOB ✯ ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 5,
+	"max_players": 22,
+	"bots": 0,
+	"map": "mg_damons_headshot_b3_yea",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!shop,!viptest,!ws,4jump,anime,bhop,bunny,clan,cs2,fun,mg,soft,secure"
+}

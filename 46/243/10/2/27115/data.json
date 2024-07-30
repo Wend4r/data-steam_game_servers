@@ -1,0 +1,20 @@
+{
+	"addr": "46.243.10.2:27115",
+	"gameport": 27115,
+	"specport": 27120,
+	"steamid": "85568392924632986",
+	"name": "[CSGO]**Ставропольский**|PUBLIC|",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 21,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!knife,!ws,128-tick,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Stavropol,classic,kavkaz,public,КМВ,Ставропольс"
+}

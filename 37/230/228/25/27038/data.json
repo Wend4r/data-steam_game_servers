@@ -1,0 +1,19 @@
+{
+	"addr": "37.230.228.25:27038",
+	"gameport": 27038,
+	"steamid": "85568392931848745",
+	"name": "\t\t\t\t\tCSGO PUBLIC #2 [RU] — CYBERSHOKE.NET (ONLY MIRAGE128 TIC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 16,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "\t\t\t\t\t!,128,128tick,custom,cyber,cybershoke,de_mirage,drop,fun,gloves,knife,msk,official,old,pro,public,ru,skin,wh,ws,secure"
+}

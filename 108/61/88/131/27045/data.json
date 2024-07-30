@@ -1,0 +1,19 @@
+{
+	"addr": "108.61.88.131:27045",
+	"gameport": 27045,
+	"steamid": "90200086570589208",
+	"name": "New GameServers.com CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.7.6",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 14,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

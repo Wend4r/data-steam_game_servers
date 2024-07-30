@@ -1,0 +1,19 @@
+{
+	"addr": "103.212.224.45:27015",
+	"gameport": 27015,
+	"steamid": "85568392931713213",
+	"name": "♚ KZG | Retakes #4 | Skins | Ranks ♚",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 10,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "aus,killzone,!ws,gloves,executes,aim,de_,dust2,knife,kzg,skin,m"
+}

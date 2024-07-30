@@ -1,0 +1,19 @@
+{
+	"addr": "185.43.4.252:51501",
+	"gameport": 51501,
+	"steamid": "85568392931819194",
+	"name": "MIRAGE ОНЛИ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

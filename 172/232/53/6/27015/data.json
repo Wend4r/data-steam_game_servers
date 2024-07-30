@@ -1,0 +1,19 @@
+{
+	"addr": "172.232.53.6:27015",
+	"gameport": 27015,
+	"steamid": "90182912875869215",
+	"name": "The CONTINENTAL Hotel",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.4",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "breakfloor",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

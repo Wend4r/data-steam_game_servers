@@ -1,0 +1,19 @@
+{
+	"addr": "124.70.106.158:10005",
+	"gameport": 10005,
+	"steamid": "85568392931890261",
+	"name": "izum1xX 5服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 1,
+	"max_players": 1,
+	"bots": 0,
+	"map": "kz_cf_foliage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128-tick,climb,gokz,izum1xx,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+}

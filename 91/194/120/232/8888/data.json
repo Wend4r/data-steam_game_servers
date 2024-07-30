@@ -1,0 +1,19 @@
+{
+	"addr": "91.194.120.232:8888",
+	"gameport": 8888,
+	"steamid": "85568392930476592",
+	"name": "[WINKY] PUBLIC #1 - Краснодар",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 5,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
+}

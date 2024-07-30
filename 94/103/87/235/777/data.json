@@ -1,0 +1,19 @@
+{
+	"addr": "94.103.87.235:777",
+	"gameport": 777,
+	"steamid": "85568392931977100",
+	"name": "[ Revolution HvH ] 1x1/ 2x2 | #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 3,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_cbble",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "gamesense,hvh,hvh ,insecure,skeet,insecure"
+}

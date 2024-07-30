@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.17:27015",
+	"gameport": 27015,
+	"steamid": "85568392931866592",
+	"name": "[TR]👑 Rilevium Jailbreak | kişisel !hide | !dc | +17 Kom al",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 5,
+	"max_players": 30,
+	"bots": 0,
+	"map": "jb_rilevium_triplex",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

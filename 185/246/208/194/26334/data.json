@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.208.194:26334",
+	"gameport": 26334,
+	"steamid": "90200476755458062",
+	"name": "AWANTURA",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

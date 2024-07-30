@@ -1,0 +1,19 @@
+{
+	"addr": "193.42.63.46:27015",
+	"gameport": 27015,
+	"steamid": "85568392929601775",
+	"name": "Padre France | padre-france.lol",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,EU,dust2,padre,secure"
+}

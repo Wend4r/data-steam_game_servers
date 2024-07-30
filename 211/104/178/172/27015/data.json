@@ -1,0 +1,19 @@
+{
+	"addr": "211.104.178.172:27015",
+	"gameport": 27015,
+	"steamid": "85568392930858206",
+	"name": "[KR/DM] CS2 FFA DM Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 14,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "cs2,dm,ffa,kr,secure"
+}

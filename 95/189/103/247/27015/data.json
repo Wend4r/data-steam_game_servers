@@ -1,0 +1,19 @@
+{
+	"addr": "95.189.103.247:27015",
+	"gameport": 27015,
+	"steamid": "85568392923501571",
+	"name": "Забайкальский Паблик",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.8",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

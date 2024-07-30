@@ -1,0 +1,20 @@
+{
+	"addr": "193.106.92.72:27088",
+	"gameport": 27088,
+	"specport": 28088,
+	"steamid": "85568392931370391",
+	"name": "Awp Lego 2 #1 Msk",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,casual,fastmm,fastmm.win,fmm,fmm.gg,gloves,lego,ws,"
+}

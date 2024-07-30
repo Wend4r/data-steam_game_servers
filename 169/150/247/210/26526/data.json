@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.247.210:26526",
+	"gameport": 26526,
+	"steamid": "90200485866698774",
+	"name": "THC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

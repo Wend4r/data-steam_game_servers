@@ -1,0 +1,19 @@
+{
+	"addr": "51.91.62.134:23100",
+	"gameport": 23100,
+	"steamid": "90200486558414860",
+	"name": "Training Day",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "akdeagmap",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,4Netplayers,Germany,de,secure"
+}

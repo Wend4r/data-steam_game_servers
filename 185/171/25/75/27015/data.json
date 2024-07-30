@@ -1,0 +1,19 @@
+{
+	"addr": "185.171.25.75:27015",
+	"gameport": 27015,
+	"steamid": "85568392922908661",
+	"name": "[TR] RunAway | Deathmatch | FFA-DM-MultiCFG | discord/runaway",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 2,
+	"max_players": 20,
+	"bots": 8,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "OyunTECH,TR,[TR],awp,deagle,deagle,deathmatch,dm,dust2,eldiven,"
+}

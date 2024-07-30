@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.152:27054",
+	"gameport": 27054,
+	"steamid": "85568392924287693",
+	"name": "【僵尸乐园】死亡奔跑 1# [DR] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 40,
+	"bots": 0,
+	"map": "dr_ffxxx_goudoubuwan_i7_b5",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
+}

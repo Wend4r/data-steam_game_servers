@@ -1,0 +1,20 @@
+{
+	"addr": "62.141.36.254:27015",
+	"gameport": 27015,
+	"specport": 27016,
+	"steamid": "85568392920616835",
+	"name": "[RageCom]| BHop | Long-Jumps | FastDL | OG-Maps | 100Tick |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 22,
+	"bots": 1,
+	"map": "surf_greatriver_xdre4m",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,best,bhop,ger,greatriver,longjumps,rage,rage-community,ragecom,rank,rc,surf,surf_greatriver_xdre4m,toplist,vip,xdream,sec"
+}

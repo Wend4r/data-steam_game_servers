@@ -1,0 +1,19 @@
+{
+	"addr": "185.228.234.69:49286",
+	"gameport": 49286,
+	"steamid": "85568392931530944",
+	"name": "BLACK RUSSIA CS:2 | MIRAGE #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 18,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

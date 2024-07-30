@@ -1,0 +1,20 @@
+{
+	"addr": "103.62.51.131:27078",
+	"gameport": 27078,
+	"specport": 28078,
+	"steamid": "90200149883412498",
+	"name": "asdasdad",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.8.3",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

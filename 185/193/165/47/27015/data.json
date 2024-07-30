@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.47:27015",
+	"gameport": 27015,
+	"steamid": "85568392931830697",
+	"name": "Alea iacta est CS2 PRO PUBLİC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 2,
+	"max_players": 28,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

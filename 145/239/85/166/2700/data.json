@@ -1,0 +1,19 @@
+{
+	"addr": "145.239.85.166:2700",
+	"gameport": 2700,
+	"steamid": "90200499431117842",
+	"name": "Merikh",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 2,
+	"max_players": 10,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

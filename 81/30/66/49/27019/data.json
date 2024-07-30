@@ -1,0 +1,19 @@
+{
+	"addr": "81.30.66.49:27019",
+	"gameport": 27019,
+	"steamid": "85568392931225948",
+	"name": "[EU] RPG-Gaming-CS2 35HP 1 | rpg | !knife | !ws |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.8",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "35hp_gladiators",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,rpg,35hp,gamble,!nametag,!st,nametag,knife,!knife,!ws,rpg"
+}

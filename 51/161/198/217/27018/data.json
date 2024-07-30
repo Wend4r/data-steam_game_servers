@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.198.217:27018",
+	"gameport": 27018,
+	"steamid": "85568392931858391",
+	"name": "[AU] Spread 16k 2018 | Extended Map Pool",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,16k,hvh,spread,whyrulookingattagsufreak,insecure"
+}

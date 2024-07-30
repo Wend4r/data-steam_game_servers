@@ -1,0 +1,19 @@
+{
+	"addr": "167.86.97.228:32889",
+	"gameport": 32889,
+	"steamid": "85568392930569769",
+	"name": "HS18FT CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_memento",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

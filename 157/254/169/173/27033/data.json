@@ -1,0 +1,19 @@
+{
+	"addr": "157.254.169.173:27033",
+	"gameport": 27033,
+	"steamid": "85568392920050238",
+	"name": "[FaceWAN] CS2 Armsrace [US East]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.2",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "ar_shoots",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

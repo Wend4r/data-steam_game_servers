@@ -1,0 +1,19 @@
+{
+	"addr": "185.242.115.38:21337",
+	"gameport": 21337,
+	"steamid": "85568392921633280",
+	"name": "-=WarmupServer=-™ Mirage 19 ★MultiCFG™★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 17,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

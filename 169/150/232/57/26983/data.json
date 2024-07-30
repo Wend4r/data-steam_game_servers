@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.232.57:26983",
+	"gameport": 26983,
+	"steamid": "90200484723855377",
+	"name": "Iron Kidz - iKz Private Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_assembly",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

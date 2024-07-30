@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.60:27015",
+	"gameport": 27015,
+	"steamid": "85568392931733300",
+	"name": "DLGPRO MG | TR'DE İLK MG | !dc",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 14,
+	"bots": 0,
+	"map": "mg_acrophobia_run_v2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

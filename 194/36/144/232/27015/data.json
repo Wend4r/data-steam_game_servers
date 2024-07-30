@@ -1,0 +1,19 @@
+{
+	"addr": "194.36.144.232:27015",
+	"gameport": 27015,
+	"steamid": "90200452968544259",
+	"name": "[3ZM] CS2 Server | 128T",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 2,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128-tick,3zm,obi,secure"
+}

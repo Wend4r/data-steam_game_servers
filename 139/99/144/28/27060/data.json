@@ -1,0 +1,20 @@
+{
+	"addr": "139.99.144.28:27060",
+	"gameport": 27060,
+	"specport": 27020,
+	"steamid": "85568392924524537",
+	"name": "OZLIN INFO | CS:GO Zombie Riot RPG 24/7 - Australia",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 33,
+	"bots": 1,
+	"map": "de_dust",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:41248439i,aus,australia,bots,co-op,coop,escape,fastdl,oce,oceania,ozlin,pve,reloaded,riot,survival,ze,zm,zombie,zr,z"
+}

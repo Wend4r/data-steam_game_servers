@@ -1,0 +1,19 @@
+{
+	"addr": "194.62.157.156:27212",
+	"gameport": 27212,
+	"steamid": "90200487542096903",
+	"name": "Hosted by ZAP-Hosting.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

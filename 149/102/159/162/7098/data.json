@@ -1,0 +1,19 @@
+{
+	"addr": "149.102.159.162:7098",
+	"gameport": 7098,
+	"steamid": "90200364113416202",
+	"name": "[ES] LUJOLAND",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 40,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "77.79.135.251:27019",
+	"gameport": 27019,
+	"steamid": "85568392931928601",
+	"name": "[CS2] EDRAGON | FUNNY PUBLIC | БОЛЬШИЕ ГОЛОВЫ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "admin,bighead,bigheads,cs2,freevip,fun,mirage,mirageonly,public"
+}

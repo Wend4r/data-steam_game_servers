@@ -1,0 +1,19 @@
+{
+	"addr": "194.93.2.30:1337",
+	"gameport": 1337,
+	"steamid": "90200375658694659",
+	"name": "[Ru] War3ft Project | HvH | Only Mirage |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 13,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16k,EU,HVH,RU,War3ft Project,all,arena,dm,eu,hack,hvh,only mirage,public,rockci,ru,war3ft project,wh,сheat,insecure"
+}

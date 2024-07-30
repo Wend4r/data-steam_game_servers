@@ -1,0 +1,19 @@
+{
+	"addr": "104.234.189.160:27055",
+	"gameport": 27055,
+	"steamid": "85568392925526897",
+	"name": "-=WarmupServer=-™ Brazil Dust2 23 ★MultiCFG™★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 12,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "64.176.170.14:27017",
+	"gameport": 27017,
+	"steamid": "85568392928582259",
+	"name": "SURFIL https://discord.gg/AuWmZ77pdB",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

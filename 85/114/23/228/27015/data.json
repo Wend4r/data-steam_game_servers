@@ -1,0 +1,19 @@
+{
+	"addr": "85.114.23.228:27015",
+	"gameport": 27015,
+	"steamid": "85568392930601374",
+	"name": "Felix RiotPixels.com on ceriel.ru",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_memento",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

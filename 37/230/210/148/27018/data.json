@@ -1,0 +1,19 @@
+{
+	"addr": "37.230.210.148:27018",
+	"gameport": 27018,
+	"steamid": "85568392931777016",
+	"name": "[uwupolice/#1] 2x2/5x5 server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 6,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_cbble",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

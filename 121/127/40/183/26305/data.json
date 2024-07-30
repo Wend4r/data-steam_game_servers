@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.183:26305",
+	"gameport": 26305,
+	"steamid": "90200493740814337",
+	"name": "REFRAG.GG - Retakes [NA]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

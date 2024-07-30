@@ -1,0 +1,19 @@
+{
+	"addr": "157.181.183.248:16569",
+	"gameport": 16569,
+	"steamid": "85568392920905074",
+	"name": "[HUN] SkyNet Public Server (Prime only - 128 tick)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:27363316i,128,128tick,EU,HU,HUN,cyberdyne,defuse,dust2,hungarian,magyar,prime,rescue,skynet,secure"
+}

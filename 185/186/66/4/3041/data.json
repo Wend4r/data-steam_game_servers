@@ -1,0 +1,19 @@
+{
+	"addr": "185.186.66.4:3041",
+	"gameport": 3041,
+	"steamid": "85568392924917860",
+	"name": "FREESPINS-INC | SPONSORED BY MAX",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.2.8",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CSGODEV,secure"
+}

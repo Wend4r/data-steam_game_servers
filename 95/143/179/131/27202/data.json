@@ -1,0 +1,19 @@
+{
+	"addr": "95.143.179.131:27202",
+	"gameport": 27202,
+	"steamid": "90200489759792130",
+	"name": "Наше Княже 18+ CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "ar_pool_day",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

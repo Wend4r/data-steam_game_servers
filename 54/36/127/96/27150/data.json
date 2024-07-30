@@ -1,0 +1,19 @@
+{
+	"addr": "54.36.127.96:27150",
+	"gameport": 27150,
+	"steamid": "85568392931035426",
+	"name": "[EU] CS2 PRO SERVER SMALL MAPS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,competitive,es,espana,esro,msm,ro,romania,secure"
+}

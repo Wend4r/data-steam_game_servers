@@ -1,0 +1,19 @@
+{
+	"addr": "88.198.64.187:27020",
+	"gameport": 27020,
+	"steamid": "85568392931222273",
+	"name": "ENW | Deathrun",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.1",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "dr_simpsons_s2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "50.20.249.105:26965",
+	"gameport": 26965,
+	"steamid": "85568392931970207",
+	"name": "[USA] AWP Lego only [!ws] [!knife] [!gloves]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

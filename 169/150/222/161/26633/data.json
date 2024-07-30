@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.222.161:26633",
+	"gameport": 26633,
+	"steamid": "85568392923979302",
+	"name": "XPLAY.GG • CS2 AWPDM FFA #28 • [CN]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

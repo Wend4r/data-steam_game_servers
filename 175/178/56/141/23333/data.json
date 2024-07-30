@@ -1,0 +1,19 @@
+{
+	"addr": "175.178.56.141:23333",
+	"gameport": 23333,
+	"steamid": "85568392924730029",
+	"name": "[CN-CAN-KVM]【ONET4P】精品跑图#17|广州高配",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 13,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!diy,ONET4P,onetap,pug,电竞流氓,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "152.160.146.204:25567",
+	"gameport": 25567,
+	"steamid": "85568392924923022",
+	"name": "Snakecraft Hosting",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128 tick,comp,dust2,secure"
+}

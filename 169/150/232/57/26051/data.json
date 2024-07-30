@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.232.57:26051",
+	"gameport": 26051,
+	"steamid": "90200485768192017",
+	"name": "Big Slime",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

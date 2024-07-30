@@ -1,0 +1,19 @@
+{
+	"addr": "193.179.65.77:27017",
+	"gameport": 27017,
+	"steamid": "85568392926686560",
+	"name": "Emilovo AIM server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "aim_glockon",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128 tick,aim,secure"
+}

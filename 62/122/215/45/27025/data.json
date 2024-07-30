@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.215.45:27025",
+	"gameport": 27025,
+	"steamid": "85568392931100153",
+	"name": "███ ➥ yooma.su (CS2) / только sandstone #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 3,
+	"max_players": 32,
+	"bots": 0,
+	"map": "sandstone_new",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.16:27015",
+	"gameport": 27015,
+	"steamid": "85568392931838725",
+	"name": "[TR] Quartz Jailbreak ! ★ YETKILI ALIMI ★ .gg/quartzjailbre",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 2,
+	"max_players": 26,
+	"bots": 0,
+	"map": "jb_quartz_main",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

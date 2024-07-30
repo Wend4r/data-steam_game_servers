@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.131:26272",
+	"gameport": 26272,
+	"steamid": "85568392923956809",
+	"name": "CS2 ARENA #3 DK",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 21,
+	"bots": 0,
+	"map": "am_plain2_gg",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "191.96.229.55:5006",
+	"gameport": 5006,
+	"specport": 27020,
+	"steamid": "85568392931709813",
+	"name": "00 CSGO.WePlayIL.co.il # RolePlay V2.0",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

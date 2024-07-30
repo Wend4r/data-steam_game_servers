@@ -1,0 +1,19 @@
+{
+	"addr": "91.121.145.85:27163",
+	"gameport": 27163,
+	"steamid": "90191685255464970",
+	"name": "hostname",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

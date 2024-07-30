@@ -1,0 +1,20 @@
+{
+	"addr": "94.198.50.178:27017",
+	"gameport": 27017,
+	"specport": 27020,
+	"steamid": "85568392931947233",
+	"name": "CS2ONE.NET | FPS MIRAGE | [!skins], [!viptest], [!knife]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 3,
+	"max_players": 27,
+	"bots": 1,
+	"map": "de_mirage_fps_cs2one",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

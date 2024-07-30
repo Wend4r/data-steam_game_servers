@@ -1,0 +1,19 @@
+{
+	"addr": "109.61.80.169:26069",
+	"gameport": 26069,
+	"steamid": "85568392931665449",
+	"name": "Retakes EU – Renown.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 9,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

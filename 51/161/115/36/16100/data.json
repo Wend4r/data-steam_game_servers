@@ -1,0 +1,20 @@
+{
+	"addr": "51.161.115.36:16100",
+	"gameport": 16100,
+	"specport": 16102,
+	"steamid": "90181620822649863",
+	"name": "Hosted by Shockbyte",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

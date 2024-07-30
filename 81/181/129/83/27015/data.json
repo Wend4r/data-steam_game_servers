@@ -1,0 +1,19 @@
+{
+	"addr": "81.181.129.83:27015",
+	"gameport": 27015,
+	"steamid": "85568392931344642",
+	"name": "[CS:GO] arena.oldbutgold.ro | !WS | !GLOVES | !AGENTS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 2,
+	"max_players": 20,
+	"bots": 0,
+	"map": "obg_am_minecraftfix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "du,duv2,secure"
+}

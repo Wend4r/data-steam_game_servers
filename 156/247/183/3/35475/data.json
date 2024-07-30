@@ -1,0 +1,19 @@
+{
+	"addr": "156.247.183.3:35475",
+	"gameport": 35475,
+	"steamid": "85568392926654808",
+	"name": "HONG KONG CS2 DEATHMATCH 24x7  | PacificES Cloud",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.8",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,HONG KONG CS2 DEATHMATCH 24x7 ,cloud,pug,scrim,war,secure"
+}

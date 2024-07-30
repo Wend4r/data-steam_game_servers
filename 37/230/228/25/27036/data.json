@@ -1,0 +1,20 @@
+{
+	"addr": "37.230.228.25:27036",
+	"gameport": 27036,
+	"specport": 27136,
+	"steamid": "85568392931846647",
+	"name": "\t\t\t\t\tCSGO HNS #10 [RU] — CYBERSHOKE.NET (MIX128 TICK)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 9,
+	"max_players": 20,
+	"bots": 1,
+	"map": "hns_rayish_brick-world_ported",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_rayish_brick-world_ported,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,se"
+}

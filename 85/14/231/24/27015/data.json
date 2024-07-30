@@ -1,0 +1,19 @@
+{
+	"addr": "85.14.231.24:27015",
+	"gameport": 27015,
+	"steamid": "90198477797501978",
+	"name": "Fanatic Bashers",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,ServerTAG,secure"
+}

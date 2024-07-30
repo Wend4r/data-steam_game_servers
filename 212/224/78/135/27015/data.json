@@ -1,0 +1,19 @@
+{
+	"addr": "212.224.78.135:27015",
+	"gameport": 27015,
+	"steamid": "85568392920194832",
+	"name": "CSGO:Sport - Sometimes you must throw the weapon in your own ha",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.5.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "/806865971/sports-pwl",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,sport,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.206.85:26938",
+	"gameport": 26938,
+	"steamid": "90200485915441156",
+	"name": "Wipz Surf Server V2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "surf_utopia_njv",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

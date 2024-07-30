@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.14:27015",
+	"gameport": 27015,
+	"steamid": "85568392931016047",
+	"name": "[TR] ⭐ Mr.Alfa's Public Server (!agents, !glove, !knife, !ws)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+}

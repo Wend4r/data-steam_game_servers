@@ -1,0 +1,19 @@
+{
+	"addr": "185.154.192.98:42216",
+	"gameport": 42216,
+	"steamid": "85568392931563399",
+	"name": "Freezing-Blood CS:GO | FPS+ | 128tick | AntiCheat",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_cache_FPS+HDR",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+}

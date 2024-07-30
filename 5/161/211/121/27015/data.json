@@ -1,0 +1,19 @@
+{
+	"addr": "5.161.211.121:27015",
+	"gameport": 27015,
+	"steamid": "85568392931322734",
+	"name": "[US] AWPSWAP.IO - Surf (Tier 1-4) Maps | Timer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "surf_kitsune",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

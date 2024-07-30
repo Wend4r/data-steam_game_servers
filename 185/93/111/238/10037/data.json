@@ -1,0 +1,19 @@
+{
+	"addr": "185.93.111.238:10037",
+	"gameport": 10037,
+	"steamid": "85568392931213437",
+	"name": " ➥ АРЕНА 1 ПРОТИВ 1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "am_minecraft",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,ws,cyber,gloves,knife,zm,surf,wcs,aim"
+}

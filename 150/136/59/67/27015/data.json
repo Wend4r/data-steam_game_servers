@@ -1,0 +1,19 @@
+{
+	"addr": "150.136.59.67:27015",
+	"gameport": 27015,
+	"steamid": "85568392925005308",
+	"name": "MFer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 255,
+	"bots": 0,
+	"map": "/285407740/de_rats_kitchoon",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

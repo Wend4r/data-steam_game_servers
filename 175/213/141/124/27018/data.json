@@ -1,0 +1,19 @@
+{
+	"addr": "175.213.141.124:27018",
+	"gameport": 27018,
+	"steamid": "85568392931418497",
+	"name": "[CS:GO/MIGI/v1.38.7.9_ONLY] StarOnlineGO Season5 | PUG 5v5 #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128tick,betterbots,comp5v5,csgo,hostage,ko_kr,migi,snd,sv_pure_0,v13879only,insecure"
+}

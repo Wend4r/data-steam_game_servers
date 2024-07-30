@@ -1,0 +1,20 @@
+{
+	"addr": "89.45.18.81:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931721736",
+	"name": "[CS2] CS.ZUTV.RO ✚ SKINS ✚ KNIFE ✚ GLOVES ✚ MVP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 33,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "anticheat,competitive,europe,fun,gloves,knifes,ro,romania,skins"
+}

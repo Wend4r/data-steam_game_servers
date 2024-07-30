@@ -1,0 +1,19 @@
+{
+	"addr": "54.38.142.181:30083",
+	"gameport": 30083,
+	"steamid": "90200376503896095",
+	"name": "[PL] ArenaSkilla.pl # ARENKI # SKINY KOSY !MVP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "am_pierdolnik_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ARENA;ARENKI;1V1;1v1;SKINY;KOSY;GLOVES;MUSIC,secure"
+}

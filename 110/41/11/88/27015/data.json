@@ -1,0 +1,19 @@
+{
+	"addr": "110.41.11.88:27015",
+	"gameport": 27015,
+	"steamid": "85568392931448025",
+	"name": "1v1solo workshop创意工坊中国服务器",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.5",
+	"product": "cs2",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "solo_ovo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

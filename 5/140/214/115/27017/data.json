@@ -1,0 +1,19 @@
+{
+	"addr": "5.140.214.115:27017",
+	"gameport": 27017,
+	"steamid": "85568392931618609",
+	"name": "REBELS | AWP LEGO ONLY | WS VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,admin,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,v"
+}

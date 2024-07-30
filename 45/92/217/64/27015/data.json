@@ -1,0 +1,19 @@
+{
+	"addr": "45.92.217.64:27015",
+	"gameport": 27015,
+	"steamid": "90200001285633047",
+	"name": "Gaimersheim | Private | HVH | Mirage",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 2,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

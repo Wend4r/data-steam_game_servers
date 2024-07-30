@@ -1,0 +1,19 @@
+{
+	"addr": "156.146.52.209:26312",
+	"gameport": 26312,
+	"steamid": "85568392930491135",
+	"name": "[ TR ] bicycle club ~ CS2 Sunucusu ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

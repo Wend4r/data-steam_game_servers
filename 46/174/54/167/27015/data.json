@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.54.167:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392926564962",
+	"name": "[CSGO] ЛЕГЕНДАРНЫЙ AWP ONLY 128tick 14+ [MERRYPROJEC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 4,
+	"max_players": 30,
+	"bots": 1,
+	"map": "awp_lego_2_hdr",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,awplego,bhop,funnypublic,gl,gloves,idl,knife,lego,merryproject,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+}

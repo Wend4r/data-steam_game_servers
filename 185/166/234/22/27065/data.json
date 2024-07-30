@@ -1,0 +1,19 @@
+{
+	"addr": "185.166.234.22:27065",
+	"gameport": 27065,
+	"steamid": "90200492240482326",
+	"name": "ES 21",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 3,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

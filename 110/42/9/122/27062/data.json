@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.122:27062",
+	"gameport": 27062,
+	"steamid": "85568392924212804",
+	"name": "【僵尸乐园】AmongUs 3# [TTT] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "cs_assault_2017",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,ZED,fastdl,ttt,secure"
+}

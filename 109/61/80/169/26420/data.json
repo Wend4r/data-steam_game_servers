@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.169:26420",
+	"gameport": 26420,
+	"specport": 26421,
+	"steamid": "85568392931381304",
+	"name": "ANOMEME INTERNE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 2,
+	"map": "fun_bounce",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
+}

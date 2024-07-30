@@ -1,0 +1,19 @@
+{
+	"addr": "47.190.38.9:27015",
+	"gameport": 27015,
+	"steamid": "85568392930483411",
+	"name": "TrexLab DALLAS 24/7 ICEWORLD",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "fy_iceworld",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

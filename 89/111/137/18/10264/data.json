@@ -1,0 +1,19 @@
+{
+	"addr": "89.111.137.18:10264",
+	"gameport": 10264,
+	"steamid": "85568392931416383",
+	"name": "SMOTRA CS:2 | AIM+AWP #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "aim_usp",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "Freez-Blood"
+}

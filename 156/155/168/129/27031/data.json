@@ -1,0 +1,19 @@
+{
+	"addr": "156.155.168.129:27031",
+	"gameport": 27031,
+	"steamid": "90200486725691401",
+	"name": "iTeron-CS2-Competative",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

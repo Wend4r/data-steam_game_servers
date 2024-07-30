@@ -1,0 +1,19 @@
+{
+	"addr": "185.107.96.184:27015",
+	"gameport": 27015,
+	"steamid": "90200491096991754",
+	"name": "NFOservers.com - Frankfurt test # 09",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

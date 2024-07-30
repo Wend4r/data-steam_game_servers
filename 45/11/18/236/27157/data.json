@@ -1,0 +1,20 @@
+{
+	"addr": "45.11.18.236:27157",
+	"gameport": 27157,
+	"specport": 27159,
+	"steamid": "90200491694987294",
+	"name": "SahMatRabbits",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

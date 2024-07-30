@@ -1,0 +1,19 @@
+{
+	"addr": "139.60.161.109:27048",
+	"gameport": 27048,
+	"steamid": "85568392931845912",
+	"name": "CS2 KZ #2 [US] — CYBERSHOKE.NET (TIER 1-2)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "kz_niche",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,kz_niche,en,nyc,pro,kz,kreedz,pb,cybershoke,race,cyber,ra"
+}

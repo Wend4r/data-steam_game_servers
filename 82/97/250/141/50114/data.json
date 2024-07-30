@@ -1,0 +1,19 @@
+{
+	"addr": "82.97.250.141:50114",
+	"gameport": 50114,
+	"steamid": "85568392931585628",
+	"name": "[ RU/EU | HVH ] EVOLUTION TAPS | MAIN | 1 AWP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 8,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "HvH,16K,Rage,Evolution,Taps,SharkProject,StarLess,eXpidors,HackHaven,nevermiss"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "46.4.66.109:37025",
+	"gameport": 37025,
+	"steamid": "85568392930859297",
+	"name": "muc 1v1|2v2 #2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "aim_redline_23",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

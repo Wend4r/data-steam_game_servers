@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.209.193:26097",
+	"gameport": 26097,
+	"steamid": "90200486183642123",
+	"name": "-=WarmupServer=-™ Santiago de Chile ★MultiCFG™★FFA-DM�",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 11,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

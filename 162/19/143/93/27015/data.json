@@ -1,0 +1,20 @@
+{
+	"addr": "162.19.143.93:27015",
+	"gameport": 27015,
+	"specport": 27104,
+	"steamid": "85568392920053112",
+	"name": " SurfHeaven #4 Hard [Tier 3-7] | Timer | Ranks",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 40,
+	"bots": 6,
+	"map": "surf_fiellu",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!knife,!ws,64tick,SurfHeaven,autobhop,cs20,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,secure"
+}

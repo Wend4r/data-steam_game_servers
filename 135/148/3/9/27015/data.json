@@ -1,0 +1,19 @@
+{
+	"addr": "135.148.3.9:27015",
+	"gameport": 27015,
+	"steamid": "85568392930650538",
+	"name": "[SG] PRISON BREAK | discord.gg/steamgamers",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 0,
+	"max_players": 40,
+	"bots": 0,
+	"map": "jb_blade_slade_b_mw_d",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,jb,mod,pb,sg,steam-gamers,steamgamers,usa,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "106.14.37.22:1337",
+	"gameport": 1337,
+	"steamid": "85568392931782608",
+	"name": "CatClub 公益 纯净服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 13,
+	"max_players": 36,
+	"bots": 0,
+	"map": "cs_italy",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hvh,insecure"
+}

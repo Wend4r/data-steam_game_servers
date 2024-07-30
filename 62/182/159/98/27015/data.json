@@ -1,0 +1,19 @@
+{
+	"addr": "62.182.159.98:27015",
+	"gameport": 27015,
+	"steamid": "85568392931971415",
+	"name": "[CS2] Crystalys - AWP ONLY | !KNIFE !SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!knife,!ws,awp,awp_lego_2,cs2,knife,ws,secure"
+}

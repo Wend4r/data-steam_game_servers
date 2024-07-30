@@ -1,0 +1,19 @@
+{
+	"addr": "168.119.196.20:27022",
+	"gameport": 27022,
+	"steamid": "85568392931849170",
+	"name": "CS2 BHOP #19 [DE] — CYBERSHOKE.NET (TIER 1-2 - EASY)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "bhop_adventure_final",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,bhop,bhop_advent,drop,eu,en,germany,ger,de,cybershoke,cyb"
+}

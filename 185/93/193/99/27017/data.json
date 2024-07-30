@@ -1,0 +1,19 @@
+{
+	"addr": "185.93.193.99:27017",
+	"gameport": 27017,
+	"steamid": "85568392923295780",
+	"name": "Familiens CS:GO Server - Demolition",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_lake",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

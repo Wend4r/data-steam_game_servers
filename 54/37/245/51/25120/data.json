@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.245.51:25120",
+	"gameport": 25120,
+	"steamid": "85568392920052919",
+	"name": "GoFree EU#6 | Mesa 24/7 !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 45,
+	"bots": 0,
+	"map": "surf_mesa_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102,102tick,easysurf,gf,gofree,mesa,rank,stats,store,styles,surf,surf_3,surf_mesa,surfing,surftimer,vip,wrcp,surf_mesa_fi"
+}

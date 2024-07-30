@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.47.34:26250",
+	"gameport": 26250,
+	"steamid": "90200498587639815",
+	"name": "League of Wesuns",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

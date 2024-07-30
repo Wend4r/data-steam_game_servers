@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.49.127:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931776920",
+	"name": "ElectroProject LifeSun [AWP] !knife !ws 128tik",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!shop,!ws,Server,awp,awp_lego_2,custom,drop,fast drops,gl,knife,minigame 24/7,public,public,secure,server,speedway,viponl"
+}

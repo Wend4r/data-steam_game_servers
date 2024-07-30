@@ -1,0 +1,19 @@
+{
+	"addr": "134.255.220.110:27228",
+	"gameport": 27228,
+	"steamid": "85568392931976992",
+	"name": "gTiers Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

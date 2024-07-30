@@ -1,0 +1,20 @@
+{
+	"addr": "54.37.133.163:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392922589341",
+	"name": "▉ ★ Fragujemy.com ★ [ SURF ] :: TR102",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "surf_fg_greatriver_beta3",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,-,1on1,1vs1,autobh,bh,bhop,bunnyhop,fragujemy,fragujemy.com,skins,surf,tier,timer,secure"
+}

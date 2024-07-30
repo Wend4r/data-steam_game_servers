@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.245.51:25100",
+	"gameport": 25100,
+	"steamid": "85568392920052941",
+	"name": "GoFree EU#8 | Surf Tier1-8 (All Maps) Top100 !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 45,
+	"bots": 2,
+	"map": "surf_spectrum_njv",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_spectrum_njv,secure"
+}

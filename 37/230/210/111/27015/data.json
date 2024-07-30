@@ -1,0 +1,20 @@
+{
+	"addr": "37.230.210.111:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931522791",
+	"name": "[CSGO] УБЕГИ ОТ МАНЬЯКА | MANIAC 128TICK[MERRYPRO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 9,
+	"max_players": 30,
+	"bots": 1,
+	"map": "home",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "bhop,gl,gloves,hidenseek,hns,idl,knife,maniac,merryproject,nosteam,pets,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+}

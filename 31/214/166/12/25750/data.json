@@ -1,0 +1,19 @@
+{
+	"addr": "31.214.166.12:25750",
+	"gameport": 25750,
+	"steamid": "90200488459574292",
+	"name": "Entropy Youth Practice Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.214.109:27015",
+	"gameport": 27015,
+	"steamid": "85568392931227052",
+	"name": "Blood-war|Русский маньячок|0+",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "haskin_12bw",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
+}

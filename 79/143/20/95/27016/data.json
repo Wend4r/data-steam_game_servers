@@ -1,0 +1,19 @@
+{
+	"addr": "79.143.20.95:27016",
+	"gameport": 27016,
+	"steamid": "85568392931847896",
+	"name": "CS2 PUBLIC #25 [KZ] — CYBERSHOKE.NET (ALL MAPS)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 10,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "de_mirage,fun,official,custom,old,kz,128,128tick,pro,public,kni"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "109.61.80.163:26171",
+	"gameport": 26171,
+	"steamid": "90200485866193942",
+	"name": "Jack's CS2 Prac",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

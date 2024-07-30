@@ -1,0 +1,19 @@
+{
+	"addr": "188.212.101.162:27015",
+	"gameport": 27015,
+	"steamid": "90199997049552898",
+	"name": "cs2.bretonia.eu[Join Us]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 10,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+}

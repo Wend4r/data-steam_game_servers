@@ -1,0 +1,20 @@
+{
+	"addr": "37.19.215.246:26805",
+	"gameport": 26805,
+	"specport": 26806,
+	"steamid": "85568392930661393",
+	"name": "Showdown Retakes Barcelona #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,gg"
+}

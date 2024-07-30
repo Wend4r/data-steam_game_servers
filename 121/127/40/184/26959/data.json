@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.184:26959",
+	"gameport": 26959,
+	"steamid": "90200485688756226",
+	"name": "enfohip",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

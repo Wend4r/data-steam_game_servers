@@ -1,0 +1,20 @@
+{
+	"addr": "51.75.146.8:27022",
+	"gameport": 27022,
+	"specport": 27044,
+	"steamid": "85568392931668487",
+	"name": "EU | ClassicCounter | DM | 64 Tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.3.6",
+	"product": "csgo",
+	"region": -1,
+	"players": 4,
+	"max_players": 20,
+	"bots": 9,
+	"map": "de_seaside_2014_og",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

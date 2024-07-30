@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.222.161:27813",
+	"gameport": 27813,
+	"steamid": "85568392930188632",
+	"name": "Funny DeathMatch Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "/142588406/fy_snow2_t0",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,deathmatch,raptor,secure"
+}

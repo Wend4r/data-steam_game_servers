@@ -1,0 +1,19 @@
+{
+	"addr": "51.210.222.67:27016",
+	"gameport": 27016,
+	"steamid": "85568392931156435",
+	"name": "[EU] | Sinister HvH | $16k | Office Only | 1 AWP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,ass,eu,excalibur,gamesense,haunted,hollywood,hso,hvh,insecure,mirage,na,neverlose,office,onetap,primordial,scout,sinister"
+}

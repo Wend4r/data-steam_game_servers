@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.222.237:50052",
+	"gameport": 50052,
+	"steamid": "90200482304525327",
+	"name": "Rare Atom B",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

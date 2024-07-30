@@ -1,0 +1,19 @@
+{
+	"addr": "220.132.77.244:27026",
+	"gameport": 27026,
+	"steamid": "85568392931809559",
+	"name": "[TW] FFA-DM 土星肯尼仔的死鬥1服  ws|glove",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 8,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

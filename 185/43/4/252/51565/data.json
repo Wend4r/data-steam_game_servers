@@ -1,0 +1,19 @@
+{
+	"addr": "185.43.4.252:51565",
+	"gameport": 51565,
+	"steamid": "85568392931886167",
+	"name": "[CS2] SPUBLIC.FUN|ONLY MIRAGE|!ws,!knife",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 13,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,sasok,secure"
+}

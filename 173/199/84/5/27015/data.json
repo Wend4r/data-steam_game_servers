@@ -1,0 +1,19 @@
+{
+	"addr": "173.199.84.5:27015",
+	"gameport": 27015,
+	"steamid": "85568392925886475",
+	"name": "Leanto Community Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.5.0",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "/293611841/cs_workout",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

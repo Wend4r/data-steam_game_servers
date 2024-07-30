@@ -1,0 +1,19 @@
+{
+	"addr": "114.132.56.91:27019",
+	"gameport": 27019,
+	"steamid": "85568392925952527",
+	"name": "儒君子滑翔小服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -4,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "surf_rookie",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

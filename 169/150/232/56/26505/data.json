@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.232.56:26505",
+	"gameport": 26505,
+	"specport": 26506,
+	"steamid": "90200478258550800",
+	"name": "Tempr Black powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}

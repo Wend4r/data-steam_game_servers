@@ -1,0 +1,19 @@
+{
+	"addr": "156.146.52.209:26589",
+	"gameport": 26589,
+	"steamid": "85568392923975825",
+	"name": "XPLAY.GG • CS2 DUELS#14 • [TR]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 22,
+	"bots": 0,
+	"map": "duels_dust2_xplaygg",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

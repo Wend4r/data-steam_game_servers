@@ -1,0 +1,20 @@
+{
+	"addr": "88.99.102.80:27021",
+	"gameport": 27021,
+	"specport": 27020,
+	"steamid": "90200469480656921",
+	"name": "PROTON LETHAL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "Germany,PROTON,de,secure"
+}

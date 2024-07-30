@@ -1,0 +1,19 @@
+{
+	"addr": "51.77.117.81:27100",
+	"gameport": 27100,
+	"steamid": "85568392922389290",
+	"name": "[MG-11] MestroGaming.net | 1v1 64 Tick Arena #1 | !",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "am_xenon",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,1v1,1vs1,arena,easy,gaming,mestro,mg,tick,secure"
+}

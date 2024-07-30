@@ -1,0 +1,19 @@
+{
+	"addr": "65.109.91.88:26260",
+	"gameport": 26260,
+	"steamid": "90200485727831052",
+	"name": "Ahlman",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

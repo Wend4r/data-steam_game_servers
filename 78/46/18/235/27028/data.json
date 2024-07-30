@@ -1,0 +1,19 @@
+{
+	"addr": "78.46.18.235:27028",
+	"gameport": 27028,
+	"steamid": "85568392931605812",
+	"name": "[F.O.E] - CS2 TESTER 30bots m.m.",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_palais",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,[F.O.E] - CS2 TESTER 30bots m.m.,secure"
+}

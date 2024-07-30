@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.234.196:26751",
+	"gameport": 26751,
+	"steamid": "90200475704890384",
+	"name": "Minecraft Hunger Games NA",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "minecraft",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

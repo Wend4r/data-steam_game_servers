@@ -1,0 +1,19 @@
+{
+	"addr": "137.74.95.192:27020",
+	"gameport": 27020,
+	"steamid": "85568392931397635",
+	"name": "[FR] Chez Jaycay Serveur Pracc",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

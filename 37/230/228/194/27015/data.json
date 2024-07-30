@@ -1,0 +1,20 @@
+{
+	"addr": "37.230.228.194:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392927751259",
+	"name": "[МАНЬЯК] >Своя Атмосфера< [csgoplus.ru]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 3,
+	"max_players": 32,
+	"bots": 0,
+	"map": "seek_bulvar_upd1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!testvip,!ws,hns,seek,secure"
+}

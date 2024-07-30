@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.47.35:26897",
+	"gameport": 26897,
+	"specport": 26898,
+	"steamid": "90200478985883656",
+	"name": "DINQ powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 18,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

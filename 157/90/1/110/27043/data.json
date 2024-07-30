@@ -1,0 +1,19 @@
+{
+	"addr": "157.90.1.110:27043",
+	"gameport": 27043,
+	"steamid": "85568392931849147",
+	"name": "CS2 SURF COMBAT | COMBAT SURF #1 [DE] — CYBERSHOKE.NET (ONLY ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "surf_ski_3_nova_kg",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gloves,combat,shoot,fight,ffa,eu,en,skin,germany,knife,su"
+}

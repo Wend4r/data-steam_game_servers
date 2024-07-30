@@ -1,0 +1,19 @@
+{
+	"addr": "194.104.114.130:27011",
+	"gameport": 27011,
+	"steamid": "90199184761564183",
+	"name": "AMP Powered Counter-Strike 2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.2",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "skinclub_1v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

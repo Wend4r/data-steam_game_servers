@@ -1,0 +1,19 @@
+{
+	"addr": "179.61.251.69:1337",
+	"gameport": 1337,
+	"steamid": "85568392931157017",
+	"name": "[eu] amethyst.rip | 16k | assault, italy, mirage, office, dd2_o",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "/1173548706/de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,2v2,3v3,4v4,5v5,amethyst,fatality,hvh,neverlose,otc,ranteis,skeet,void,insecure"
+}

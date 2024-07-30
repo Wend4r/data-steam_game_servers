@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27040",
+	"gameport": 27040,
+	"steamid": "85568392926416382",
+	"name": "e2ernal | Private Surf Server #18 | kzg.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "surf_waterworks",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gameME,hidden,secure"
+}

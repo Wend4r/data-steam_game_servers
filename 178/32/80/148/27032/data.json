@@ -1,0 +1,19 @@
+{
+	"addr": "178.32.80.148:27032",
+	"gameport": 27032,
+	"steamid": "85568392928580910",
+	"name": "[MG LEAGUE] 2018 SERVER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2_mrx_2018",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

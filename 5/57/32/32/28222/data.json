@@ -1,0 +1,19 @@
+{
+	"addr": "5.57.32.32:28222",
+	"gameport": 28222,
+	"steamid": "85568392931833402",
+	"name": "iRAN - ROiG FAMiLY - CASUAL PUBLiC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 8,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

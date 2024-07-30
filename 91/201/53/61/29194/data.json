@@ -1,0 +1,19 @@
+{
+	"addr": "91.201.53.61:29194",
+	"gameport": 29194,
+	"steamid": "85568392930454887",
+	"name": "[CS:GO] AWP Lego [128tick | !ws !knife !gl !viptest]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,!knife,!gloves,!ws,gl,freevip,viptest,vip,lego,ru,tula,ua,duel,24/7,cases,drop,128,skins,128tick,awplego"
+}

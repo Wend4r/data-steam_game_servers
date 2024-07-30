@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.247.210:26569",
+	"gameport": 26569,
+	"steamid": "85568392931043748",
+	"name": "KIT SC eSports Scrim Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

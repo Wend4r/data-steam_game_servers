@@ -1,0 +1,19 @@
+{
+	"addr": "108.62.103.140:27015",
+	"gameport": 27015,
+	"steamid": "90200486772481027",
+	"name": "[rc.noob.club] CS2KZ [Chicago]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "bkz_goldbhop",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

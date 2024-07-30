@@ -1,0 +1,19 @@
+{
+	"addr": "95.156.225.5:27016",
+	"gameport": 27016,
+	"steamid": "85568392920070445",
+	"name": "-=MiniGames=-",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "mg_damons_headshot_b2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

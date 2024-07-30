@@ -1,0 +1,19 @@
+{
+	"addr": "213.189.55.56:27195",
+	"gameport": 27195,
+	"steamid": "85568392931348508",
+	"name": "--CS2 tgmavericks #8slot server--@pukawka.pl",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "45.62.160.102:27015",
+	"gameport": 27015,
+	"steamid": "85568392931776170",
+	"name": "Dick's 2018 HvH",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 21,
+	"max_players": 40,
+	"bots": 0,
+	"map": "cs_office_night",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "2018 hvh,brain,brain cell,brain cell removal,brain removal,hvh,legacy hvh,old hvh,insecure"
+}

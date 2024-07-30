@@ -1,0 +1,19 @@
+{
+	"addr": "185.242.115.38:27125",
+	"gameport": 27125,
+	"steamid": "85568392931954305",
+	"name": "-=WarmupServer=-™ Mirage 23 ★MultiCFG™★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "51.38.152.219:27018",
+	"gameport": 27018,
+	"specport": 30018,
+	"steamid": "85568392931324803",
+	"name": "██★ UtopiaFPS.pl ★ [5VS5 #2] ⚫ SKINY/KOSY/RĘKAWICZKI",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,polsk,"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "188.212.102.127:27015",
+	"gameport": 27015,
+	"steamid": "85568392931222481",
+	"name": "★ [CSGO] GO.FACKRYGUNS.RO | 128 tick | !CASE | !QUEST | !AGEN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,csgo !ws !knife,du,duv2,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "176.9.1.105:27295",
+	"gameport": 27295,
+	"steamid": "85568392922293504",
+	"name": "3.Trainingsserver  The Mercenarys",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.4.8",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

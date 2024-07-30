@@ -1,0 +1,20 @@
+{
+	"addr": "145.239.23.149:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392922589339",
+	"name": "▉ ★ Fragujemy.com ★ [ MIRAGE #03 ] :: TR128",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 2,
+	"bots": 3,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,-,.,128,128tr,24/7,aim,am,dm,download,eu,fast,ffa,frag,fragujemy,headshot,hs,mirage,multi,pistols,pl,rank,secure"
+}

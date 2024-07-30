@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.103:26069",
+	"gameport": 26069,
+	"steamid": "90200485742631947",
+	"name": "SH | Scoutzknivez 24/7 | EU | ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "scoutzknivez",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

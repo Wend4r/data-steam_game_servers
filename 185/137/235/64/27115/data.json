@@ -1,0 +1,19 @@
+{
+	"addr": "185.137.235.64:27115",
+	"gameport": 27115,
+	"steamid": "85568392931777057",
+	"name": "★ FRAGSHOT ★CSGO★ | MIRAGE| 128TICK | !WS !KN !GL | NIGHT",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 13,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!lvl,!shop,!ws,FREE,K,SKINS,agents,awp,frag,gloves,knife,lvl,ovn,premium,pub,public,rs,shop,shot,stickers,vip,ws"
+}

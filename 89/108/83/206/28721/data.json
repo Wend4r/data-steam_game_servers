@@ -1,0 +1,19 @@
+{
+	"addr": "89.108.83.206:28721",
+	"gameport": 28721,
+	"steamid": "85568392924993196",
+	"name": "This is CSDM | ПУШКИ + ЛАЗЕРЫ | БЛАСТЕРЫ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 33,
+	"max_players": 50,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,csdm,dm,sentry,guns,new,x,sentry guns,ekb,windows,linux,maxplayers,czv,super,cybershoke"
+}

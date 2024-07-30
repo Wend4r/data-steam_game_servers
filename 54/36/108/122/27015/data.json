@@ -1,0 +1,20 @@
+{
+	"addr": "54.36.108.122:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392924150099",
+	"name": "ARTRIX.PL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,artrix.pl twoj internetowy domek na drzewie,secure"
+}

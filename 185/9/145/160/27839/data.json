@@ -1,0 +1,20 @@
+{
+	"addr": "185.9.145.160:27839",
+	"gameport": 27839,
+	"specport": 37839,
+	"steamid": "85568392931786668",
+	"name": "AWP ONLY | 128 Tickrate [!ws !knife !gloves !agents]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 4,
+	"max_players": 32,
+	"bots": 1,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,csgo,secure"
+}

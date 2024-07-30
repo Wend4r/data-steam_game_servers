@@ -1,0 +1,19 @@
+{
+	"addr": "147.45.113.36:43175",
+	"gameport": 43175,
+	"steamid": "85568392931588119",
+	"name": "Freezing-Blood CS:GO | MIRAGE #1 | 128tick | AntiCheat",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+}

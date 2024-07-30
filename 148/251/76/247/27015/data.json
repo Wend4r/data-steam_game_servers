@@ -1,0 +1,19 @@
+{
+	"addr": "148.251.76.247:27015",
+	"gameport": 27015,
+	"steamid": "90099179073928195",
+	"name": "FanPlayDE CS:GO Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.34.6.8",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "gg_lego2011_csgo_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Community,FanPlay,Fun,secure"
+}

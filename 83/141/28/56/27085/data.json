@@ -1,0 +1,19 @@
+{
+	"addr": "83.141.28.56:27085",
+	"gameport": 27085,
+	"steamid": "85568392920048077",
+	"name": "prefire.ckras.com | Prefire Practice CKRAS Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,insecure"
+}

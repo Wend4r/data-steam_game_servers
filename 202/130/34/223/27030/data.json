@@ -1,0 +1,20 @@
+{
+	"addr": "202.130.34.223:27030",
+	"gameport": 27030,
+	"specport": 26115,
+	"steamid": "85568392926396978",
+	"name": "♚ KZG | AWP 24/7 | 128tick | Ranks [WS/KNIFE/GLOVES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 30,
+	"bots": 1,
+	"map": "awp_india_tf_",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,aim,awp,!ws,!knife,[KZG],AU,australia,awp_,cs_,arena,de_,free skins,gloves,killzone gaming,killzonegaming,kzg,kzg,gameME,"
+}

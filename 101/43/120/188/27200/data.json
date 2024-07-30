@@ -1,0 +1,20 @@
+{
+	"addr": "101.43.120.188:27200",
+	"gameport": 27200,
+	"specport": 27220,
+	"steamid": "85568392931982042",
+	"name": "R0对战平台天梯服务器 上海52",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 9,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

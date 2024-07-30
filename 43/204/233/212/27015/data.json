@@ -1,0 +1,19 @@
+{
+	"addr": "43.204.233.212:27015",
+	"gameport": 27015,
+	"steamid": "85568392925844345",
+	"name": "MastBaiters Serber",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

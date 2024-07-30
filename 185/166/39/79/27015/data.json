@@ -1,0 +1,19 @@
+{
+	"addr": "185.166.39.79:27015",
+	"gameport": 27015,
+	"steamid": "85568392931441424",
+	"name": "[FR] DM MultiCFG Dust2 Only << powered by weeeSERVER HQ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 4,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,deathmatch,weeeserver,secure"
+}

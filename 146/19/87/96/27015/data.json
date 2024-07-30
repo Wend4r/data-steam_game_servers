@@ -1,0 +1,19 @@
+{
+	"addr": "146.19.87.96:27015",
+	"gameport": 27015,
+	"steamid": "85568392930789571",
+	"name": "[CS:GO] ИЗИ ДЛЯ ПАПИЗИ |!WS !KNIFE !GLOVES|",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gloves,!knife,!lvl,!msk,!pub,!vip,!ws,secure"
+}

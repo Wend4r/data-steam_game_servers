@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.102:27730",
+	"gameport": 27730,
+	"steamid": "85568392931055580",
+	"name": "[CS2] [CZ/SK/EU] FIRELORDS RANDOM SKILLS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

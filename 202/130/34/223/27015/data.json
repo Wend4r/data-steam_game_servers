@@ -1,0 +1,20 @@
+{
+	"addr": "202.130.34.223:27015",
+	"gameport": 27015,
+	"specport": 26025,
+	"steamid": "85568392926396999",
+	"name": "♚ KZG | Combat Surf 100% AWP|100tick|!ws|!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 32,
+	"bots": 1,
+	"map": "surf_greatriver_xdream_gg",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,combat surf,aus,am_,de_dust2,gloves,ffa,!ws,!knife,combat,killzone gaming,killzone,knife,kzg,paints,skill,skins,surf,surf"
+}

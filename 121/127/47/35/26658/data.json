@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.47.35:26658",
+	"gameport": 26658,
+	"steamid": "85568392931714499",
+	"name": "Poolday Arms Race FFA (AU)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

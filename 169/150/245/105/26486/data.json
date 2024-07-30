@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.105:26486",
+	"gameport": 26486,
+	"steamid": "85568392931977274",
+	"name": "gen scrim",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

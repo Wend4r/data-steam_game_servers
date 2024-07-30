@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.168:26769",
+	"gameport": 26769,
+	"specport": 26770,
+	"steamid": "90200480438040603",
+	"name": "5x5 games",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

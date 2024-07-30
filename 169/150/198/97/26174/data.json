@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.198.97:26174",
+	"gameport": 26174,
+	"steamid": "85568392930706882",
+	"name": "CS AJU",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,trn,troianos,insecure"
+}

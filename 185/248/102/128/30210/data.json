@@ -1,0 +1,19 @@
+{
+	"addr": "185.248.102.128:30210",
+	"gameport": 30210,
+	"steamid": "90200276444473348",
+	"name": "UX_Live_Classic",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

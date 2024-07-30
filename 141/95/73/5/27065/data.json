@@ -1,0 +1,19 @@
+{
+	"addr": "141.95.73.5:27065",
+	"gameport": 27065,
+	"steamid": "90197808917061645",
+	"name": "GMC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 15,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

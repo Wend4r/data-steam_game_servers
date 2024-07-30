@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.222.237:48125",
+	"gameport": 48125,
+	"steamid": "90200482304829455",
+	"name": "BoringPlayer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

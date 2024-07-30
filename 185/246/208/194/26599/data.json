@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.208.194:26599",
+	"gameport": 26599,
+	"steamid": "85568392931822769",
+	"name": "CS2 AWP / FEFETEAM.PL / SKINS WITDRAW",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 8,
+	"map": "awp_lego_2_carton",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,awp,coins,cs2,cs2 awp,cs2 only awp,gosetti.pl:41432,only "
+}

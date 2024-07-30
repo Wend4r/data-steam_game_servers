@@ -1,0 +1,19 @@
+{
+	"addr": "135.181.230.67:30408",
+	"gameport": 30408,
+	"steamid": "85568392930028344",
+	"name": "★CS2★ FRAGSHOT ★ | FUN DUST2 | SKINS | MODELS | SHOP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,admin,frag,mirage,only,ovn,pub,public,shot,vip,se"
+}

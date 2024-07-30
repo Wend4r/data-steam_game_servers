@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.59:27487",
+	"gameport": 27487,
+	"steamid": "85568392931650571",
+	"name": "PLAYzone #15 by FakaHeda.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,PLAYzone,secure"
+}

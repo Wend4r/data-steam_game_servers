@@ -1,0 +1,19 @@
+{
+	"addr": "62.113.105.211:27158",
+	"gameport": 27158,
+	"steamid": "85568392929140396",
+	"name": "Develop Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": " 1.40.2.3\"",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "mg_metal_course_level_hdr",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "gloves,knife,ws,viptest,minigame,multimaps,awp,aim,surf,bhop,noprime,rank,mg,drop,h4fru"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "74.91.120.178:27015",
+	"gameport": 27015,
+	"steamid": "85568392930486141",
+	"name": "Gold Coast | Playtesting & Feedback",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 33,
+	"bots": 0,
+	"map": "de_goldcoast",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!glove,!knife,!ws,128 tick,awp,awp india,awp lego,awp leg"
+}

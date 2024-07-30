@@ -1,0 +1,19 @@
+{
+	"addr": "103.103.192.175:27023",
+	"gameport": 27023,
+	"steamid": "90199961876678666",
+	"name": "#3 udee CS2 server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

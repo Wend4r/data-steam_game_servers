@@ -1,0 +1,19 @@
+{
+	"addr": "45.144.155.102:27051",
+	"gameport": 27051,
+	"steamid": "90199277855839243",
+	"name": "БЪЛГАРСКА СВИРКА",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

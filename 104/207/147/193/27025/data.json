@@ -1,0 +1,19 @@
+{
+	"addr": "104.207.147.193:27025",
+	"gameport": 27025,
+	"steamid": "85568392923566769",
+	"name": "ROI Machines Fun Private",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.7.4",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "151.252.104.9:27015",
+	"gameport": 27015,
+	"steamid": "85568392924516301",
+	"name": "aSports | KRASNODAR | 5x5 | Only Prime",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,5v5,5x5,Alohasports,Krasnodar,Retake,Retakes,aSports,prim"
+}

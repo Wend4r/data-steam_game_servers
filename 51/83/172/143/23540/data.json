@@ -1,0 +1,19 @@
+{
+	"addr": "51.83.172.143:23540",
+	"gameport": 23540,
+	"steamid": "90200427998632975",
+	"name": "ServerProject.pl | CS 2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pl,svpj,secure"
+}

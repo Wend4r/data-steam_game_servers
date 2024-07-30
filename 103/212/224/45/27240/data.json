@@ -1,0 +1,19 @@
+{
+	"addr": "103.212.224.45:27240",
+	"gameport": 27240,
+	"steamid": "85568392931399786",
+	"name": "♚ KZG | Retakes #3 | Skins | Ranks ♚",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,knife,killzone,kz,!ws,dust,aim,de_,kzg,mirage,practice,re"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "85.190.139.200:25565",
+	"gameport": 25565,
+	"steamid": "90200483394263053",
+	"name": "[BERLIN 2] XPERION INTEL Event - Powered By Intel & Nitrado/Ape",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.4",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

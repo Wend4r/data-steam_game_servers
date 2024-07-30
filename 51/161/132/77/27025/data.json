@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.77:27025",
+	"gameport": 27025,
+	"steamid": "90168664314570764",
+	"name": "CS:GO - Windows - New Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "202.130.34.223:27060",
+	"gameport": 27060,
+	"specport": 26100,
+	"steamid": "85568392926397004",
+	"name": "♚ KZG | Surf - Top 200 | killzone.gg ♚",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 1,
+	"max_players": 22,
+	"bots": 5,
+	"map": "surf_hotwheels",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "bhop,am_,de_dust2,aim,aus,!ws,!knife,gloves,ffa,killzone,combat,killzone gaming,knife,kzg,skill,skins,surf,surfing,ws,gameME,se"
+}

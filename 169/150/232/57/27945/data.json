@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.232.57:27945",
+	"gameport": 27945,
+	"steamid": "85568392926038287",
+	"name": "FemboyKZ | NA | Public | 64t VNL AutoBhop",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "kz_baxter",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,64-tick,64t,64tick,KZ,Kreedz,NA,VNL,abh,autobh,autobhop,breezetix,clarit,clarity,femboy,femboykz,fkz,kz,movement,na,vanil"
+}

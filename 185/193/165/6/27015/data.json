@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.6:27015",
+	"gameport": 27015,
+	"steamid": "85568392931885835",
+	"name": "[TR] Hanedan ★ JAILBREAK ★ | !market !cf !rulet !crash - pr",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "surf_ski_2_x",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+}

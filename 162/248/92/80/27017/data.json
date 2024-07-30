@@ -1,0 +1,19 @@
+{
+	"addr": "162.248.92.80:27017",
+	"gameport": 27017,
+	"steamid": "85568392922245695",
+	"name": "sneaK's Dev Bhop Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 32,
+	"bots": 1,
+	"map": "bhop_sativa",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,csgo,free,anticheat,easy,bhop,fun,climb,gloves,server,knife,kz,game,server,map,skin,sneak,stat,store,surf,timer,vip,secur"
+}

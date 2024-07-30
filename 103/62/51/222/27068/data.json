@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.51.222:27068",
+	"gameport": 27068,
+	"steamid": "85568392924354121",
+	"name": "Work Buddies CS:2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "fy_pool_day",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

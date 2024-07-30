@@ -1,0 +1,20 @@
+{
+	"addr": "101.42.153.149:27200",
+	"gameport": 27200,
+	"specport": 27220,
+	"steamid": "85568392929769127",
+	"name": "R0对战平台娱乐满十 北京 [NEED 10]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_mirage_plus",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

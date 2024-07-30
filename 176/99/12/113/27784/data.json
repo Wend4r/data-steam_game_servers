@@ -1,0 +1,19 @@
+{
+	"addr": "176.99.12.113:27784",
+	"gameport": 27784,
+	"steamid": "85568392924871884",
+	"name": "ZOMBIE ESCAPE~{Survivor|Nemesis}~CS:GO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 41,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,ze,zombie,escape,zm,zr,shop,store,vip,zombie reloaded,zombie escape,cybershoke,cvz,freevip,ru,en,windows,linux,msk,moscow"
+}

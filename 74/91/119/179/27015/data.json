@@ -1,0 +1,19 @@
+{
+	"addr": "74.91.119.179:27015",
+	"gameport": 27015,
+	"steamid": "85568392930649940",
+	"name": "Surf's Up! - Advanced | Tiers 4-8 | 85 Tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "surf_solace",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,85tick,csgo,surf,surfsup,surfsupcs,secure"
+}

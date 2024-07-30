@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.214.129:1337",
+	"gameport": 1337,
+	"steamid": "85568392931675832",
+	"name": "[Ru|HvH] Redux MM only Mirage #1 REBORN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 8,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16k,35hp,HVH,HVH MM,MM,ak,awp,csgo,dm,dust,hvh,hvh mm,mm,mm,public,ru,russia,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "193.124.118.86:20041",
+	"gameport": 20041,
+	"steamid": "85568392931954600",
+	"name": "CS2 - BlueSen #3 | MANIAC PRO | SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "seek_town_bs",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hns, mamiac, anime, awp, ws, gl, gloves, knife, public, fpspublic, bluesen"
+}

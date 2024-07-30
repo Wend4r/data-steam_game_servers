@@ -1,0 +1,19 @@
+{
+	"addr": "130.61.61.2:27015",
+	"gameport": 27015,
+	"steamid": "85568392925933399",
+	"name": "Baj Surf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,64-tick,artifact,baj,forsen,pepega,redni,sauron,surf,surfing,timer,secure"
+}

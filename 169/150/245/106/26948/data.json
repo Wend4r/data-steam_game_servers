@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.106:26948",
+	"gameport": 26948,
+	"steamid": "90200485763597326",
+	"name": "KippiePang#.",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

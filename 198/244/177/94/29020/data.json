@@ -1,0 +1,19 @@
+{
+	"addr": "198.244.177.94:29020",
+	"gameport": 29020,
+	"steamid": "90200436838523934",
+	"name": "Angry Gamers",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.0",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

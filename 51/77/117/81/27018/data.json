@@ -1,0 +1,19 @@
+{
+	"addr": "51.77.117.81:27018",
+	"gameport": 27018,
+	"steamid": "85568392920151013",
+	"name": "[MG-4] Mestro Surf Timer | Tier 1-6 | High TR | FastDL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 48,
+	"bots": 0,
+	"map": "surf_kitsune2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,easy,easysurf,mestro,mg,surf,secure"
+}

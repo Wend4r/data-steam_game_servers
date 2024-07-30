@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.45.129:26401",
+	"gameport": 26401,
+	"specport": 26402,
+	"steamid": "90200485748018182",
+	"name": "Skanderborg STU",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "ar_pool_day",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

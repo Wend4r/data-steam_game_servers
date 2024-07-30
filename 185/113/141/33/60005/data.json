@@ -1,0 +1,19 @@
+{
+	"addr": "185.113.141.33:60005",
+	"gameport": 60005,
+	"steamid": "85568392930980703",
+	"name": "[PT] Tuga Army • Retakes #1 [Only Mirage]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

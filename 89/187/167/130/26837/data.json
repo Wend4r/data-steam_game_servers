@@ -1,0 +1,19 @@
+{
+	"addr": "89.187.167.130:26837",
+	"gameport": 26837,
+	"steamid": "90200485734757394",
+	"name": "Gather Central ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mills",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

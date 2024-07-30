@@ -1,0 +1,19 @@
+{
+	"addr": "185.189.14.228:27114",
+	"gameport": 27114,
+	"steamid": "85568392931713439",
+	"name": "CS2 [iDGAME.NET] AWP OnLy",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 25,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

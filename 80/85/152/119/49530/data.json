@@ -1,0 +1,19 @@
+{
+	"addr": "80.85.152.119:49530",
+	"gameport": 49530,
+	"steamid": "85568392931527825",
+	"name": "BLACK RUSSIA CS:2 [ FPS+ #1 ]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 5,
+	"max_players": 28,
+	"bots": 0,
+	"map": "de_mirage_fps",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "92.223.109.39:29606",
+	"gameport": 29606,
+	"steamid": "85568392924420201",
+	"name": "Super CSDM [Sentry Guns|Lasers|Robots]/CS:GO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 36,
+	"max_players": 40,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russia,net4all.ru,secure,ski,spb,skins,vip,z,ze,zm,zombie,zombies,zr"
+}

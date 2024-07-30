@@ -1,0 +1,20 @@
+{
+	"addr": "212.12.15.54:27017",
+	"gameport": 27017,
+	"specport": 37017,
+	"steamid": "85568392931776985",
+	"name": "[RussianGang] AWP Lego [CS:GO | 128tick | !ws !knife !gl]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 14,
+	"max_players": 25,
+	"bots": 1,
+	"map": "rg/awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,128,128tick,24/7,awp,drop,duel,free,gl,lego,pro,ranks,ru,rusgang,russiangang,skins,ua,vip,viptest,secure"
+}

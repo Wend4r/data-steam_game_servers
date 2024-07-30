@@ -1,0 +1,19 @@
+{
+	"addr": "51.222.11.186:28035",
+	"gameport": 28035,
+	"steamid": "85568392931838627",
+	"name": "Float Inspect Server 5",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "37.221.209.184:27020",
+	"gameport": 27020,
+	"steamid": "85568392931602684",
+	"name": "<<eb@>> CS2 Test @ ebateam.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "am_minecraftfix1_1s2k",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

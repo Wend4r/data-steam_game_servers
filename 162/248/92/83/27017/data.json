@@ -1,0 +1,19 @@
+{
+	"addr": "162.248.92.83:27017",
+	"gameport": 27017,
+	"steamid": "85568392922330035",
+	"name": "sneaK's GOKZ Climb !ws|!knife|!gloves|Global|128T|FastDL|Store",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 26,
+	"bots": 0,
+	"map": "kz_slowerrun",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
+}

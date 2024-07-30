@@ -1,0 +1,19 @@
+{
+	"addr": "202.189.15.60:27025",
+	"gameport": 27025,
+	"steamid": "85568392930481431",
+	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 4,
+	"players": 63,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ze_s_a_m",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "exg,ze,僵尸逃跑,secure"
+}

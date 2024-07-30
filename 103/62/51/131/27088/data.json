@@ -1,0 +1,20 @@
+{
+	"addr": "103.62.51.131:27088",
+	"gameport": 27088,
+	"specport": 28088,
+	"steamid": "85568392924974929",
+	"name": "K test",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "51.161.199.33:27022",
+	"gameport": 27022,
+	"specport": 27108,
+	"steamid": "85568392926555728",
+	"name": "SurfHeaven // Down Under // Open Beta #8",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 1,
+	"max_players": 40,
+	"bots": 3,
+	"map": "surf_arcade",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+}

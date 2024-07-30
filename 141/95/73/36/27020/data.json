@@ -1,0 +1,19 @@
+{
+	"addr": "141.95.73.36:27020",
+	"gameport": 27020,
+	"steamid": "85568392931393743",
+	"name": "K4ryuu ! Test Server ! kitsune-lab.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 7,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dev,k4ryuu,kitsune,kitsunelab,lab,test,secure"
+}

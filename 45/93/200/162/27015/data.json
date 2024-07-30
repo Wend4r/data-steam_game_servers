@@ -1,0 +1,20 @@
+{
+	"addr": "45.93.200.162:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931847747",
+	"name": "[CSGO] CYBERNETIKA.NET - AWP LEGO 2 [FREE VIP 30D]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 1,
+	"map": "awp_lego_2_frist",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tick,1mpulse,LKv2,agents,awp,awp lego 2,cyber,cybernetika,du,duv2,gl,gloves,knife,moscow,st,stickers,ws,secure"
+}

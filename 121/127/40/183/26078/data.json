@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.183:26078",
+	"gameport": 26078,
+	"steamid": "90200485778065409",
+	"name": "Savage Scrim Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "193.19.119.127:30200",
+	"gameport": 30200,
+	"steamid": "85568392930494982",
+	"name": "TATARSTAN PUBLIC SERVER !PUBLIC! CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 22,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

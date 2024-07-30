@@ -1,0 +1,19 @@
+{
+	"addr": "164.132.149.96:27015",
+	"gameport": 27015,
+	"steamid": "90200486216375315",
+	"name": "unless boi",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 15,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,VeryGames VG,secure"
+}

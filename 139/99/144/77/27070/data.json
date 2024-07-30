@@ -1,0 +1,19 @@
+{
+	"addr": "139.99.144.77:27070",
+	"gameport": 27070,
+	"steamid": "85568392927884538",
+	"name": "♚ KZG | FunMod Aim/Awp 128tick | kzg.gg ♚",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 40,
+	"bots": 0,
+	"map": "awp_space",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,aim,am_,!ws,!knife,au,de_,australia,aus,killzone,kzg,bhop_,knife,surf,de_dust2,fun,funmod,bhop,mod,skill,ws,gameME,secure"
+}

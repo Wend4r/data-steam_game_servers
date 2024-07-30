@@ -1,0 +1,19 @@
+{
+	"addr": "138.199.12.138:26079",
+	"gameport": 26079,
+	"steamid": "85568392931267876",
+	"name": "TheGamingLounge Community Server | Workshop Maps 24/7",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_rats_kitchoon",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

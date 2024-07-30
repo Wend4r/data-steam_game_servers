@@ -1,0 +1,20 @@
+{
+	"addr": "83.141.28.247:27260",
+	"gameport": 27260,
+	"specport": 27270,
+	"steamid": "85568392925207292",
+	"name": "CKRAS - www.ckras.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "cs_italy",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+}

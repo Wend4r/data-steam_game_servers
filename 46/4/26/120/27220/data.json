@@ -1,0 +1,19 @@
+{
+	"addr": "46.4.26.120:27220",
+	"gameport": 27220,
+	"steamid": "90200454112658453",
+	"name": "[FwG] Dust 2 Deathmatch Discord: fwgclan.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.4",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

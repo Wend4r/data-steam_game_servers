@@ -1,0 +1,19 @@
+{
+	"addr": "84.118.97.202:27017",
+	"gameport": 27017,
+	"steamid": "85568392930302539",
+	"name": "[SEtI]-Server Casual",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

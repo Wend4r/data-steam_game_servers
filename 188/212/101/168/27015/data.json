@@ -1,0 +1,19 @@
+{
+	"addr": "188.212.101.168:27015",
+	"gameport": 27015,
+	"steamid": "85568392932001637",
+	"name": "[CS2] PLAY.OLDTIMES.GG | FUN | CLASSIC NOSTALGIA | discord.gg/o",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "aim_map",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "128,AntiCheat,aim,secure"
+}

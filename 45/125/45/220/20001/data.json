@@ -1,0 +1,19 @@
+{
+	"addr": "45.125.45.220:20001",
+	"gameport": 20001,
+	"steamid": "85568392931257558",
+	"name": "[HIME] PVB天梯对战 CSGO怀旧服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "valve",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "xuebi,himeneko,neko,hime,run,bot,x,aug,god,kod,tg"
+}

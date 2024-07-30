@@ -1,0 +1,20 @@
+{
+	"addr": "45.83.245.218:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392925023089",
+	"name": "EU | ClarityEU.com - 102T [Tier 1-8] | !GLOVES !KNIFE !WS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 29,
+	"bots": 1,
+	"map": "surf_life_of_duck",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102-tick,BG,SurfTimer,broken fang,clarity,clarityeu.com,claritysurf,hard,knife,new skins,riptide,skins,t3,t4,t5,t6,t7,t8,"
+}

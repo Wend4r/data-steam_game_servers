@@ -1,0 +1,19 @@
+{
+	"addr": "45.144.155.150:27015",
+	"gameport": 27015,
+	"steamid": "85568392931823317",
+	"name": "[CS2]HH-GaminG.EU #Surf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "surf_boreas",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

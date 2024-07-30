@@ -1,0 +1,19 @@
+{
+	"addr": "15.204.244.114:27015",
+	"gameport": 27015,
+	"steamid": "85568392931849760",
+	"name": "Suckless CS:GO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ar_shoots",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

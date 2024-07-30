@@ -1,0 +1,19 @@
+{
+	"addr": "91.211.118.156:27065",
+	"gameport": 27065,
+	"specport": 28065,
+	"steamid": "85568392925864575",
+	"name": "4CHILL ▮ FPS ПАБЛИК #3 ▮ !KNIFE !WS !CASE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 6,
+	"max_players": 10,
+	"bots": 0,
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "4chill,csgo,fps,128,ws,knife,fpsboost,ckgaming,forchill,europe,knife,gloves,secure"
+}

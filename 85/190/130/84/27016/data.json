@@ -1,0 +1,20 @@
+{
+	"addr": "85.190.130.84:27016",
+	"gameport": 27016,
+	"specport": 27020,
+	"steamid": "90200477590325251",
+	"name": "DZ Community Server - Baked420",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 255,
+	"bots": 1,
+	"map": "/2404580724/dz_county",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,danger-zone,dangerzone,dz,secure"
+}

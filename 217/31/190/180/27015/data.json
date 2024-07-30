@@ -1,0 +1,19 @@
+{
+	"addr": "217.31.190.180:27015",
+	"gameport": 27015,
+	"steamid": "85568392931287057",
+	"name": "NoRusskie Counter-Strike 2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

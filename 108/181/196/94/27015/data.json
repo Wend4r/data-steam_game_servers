@@ -1,0 +1,20 @@
+{
+	"addr": "108.181.196.94:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "90200186822052887",
+	"name": "TurboCSGO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 11,
+	"map": "ar_shoots",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

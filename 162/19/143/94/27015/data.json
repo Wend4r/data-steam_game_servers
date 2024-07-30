@@ -1,0 +1,20 @@
+{
+	"addr": "162.19.143.94:27015",
+	"gameport": 27015,
+	"specport": 27105,
+	"steamid": "85568392920053114",
+	"name": " SurfHeaven #5 Top 250/VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 40,
+	"bots": 1,
+	"map": "surf_echo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!knife,!ws,64tick,SurfHeaven,autobhop,cs20,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,secure"
+}

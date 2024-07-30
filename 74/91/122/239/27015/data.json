@@ -1,0 +1,20 @@
+{
+	"addr": "74.91.122.239:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392930588711",
+	"name": "Fightnight",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 33,
+	"bots": 1,
+	"map": "/1723172623/de_abbey",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

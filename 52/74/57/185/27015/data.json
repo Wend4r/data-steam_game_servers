@@ -1,0 +1,20 @@
+{
+	"addr": "52.74.57.185:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392924889648",
+	"name": "GasterGaming.com | GOKZ Climb | !knife !ws !store | 128T SEA.",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "kz_slide_pallokala",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,GOKZ Climb,KZTimer,Tickrate 128,du,duv2,gaster,jumpstats,kz,kzt,parkour,skz,surf,vnl,secure"
+}

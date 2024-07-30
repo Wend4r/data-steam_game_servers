@@ -1,0 +1,19 @@
+{
+	"addr": "93.186.198.156:27115",
+	"gameport": 27115,
+	"steamid": "85568392931838693",
+	"name": "[DE] salkiN's Retake Bude",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,aim,de,german,retak,retake,training,warmup,secure"
+}

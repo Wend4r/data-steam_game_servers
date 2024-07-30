@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.51.133:27068",
+	"gameport": 27068,
+	"steamid": "90199726902109204",
+	"name": "JuxCoOp: CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 23,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,JuxCoOp,secure"
+}

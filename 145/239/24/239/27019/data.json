@@ -1,0 +1,20 @@
+{
+	"addr": "145.239.24.239:27019",
+	"gameport": 27019,
+	"specport": 30019,
+	"steamid": "85568392931621122",
+	"name": "██ ★ FAIRGAME.pl ★ [AIM] ⚫ SKINY / RANK / VIP ⚫",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.2",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "sc_1v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

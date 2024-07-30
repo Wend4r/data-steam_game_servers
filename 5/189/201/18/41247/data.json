@@ -1,0 +1,19 @@
+{
+	"addr": "5.189.201.18:41247",
+	"gameport": 41247,
+	"steamid": "85568392931582670",
+	"name": "ARIZONA CS:2 CS:2 [ MIRAGE #4 ]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "157.90.1.110:27018",
+	"gameport": 27018,
+	"steamid": "85568392931848363",
+	"name": "CS2 DM | FFA #109 [DE] — CYBERSHOKE.NET (MEDIUM)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 17,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,de_mirage,de,cybershoke,aim,cyber,128,128tick,deathmatch,"
+}

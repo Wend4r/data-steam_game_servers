@@ -1,0 +1,19 @@
+{
+	"addr": "193.162.143.112:37018",
+	"gameport": 37018,
+	"steamid": "85568392924428512",
+	"name": "[ZE] Zombie Escape Mod/CS:GO [Russia]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 55,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ze_Pirates_Port_Royal_v5_6",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russia,net4all.ru,secure,ski,spb,skins,vip,z,ze,zm,zombie,zombies,zr"
+}

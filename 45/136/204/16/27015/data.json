@@ -1,0 +1,20 @@
+{
+	"addr": "45.136.204.16:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392930893003",
+	"name": "[CS:GO] ★SURF+RPG #2★ Bce для пaцaнoв [PACANOFF.RU]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 5,
+	"max_players": 40,
+	"bots": 0,
+	"map": "surf_cram_pacanoff",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,wcs,ws"
+}

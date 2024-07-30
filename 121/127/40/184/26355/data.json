@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.184:26355",
+	"gameport": 26355,
+	"steamid": "90200485905131522",
+	"name": "jawk",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

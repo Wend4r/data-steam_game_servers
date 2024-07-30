@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.200:27014",
+	"gameport": 27014,
+	"steamid": "85568392925772631",
+	"name": "UB社区 攀岩竞速 #01 GOKZ T1-T3 Q群 477871624",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 32,
+	"bots": 0,
+	"map": "kz_nightfall",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

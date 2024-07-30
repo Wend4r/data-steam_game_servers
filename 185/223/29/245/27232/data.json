@@ -1,0 +1,19 @@
+{
+	"addr": "185.223.29.245:27232",
+	"gameport": 27232,
+	"steamid": "85568392931415880",
+	"name": "CS2 ARENA Generatii Romania",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "am_sauna",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

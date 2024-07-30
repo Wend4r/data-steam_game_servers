@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.92.26:27020",
+	"gameport": 27020,
+	"steamid": "85568392931393811",
+	"name": "[CS2] EXTREME SHOT MIRAGE | #2 [ONLY][MIRAGE] | !ws, !knife, !g",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tick,agents,bhop,classic,de,dust,gl,gloves,knife,m"
+}

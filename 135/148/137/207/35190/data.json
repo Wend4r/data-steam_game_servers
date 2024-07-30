@@ -1,0 +1,19 @@
+{
+	"addr": "135.148.137.207:35190",
+	"gameport": 35190,
+	"steamid": "85568392925047393",
+	"name": "GoFree US#10 | Surf 85t Tier1 (Easy Maps) !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 45,
+	"bots": 0,
+	"map": "surf_boreas",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_"
+}

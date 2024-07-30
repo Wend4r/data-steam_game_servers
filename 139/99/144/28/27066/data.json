@@ -1,0 +1,20 @@
+{
+	"addr": "139.99.144.28:27066",
+	"gameport": 27066,
+	"specport": 27020,
+	"steamid": "85568392926107658",
+	"name": "OZLIN INFO | CS:GO ZE Zombie Laser Training 24/7 - Australia",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 24,
+	"bots": 1,
+	"map": "ze_obj_npst_v2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,insecure"
+}

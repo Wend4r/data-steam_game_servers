@@ -1,0 +1,19 @@
+{
+	"addr": "185.190.140.95:27717",
+	"gameport": 27717,
+	"steamid": "85568392924648304",
+	"name": "poolparty srv",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 26,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

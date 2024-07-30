@@ -1,0 +1,19 @@
+{
+	"addr": "185.158.114.211:30045",
+	"gameport": 30045,
+	"steamid": "85568392931331773",
+	"name": "[ONLY MIRAGE] SAINTPROJECT 2 [!VIPTEST !WS !KNIFE !REPORT]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "51.75.173.16:27025",
+	"gameport": 27025,
+	"steamid": "85568392920461820",
+	"name": "[MG-10] Mestro Bunnyhop Legacy | VIP | High TR | FastDL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "bhop_mp_stairs_hq_csgo_b1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Tickrate 85,auto,bh,bhop,bunny,ckSurf,ckSurf 1.7,easy,easybhop,mestro,mg,surf,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "51.195.46.23:27019",
+	"gameport": 27019,
+	"steamid": "85568392922241102",
+	"name": "⬣ [FUNPLAY.pro] Public - FFA DM MultiCFG [CS2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 5,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CZ/SK,casual,defuse,drop,fast,free,official,only,premier,"
+}

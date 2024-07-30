@@ -1,0 +1,19 @@
+{
+	"addr": "185.244.51.38:30568",
+	"gameport": 30568,
+	"steamid": "85568392930459051",
+	"name": "[CS:GO] MIRAGE Only [128tick | !ws !knife !gl]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "knife,gloves,ws,gl,viptest,vip,mirage,ru,tula,ua,duel,24/7,freevip,drop,128,skins,cases,cyber,shop"
+}

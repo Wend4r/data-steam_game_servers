@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.93.51:27020",
+	"gameport": 27020,
+	"steamid": "90200390930144269",
+	"name": "CSGOscar",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ar_shoots",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

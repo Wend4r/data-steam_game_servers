@@ -1,0 +1,19 @@
+{
+	"addr": "191.96.229.55:10010",
+	"gameport": 10010,
+	"steamid": "85568392931286945",
+	"name": "00 [Israel] CS2 WePlay # Retakes 4",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CS2,CSGO,IL,Israel,KNIFE,Knife,Retake,Retakes,WEPLAY,WS,W"
+}

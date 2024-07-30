@@ -1,0 +1,19 @@
+{
+	"addr": "103.108.93.5:27020",
+	"gameport": 27020,
+	"steamid": "85568392931820066",
+	"name": "[≡] Skillawper Surf !knife|!ws|!rank|!fov|Surf|Combat",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 1,
+	"players": 0,
+	"max_players": 46,
+	"bots": 1,
+	"map": "surf_chasm",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
+}

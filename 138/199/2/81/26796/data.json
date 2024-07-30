@@ -1,0 +1,20 @@
+{
+	"addr": "138.199.2.81:26796",
+	"gameport": 26796,
+	"specport": 26797,
+	"steamid": "90200485764363278",
+	"name": "Personal Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

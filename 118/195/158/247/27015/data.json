@@ -1,0 +1,19 @@
+{
+	"addr": "118.195.158.247:27015",
+	"gameport": 27015,
+	"steamid": "85568392929765176",
+	"name": "R0对战平台死斗 南京2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,R0对战平台,insecure"
+}

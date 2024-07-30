@@ -1,0 +1,19 @@
+{
+	"addr": "198.244.176.50:27017",
+	"gameport": 27017,
+	"steamid": "85568392922111470",
+	"name": "SameTeem.com - CSGO GunGame - 128 Tick - Public - HLstatsX",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "/234719956/breakwall_minicastle",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-tick,gg,gungame,secure"
+}

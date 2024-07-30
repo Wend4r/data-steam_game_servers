@@ -1,0 +1,19 @@
+{
+	"addr": "23.91.80.50:27016",
+	"gameport": 27016,
+	"steamid": "85568392930598358",
+	"name": "Play Casino Games - Niagara Games",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "casino",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,24/7,aim,blackjack,casino,coinflip,deathmatch,dice,dm,fun"
+}

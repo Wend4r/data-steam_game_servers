@@ -1,0 +1,19 @@
+{
+	"addr": "82.97.250.141:50119",
+	"gameport": 50119,
+	"steamid": "85568392931585521",
+	"name": "eXpidors.Ru | HVH | MM HVH PUBLIC | MIRAGE | Roll Fix",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 8,
+	"max_players": 32,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "194.62.157.236:27200",
+	"gameport": 27200,
+	"steamid": "85568392931619293",
+	"name": "Teamspeak Biergarten - HAVE FUN - www.teamspeak-biergarten.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 48,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "45.136.204.139:20022",
+	"gameport": 20022,
+	"specport": 27020,
+	"steamid": "85568392925098143",
+	"name": "Ge-mT «Go» WCS-CтиЛь [no-steam][CS:GO]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 7,
+	"max_players": 23,
+	"bots": 0,
+	"map": "aim_monsters",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
+}

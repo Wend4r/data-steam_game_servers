@@ -1,0 +1,19 @@
+{
+	"addr": "38.242.192.37:27615",
+	"gameport": 27615,
+	"steamid": "85568392931355050",
+	"name": "Tschango",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 2,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

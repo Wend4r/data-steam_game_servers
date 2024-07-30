@@ -1,0 +1,19 @@
+{
+	"addr": "103.137.14.68:27058",
+	"gameport": 27058,
+	"steamid": "90200328426895382",
+	"name": "The New Nuusy CS 2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Nuus,secure"
+}

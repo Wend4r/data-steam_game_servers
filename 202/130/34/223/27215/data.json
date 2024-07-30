@@ -1,0 +1,19 @@
+{
+	"addr": "202.130.34.223:27215",
+	"gameport": 27215,
+	"steamid": "85568392926396983",
+	"name": "♚ KZG | Retakes #1 128 tick [WS/KNIFE/GLOVES/RAFFLE/RANKS]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,!ws,!knife,casual,comp,arena,1v1,de_,de_dust2,am_,aim_,gloves,retake,executes,killzone,kzg,retakes,mm,dust,knife,ws,gameM"
+}

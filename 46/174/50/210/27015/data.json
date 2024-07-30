@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.50.210:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931627631",
+	"name": "[BR5]-CSGO V2 | FPS+ | 128tick | Skins + VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 2,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage_fps_br",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
+}

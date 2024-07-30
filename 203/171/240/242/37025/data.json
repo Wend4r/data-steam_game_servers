@@ -1,0 +1,19 @@
+{
+	"addr": "203.171.240.242:37025",
+	"gameport": 37025,
+	"steamid": "85568392924234870",
+	"name": "[erulee.com]CSGO Legacy-RETAKES-128T-IN-!ws!knife!gloves!agents",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-Tick,In-game-Stats,Map Vote,Retakes,erulee.com,gameME,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "178.215.228.22:8506",
+	"gameport": 8506,
+	"steamid": "85568392931016801",
+	"name": "EMG powered by Pingless.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

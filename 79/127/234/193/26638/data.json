@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.234.193:26638",
+	"gameport": 26638,
+	"steamid": "90200478298532877",
+	"name": "Villainous powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

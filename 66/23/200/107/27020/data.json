@@ -1,0 +1,19 @@
+{
+	"addr": "66.23.200.107:27020",
+	"gameport": 27020,
+	"steamid": "90199849926905872",
+	"name": "Get your CSGO Server at EliteGameServers.net",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.3.7",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Elitegameservers.net,secure"
+}

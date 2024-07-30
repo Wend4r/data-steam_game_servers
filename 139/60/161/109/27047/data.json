@@ -1,0 +1,19 @@
+{
+	"addr": "139.60.161.109:27047",
+	"gameport": 27047,
+	"steamid": "85568392931846787",
+	"name": "CS2 SURF #51 [US] — CYBERSHOKE.NET (TIER 1 - BEGINNER)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "surf_kitsune",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gloves,85tick,64tick,en,nyc,skillsurf,skin,pro,knife,surf"
+}

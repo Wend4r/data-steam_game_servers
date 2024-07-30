@@ -1,0 +1,19 @@
+{
+	"addr": "162.55.94.181:27034",
+	"gameport": 27034,
+	"steamid": "85568392931848274",
+	"name": "CS2 MINIGAMES #8 [DE] — CYBERSHOKE.NET (FUN MAPS)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 5,
+	"max_players": 64,
+	"bots": 0,
+	"map": "mg_swag_multigames_v7_1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gloves,eu,battle,course,fun,128,128tick,en,germany,knife,"
+}

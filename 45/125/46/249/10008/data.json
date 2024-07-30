@@ -1,0 +1,19 @@
+{
+	"addr": "45.125.46.249:10008",
+	"gameport": 10008,
+	"steamid": "85568392929101707",
+	"name": "CNGOKZ 8服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 3,
+	"max_players": 16,
+	"bots": 0,
+	"map": "kz_bhop_nothing_go",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+}

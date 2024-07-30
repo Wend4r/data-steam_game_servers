@@ -1,0 +1,19 @@
+{
+	"addr": "45.95.115.21:27063",
+	"gameport": 27063,
+	"steamid": "90200472953530389",
+	"name": "Klub Granskoven",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "poolparty2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

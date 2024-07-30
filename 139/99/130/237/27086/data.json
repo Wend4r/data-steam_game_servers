@@ -1,0 +1,20 @@
+{
+	"addr": "139.99.130.237:27086",
+	"gameport": 27086,
+	"specport": 28086,
+	"steamid": "90200467942020122",
+	"name": "LunarEsports | PES",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.4.8",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

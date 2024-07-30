@@ -1,0 +1,19 @@
+{
+	"addr": "5.56.231.110:27018",
+	"gameport": 27018,
+	"steamid": "85568392930582678",
+	"name": "Entertainment4You",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

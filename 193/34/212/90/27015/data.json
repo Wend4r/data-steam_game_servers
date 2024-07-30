@@ -1,0 +1,20 @@
+{
+	"addr": "193.34.212.90:27015",
+	"gameport": 27015,
+	"specport": 28015,
+	"steamid": "85568392931865374",
+	"name": "[PL/EU/UA] HackHaven HVH Project #1|ONLY MIRAGE! MM 16K!",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 5,
+	"max_players": 32,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "HackHaven,HvH,eu,hackhaven,hvh,pl,poland,ua,ukraine,insecure"
+}

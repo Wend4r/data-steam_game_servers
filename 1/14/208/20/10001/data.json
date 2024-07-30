@@ -1,0 +1,19 @@
+{
+	"addr": "1.14.208.20:10001",
+	"gameport": 10001,
+	"steamid": "85568392930403713",
+	"name": "AXE GOKZ 广州 #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 2,
+	"max_players": 16,
+	"bots": 0,
+	"map": "kz_alien_city",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hidden,secure"
+}

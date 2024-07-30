@@ -1,0 +1,19 @@
+{
+	"addr": "185.40.6.31:28016",
+	"gameport": 28016,
+	"steamid": "85568392931847392",
+	"name": "CS2 2X2 | 2v2 #223 [LT] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,2x2,2vs2,2v2,cybershoke,cyber,de_inferno,duel,en,gloves,d"
+}

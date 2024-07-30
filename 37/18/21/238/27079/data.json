@@ -1,0 +1,20 @@
+{
+	"addr": "37.18.21.238:27079",
+	"gameport": 27079,
+	"specport": 47079,
+	"steamid": "85568392930775049",
+	"name": "[РС] ТОТ САМЫЙ MIRAGE CS:GO [128 TIC, !FARM, !WS, !KN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 36,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public,rank,rus,russian,server,stattrak,ws,secure"
+}

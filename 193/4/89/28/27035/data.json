@@ -1,0 +1,20 @@
+{
+	"addr": "193.4.89.28:27035",
+	"gameport": 27035,
+	"specport": 27037,
+	"steamid": "90200401063109633",
+	"name": "Arena Gaming CS2 Server #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

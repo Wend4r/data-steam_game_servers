@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.234.193:26824",
+	"gameport": 26824,
+	"steamid": "90200486274131981",
+	"name": "daitos world",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

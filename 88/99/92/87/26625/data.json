@@ -1,0 +1,19 @@
+{
+	"addr": "88.99.92.87:26625",
+	"gameport": 26625,
+	"steamid": "90199600720453647",
+	"name": "Servers4Gamers.com CS2 Server Hosting",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.4",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

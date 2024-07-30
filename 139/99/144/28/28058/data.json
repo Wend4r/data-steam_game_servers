@@ -1,0 +1,20 @@
+{
+	"addr": "139.99.144.28:28058",
+	"gameport": 28058,
+	"specport": 28020,
+	"steamid": "85568392930330823",
+	"name": "OZLIN INFO | CS2 ZE Zombie Escape | ozlin.info/discord",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 2,
+	"max_players": 64,
+	"bots": 11,
+	"map": "ze_traak_p",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
+}

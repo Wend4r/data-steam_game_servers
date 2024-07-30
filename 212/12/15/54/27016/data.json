@@ -1,0 +1,20 @@
+{
+	"addr": "212.12.15.54:27016",
+	"gameport": 27016,
+	"specport": 37016,
+	"steamid": "85568392931777226",
+	"name": "[RussianGang] Arena 1vs1 [CS:GO | 128tick | !ws !knife !gl]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 19,
+	"max_players": 25,
+	"bots": 1,
+	"map": "rg/am_crashz_dust_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,128,128ti,1v1,1vs1,1x1,24/7,ARENA,aim,am,drop,duel,free,funny,gl,ru,rusgang,russiangang,skins,ua,vip,viptest"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "5.9.149.178:27017",
+	"gameport": 27017,
+	"steamid": "85568392924046480",
+	"name": "MrRetakes #3 – xplay.gg (9 slots)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

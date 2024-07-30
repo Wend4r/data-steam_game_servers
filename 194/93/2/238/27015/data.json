@@ -1,0 +1,20 @@
+{
+	"addr": "194.93.2.238:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931418172",
+	"name": "[CSGO]PSYCHOKIDS|FREE BHOP|FPS+|ZXC|AWPLEGO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 52,
+	"bots": 0,
+	"map": "awp_lego_2_neon_dp",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:5114777i,no-steam,insecure"
+}

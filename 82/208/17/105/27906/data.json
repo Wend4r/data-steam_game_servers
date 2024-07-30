@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.105:27906",
+	"gameport": 27906,
+	"steamid": "85568392931650608",
+	"name": "PLAYzone Tournament #19 By Fakaheda.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,PLAYzone,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "101.43.94.55:27200",
+	"gameport": 27200,
+	"specport": 27220,
+	"steamid": "85568392929764986",
+	"name": "R0对战平台娱乐满十 上海 [NEED 10]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "open_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

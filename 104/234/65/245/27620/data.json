@@ -1,0 +1,19 @@
+{
+	"addr": "104.234.65.245:27620",
+	"gameport": 27620,
+	"steamid": "85568392931760183",
+	"name": "ALUGUE-ME @CLANSERVERS.COM.BR",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.6",
+	"product": "cs2",
+	"region": 2,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

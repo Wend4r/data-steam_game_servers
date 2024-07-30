@@ -1,0 +1,19 @@
+{
+	"addr": "95.173.175.15:27015",
+	"gameport": 27015,
+	"steamid": "85568392922614858",
+	"name": "DIYARBAKIR YOLUNA 95.173.175.15",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 22,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

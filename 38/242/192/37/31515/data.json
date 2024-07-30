@@ -1,0 +1,19 @@
+{
+	"addr": "38.242.192.37:31515",
+	"gameport": 31515,
+	"steamid": "90200377847884816",
+	"name": "Yodas CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

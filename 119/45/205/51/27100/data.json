@@ -1,0 +1,20 @@
+{
+	"addr": "119.45.205.51:27100",
+	"gameport": 27100,
+	"specport": 27120,
+	"steamid": "85568392931306317",
+	"name": "R0对战平台天梯服务器 南京30",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 3,
+	"map": "cs_office",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

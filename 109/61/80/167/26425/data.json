@@ -1,0 +1,19 @@
+{
+	"addr": "109.61.80.167:26425",
+	"gameport": 26425,
+	"steamid": "90200486234234906",
+	"name": "Aim Map · EU",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "aim_map",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

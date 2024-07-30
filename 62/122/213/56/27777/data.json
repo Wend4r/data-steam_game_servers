@@ -1,0 +1,20 @@
+{
+	"addr": "62.122.213.56:27777",
+	"gameport": 27777,
+	"specport": 27020,
+	"steamid": "85568392931290820",
+	"name": "[CS:GO] REWERT | МАНЬЯК | BLACK",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 3,
+	"max_players": 25,
+	"bots": 0,
+	"map": "rewert/seek_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!shop,!viptest,128tick,anime,hide and seek,hideandseek,hns,maniac,maniacmod,no-steam,nonsteam,nosteam,seek,secure"
+}

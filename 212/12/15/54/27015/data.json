@@ -1,0 +1,20 @@
+{
+	"addr": "212.12.15.54:27015",
+	"gameport": 27015,
+	"specport": 37015,
+	"steamid": "85568392931776986",
+	"name": "[RussianGang] $2000$ [CS:GO | 128tick | !ws !knife !gl]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 11,
+	"max_players": 25,
+	"bots": 1,
+	"map": "rg/$2000$_csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,$2000$,128,2000,24/7,aim,drop,free,gl,knife,pub,ru,rusgang,russiangang,skins,ua,vip,viptest,ws,secure"
+}

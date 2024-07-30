@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.54.30:10725",
+	"gameport": 10725,
+	"steamid": "85568392931608436",
+	"name": "CS2 - Красавицы и Даст2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

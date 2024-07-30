@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.209:26527",
+	"gameport": 26527,
+	"steamid": "85568392931849345",
+	"name": "ludi's pool party",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "ar_pool_day",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

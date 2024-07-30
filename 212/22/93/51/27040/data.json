@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.93.51:27040",
+	"gameport": 27040,
+	"steamid": "85568392931063155",
+	"name": "Leather-F-Ace",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

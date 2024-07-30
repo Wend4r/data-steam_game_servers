@@ -1,0 +1,20 @@
+{
+	"addr": "212.22.93.83:27015",
+	"gameport": 27015,
+	"specport": 27022,
+	"steamid": "85568392931379726",
+	"name": "REVENGE-CSGO.RU | PUBLIC #1 [128tick] !ws !knife",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 22,
+	"max_players": 32,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "23.239.4.75:27015",
+	"gameport": 27015,
+	"steamid": "85568392927347262",
+	"name": "LinuxGSM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.7",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "/1687663948/aim_redline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

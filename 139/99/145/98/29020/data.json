@@ -1,0 +1,19 @@
+{
+	"addr": "139.99.145.98:29020",
+	"gameport": 29020,
+	"steamid": "90200428963859483",
+	"name": "CS2 - Hosted by GTXGaming.co.uk",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.4",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

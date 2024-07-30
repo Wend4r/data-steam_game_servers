@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.163:26191",
+	"gameport": 26191,
+	"specport": 26192,
+	"steamid": "90200485866279958",
+	"name": "PRIDE1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

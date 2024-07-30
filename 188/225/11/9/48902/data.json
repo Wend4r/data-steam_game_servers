@@ -1,0 +1,19 @@
+{
+	"addr": "188.225.11.9:48902",
+	"gameport": 48902,
+	"steamid": "85568392931552028",
+	"name": "ARIZONA CS:2 | AWP ONLY #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 21,
+	"max_players": 26,
+	"bots": 0,
+	"map": "awp_lego_2_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

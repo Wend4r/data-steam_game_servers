@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.208.194:26816",
+	"gameport": 26816,
+	"steamid": "85568392924046495",
+	"name": "XPLAY.GG • CS2 2x2 #34 • [PL]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 2,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

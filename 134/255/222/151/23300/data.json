@@ -1,0 +1,19 @@
+{
+	"addr": "134.255.222.151:23300",
+	"gameport": 23300,
+	"steamid": "90200490866910237",
+	"name": "GuApo GANG",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,4Netplayers,Germany,de,secure"
+}

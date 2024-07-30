@@ -1,0 +1,19 @@
+{
+	"addr": "103.91.210.47:33009",
+	"gameport": 33009,
+	"steamid": "85568392931971573",
+	"name": "晋级赛",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

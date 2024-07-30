@@ -1,0 +1,19 @@
+{
+	"addr": "185.173.157.60:49488",
+	"gameport": 49488,
+	"steamid": "85568392931857497",
+	"name": "[CS:GO]Proekt |PVE| AWP ONLY [128 TICK]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 23,
+	"bots": 0,
+	"map": "awp_lego_2_pve_d",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm"
+}

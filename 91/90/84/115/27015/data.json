@@ -1,0 +1,19 @@
+{
+	"addr": "91.90.84.115:27015",
+	"gameport": 27015,
+	"steamid": "85568392930486234",
+	"name": "[GER] OMEGALAN - CS2 eSports Server [www.omegalan.de][powered m",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-tick,matchmaking,tournament,secure"
+}

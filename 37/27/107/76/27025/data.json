@@ -1,0 +1,19 @@
+{
+	"addr": "37.27.107.76:27025",
+	"gameport": 27025,
+	"steamid": "85568392925786295",
+	"name": "FemboyKZ | EU | Whitelist | 128t VNL Global",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "kz_sp1_blueconcrete",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-tick,128t,128tick,Global,KZ,Kreedz,VNL,abh,autobh,autobhop,eu,femboy,femboykz,fkz,global,kz,vanilla,vnl,secure"
+}

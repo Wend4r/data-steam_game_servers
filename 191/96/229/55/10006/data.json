@@ -1,0 +1,19 @@
+{
+	"addr": "191.96.229.55:10006",
+	"gameport": 10006,
+	"steamid": "85568392931732772",
+	"name": "00 [Israel] CS2 WePlay # Arena 1VS1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "am_mirage_middle",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CS2,CSGO,IL,Israel,KNIFE,Knife,Retake,Retakes,WEPLAY,WS,W"
+}

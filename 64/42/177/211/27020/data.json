@@ -1,0 +1,19 @@
+{
+	"addr": "64.42.177.211:27020",
+	"gameport": 27020,
+	"steamid": "90199809929537540",
+	"name": "SFA CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 28,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

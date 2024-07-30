@@ -1,0 +1,20 @@
+{
+	"addr": "199.60.101.60:27017",
+	"gameport": 27017,
+	"specport": 28017,
+	"steamid": "85568392931213175",
+	"name": "S!~ RETAKE ~ 128 TICK ~ !STORE !KNIFE !GLOVES !WS ~ [SWOOBLES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_cbble",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128 Tick,128Tick,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,Retake,SKINS,STATS,SWOOBLES,WS,re take,re-take,store,secure"
+}

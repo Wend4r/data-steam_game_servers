@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.214.11:27020",
+	"gameport": 27020,
+	"steamid": "85568392931053797",
+	"name": "|CS2| UDOIT.RU | MIRAGE #2 | [WS|KF|GL|MS|AG] | 14+",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 9,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "agents,csfrag,gloves,knife,music,udoit,ws,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "45.136.204.229:27015",
+	"gameport": 27015,
+	"steamid": "85568392930494884",
+	"name": "CS:GO | ЭПОХА 00-х | MIRAGE #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 8,
+	"max_players": 45,
+	"bots": 0,
+	"map": "de_mirage_dusk",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,128tick,anime,awp,boost,csdm,csgo,dm,epoha,epoha00,epoha00h,era-00s,era00s,era00s,freevip,no-steam,public,vip,viptest,secur"
+}

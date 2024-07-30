@@ -1,0 +1,19 @@
+{
+	"addr": "63.251.42.109:27020",
+	"gameport": 27020,
+	"steamid": "85568392931784942",
+	"name": "Football Server [8v8] [LevHost]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "football_field",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

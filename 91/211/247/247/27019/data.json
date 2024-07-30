@@ -1,0 +1,19 @@
+{
+	"addr": "91.211.247.247:27019",
+	"gameport": 27019,
+	"steamid": "85568392930292872",
+	"name": "[LT/EU] Deagle Only - Rampage.lt !ws !knife !gloves !ranks !vip",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "aim_deagle7k",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuv"
+}

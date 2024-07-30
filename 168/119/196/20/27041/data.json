@@ -1,0 +1,19 @@
+{
+	"addr": "168.119.196.20:27041",
+	"gameport": 27041,
+	"steamid": "85568392931846698",
+	"name": "CS2 MULTICFG #1 [DE] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 20,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ger,multicfg,multi,de,dm,ffa,deathmatch,cybershoke,128,128tick,"
+}

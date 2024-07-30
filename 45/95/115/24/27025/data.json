@@ -1,0 +1,19 @@
+{
+	"addr": "45.95.115.24:27025",
+	"gameport": 27025,
+	"steamid": "85568392931021597",
+	"name": "[DK] HJEMEZEZ | Jail",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 12,
+	"max_players": 33,
+	"bots": 0,
+	"map": "jb_summer_jail",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ba,danish,dansk,hjemezez,jail,jb,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.125.169.241:27123",
+	"gameport": 27123,
+	"steamid": "85568392921400760",
+	"name": "[CS2] Recess.no #09 Surf [ Timer | RTV | 100 Tick ]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "surf_boreas",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

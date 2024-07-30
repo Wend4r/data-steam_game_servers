@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.122:27055",
+	"gameport": 27055,
+	"steamid": "85568392924808154",
+	"name": "【僵尸乐园】闯关 3#专家[Course] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 3,
+	"max_players": 36,
+	"bots": 1,
+	"map": "mg_artek_course_beta_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ZED,fastdl,mg,multigames,secure"
+}

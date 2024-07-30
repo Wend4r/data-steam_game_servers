@@ -1,0 +1,19 @@
+{
+	"addr": "185.62.206.22:30002",
+	"gameport": 30002,
+	"steamid": "90198137958892546",
+	"name": "hivefives",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.8",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,fragnet,fragnet.net,high performance,secure"
+}

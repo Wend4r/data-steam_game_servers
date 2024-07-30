@@ -1,0 +1,19 @@
+{
+	"addr": "185.242.115.194:27019",
+	"gameport": 27019,
+	"steamid": "85568392920379031",
+	"name": "-=WarmupServer=-™ Dust2 19 ★MultiCFG™★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 12,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

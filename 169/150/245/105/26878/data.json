@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.105:26878",
+	"gameport": 26878,
+	"steamid": "90200485929521165",
+	"name": "LyalaLand",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

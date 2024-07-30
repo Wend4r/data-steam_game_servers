@@ -1,0 +1,19 @@
+{
+	"addr": "123.185.8.60:27027",
+	"gameport": 27027,
+	"steamid": "85568392930610742",
+	"name": "[ProHub] CS:GO CN Surf Server #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "surf_sketchy",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,64tick,Bhop,CIalle,KZ,Surf,secure"
+}

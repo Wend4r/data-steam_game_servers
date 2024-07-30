@@ -1,0 +1,19 @@
+{
+	"addr": "141.94.174.170:28130",
+	"gameport": 28130,
+	"steamid": "85568392931930640",
+	"name": "qtland CS:GO EU West Server (srcds032.147.8)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_canals",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,qtland,secure"
+}

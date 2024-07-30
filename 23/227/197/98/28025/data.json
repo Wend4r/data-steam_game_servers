@@ -1,0 +1,19 @@
+{
+	"addr": "23.227.197.98:28025",
+	"gameport": 28025,
+	"steamid": "85568392931500648",
+	"name": "[VL] The Villains Lounge Deathmatch FFA",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,AntiCheat,DM,Deathmatch,FFA,secure"
+}

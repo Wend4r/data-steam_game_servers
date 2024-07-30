@@ -1,0 +1,20 @@
+{
+	"addr": "146.59.108.100:27018",
+	"gameport": 27018,
+	"specport": 27078,
+	"steamid": "85568392931716082",
+	"name": "█ ★ Csowicze.pl [ 3 Maps ] ★ | MIRAGE/CACHE/NUKE | RANGI|",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 25,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,3maps,csowicze,de_,ffa,freeforall,pl,poland,polska,skins,"
+}

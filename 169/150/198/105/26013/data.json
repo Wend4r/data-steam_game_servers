@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.198.105:26013",
+	"gameport": 26013,
+	"specport": 26014,
+	"steamid": "85568392931245978",
+	"name": "Pedrodbr Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 1,
+	"map": "maniac_1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

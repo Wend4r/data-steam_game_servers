@@ -1,0 +1,19 @@
+{
+	"addr": "188.242.202.57:1913",
+	"gameport": 1913,
+	"steamid": "85568392920287229",
+	"name": "***BROOM*** Winter Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "/549381031/cs_crossway",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,winter;gritalonia;epicmorg;metaller,secure"
+}

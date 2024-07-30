@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.163:26775",
+	"gameport": 26775,
+	"specport": 26776,
+	"steamid": "90200485865863190",
+	"name": "Inspirit_CS_server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

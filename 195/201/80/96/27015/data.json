@@ -1,0 +1,19 @@
+{
+	"addr": "195.201.80.96:27015",
+	"gameport": 27015,
+	"steamid": "85568392929530908",
+	"name": "m0uka's skin inspect server (#1)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "/125663769/cs_siege",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gen,!gloves,!skins,!ws,csgo,gen,inspect,skins,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "176.9.1.105:27245",
+	"gameport": 27245,
+	"steamid": "85568392922293489",
+	"name": "Warserver I  The Mercenarys",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.4.8",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

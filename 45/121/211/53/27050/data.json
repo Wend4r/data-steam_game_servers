@@ -1,0 +1,19 @@
+{
+	"addr": "45.121.211.53:27050",
+	"gameport": 27050,
+	"steamid": "85568392926396988",
+	"name": "♚ KZG | Easy Surf [WS/KNIFE/GLOVES/RAFFLES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 60,
+	"bots": 0,
+	"map": "surf_summit",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,!knife,!ws,de,de_,beginner,aim_,am_,australia,easy,easy surf,gameM,killzone,kitsune,ksf,knife,kzg,kz,skill,surf,surf_,uto"
+}

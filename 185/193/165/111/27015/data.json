@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.111:27015",
+	"gameport": 27015,
+	"steamid": "85568392931457437",
+	"name": "[TR] 🐺 BOZKURTLAR - YETKİLİ ALIM #discord.gg/bozkurtlar - ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 5,
+	"max_players": 24,
+	"bots": 0,
+	"map": "aim_redline",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

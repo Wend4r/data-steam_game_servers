@@ -1,0 +1,19 @@
+{
+	"addr": "104.234.189.160:30025",
+	"gameport": 30025,
+	"steamid": "85568392923050723",
+	"name": "-=WarmupServer=-™ Mirage 21 Rifle ★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 20,
+	"max_players": 22,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

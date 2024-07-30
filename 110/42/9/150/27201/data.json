@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.150:27201",
+	"gameport": 27201,
+	"steamid": "85568392922963269",
+	"name": "【僵尸乐园】滑翔 1#新手[100tick] 多线 ZombiEden.cn",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 2,
+	"max_players": 20,
+	"bots": 1,
+	"map": "surf_generic",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ZED,fastdl,surf,secure"
+}

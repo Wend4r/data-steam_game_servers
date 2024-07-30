@@ -1,0 +1,19 @@
+{
+	"addr": "198.244.177.30:23232",
+	"gameport": 23232,
+	"steamid": "85568392923225137",
+	"name": "-=WarmupServer=-™ LondonRifles ★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 12,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.129:26790",
+	"gameport": 26790,
+	"steamid": "90200485748578310",
+	"name": "agaming",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.125.169.241:27121",
+	"gameport": 27121,
+	"steamid": "85568392920084180",
+	"name": "[CSGO] Recess.no #14 Surf [ Tier 1-2 | Timer | 100 Tick ]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 128,
+	"bots": 0,
+	"map": "surf_timber",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,secure"
+}

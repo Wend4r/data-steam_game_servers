@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.251.46:26325",
+	"gameport": 26325,
+	"specport": 26326,
+	"steamid": "85568392931141266",
+	"name": "S21",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "aim_arctic",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

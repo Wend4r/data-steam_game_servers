@@ -1,0 +1,19 @@
+{
+	"addr": "92.119.148.31:27020",
+	"gameport": 27020,
+	"steamid": "85568392931702529",
+	"name": " [GFLClan.com] Surf Timer #2 Novice 85-Tick [Tier 1-2] | !WS !K",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 40,
+	"bots": 2,
+	"map": "surf_zenith",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!,85,US,_,beginner,challenge,for,games,gfl,gflclan,gloves,knife,lag,life,no,s,skins,stats,style,surf,surf_,tick,timer,wea"
+}

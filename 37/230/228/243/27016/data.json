@@ -1,0 +1,20 @@
+{
+	"addr": "37.230.228.243:27016",
+	"gameport": 27016,
+	"specport": 37016,
+	"steamid": "85568392931776969",
+	"name": "[16][128 TIC] M9SNOI SERVER CS:GO | ARENA 1 vs 1 | !knife !ws !",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 2,
+	"max_players": 21,
+	"bots": 1,
+	"map": "am_nuke2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!ws !lvl !knife !gloves !vip,secure"
+}

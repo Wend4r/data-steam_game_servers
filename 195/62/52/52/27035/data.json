@@ -1,0 +1,20 @@
+{
+	"addr": "195.62.52.52:27035",
+	"gameport": 27035,
+	"specport": 37035,
+	"steamid": "85568392930774985",
+	"name": "[11][128 TIC] M9SNOI SERVER CS:GO | PUBLIC | !knife !ws !gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 21,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!ws !lvl !knife !gloves !vip !stickers,secure"
+}

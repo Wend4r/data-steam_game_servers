@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.51.133:27078",
+	"gameport": 27078,
+	"steamid": "85568392920070602",
+	"name": "Aus KZ | VIP and EXPERT+| 24/7 Climb | 128 tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "kz_auuughh",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Tickrate 128,KZTimer 1.106,KZTimer,aus,bhop,bunnyhop,climb,climbing,gokz,kreedz,kz,secure"
+}

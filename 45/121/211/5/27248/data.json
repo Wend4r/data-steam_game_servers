@@ -1,0 +1,19 @@
+{
+	"addr": "45.121.211.5:27248",
+	"gameport": 27248,
+	"steamid": "85568392920278149",
+	"name": "Aus KZ | 24/7 Climb | 128 tick | Jumpstats | Ranks",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "kz_orbolution_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Tickrate 128,KZTimer 1.106,KZTimer,aus,auskz,bhop,bunnyhop,climb,climbing,kreedz,kz,kztimer,secure"
+}

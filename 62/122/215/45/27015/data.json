@@ -1,0 +1,19 @@
+{
+	"addr": "62.122.215.45:27015",
+	"gameport": 27015,
+	"steamid": "90200486094924813",
+	"name": "███ ➥ yooma.su (CS2) / повёрнутый мираж ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage_turnthree",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+}

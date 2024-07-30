@@ -1,0 +1,19 @@
+{
+	"addr": "195.201.241.248:27013",
+	"gameport": 27013,
+	"steamid": "85568392929583518",
+	"name": "FrozenWave | Surf #7 | Tier 3-8 | 64-tick | Hardcore",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 60,
+	"bots": 0,
+	"map": "surf_goliath",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,64ticks,frozen,frozenwave,skills,skillsurf,surf,surftimer,timer,wave,secure"
+}

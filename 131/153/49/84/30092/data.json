@@ -1,0 +1,19 @@
+{
+	"addr": "131.153.49.84:30092",
+	"gameport": 30092,
+	"steamid": "85568392931760831",
+	"name": "Fragnet CSGO2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.8",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_nuke",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,fragnet,fragnet.net,high performance,insecure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "148.113.1.122:26697",
+	"gameport": 26697,
+	"specport": 26698,
+	"steamid": "85568392931907493",
+	"name": "[ezQ] LOTGaming | Retake Mumbai #1 Server !ws !knife !glove",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,insecure"
+}

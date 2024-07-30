@@ -1,0 +1,19 @@
+{
+	"addr": "66.150.214.34:27015",
+	"gameport": 27015,
+	"steamid": "85568392922451309",
+	"name": "Error 404 : Server Not Found",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "dz_sirocco",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

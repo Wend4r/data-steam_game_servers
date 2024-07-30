@@ -1,0 +1,19 @@
+{
+	"addr": "188.40.85.52:27014",
+	"gameport": 27014,
+	"steamid": "90199816446169114",
+	"name": "Counter KeK2 - Testserver by kekies.de",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

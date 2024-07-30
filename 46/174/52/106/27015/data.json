@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.52.106:27015",
+	"gameport": 27015,
+	"steamid": "85568392928313882",
+	"name": "CS-DREAM | WCS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "wcs_dust2_2022",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:5114777i,1.6,apocalypse,classic,cs 1.6,l4d,l4d2,re,resident evil,rev=763939,survival,survive,war3source,zombie,zombi"
+}

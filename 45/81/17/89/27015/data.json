@@ -1,0 +1,19 @@
+{
+	"addr": "45.81.17.89:27015",
+	"gameport": 27015,
+	"steamid": "90200428046897166",
+	"name": "Private Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "ze_p_v_z",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

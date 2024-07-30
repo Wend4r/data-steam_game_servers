@@ -1,0 +1,20 @@
+{
+	"addr": "124.222.110.87:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392924732555",
+	"name": "【Zoo社区】满十 免费全皮肤全贴纸 上海 [NEED 10]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pug,skin,sticker,zoo,secure"
+}

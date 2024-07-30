@@ -1,0 +1,19 @@
+{
+	"addr": "176.66.76.70:27015",
+	"gameport": 27015,
+	"steamid": "90200339147754513",
+	"name": "Nuclear Blast",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.5.8",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

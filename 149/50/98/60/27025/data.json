@@ -1,0 +1,20 @@
+{
+	"addr": "149.50.98.60:27025",
+	"gameport": 27025,
+	"specport": 28025,
+	"steamid": "85568392931625849",
+	"name": "MOON-MG.COM | MINIGAME | BATTLE PASS | 4 Прыжка",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "mg_office_course_2013_fix_hdr",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:5114777i,bhop,bp,knife,mg,ncs_shop,ru,shop,ua,ws,secure"
+}

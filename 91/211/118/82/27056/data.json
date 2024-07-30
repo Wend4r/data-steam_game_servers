@@ -1,0 +1,20 @@
+{
+	"addr": "91.211.118.82:27056",
+	"gameport": 27056,
+	"specport": 28056,
+	"steamid": "85568392930810241",
+	"name": "HLIBCHUK.PP.UA | AWP LEGO 2 | 128 TICK | #3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 2,
+	"max_players": 14,
+	"bots": 1,
+	"map": "awp_lego_2_hlibchuk",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "HolyHender,cases,gloves,knife,mirage,rank,ws,secure"
+}

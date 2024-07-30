@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.47.34:26129",
+	"gameport": 26129,
+	"steamid": "90200499403083783",
+	"name": "军训房",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 8,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

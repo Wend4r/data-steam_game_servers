@@ -1,0 +1,19 @@
+{
+	"addr": "45.235.98.241:27055",
+	"gameport": 27055,
+	"steamid": "85568392931769609",
+	"name": "CS:GO Server By Garryshost",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,GarrysHost,secure"
+}

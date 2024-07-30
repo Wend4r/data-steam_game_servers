@@ -1,0 +1,19 @@
+{
+	"addr": "89.187.167.139:26643",
+	"gameport": 26643,
+	"steamid": "90200485703930907",
+	"name": "stinky gamer balls",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

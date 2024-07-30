@@ -1,0 +1,19 @@
+{
+	"addr": "67.20.136.128:27024",
+	"gameport": 27024,
+	"steamid": "90199994165362695",
+	"name": " After School Special",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,After School Special,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "51.75.173.16:27015",
+	"gameport": 27015,
+	"steamid": "85568392920187101",
+	"name": "[MG-8] Mestro Bunnyhop Legacy | Beginner | Ranks | 85Tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 48,
+	"bots": 0,
+	"map": "bhop_mp_stairs_hq_csgo_b1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Tickrate 85,auto,bh,bhop,bunny,ckSurf,ckSurf 1.7,easy,easybhop,mestro,mg,surf,secure"
+}

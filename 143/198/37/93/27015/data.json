@@ -1,0 +1,19 @@
+{
+	"addr": "143.198.37.93:27015",
+	"gameport": 27015,
+	"steamid": "90200160974836736",
+	"name": "A place where things happen",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.2",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

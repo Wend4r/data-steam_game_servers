@@ -1,0 +1,20 @@
+{
+	"addr": "144.172.124.234:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392920463673",
+	"name": "Fohdeesha Dedicated Competitive (128 Tick Chicago)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 32,
+	"bots": 1,
+	"map": "/868124289/aim_redline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

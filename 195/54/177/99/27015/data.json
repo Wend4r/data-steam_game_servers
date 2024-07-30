@@ -1,0 +1,19 @@
+{
+	"addr": "195.54.177.99:27015",
+	"gameport": 27015,
+	"steamid": "85568392920129560",
+	"name": "HSDM.ru - DM FFA PISTOLS [csgo.hsdm.ru:27015] 128T",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 5,
+	"map": "de_cbble",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,! csdm,128tick,awp,csgo,deathmatch,dm,ffa,fnatic,hs,hsdm,hsdmru,hsmod,moscow,navi,pistol,public,rus,russia,virtuspro,secu"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27020",
+	"gameport": 27020,
+	"steamid": "85568392926416403",
+	"name": "Skoll | Private Surf Server #29 | kzg.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "surf_activation",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gameME,hidden,secure"
+}

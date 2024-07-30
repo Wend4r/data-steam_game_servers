@@ -1,0 +1,19 @@
+{
+	"addr": "134.255.222.160:21400",
+	"gameport": 21400,
+	"steamid": "90200490334649350",
+	"name": "M3lem Tarek",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Valorant,secure"
+}

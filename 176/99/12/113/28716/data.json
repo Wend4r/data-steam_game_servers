@@ -1,0 +1,19 @@
+{
+	"addr": "176.99.12.113:28716",
+	"gameport": 28716,
+	"steamid": "85568392924993256",
+	"name": ".         MEGA DEATHMATCH | SENTRY GUNS | BLASTERS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 28,
+	"max_players": 50,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,csdm,dm,sentry,guns,new,x,sentry guns,ekb,windows,linux,maxplayers,czv,super,cybershoke"
+}

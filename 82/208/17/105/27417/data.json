@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.105:27417",
+	"gameport": 27417,
+	"steamid": "85568392921687302",
+	"name": "TEAM GRAVITY by Fakaheda.eu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 14,
+	"bots": 2,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

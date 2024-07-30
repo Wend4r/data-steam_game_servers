@@ -1,0 +1,19 @@
+{
+	"addr": "51.81.167.12:27019",
+	"gameport": 27019,
+	"steamid": "85568392931845736",
+	"name": "CS2 5X5 | 5v5 #120 [US] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_mirage,duel,en,gloves,dr"
+}

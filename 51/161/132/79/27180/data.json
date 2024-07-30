@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27180",
+	"gameport": 27180,
+	"steamid": "85568392931055503",
+	"name": "Nigel's | Private Server #8 | kzg.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "surf_lux",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gameME,hidden,secure"
+}

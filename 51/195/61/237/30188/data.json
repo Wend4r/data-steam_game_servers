@@ -1,0 +1,20 @@
+{
+	"addr": "51.195.61.237:30188",
+	"gameport": 30188,
+	"specport": 35107,
+	"steamid": "90200491700117519",
+	"name": "VoidGuardians.Acad",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 19,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

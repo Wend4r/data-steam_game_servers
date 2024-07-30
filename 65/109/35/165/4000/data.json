@@ -1,0 +1,19 @@
+{
+	"addr": "65.109.35.165:4000",
+	"gameport": 4000,
+	"steamid": "90200401416409119",
+	"name": "CS:GO by Tretoxx & Cysyce.de",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,g-factory.de Support makes the difference,secure"
+}

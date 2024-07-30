@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.168:26611",
+	"gameport": 26611,
+	"specport": 26612,
+	"steamid": "90200490230746139",
+	"name": "eSER CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 2,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

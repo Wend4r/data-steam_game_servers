@@ -1,0 +1,20 @@
+{
+	"addr": "110.42.9.200:27015",
+	"gameport": 27015,
+	"specport": 28015,
+	"steamid": "85568392926761425",
+	"name": "UB社区 女装混战 #01 Q群 303809763",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 51,
+	"bots": 1,
+	"map": "de_mirage_mirror",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

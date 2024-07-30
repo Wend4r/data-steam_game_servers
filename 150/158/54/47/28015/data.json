@@ -1,0 +1,19 @@
+{
+	"addr": "150.158.54.47:28015",
+	"gameport": 28015,
+	"steamid": "85568392924708491",
+	"name": "[Xcq] ZE训练房 Ze Train",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "ze_sky_fantasy_v2_1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+}

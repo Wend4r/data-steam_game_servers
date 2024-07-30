@@ -1,0 +1,19 @@
+{
+	"addr": "89.22.169.2:48639",
+	"gameport": 48639,
+	"steamid": "85568392931971400",
+	"name": "[NEONEXUS] AWP_LEGO2 | РОЗЫГРЫШ VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!ws,!knife,!skins"
+}

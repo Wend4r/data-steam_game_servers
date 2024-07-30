@@ -1,0 +1,19 @@
+{
+	"addr": "191.96.94.39:27015",
+	"gameport": 27015,
+	"steamid": "85568392931967267",
+	"name": "[RO/EN] ★ AlyxHvH | Wingman #2 [1v1/2v2/3v3] | Frankfurt - Ge",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 3,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_shortdust",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "1v1,2v2,3v3,alyx,alyxcsgo,alyxhvh,alyxprivate,hvh,private,setup,skeet,wingman,insecure"
+}

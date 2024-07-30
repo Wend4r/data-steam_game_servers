@@ -1,0 +1,20 @@
+{
+	"addr": "51.75.47.35:28635",
+	"gameport": 28635,
+	"specport": 38635,
+	"steamid": "85568392930892470",
+	"name": "Esportal - Register to play",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_ancient",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,fragnet,fragnet.net,high performance,insecure"
+}

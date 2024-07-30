@@ -1,0 +1,19 @@
+{
+	"addr": "45.121.211.53:27040",
+	"gameport": 27040,
+	"steamid": "85568392926396986",
+	"name": "♚ KZG | 1v1 Arena | 128tick | Ranks | Skins | !ws ♚",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "am_basement_kz",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128,kz,killzone,aus,1v1,arena,knife,am_,de_,casual,kzg,awp,deathmatch,dm,australia,!ws,multi,practice,skins,ws,gameME,sec"
+}

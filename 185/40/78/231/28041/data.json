@@ -1,0 +1,19 @@
+{
+	"addr": "185.40.78.231:28041",
+	"gameport": 28041,
+	"steamid": "85568392930859383",
+	"name": "JC | PUBLIC de_mirage [RU]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,awp,public,knifes,cs2,jumpclassic,cybershoke,aim"
+}

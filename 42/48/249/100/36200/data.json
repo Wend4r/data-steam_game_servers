@@ -1,0 +1,19 @@
+{
+	"addr": "42.48.249.100:36200",
+	"gameport": 36200,
+	"steamid": "85568392931618576",
+	"name": "跑图",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "R0对战平台,insecure"
+}

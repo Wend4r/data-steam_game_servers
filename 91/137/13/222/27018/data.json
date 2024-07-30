@@ -1,0 +1,19 @@
+{
+	"addr": "91.137.13.222:27018",
+	"gameport": 27018,
+	"steamid": "85568392930605871",
+	"name": "[VVK] CS2 2on2 tactical 3 | Wingman",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.4",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,2on2,competitive,lanpartey.de,vac,vvk,wingman,secure"
+}

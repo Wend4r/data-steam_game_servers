@@ -1,0 +1,19 @@
+{
+	"addr": "208.103.169.80:27015",
+	"gameport": 27015,
+	"steamid": "85568392923200000",
+	"name": "[FN] 24/7 Surf Utopia [BETA] discord.gg/fallen",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 8,
+	"max_players": 48,
+	"bots": 0,
+	"map": "surf_utopia_njv",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "45.13.151.177:27015",
+	"gameport": 27015,
+	"steamid": "85568392931967520",
+	"name": "[CS:GO] ★ HNS.OLDBUTGOLD.RO ★ [HIDE AND SEEK] 128 TICK",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 32,
+	"bots": 0,
+	"map": "hns_devblocks",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "#hns,128tick,HIDEANDSEEK,HNS,Romania,VIP,agents,community,free,free,gloves,gratis,hide,hns,knife,seek,shop,store,unban,usp,ws,s"
+}

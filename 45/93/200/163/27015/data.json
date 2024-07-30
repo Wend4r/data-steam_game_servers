@@ -1,0 +1,20 @@
+{
+	"addr": "45.93.200.163:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931756183",
+	"name": "[CSGO] CYBERNETIKA.NET - MIRAGE (FREE VIP 30D)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 17,
+	"max_players": 32,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,128tick,1mpulse,LKv2,agents,cyber,cybernetika,du,duv2,gl,gloves,knife,mirage,moscow,only mirage,st,stickers,ws,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.173.157.60:48941",
+	"gameport": 48941,
+	"steamid": "85568392931553769",
+	"name": "Freezing-Blood CS:2 | AIM PISTOL #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 16,
+	"max_players": 32,
+	"bots": 0,
+	"map": "aim_ultradeagle_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

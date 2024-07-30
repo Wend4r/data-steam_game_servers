@@ -1,0 +1,20 @@
+{
+	"addr": "51.77.47.217:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392922651239",
+	"name": "██ ★ uwujka.pl ★ [MIRAGE] ⚫ TR128",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 12,
+	"max_players": 32,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,skins,tr128,uwujka,uwujka.pl,██,secure"
+}

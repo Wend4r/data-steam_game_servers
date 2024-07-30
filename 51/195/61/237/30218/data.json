@@ -1,0 +1,20 @@
+{
+	"addr": "51.195.61.237:30218",
+	"gameport": 30218,
+	"specport": 35006,
+	"steamid": "90200491700155407",
+	"name": "The Dog House",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

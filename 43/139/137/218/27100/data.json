@@ -1,0 +1,20 @@
+{
+	"addr": "43.139.137.218:27100",
+	"gameport": 27100,
+	"specport": 27020,
+	"steamid": "85568392931982157",
+	"name": "R0对战平台天梯服务器 广州60",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 3,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

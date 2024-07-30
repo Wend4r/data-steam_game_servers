@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.247.210:26122",
+	"gameport": 26122,
+	"steamid": "90200485866919958",
+	"name": "maRT",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "46.229.229.25:27016",
+	"gameport": 27016,
+	"steamid": "85568392931470927",
+	"name": "🌍 [SK/CZ] CSKO.NET MIRAGE ONLY 🚀",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 9,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
+}

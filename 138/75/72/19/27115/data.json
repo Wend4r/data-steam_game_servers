@@ -1,0 +1,20 @@
+{
+	"addr": "138.75.72.19:27115",
+	"gameport": 27115,
+	"specport": 29116,
+	"steamid": "85568392920901140",
+	"name": ": : Starters : : Classic / 128-t",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "/1432789144/de_cpl_strike",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-tick,asia(sg my ph th id),classic,competitive,cs1.6,old school,original,rank,singapore,starters,stats,vanilla,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.125.169.241:27143",
+	"gameport": 27143,
+	"steamid": "85568392920866790",
+	"name": "[CS2] Recess.no #12 MINIGAMES [ FUN MAPS | Rank | RTV | 128 Tic",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "mg_lego_multigames",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,fun,mg,minigame,minigames,rcs,recess,secure"
+}

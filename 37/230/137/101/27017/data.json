@@ -1,0 +1,19 @@
+{
+	"addr": "37.230.137.101:27017",
+	"gameport": 27017,
+	"steamid": "85568392931501482",
+	"name": "SurfTimer Server CS:GO |RU|66 TICK|1-8 TIER|",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 25,
+	"bots": 2,
+	"map": "surf_doodles_njv",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "*grp:5114777i,insecure"
+}

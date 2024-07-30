@@ -1,0 +1,20 @@
+{
+	"addr": "91.211.247.234:27040",
+	"gameport": 27040,
+	"specport": 27020,
+	"steamid": "85568392931470112",
+	"name": "Vimo.lt [2v2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 7,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,2v2,Vimo,Vimo.lt,secure"
+}

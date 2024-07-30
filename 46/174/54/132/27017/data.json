@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.54.132:27017",
+	"gameport": 27017,
+	"specport": 27102,
+	"steamid": "85568392931157228",
+	"name": "███ ➥ yooma.su / мини игры #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 1,
+	"map": "mg_skytower_b3_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,du,duv2,escape. freevip,free,gl,gloves,jail,lr,lvl,maniac,mg,minigames,vip,weapons,w"
+}

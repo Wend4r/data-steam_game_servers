@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.163:26558",
+	"gameport": 26558,
+	"specport": 26559,
+	"steamid": "85568392931141265",
+	"name": "S20",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "aim_colloseum",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

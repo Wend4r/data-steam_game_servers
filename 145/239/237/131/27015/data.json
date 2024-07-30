@@ -1,0 +1,20 @@
+{
+	"addr": "145.239.237.131:27015",
+	"gameport": 27015,
+	"specport": 27016,
+	"steamid": "85568392921314614",
+	"name": "FragMasters.pl [RETAKES][WS][KNIFE][RANGI][GLOVES][128TR] @ 1s1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tr,1v1,arena,executes,gloves,graczol,isamu,kosy,multi,nitro,pevor,pompa,pompateam,pt,retake,retakes,serwe,skiny,tr"
+}

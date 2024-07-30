@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.132:26486",
+	"gameport": 26486,
+	"steamid": "90200485890848777",
+	"name": "k1sser's deathmatch server - Nuke by night [FFA DM]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_nuke_night",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

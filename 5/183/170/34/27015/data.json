@@ -1,0 +1,19 @@
+{
+	"addr": "5.183.170.34:27015",
+	"gameport": 27015,
+	"steamid": "85568392931957297",
+	"name": "ARENA.N4AMICII.RO - 1VS1 - 128 TICKRATE - CASES - SHOP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 3,
+	"max_players": 18,
+	"bots": 0,
+	"map": "am_basement_llg",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tickrate,1tap,awp,fun,goarenafreakz,horizon,hydra,n4amicii,nevermore,no steam,no-steam,nodeagle,one,pubzone,shop,tap,top,vip"
+}

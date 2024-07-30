@@ -1,0 +1,19 @@
+{
+	"addr": "51.75.73.72:27015",
+	"gameport": 27015,
+	"steamid": "85568392931408855",
+	"name": "R.A.D Fun server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_rats_1337",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,10v10,5v5,CS2,ENG,R.A.D,SWE,Swedish,casual,competetive,cs"
+}

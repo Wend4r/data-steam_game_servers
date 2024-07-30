@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.142:27031",
+	"gameport": 27031,
+	"steamid": "85568392931881510",
+	"name": "星社区CS2 监狱风云 #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 46,
+	"max_players": 48,
+	"bots": 0,
+	"map": "jb_undertale_v1e",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

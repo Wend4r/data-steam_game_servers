@@ -1,0 +1,20 @@
+{
+	"addr": "46.227.176.4:27001",
+	"gameport": 27001,
+	"specport": 27026,
+	"steamid": "85568392920101112",
+	"name": "CSPORTAL.sk | PUBLIC ★SEASON03★ [!knife !gloves !ws !agents",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 13,
+	"bots": 5,
+	"map": "de_nuke_night",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,csportal,cz,knife,rank,sk,svk,ws,secure"
+}

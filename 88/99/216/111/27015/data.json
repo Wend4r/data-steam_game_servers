@@ -1,0 +1,20 @@
+{
+	"addr": "88.99.216.111:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392922151661",
+	"name": "CS2 Dedicated Server with CS2-Practice-Plugin by CHR15cs",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

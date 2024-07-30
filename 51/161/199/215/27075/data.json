@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.199.215:27075",
+	"gameport": 27075,
+	"steamid": "85568392921753915",
+	"name": "-=WarmupServer=-™ Sydney ★MultiCFG™★FFA-DM★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 12,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+}

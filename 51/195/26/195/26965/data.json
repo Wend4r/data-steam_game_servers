@@ -1,0 +1,19 @@
+{
+	"addr": "51.195.26.195:26965",
+	"gameport": 26965,
+	"steamid": "85568392931793350",
+	"name": "ELKÖLTÖZTÜNK -> 95.138.193.253:30002",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "awp_lego_2_winter",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128 tick,alltalk,awp,eu,fastdl,flyboys,gloves,hu,hun,"
+}

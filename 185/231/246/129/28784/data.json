@@ -1,0 +1,19 @@
+{
+	"addr": "185.231.246.129:28784",
+	"gameport": 28784,
+	"steamid": "85568392924902358",
+	"name": "Zombie::[Net4ALL]::Workshop|SSD [CS 2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 33,
+	"max_players": 40,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russia,net4all.ru,secure,ski,spb,skins,vip,z,ze,zm,zombie,zombies,zr"
+}

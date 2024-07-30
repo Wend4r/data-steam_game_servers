@@ -1,0 +1,19 @@
+{
+	"addr": "1.15.47.188:27018",
+	"gameport": 27018,
+	"steamid": "85568392925260718",
+	"name": "【Palace of the Moon】月の宫殿的娱乐竞技",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,5v5,match,pugb,warmod,insecure"
+}

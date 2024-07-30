@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.93.36:27015",
+	"gameport": 27015,
+	"steamid": "85568392931624540",
+	"name": "[CS2] REVENGE-CS2.RU | MIRAGE #1 !ws !knife",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!sti"
+}

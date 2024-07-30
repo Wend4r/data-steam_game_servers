@@ -1,0 +1,19 @@
+{
+	"addr": "85.14.194.191:27015",
+	"gameport": 27015,
+	"steamid": "85568392931216328",
+	"name": "Evil-Effects Training Paradies",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "80.209.82.229:27125",
+	"gameport": 27125,
+	"steamid": "85568392930755185",
+	"name": "[DK] CPH-Gaming.dk - Mani's Test Server (D)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CPH-Gaming.DK,DK,secure"
+}

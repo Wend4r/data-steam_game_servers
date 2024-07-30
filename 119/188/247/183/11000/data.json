@@ -1,0 +1,19 @@
+{
+	"addr": "119.188.247.183:11000",
+	"gameport": 11000,
+	"steamid": "90200442967802910",
+	"name": "CS2 5v5 全皮肤娱乐服 [枣庄]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 4,
+	"players": 9,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_cbble_csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

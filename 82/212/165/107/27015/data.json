@@ -1,0 +1,19 @@
+{
+	"addr": "82.212.165.107:27015",
+	"gameport": 27015,
+	"steamid": "85568392927993755",
+	"name": "[FR]|WARCRAFT|WCS|MULTIMOD.FR|STORE|.:#MFF| CSGO - RECRUTRES",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "wcs_fy_kingofthehill_usa_d",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

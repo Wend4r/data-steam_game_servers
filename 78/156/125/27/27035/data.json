@@ -1,0 +1,19 @@
+{
+	"addr": "78.156.125.27:27035",
+	"gameport": 27035,
+	"steamid": "85568392921881509",
+	"name": "FK73_Retake1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128 tick,FK73,retake1,secure"
+}

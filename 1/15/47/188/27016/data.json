@@ -1,0 +1,19 @@
+{
+	"addr": "1.15.47.188:27016",
+	"gameport": 27016,
+	"steamid": "85568392925260713",
+	"name": "【Palace of the Moon】月の宫殿的练习道场",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "ze_dreamin_v3_3",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pom,ze,secure"
+}

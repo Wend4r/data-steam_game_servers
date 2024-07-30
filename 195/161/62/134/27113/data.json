@@ -1,0 +1,19 @@
+{
+	"addr": "195.161.62.134:27113",
+	"gameport": 27113,
+	"steamid": "85568392931953515",
+	"name": "[cs2X2] Block Sky [!skins,bhop,duels]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 27,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes,mskq2"
+}

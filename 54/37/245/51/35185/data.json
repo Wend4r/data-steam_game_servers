@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.245.51:35185",
+	"gameport": 35185,
+	"steamid": "85568392928693152",
+	"name": "VibeCentral - by go-free.info",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "surf_boreas",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_boreas,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "89.163.251.117:27025",
+	"gameport": 27025,
+	"specport": 27026,
+	"steamid": "90200489643409417",
+	"name": "Relog Media",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

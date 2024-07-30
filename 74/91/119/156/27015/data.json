@@ -1,0 +1,19 @@
+{
+	"addr": "74.91.119.156:27015",
+	"gameport": 27015,
+	"steamid": "85568392931858325",
+	"name": "5x5 or somethin",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

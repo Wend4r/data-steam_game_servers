@@ -1,0 +1,20 @@
+{
+	"addr": "91.224.117.19:27400",
+	"gameport": 27400,
+	"specport": 27401,
+	"steamid": "85568392921208800",
+	"name": "FragMasters.pl [Only Mirage][WS][KNIFE][RANGI][GLOVES][128TR] @",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 3,
+	"max_players": 22,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,128tr,4fun,emotes,ffa,fragma,gloves,isamu,knife,kosy,mirage,nitro,only mirage,pl,pompa,pompateam,pt,skiny,testvip,unikat,ws"
+}

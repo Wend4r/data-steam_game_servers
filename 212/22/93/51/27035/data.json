@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.93.51:27035",
+	"gameport": 27035,
+	"steamid": "90199720119617549",
+	"name": "Дагестан",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

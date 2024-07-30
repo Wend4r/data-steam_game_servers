@@ -1,0 +1,20 @@
+{
+	"addr": "138.75.72.19:27116",
+	"gameport": 27116,
+	"specport": 29117,
+	"steamid": "85568392922653185",
+	"name": ": : Starters : : Vanilla / 128-t",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "/573869514/cs_bloodstrike_2016",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128-tick,asia(sg my ph th id),classic,competitive,cs1.6,csgo,css,modern,original,rank,singapore,starters,stats,vanilla,se"
+}

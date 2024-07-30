@@ -1,0 +1,19 @@
+{
+	"addr": "146.185.215.32:27909",
+	"gameport": 27909,
+	"steamid": "85568392924672114",
+	"name": ">>> Zombie Escape [CS:GO ZE | TRUE PLAYERS]/FastDL<<<",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 55,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ze_exchange_innovation_p",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russia,net4all.ru,secure,ski,spb,skins,vip,z,ze,zm,zombie,zombies,zr"
+}

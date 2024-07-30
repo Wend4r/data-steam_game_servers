@@ -1,0 +1,20 @@
+{
+	"addr": "103.91.211.97:27060",
+	"gameport": 27060,
+	"specport": 27020,
+	"steamid": "85568392924811186",
+	"name": " 【風  雲】 匪镇谍影[TT] 3# Q群:512123277 多线CN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 40,
+	"bots": 1,
+	"map": "ttt_dustee_v1_1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Items,Store,TTT,fys,secure"
+}

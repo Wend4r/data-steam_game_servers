@@ -1,0 +1,19 @@
+{
+	"addr": "42.48.249.100:50300",
+	"gameport": 50300,
+	"steamid": "85568392931590292",
+	"name": "回防",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 7,
+	"bots": 6,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "R0对战平台,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "194.15.110.25:29015",
+	"gameport": 29015,
+	"steamid": "85568392931155575",
+	"name": "Team LEISURE by g-portal.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

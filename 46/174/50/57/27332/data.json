@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.50.57:27332",
+	"gameport": 27332,
+	"steamid": "85568392922154551",
+	"name": "HVH MM SERVER | HackVsHack | RPG | noVAC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 8,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "HackVsHack,HvH,Hvh,NoVac,RPG,WCS,War3craft,hack,insecure,insecure"
+}

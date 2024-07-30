@@ -1,0 +1,20 @@
+{
+	"addr": "146.19.87.251:27015",
+	"gameport": 27015,
+	"specport": 37015,
+	"steamid": "85568392931148661",
+	"name": "AWP | Дети 00-ых | BHOP SKINCHANGER SHOP | CS:GO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 11,
+	"max_players": 20,
+	"bots": 1,
+	"map": "deti00ykh.ru/awp_lego_2_no_deag",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,123,AWP,LEGO,MOSCOW,NOVOSIB,RU,UA,VIPTEST,anticheat,arena,bhop,deti00ykh,dm,nsk,surf,secure"
+}

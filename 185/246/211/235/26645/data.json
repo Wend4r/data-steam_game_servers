@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.211.235:26645",
+	"gameport": 26645,
+	"steamid": "85568392930594373",
+	"name": "TTF SERVER WAR",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,TTF SERVER WAR,insecure"
+}

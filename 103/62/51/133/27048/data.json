@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.51.133:27048",
+	"gameport": 27048,
+	"steamid": "90200149773504532",
+	"name": "KZG",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.6.2",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

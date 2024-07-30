@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.115:27015",
+	"gameport": 27015,
+	"steamid": "85568392930296566",
+	"name": "[TR] LA CASA PRO PUBLIC / Niburics !ws!knife!gloves!ajanlar - p",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 6,
+	"max_players": 44,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

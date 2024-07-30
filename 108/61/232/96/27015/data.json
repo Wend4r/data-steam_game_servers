@@ -1,0 +1,19 @@
+{
+	"addr": "108.61.232.96:27015",
+	"gameport": 27015,
+	"steamid": "85568392927395796",
+	"name": "2B4LLZ - I hate Counter Strike",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "5.252.100.120:4069",
+	"gameport": 4069,
+	"steamid": "85568392931181496",
+	"name": "[EU/DE] McDonaldsHvH | Mirage only",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,de_mirage,hacker-vs-hacker,hvh,mirage,insecure"
+}

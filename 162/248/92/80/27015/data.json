@@ -1,0 +1,19 @@
+{
+	"addr": "162.248.92.80:27015",
+	"gameport": 27015,
+	"steamid": "85568392921770731",
+	"name": "sneaK's Bhop Tier 1-6 !TAS|!ws|!knife|!gloves|Styles|Store",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 24,
+	"bots": 1,
+	"map": "bhop_hood2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,csgo,free,anticheat,easy,bhop,fun,climb,gloves,server,knife,game,server,map,skin,sneak,stat,store,surf,tas,timer,vip,secu"
+}

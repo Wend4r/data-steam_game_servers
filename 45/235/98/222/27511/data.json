@@ -1,0 +1,20 @@
+{
+	"addr": "45.235.98.222:27511",
+	"gameport": 27511,
+	"specport": 27020,
+	"steamid": "85568392931880963",
+	"name": "#01 [ARG] 420Servers | SURF COMBAT | CLANWARS | HITREGFIX | HIT",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "surf_ski_3_nova_inf_v3",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,arg,argentina,awp,bhop,combat,deathrun,era,hitbox,hitreg,kill,knife,mood,neon,paradi,stickers,surf,surfcombat,timer,valha"
+}

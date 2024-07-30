@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.54.30:10937",
+	"gameport": 10937,
+	"steamid": "85568392931608648",
+	"name": "{CS2} Взрослые Игры на Мираже",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

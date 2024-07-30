@@ -1,0 +1,19 @@
+{
+	"addr": "103.91.211.97:27028",
+	"gameport": 27028,
+	"steamid": "85568392922999665",
+	"name": " 【風  雲】 娱乐休闲[MG] 3# Q群:545101428 128tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 35,
+	"bots": 0,
+	"map": "mg_lt_galaxy_csgo_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,FUN,MG,MiniGames,Skin,secure"
+}

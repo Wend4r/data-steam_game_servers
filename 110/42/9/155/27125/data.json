@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.155:27125",
+	"gameport": 27125,
+	"steamid": "85568392931480017",
+	"name": " 【風  雲】 娱乐休闲 2#",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 31,
+	"max_players": 34,
+	"bots": 0,
+	"map": "mg_jacks_multigames_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+}

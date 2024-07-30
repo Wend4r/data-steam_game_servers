@@ -1,0 +1,20 @@
+{
+	"addr": "94.79.55.242:27215",
+	"gameport": 27215,
+	"specport": 28215,
+	"steamid": "85568392924772034",
+	"name": "Онлайн турниры FASTMM [128 tick] | ФАСТММ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "aim_map_fmm",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,duel,fastmm,fastmm.win,fmm,fmm.gg,secure"
+}

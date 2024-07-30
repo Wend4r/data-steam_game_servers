@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.51.134:27068",
+	"gameport": 27068,
+	"steamid": "90200398715098133",
+	"name": "CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 2,
+	"map": "de_shed_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

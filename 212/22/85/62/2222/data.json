@@ -1,0 +1,19 @@
+{
+	"addr": "212.22.85.62:2222",
+	"gameport": 2222,
+	"steamid": "85568392931818126",
+	"name": "[CS2] FORCEGROUND.RU AWP LEGO [!skins, !lvl ,FREE-VIP]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "202.189.5.118:30023",
+	"gameport": 30023,
+	"steamid": "90200498812416002",
+	"name": "【EXG社区】 test MG 娱乐闯关 QQ 群 553237396",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 4,
+	"max_players": 32,
+	"bots": 0,
+	"map": "mg_metro_course_v2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

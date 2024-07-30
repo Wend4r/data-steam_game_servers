@@ -1,0 +1,20 @@
+{
+	"addr": "131.196.196.196:27420",
+	"gameport": 27420,
+	"specport": 27020,
+	"steamid": "85568392931817837",
+	"name": "Legends Combat Surf old",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_greatriver_xdre4m",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Legends,Legends S,after,br,brasil,chv,combat surf,csgo,drevenz,era,era SA,host,hostzone,lust,mysk,sao paulo,sp,surf,surf "
+}

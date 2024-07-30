@@ -1,0 +1,19 @@
+{
+	"addr": "78.132.138.150:27015",
+	"gameport": 27015,
+	"steamid": "90200476770548766",
+	"name": "CS2 SERVER | TAMBOV",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "aim_map",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,fun,nocheat,secure"
+}

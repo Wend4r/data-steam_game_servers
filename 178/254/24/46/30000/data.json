@@ -1,0 +1,19 @@
+{
+	"addr": "178.254.24.46:30000",
+	"gameport": 30000,
+	"steamid": "85568392931668489",
+	"name": "FFA 1 - made by sn1ce",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.6",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

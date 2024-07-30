@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.77:27090",
+	"gameport": 27090,
+	"steamid": "90157466777899008",
+	"name": "CS:GO v3 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.8.2",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

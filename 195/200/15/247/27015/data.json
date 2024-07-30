@@ -1,0 +1,19 @@
+{
+	"addr": "195.200.15.247:27015",
+	"gameport": 27015,
+	"steamid": "85568392931647372",
+	"name": "[FR] =MDR= CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

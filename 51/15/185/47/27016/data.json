@@ -1,0 +1,19 @@
+{
+	"addr": "51.15.185.47:27016",
+	"gameport": 27016,
+	"steamid": "85568392931773998",
+	"name": "War-Team Fr - Serveur Compétition",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 33,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,War-Team Fr - Serveur Compétition,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "192.145.99.64:48463",
+	"gameport": 48463,
+	"steamid": "85568392931562812",
+	"name": "BLACK RUSSIA CS:2 | AIM+AWP #4",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 22,
+	"bots": 0,
+	"map": "sandstone_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

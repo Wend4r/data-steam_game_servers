@@ -1,0 +1,20 @@
+{
+	"addr": "211.107.177.187:28023",
+	"gameport": 28023,
+	"specport": 25023,
+	"steamid": "85568392923026022",
+	"name": "___:)W퍼니B)  감옥서버-배신자 집합소",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 30,
+	"bots": 1,
+	"map": "ba_jail_rebellion_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

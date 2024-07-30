@@ -1,0 +1,19 @@
+{
+	"addr": "178.63.14.49:27019",
+	"gameport": 27019,
+	"steamid": "90194517920921618",
+	"name": "██ GUN-GAME | Ranks | Euro-Community ██",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 11,
+	"map": "gg_simpsons_dust",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Gun-Game,secure"
+}

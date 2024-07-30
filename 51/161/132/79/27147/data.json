@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27147",
+	"gameport": 27147,
+	"steamid": "85568392926416164",
+	"name": "Wogboy's | Private Surf Server #1 | kzg.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "surf_summit",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gameME,hidden,secure"
+}

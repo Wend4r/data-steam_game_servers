@@ -1,0 +1,19 @@
+{
+	"addr": "177.66.192.198:27015",
+	"gameport": 27015,
+	"steamid": "85568392927288549",
+	"name": "Wiki Telecom - Servidor CSMA #01",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

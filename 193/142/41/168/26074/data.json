@@ -1,0 +1,19 @@
+{
+	"addr": "193.142.41.168:26074",
+	"gameport": 26074,
+	"steamid": "85568392930480273",
+	"name": "CSGO_OELDE_CASUAL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 3,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

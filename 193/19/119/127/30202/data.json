@@ -1,0 +1,19 @@
+{
+	"addr": "193.19.119.127:30202",
+	"gameport": 30202,
+	"steamid": "85568392931884199",
+	"name": "STEAL PUBLIC[!ws! gloves !knife] 128 tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

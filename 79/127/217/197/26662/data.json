@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.217.197:26662",
+	"gameport": 26662,
+	"specport": 26663,
+	"steamid": "90200485758449669",
+	"name": "CS Hawaii Server ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

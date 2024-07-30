@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.210:26154",
+	"gameport": 26154,
+	"steamid": "85568392923980458",
+	"name": "XPLAY.GG • CS2 DM FFA #60 • [SE]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

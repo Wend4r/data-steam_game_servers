@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.52.85:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931022960",
+	"name": "CsLand | Mirage | [!knife !ws !gloves !lvl]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 9,
+	"max_players": 30,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,128tick,Russian,aim,awp,bhop,cs,csland,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "89.187.167.139:26259",
+	"gameport": 26259,
+	"specport": 26260,
+	"steamid": "90200483305492507",
+	"name": "Minecraft Hunger Games EU",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "minecraft",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

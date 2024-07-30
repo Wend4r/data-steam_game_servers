@@ -1,0 +1,19 @@
+{
+	"addr": "188.242.202.57:1915",
+	"gameport": 1915,
+	"steamid": "85568392920287228",
+	"name": "***KANE*** Night Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "/362526987/cs_officenight",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,night;gritalonia;epicmorg;metaller,secure"
+}

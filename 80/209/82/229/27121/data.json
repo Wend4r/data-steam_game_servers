@@ -1,0 +1,19 @@
+{
+	"addr": "80.209.82.229:27121",
+	"gameport": 27121,
+	"steamid": "85568392930809944",
+	"name": "[EU] CPH-Gaming.dk - Retakes #2 [Prime Only]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,6V6,CPH-Gaming.DK,CS2,DK,EU,RETAKES,secure"
+}

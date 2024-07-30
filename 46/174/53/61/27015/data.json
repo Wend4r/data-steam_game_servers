@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.53.61:27015",
+	"gameport": 27015,
+	"steamid": "85568392931501510",
+	"name": "CS2 - Arcane #1 | PUBLIC | SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 8,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Arcane,anime,awp,awp anime,awp lego,fps public,fpspublic,"
+}

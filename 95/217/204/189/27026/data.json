@@ -1,0 +1,19 @@
+{
+	"addr": "95.217.204.189:27026",
+	"gameport": 27026,
+	"steamid": "90199913634059289",
+	"name": "Setti CSGO FFA DeathMatch",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 8,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,128tick,Setti,deathmatch,dm,download,fast,ffa,steam,s"
+}

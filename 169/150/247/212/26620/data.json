@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.247.212:26620",
+	"gameport": 26620,
+	"specport": 26621,
+	"steamid": "90200493990664216",
+	"name": "god bless",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

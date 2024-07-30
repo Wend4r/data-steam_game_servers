@@ -1,0 +1,19 @@
+{
+	"addr": "213.226.112.136:20028",
+	"gameport": 20028,
+	"steamid": "85568392930730564",
+	"name": "BlueSen #6 | AWP LEGO 2 | SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hns, mamiac, anime, awp, ws, gl, gloves, knife, public, fpspublic, bluesen"
+}

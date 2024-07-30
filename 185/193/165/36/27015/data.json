@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.36:27015",
+	"gameport": 27015,
+	"steamid": "85568392931849785",
+	"name": "[TR] ⭐ Luxury & Jailbreak | !kaccm !ayak +FPS | .gg/luxuryjb ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 10,
+	"max_players": 40,
+	"bots": 0,
+	"map": "jb_luxury_main",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

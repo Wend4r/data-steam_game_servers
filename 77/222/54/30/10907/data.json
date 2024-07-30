@@ -1,0 +1,19 @@
+{
+	"addr": "77.222.54.30:10907",
+	"gameport": 10907,
+	"steamid": "85568392931608618",
+	"name": "{CS2} Малыши Отрываются на Мираже",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}

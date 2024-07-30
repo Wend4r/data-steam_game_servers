@@ -1,0 +1,20 @@
+{
+	"addr": "83.141.29.60:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392920404725",
+	"name": "HK Purple - CKRAS - www.ckras.com",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,ckras,ckras.com,esl,esl certified,gameserver,gaming,official,premium,protect,provider,secure"
+}

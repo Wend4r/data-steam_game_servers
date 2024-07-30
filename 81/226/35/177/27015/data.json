@@ -1,0 +1,19 @@
+{
+	"addr": "81.226.35.177:27015",
+	"gameport": 27015,
+	"steamid": "85568392926500902",
+	"name": "Pajanis megabra sörver",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

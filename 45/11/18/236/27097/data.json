@@ -1,0 +1,20 @@
+{
+	"addr": "45.11.18.236:27097",
+	"gameport": 27097,
+	"specport": 27099,
+	"steamid": "90200491694945310",
+	"name": "flowac",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 19,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

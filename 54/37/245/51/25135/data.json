@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.245.51:25135",
+	"gameport": 25135,
+	"steamid": "85568392924242746",
+	"name": "GoFree EU#2 | Surf Tier1-2 (Medium Maps) !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 45,
+	"bots": 0,
+	"map": "surf_mate",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_mate,secure"
+}

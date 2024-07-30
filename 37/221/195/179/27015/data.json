@@ -1,0 +1,19 @@
+{
+	"addr": "37.221.195.179:27015",
+	"gameport": 27015,
+	"steamid": "90199184223509529",
+	"name": "DaxelServer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.9",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "cs_insertion2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

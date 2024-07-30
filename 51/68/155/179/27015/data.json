@@ -1,0 +1,20 @@
+{
+	"addr": "51.68.155.179:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931849553",
+	"name": "██ [ PL ] [4FUN][MULTIMOD] SURF/COURSE/MG/BHOP/HNS/AWP/DE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "mg_minecraft_course_JB_N1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,4fun,awp,course,dr,dust,fastdl,free,fun,hns,mg,multigames,pl,poland,recoil,shop,store,surf,vip,secure"
+}

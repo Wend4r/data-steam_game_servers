@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.52.88:27046",
+	"gameport": 27046,
+	"steamid": "85568392931848090",
+	"name": "CS2 BHOP #41 [RU] — CYBERSHOKE.NET (TIER 1-2 - EASY)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 4,
+	"max_players": 64,
+	"bots": 0,
+	"map": "bhop_omnitopia",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,bhop,bhop_omnitopia,gloves,cybershoke,cyber,drop,knife,pr"
+}

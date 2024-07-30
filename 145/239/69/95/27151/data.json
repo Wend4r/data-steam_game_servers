@@ -1,0 +1,19 @@
+{
+	"addr": "145.239.69.95:27151",
+	"gameport": 27151,
+	"steamid": "90200392009665567",
+	"name": "GTXGaming.co.uk - CS:GO eVo Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.105:27194",
+	"gameport": 27194,
+	"steamid": "85568392925160168",
+	"name": "Epiczone.sk | 1v1 ARENA #1 [!DUEL !ws !knife !gloves !agents]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 26,
+	"bots": 0,
+	"map": "am_blackline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage o"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "185.113.141.84:30000",
+	"gameport": 30000,
+	"steamid": "85568392931714538",
+	"name": "PT ➤ PTSKILLS | AWP ARENA | !WS !SKINS !AGENTS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,arena,awp,awparena,portugal,pt,pts,ptskills,secure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "135.148.137.207:35135",
+	"gameport": 35135,
+	"steamid": "85568392924274770",
+	"name": "GoFree US#9 | Surf 64t Tier1-8 (All Maps) !ws!knife!gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 45,
+	"bots": 0,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "178.236.67.31:27015",
+	"gameport": 27015,
+	"steamid": "85568392920050217",
+	"name": "  BrutalCS - KZ CLIMB 128T ★ 02 ★ MEDIUM ★ TIER 1-5",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 2,
+	"max_players": 32,
+	"bots": 2,
+	"map": "kz_variety_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128,BCS,BHOP,BRUTALCS,CLIMB,CLIMB KZ,EU,FUN,GLOBAL,GOKZ,KZ,KZ CLIMB,KZTIMER,STRAFE,SURF,SURFSKI,SWE,SWEDEN,TIMER,WARMUP,gameME,"
+}

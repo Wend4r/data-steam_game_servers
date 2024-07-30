@@ -1,0 +1,19 @@
+{
+	"addr": "87.225.106.239:27021",
+	"gameport": 27021,
+	"steamid": "85568392930375147",
+	"name": "Хабаровский[PUB][CS2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.4",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,27region,DV,KHV,Khabarovsk,Public,secure"
+}

@@ -1,0 +1,20 @@
+{
+	"addr": "91.189.178.190:27015",
+	"gameport": 27015,
+	"specport": 27036,
+	"steamid": "85568392923192713",
+	"name": "Way2Game",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Spillvert.no,secure"
+}

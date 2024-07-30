@@ -1,0 +1,19 @@
+{
+	"addr": "107.203.58.89:27015",
+	"gameport": 27015,
+	"steamid": "90200235677176847",
+	"name": "LinuxGSM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "ar_monastery",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

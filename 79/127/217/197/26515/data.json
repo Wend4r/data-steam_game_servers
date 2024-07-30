@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.217.197:26515",
+	"gameport": 26515,
+	"steamid": "85568392931852107",
+	"name": "Deathmatch NA West – Renown.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

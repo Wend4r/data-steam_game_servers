@@ -1,0 +1,20 @@
+{
+	"addr": "46.174.50.174:27115",
+	"gameport": 27115,
+	"specport": 28115,
+	"steamid": "90200413709338634",
+	"name": "SourceGaming.Ru Тестики",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 52,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "148.251.133.233:27035",
+	"gameport": 27035,
+	"steamid": "85568392923093734",
+	"name": "-= {Keks Brigarde} CS:GO Team-Deathmatch | FastDL =-",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 5,
+	"map": "/141631236/fy_buzzkill2005",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,ar_,cs:go,deathmatch,dm,funmaps,keks-brigarde.net,medikit,medipacks,medkit,nuke,tower,towers,two,twotowers,gameME,secure"
+}

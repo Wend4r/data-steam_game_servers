@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.39:27015",
+	"gameport": 27015,
+	"steamid": "85568392931981828",
+	"name": "Aktif CS:GO (TR) Server - prooyun.net",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg,prooyun,surf,tr,turkey,secure"
+}

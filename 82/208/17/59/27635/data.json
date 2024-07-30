@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.59:27635",
+	"gameport": 27635,
+	"steamid": "85568392925160173",
+	"name": "Epiczone.sk | FFA DM MIRAGE [TICK 128, !ws !knife !gloves]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,aim,casual,cz,de,de_,deathmatch,dm,epiczone,eu,fastdl,ffa,guns,lag,mirage,only,ping,pistol,pl,rifle,sk,slovak,warmup,"
+}

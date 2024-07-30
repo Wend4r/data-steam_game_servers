@@ -1,0 +1,19 @@
+{
+	"addr": "45.10.24.48:27014",
+	"gameport": 27014,
+	"steamid": "85568392931785662",
+	"name": "Ollum's Servers | LEGACY | EU - 64 Tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mist_2014_og",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

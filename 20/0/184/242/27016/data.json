@@ -1,0 +1,19 @@
+{
+	"addr": "20.0.184.242:27016",
+	"gameport": 27016,
+	"steamid": "90200489670391829",
+	"name": "Adibob Ash CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

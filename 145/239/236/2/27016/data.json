@@ -1,0 +1,19 @@
+{
+	"addr": "145.239.236.2:27016",
+	"gameport": 27016,
+	"steamid": "85568392931447933",
+	"name": "███ ★ Katujemy.eu ★ [NAGRYWKI]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,1vs1,5v5,5vs5,en,f2p,ffa,gloves,katujemy,knife,knife,"
+}

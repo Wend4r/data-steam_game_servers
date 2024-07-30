@@ -1,0 +1,19 @@
+{
+	"addr": "89.71.188.191:27015",
+	"gameport": 27015,
+	"steamid": "85568392929588227",
+	"name": "CS:R Casual",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.4.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

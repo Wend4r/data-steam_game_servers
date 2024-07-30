@@ -1,0 +1,20 @@
+{
+	"addr": "212.22.85.44:20012",
+	"gameport": 20012,
+	"specport": 27020,
+	"steamid": "85568392931659041",
+	"name": "#5 [CSGO] [PUBLIC] | DARK | CS-ELO.RU |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 7,
+	"max_players": 20,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,russian"
+}

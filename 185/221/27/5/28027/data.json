@@ -1,0 +1,19 @@
+{
+	"addr": "185.221.27.5:28027",
+	"gameport": 28027,
+	"steamid": "85568392931847240",
+	"name": "CS2 BHOP #48 [TR] — CYBERSHOKE.NET (TIER 1-2 - EASY)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 4,
+	"max_players": 64,
+	"bots": 0,
+	"map": "bhop_emevaelx3",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,bhop,bhop_emevaelx3,gloves,en,cybershoke,cyber,drop,knife"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "94.26.255.14:27215",
+	"gameport": 27215,
+	"steamid": "85568392931716961",
+	"name": "FEATANIME |MIRAGE| |FPS BOOST| [MIRAGE] [!WS !KNIFE !MODEL]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 7,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage_fpsboost_featanime_v1",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!lvl,!rank,!shop,!shop,!stickers ,!viptest,!ws,anime,anim"
+}

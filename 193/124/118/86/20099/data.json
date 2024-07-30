@@ -1,0 +1,19 @@
+{
+	"addr": "193.124.118.86:20099",
+	"gameport": 20099,
+	"steamid": "85568392931954656",
+	"name": "CS2 - BlueSen #10 | HNS NOPRE | SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "hns_zen",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hns, mamiac, anime, awp, ws, gl, gloves, knife, public, fpspublic, bluesen"
+}

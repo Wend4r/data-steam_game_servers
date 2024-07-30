@@ -1,0 +1,19 @@
+{
+	"addr": "131.196.196.197:27310",
+	"gameport": 27310,
+	"steamid": "85568392931597287",
+	"name": "[HvH] ★ CRIA NÃO CAI ★ [csgo_legacy] ROLL FIX",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 3,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "4fun,arena,bhop,brasil,compet,crianaocai,gloves,hack,hackvshack,hvh,jail,jailbreak,knife,kz,luckhvh,luckzera,mix,retake,surf,ws"
+}

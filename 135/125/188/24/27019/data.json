@@ -1,0 +1,19 @@
+{
+	"addr": "135.125.188.24:27019",
+	"gameport": 27019,
+	"steamid": "85568392930952963",
+	"name": "Aceflick | 1v1 Arena #2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "aim_redline_fp",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

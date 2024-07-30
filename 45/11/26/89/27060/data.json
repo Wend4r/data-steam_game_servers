@@ -1,0 +1,19 @@
+{
+	"addr": "45.11.26.89:27060",
+	"gameport": 27060,
+	"steamid": "85568392931907135",
+	"name": "РУССКИЙ ФПС ПАБЛИК | !WS !GLOVES !KNIFE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,knife,gloves,skins,viptest,cybershoke,public,servers,fps,fpsmirage,mirage,vip"
+}

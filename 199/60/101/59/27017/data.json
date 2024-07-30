@@ -1,0 +1,20 @@
+{
+	"addr": "199.60.101.59:27017",
+	"gameport": 27017,
+	"specport": 28017,
+	"steamid": "85568392931213174",
+	"name": "S!~ 1vs1 ARENA ~ 128 TICK ~ !STORE !KNIFE !GLOVES !WS ~ [SWOOBL",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "am_ferocious_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1 vs 1,128 Tick,128Tick,1v1,1v1 arena,1vs1,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,SKINS,STATS,STORE,SWOOBLES,WS,secure"
+}

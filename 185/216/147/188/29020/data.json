@@ -1,0 +1,19 @@
+{
+	"addr": "185.216.147.188:29020",
+	"gameport": 29020,
+	"steamid": "90200437004580892",
+	"name": "Angry Gamers - Gun Game -",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.2",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "ar_baggage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

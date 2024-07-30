@@ -1,0 +1,19 @@
+{
+	"addr": "185.216.164.188:27031",
+	"gameport": 27031,
+	"steamid": "90200393846041603",
+	"name": "Game-server.sk | Cs2 Deathmatch",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 23,
+	"bots": 10,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

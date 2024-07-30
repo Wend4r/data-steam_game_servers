@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.55.186:12715",
+	"gameport": 12715,
+	"steamid": "85568392931805114",
+	"name": "Alius",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

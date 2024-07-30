@@ -1,0 +1,19 @@
+{
+	"addr": "157.90.1.110:27033",
+	"gameport": 27033,
+	"steamid": "85568392931845405",
+	"name": "CS2 PISTOL RETAKE #10 [DE] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,de_inferno,de,cybershoke,cyber,128,128tick,drop,etake,en,"
+}

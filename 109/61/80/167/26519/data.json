@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.167:26519",
+	"gameport": 26519,
+	"specport": 26520,
+	"steamid": "90200485895752730",
+	"name": "FPSHEAVEN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 1,
+	"map": "de_memento",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

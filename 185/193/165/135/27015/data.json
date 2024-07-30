@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.135:27015",
+	"gameport": 27015,
+	"steamid": "85568392931435138",
+	"name": "GeceKusu ★ PRO/AIM ★ dc.gg/gecekusu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "aim_redline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "45.235.98.240:27083",
+	"gameport": 27083,
+	"steamid": "85568392924234921",
+	"name": "[ARG]CrisisGamer > [AUTOMIX]#2 [CSGO][WS,GLOVES] By Garryshost",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,compe,bhob,bunnyhob,5vs5,auto-mix,automix,argentina,1vs1,competitivo,crisisgamer,crisis,du,duv,gloves,mix,rangos,ranked,s"
+}

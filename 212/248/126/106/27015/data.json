@@ -1,0 +1,19 @@
+{
+	"addr": "212.248.126.106:27015",
+	"gameport": 27015,
+	"steamid": "90200099602782228",
+	"name": "/MSK/ Не играй как Саша! /AIM/",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "aim_map_classic",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,cs2,happy,msk,secure"
+}

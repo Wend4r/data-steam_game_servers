@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.247.210:26192",
+	"gameport": 26192,
+	"specport": 26193,
+	"steamid": "85568392931047362",
+	"name": "Negdims Studio",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_newyearground",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

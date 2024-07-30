@@ -1,0 +1,19 @@
+{
+	"addr": "89.22.169.2:48561",
+	"gameport": 48561,
+	"steamid": "85568392931739320",
+	"name": "[ RU/EU | HVH ] EVOLUTION TAPS | ONLY SCOUT | 16K",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 8,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_dust2_se++",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+}

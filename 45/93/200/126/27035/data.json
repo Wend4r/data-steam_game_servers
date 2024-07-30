@@ -1,0 +1,19 @@
+{
+	"addr": "45.93.200.126:27035",
+	"gameport": 27035,
+	"steamid": "85568392931472648",
+	"name": "[CS2] STILCS2.RU | #1 MIRAGE BLACK",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 17,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "admin,cs2,freevip,mirage,mirageonly,public,stil,stilcs,stilyagi"
+}

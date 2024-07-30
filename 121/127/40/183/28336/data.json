@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.183:28336",
+	"gameport": 28336,
+	"specport": 28337,
+	"steamid": "85568392924659857",
+	"name": "de_baby's Surf + BHOP + Movement + Screenshot Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 1,
+	"map": "surf_fortum",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gloves,!knife,!ws,/gloves,/knife,/ws,bhop,bunnyhop,community,cs:go,csgo,fun,gloves,knife,kz,map,movement,surf,surfing,ws"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "49.205.172.5:27022",
+	"gameport": 27022,
+	"steamid": "85568392931713065",
+	"name": "ConneQt Retake Delhi 2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "conneqt,conneqtgaming,secure"
+}

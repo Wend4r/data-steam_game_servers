@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.211.235:26768",
+	"gameport": 26768,
+	"steamid": "85568392930594716",
+	"name": "[FR] Night Mod 🌒 Ranking 🏆 Pro Bots 🦾",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 10,
+	"map": "de_dust2_night",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

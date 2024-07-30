@@ -1,0 +1,19 @@
+{
+	"addr": "217.170.193.18:27050",
+	"gameport": 27050,
+	"steamid": "90199598197017624",
+	"name": "СЕРВЕР ДЛЯ ВСЕХ, ДЕШЕВЫЕ ПРИВИЛЕГИ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.1",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

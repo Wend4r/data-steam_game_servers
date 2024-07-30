@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.71:27015",
+	"gameport": 27015,
+	"steamid": "85568392930309099",
+	"name": "[TR] [ASSASSİNS-GAMİNG] - fun.assassinsgaming.com - prooyun.n",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 2,
+	"max_players": 12,
+	"bots": 0,
+	"map": "aim_redline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}

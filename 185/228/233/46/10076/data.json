@@ -1,0 +1,19 @@
+{
+	"addr": "185.228.233.46:10076",
+	"gameport": 10076,
+	"steamid": "85568392931213275",
+	"name": " ЗАХОДИ ЕСЛИ МУЖИК !!!",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,ws,cyber,gloves,knife,zm,surf,wcs,aim"
+}

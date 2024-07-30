@@ -1,0 +1,19 @@
+{
+	"addr": "103.107.196.34:27058",
+	"gameport": 27058,
+	"steamid": "90199071538716673",
+	"name": "-FBCS- 5v5 Competition Server 1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.4",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

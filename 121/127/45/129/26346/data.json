@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.129:26346",
+	"gameport": 26346,
+	"steamid": "90200485748241414",
+	"name": "NoExcuses",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

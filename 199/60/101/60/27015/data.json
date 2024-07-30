@@ -1,0 +1,20 @@
+{
+	"addr": "199.60.101.60:27015",
+	"gameport": 27015,
+	"specport": 28015,
+	"steamid": "85568392931967296",
+	"name": "S!~ MINIGAMES ~ !STORE !KNIFE !GLOVES !WS ~ [SWOOBLES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "mg_ski_mountain_v2_csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,CASUAL,FAST DL,FASTDL,FUN,GAMES,GLOVES,MG,MINI GAMES,MINIGAMES,MULTIGAMES,RANKS,RATS,SKINS,STATS,STORE,SWOOBLES,WS,secure"
+}

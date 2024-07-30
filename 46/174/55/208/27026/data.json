@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.55.208:27026",
+	"gameport": 27026,
+	"steamid": "85568392931848067",
+	"name": "CS2 ARENA | 1v1 #2 [RU] — CYBERSHOKE.NET",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "am_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "am_mirage,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel,drop"
+}

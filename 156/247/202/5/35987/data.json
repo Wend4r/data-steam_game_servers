@@ -1,0 +1,19 @@
+{
+	"addr": "156.247.202.5:35987",
+	"gameport": 35987,
+	"steamid": "85568392924816472",
+	"name": "TOKYO CS2 DEATHMATCH 24x7 PES  | PacificES Cloud",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.8",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,TOKYO CS2 DEATHMATCH 24x7 PES ,cloud,pug,scrim,war,secure"
+}

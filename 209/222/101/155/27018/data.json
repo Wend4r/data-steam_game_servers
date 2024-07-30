@@ -1,0 +1,19 @@
+{
+	"addr": "209.222.101.155:27018",
+	"gameport": 27018,
+	"steamid": "85568392925189104",
+	"name": "TimetoKill.net - CS:GO Deathmatch GunGame | 128 tick",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "gg_lego_spacetower2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:3969910i,TtK,ar,armsrace,deathmatch,dm,fastDL,fightyard,fy,gameME,gg,gungame,stats,timetokill.net,secure"
+}

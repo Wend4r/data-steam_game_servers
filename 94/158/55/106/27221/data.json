@@ -1,0 +1,19 @@
+{
+	"addr": "94.158.55.106:27221",
+	"gameport": 27221,
+	"steamid": "85568392930745862",
+	"name": "UPGaming ● RETAKES #1 ● MAPVOTE",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 10,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "mirage,retake,retakes,tas-ix,upg,upg.uz,upgaming,upgaming.uz,uz"
+}

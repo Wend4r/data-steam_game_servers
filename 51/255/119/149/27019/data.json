@@ -1,0 +1,19 @@
+{
+	"addr": "51.255.119.149:27019",
+	"gameport": 27019,
+	"steamid": "85568392923395830",
+	"name": "SE7ENKILLS France #9 DM | Stats",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 4,
+	"map": "gg_2tower_outajungle",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "deathmatch,dm,freevip,no-steam,nonsteam,nosteam,se7en,se7enkills,stats,secure"
+}

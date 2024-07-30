@@ -1,0 +1,19 @@
+{
+	"addr": "89.40.104.207:27015",
+	"gameport": 27015,
+	"steamid": "85568392931810284",
+	"name": "Astramania | Prime Only",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 15,
+	"max_players": 36,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "AstraMania,secure"
+}

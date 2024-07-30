@@ -1,0 +1,20 @@
+{
+	"addr": "199.60.101.62:27015",
+	"gameport": 27015,
+	"specport": 28015,
+	"steamid": "85568392931967587",
+	"name": "S!~ COURSE ~ 128 TICK ~ !KNIFE !GLOVES !WS !STYLE ~ [SWOOBLES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "mg_erik_course_fix",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128 TICK,128 TIK,COURSE,FASTDL,FUN,GLOVES,KNIFE,KNIVES,LJ,MG,MINIGAMES,RANKS,SKINS,SPEED RUNS,SPEEDRUNS,STATS,SWOOBLES,TI"
+}

@@ -1,0 +1,19 @@
+{
+	"addr": "158.220.80.14:27018",
+	"gameport": 27018,
+	"steamid": "85568392931038027",
+	"name": "hlds.uk | Counter-Strike 2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "acs2_assault",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

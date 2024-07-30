@@ -1,0 +1,19 @@
+{
+	"addr": "78.46.98.22:27015",
+	"gameport": 27015,
+	"steamid": "85568392931945156",
+	"name": "Fortnitehook [2018] Legacy",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 30,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

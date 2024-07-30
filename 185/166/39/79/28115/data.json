@@ -1,0 +1,19 @@
+{
+	"addr": "185.166.39.79:28115",
+	"gameport": 28115,
+	"steamid": "90200310595377161",
+	"name": "Wingman #01 << powered by weeeSERVER HQ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 6,
+	"bots": 1,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,weeeserver,weeeserver hq,secure"
+}

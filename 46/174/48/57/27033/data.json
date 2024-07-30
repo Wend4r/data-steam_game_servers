@@ -1,0 +1,19 @@
+{
+	"addr": "46.174.48.57:27033",
+	"gameport": 27033,
+	"steamid": "85568392931758799",
+	"name": "███ ➥ yooma.su (CS2) /  маньяк #4",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 4,
+	"max_players": 32,
+	"bots": 0,
+	"map": "hnsschool",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
+}

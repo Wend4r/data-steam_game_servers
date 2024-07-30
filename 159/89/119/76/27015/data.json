@@ -1,0 +1,19 @@
+{
+	"addr": "159.89.119.76:27015",
+	"gameport": 27015,
+	"steamid": "85568392923724356",
+	"name": "AdventureBoyz",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.37.6.9",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_aztec_legacy",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

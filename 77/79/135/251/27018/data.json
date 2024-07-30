@@ -1,0 +1,19 @@
+{
+	"addr": "77.79.135.251:27018",
+	"gameport": 27018,
+	"steamid": "85568392931442523",
+	"name": "[CS2] EDRAGON | PUBLIC #2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,admin,cs2,freevip,mirage,mirageonly,public,vac,vip,viptes"
+}

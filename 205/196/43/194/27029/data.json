@@ -1,0 +1,19 @@
+{
+	"addr": "205.196.43.194:27029",
+	"gameport": 27029,
+	"steamid": "85568392924013993",
+	"name": "Counter-Strike 2 Server By Noir  - 24/7 cs_assault",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.8",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "cs_assault",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

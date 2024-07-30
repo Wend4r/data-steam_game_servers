@@ -1,0 +1,19 @@
+{
+	"addr": "74.91.112.214:27015",
+	"gameport": 27015,
+	"steamid": "90200480989964298",
+	"name": "CCC GAMING 2.O",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 0,
+	"max_players": 12,
+	"bots": 10,
+	"map": "cs_italy",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
