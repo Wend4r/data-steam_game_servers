@@ -1,7 +1,7 @@
 {
 	"addr": "45.93.200.183:27016",
 	"gameport": 27016,
-	"steamid": "90200506897697816",
+	"steamid": "90200514914255896",
 	"name": "ONETAKE-CS2.RU | AWP LEGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,secure"
+	"gametype": "empty,!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,s"
 }
