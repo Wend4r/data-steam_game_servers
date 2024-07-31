@@ -1,0 +1,20 @@
+{
+	"addr": "138.199.2.82:26722",
+	"gameport": 26722,
+	"specport": 26723,
+	"steamid": "85568392930290440",
+	"name": "CS2 BETA SERVER (Competitor)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 2,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}
