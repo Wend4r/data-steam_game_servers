@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 7,
-	"map": "new_2000_dark_gg1",
+	"map": "gg_mini_circular",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
