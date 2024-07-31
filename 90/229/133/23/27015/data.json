@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 9,
-	"map": "bunker",
+	"map": "de_brotherhood_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }
