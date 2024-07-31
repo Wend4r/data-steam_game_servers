@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 28,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "am_nuke_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brutalci,ws,secure"
+	"gametype": "br,brutalci,ws,secure"
 }
