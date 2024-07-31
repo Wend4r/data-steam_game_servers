@@ -2,8 +2,8 @@
 	"addr": "185.234.72.3:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "85568392931382200",
-	"name": "[CS2] ARENA.FIREON.RO | ARENA 1v1 | !WS !KNIFE !GLOVES !AGENTS ",
+	"steamid": "85568392923247741",
+	"name": "[CS2] ❖ AWP Only ✘ JUST 4FUN | SHOP | [FIREON.RO]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "am_dust2014_ot",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!skins,!ws,1v1,ant,arena,drop,free,gold,lvl,memb"
+	"gametype": "empty,!ctag,!gloves,!goldtag,!knife,!lvl,!mvp,!skins,!spray,!st"
 }
