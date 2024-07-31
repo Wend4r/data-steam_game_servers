@@ -1,7 +1,7 @@
 {
 	"addr": "160.25.85.100:27019",
 	"gameport": 27019,
-	"steamid": "90200514951504911",
+	"steamid": "90200517413313551",
 	"name": "Deathmatch \"|\" By Thecheckmate",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 15,
 	"bots": 8,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
