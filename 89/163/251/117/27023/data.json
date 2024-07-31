@@ -2,7 +2,7 @@
 	"addr": "89.163.251.117:27023",
 	"gameport": 27023,
 	"specport": 27024,
-	"steamid": "90200489643778057",
+	"steamid": "90200514764133385",
 	"name": "h8r.gg",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 9,
-	"map": "ze_ffvii_mako_reactor_v5_3",
+	"map": "ze_percocet_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,ocea"
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
 }

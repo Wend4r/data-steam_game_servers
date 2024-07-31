@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 4,
+	"players": 3,
 	"max_players": 26,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_mirage_overwatch_hck",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HolyHender,cases,gloves,knife,mirage,rank,ws,secure"
+	"gametype": "gloves,knife,mirage,rank,ws,secure"
 }
