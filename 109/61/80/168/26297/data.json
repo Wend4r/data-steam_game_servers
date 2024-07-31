@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26297",
 	"gameport": 26297,
+	"specport": 26298,
 	"steamid": "90200511737947163",
 	"name": "CYBERSPACE",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 7,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }
