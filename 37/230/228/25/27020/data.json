@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kz_beginnerblock_go",
+	"map": "kz_layercake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_beginnerblock_go,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_layercake,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26472",
 	"gameport": 26472,
-	"steamid": "90200499962022926",
+	"steamid": "90200531754483726",
 	"name": "Team69 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
