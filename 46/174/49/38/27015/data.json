@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.49.38:27015",
 	"gameport": 27015,
-	"steamid": "85568392931777147",
+	"steamid": "90200535115927554",
 	"name": "SLOPEX | AWPLEGO | !SKINS#149",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
