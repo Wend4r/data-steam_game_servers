@@ -11,9 +11,9 @@
 	"players": 9,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_sg_dojo_ap_v1",
+	"map": "jb_vortex",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
+	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
 }
