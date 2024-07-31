@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 6,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_thera",
+	"bots": 4,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

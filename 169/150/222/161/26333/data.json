@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26333",
 	"gameport": 26333,
-	"steamid": "90200526194798595",
+	"steamid": "90200527130540035",
 	"name": "QUBE E-Sports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 10,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
