@@ -1,7 +1,6 @@
 {
 	"addr": "185.246.208.201:26133",
 	"gameport": 26133,
-	"specport": 26134,
 	"steamid": "85568392931971757",
 	"name": "Unleashed",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
