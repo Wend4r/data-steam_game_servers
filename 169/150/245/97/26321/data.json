@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.97:26321",
+	"gameport": 26321,
+	"specport": 26322,
+	"steamid": "90200529109490693",
+	"name": "ZennoX Rising (INT) powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 5,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}
