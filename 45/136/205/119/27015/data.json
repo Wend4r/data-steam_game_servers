@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 0,
-	"map": "awp_lego_2_carton",
+	"map": "awp_lego_ultimate",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
