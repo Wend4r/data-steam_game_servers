@@ -1,19 +1,19 @@
 {
 	"addr": "216.52.148.47:27015",
 	"gameport": 27015,
-	"steamid": "85568392931977145",
-	"name": "NEW GFL ZE IP: 74.91.124.21:27015",
+	"steamid": "85568392924437989",
+	"name": "GFL Zombie Escape 24/7 | discord.gg/gflze |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
-	"max_players": 10,
+	"players": 58,
+	"max_players": 64,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "ze_tesv_skyrim_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "91.190.156.52:27015",
 	"gameport": 27015,
-	"steamid": "90200512462745602",
+	"steamid": "90200512464141314",
 	"name": "SANDERS [CS2] | ONLY MIRAGE | BOOST +300 FPS | !SKINS !WS !KNIF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_sandstone_fpsboost",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
