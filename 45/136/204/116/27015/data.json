@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27015",
 	"gameport": 27015,
 	"steamid": "90200477453897758",
-	"name": "genesis 14581: team_fp vs team_Володя блюхгенг",
+	"name": "[genesis] League #1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 10,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

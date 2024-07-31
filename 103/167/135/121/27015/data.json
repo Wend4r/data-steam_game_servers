@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_panlong",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
