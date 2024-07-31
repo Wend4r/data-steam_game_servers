@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26003",
 	"gameport": 26003,
-	"steamid": "90200485870618632",
+	"steamid": "90200513724605448",
 	"name": "Etown brawlerz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

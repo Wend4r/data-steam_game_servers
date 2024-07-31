@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26684",
 	"gameport": 26684,
-	"steamid": "90200485920335900",
+	"steamid": "90200513749982236",
 	"name": "FishyFish",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.99:26233",
 	"gameport": 26233,
-	"specport": 26234,
-	"steamid": "90200483480463363",
+	"steamid": "90200513879984131",
 	"name": "Palmitos",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

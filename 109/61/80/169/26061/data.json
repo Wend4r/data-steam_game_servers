@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26061",
 	"gameport": 26061,
-	"steamid": "90200485920594972",
+	"steamid": "90200513750203420",
 	"name": "RaymondFinkleBalancing",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

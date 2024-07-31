@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.231:26254",
 	"gameport": 26254,
-	"steamid": "90200485763956750",
+	"steamid": "90200513790111758",
 	"name": "Golmon Fighters",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

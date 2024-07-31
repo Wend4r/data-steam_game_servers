@@ -1,7 +1,7 @@
 {
 	"addr": "144.126.148.148:27015",
 	"gameport": 27015,
-	"steamid": "90200512745900043",
+	"steamid": "90200513715352587",
 	"name": "Scrumulus",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 8,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26025",
 	"gameport": 26025,
-	"steamid": "90200485929748493",
+	"steamid": "90200513720054797",
 	"name": "THUNDER retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

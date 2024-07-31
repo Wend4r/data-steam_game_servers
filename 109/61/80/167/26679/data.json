@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26679",
 	"gameport": 26679,
-	"steamid": "90200485895683098",
+	"steamid": "90200513799792666",
 	"name": "OGC PRAC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

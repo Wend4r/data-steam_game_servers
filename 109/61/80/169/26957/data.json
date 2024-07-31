@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26957",
 	"gameport": 26957,
-	"steamid": "90200485920823324",
+	"steamid": "90200513750444060",
 	"name": "Kaskatornia",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

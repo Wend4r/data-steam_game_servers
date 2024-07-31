@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.102:26311",
 	"gameport": 26311,
-	"steamid": "90200485749404678",
+	"steamid": "90200513819880454",
 	"name": "Clube da Pesca [RETAKE] [pra mudar o mapa: !rtv]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

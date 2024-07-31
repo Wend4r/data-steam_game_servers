@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,combat surf,knife,mg,surf,surfdm,ws,secure"
+	"gametype": "empty,bhop,combat surf,knife,mg,surf,surfdm,ws,secure"
 }

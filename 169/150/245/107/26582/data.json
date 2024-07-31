@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26582",
 	"gameport": 26582,
-	"steamid": "90200485724433423",
+	"steamid": "90200513869909007",
 	"name": "Morning Glory",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

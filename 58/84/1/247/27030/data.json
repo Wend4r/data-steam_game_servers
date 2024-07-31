@@ -1,8 +1,7 @@
 {
 	"addr": "58.84.1.247:27030",
 	"gameport": 27030,
-	"specport": 28030,
-	"steamid": "90200486884190239",
+	"steamid": "90200513730239519",
 	"name": "GTV #6",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

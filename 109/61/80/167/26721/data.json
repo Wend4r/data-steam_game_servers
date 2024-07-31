@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.167:26721",
 	"gameport": 26721,
-	"specport": 26722,
-	"steamid": "90200485896186906",
+	"steamid": "90200513800269850",
 	"name": "Team NOBO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

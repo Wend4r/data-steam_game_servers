@@ -2,7 +2,7 @@
 	"addr": "169.150.245.106:26769",
 	"gameport": 26769,
 	"specport": 26770,
-	"steamid": "90200485763715086",
+	"steamid": "90200513789858830",
 	"name": "[TLD] #1 EU Bhop Combat | !ws | !knife | !store",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
