@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.198.105:26203",
+	"gameport": 26203,
+	"steamid": "90200532680480777",
+	"name": "Patins da Ferrari powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

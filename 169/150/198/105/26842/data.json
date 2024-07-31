@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 4,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
