@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33008",
 	"gameport": 33008,
-	"steamid": "90200527662968839",
-	"name": "ONLY MIRAGE by \"FreeGameHosting.eu\"",
+	"steamid": "90200528214158343",
+	"name": "oleg by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
