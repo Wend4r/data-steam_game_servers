@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "surf_mesa_revo",
+	"map": "surf_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Retake,europe,francophone,fun,knives,scout,secure"
+	"gametype": "Retake,europe,francophone,fun,knives,scout,secure"
 }
