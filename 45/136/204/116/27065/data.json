@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27065",
 	"gameport": 27065,
 	"steamid": "90200477285476382",
-	"name": "genesis 14955: team_Holiwier vs team_iwy",
+	"name": "[genesis] League #6",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

@@ -2,13 +2,13 @@
 	"addr": "1.13.5.7:27100",
 	"gameport": 27100,
 	"specport": 27120,
-	"steamid": "85568392931981987",
-	"name": "R0对战平台天梯服务器 南京41",
+	"steamid": "85568392932023093",
+	"name": "R0对战平台天梯服务器",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 12,
 	"bots": 3,
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,R0对战平台,insecure"
 }
