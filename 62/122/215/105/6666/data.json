@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HvH,SharkProject,aboba,abobahvh,bloodhvh,cheats,eXpidors,fipp,furios,gala,galaxy,gamesense,neverlose,nixware,onetap,shark"
+	"gametype": "empty,*grp:\"\"\"\"\"\"\"\"\"\"\"\"\"\"i,HvH,SharkProject,aboba,abobahvh,bloodhvh,cheats,eXpidors,fipp,furios,gala,galaxy,gamesense,neverlose"
 }

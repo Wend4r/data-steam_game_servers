@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "am_blockshit",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,argentina,mdq,mdqservers,secure"
+	"gametype": "1v1,arena,argentina,mdq,mdqservers,secure"
 }

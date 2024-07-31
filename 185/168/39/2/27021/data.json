@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,casual,csgo,ggbattle,ggbattlecom,gr,greece,greek,hellenic"
+	"gametype": "casual,csgo,ggbattle,ggbattlecom,gr,greece,greek,hellenic,secur"
 }
