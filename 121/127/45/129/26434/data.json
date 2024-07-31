@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.129:26434",
+	"gameport": 26434,
+	"steamid": "90200530603633670",
+	"name": "Fortress powered by PRACC.COM powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+}

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 32,
-	"bots": 8,
-	"map": "awp_lego_broked",
+	"bots": 0,
+	"map": "aim_awp_bungalow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
