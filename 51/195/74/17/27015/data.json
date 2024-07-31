@@ -1,7 +1,6 @@
 {
 	"addr": "51.195.74.17:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931287109",
 	"name": "Cierzo eSports",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 14,
-	"bots": 0,
-	"map": "de_anubis",
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Cierzo eSports,secure"
+	"gametype": "empty,Cierzo eSports,secure"
 }
