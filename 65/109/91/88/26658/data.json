@@ -1,8 +1,7 @@
 {
 	"addr": "65.109.91.88:26658",
 	"gameport": 26658,
-	"specport": 26659,
-	"steamid": "90200503605194764",
+	"steamid": "90200532454661132",
 	"name": "Aqua eSports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

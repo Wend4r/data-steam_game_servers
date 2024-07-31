@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 28,
 	"bots": 0,
-	"map": "am_anubis_p",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brutalci,ws,secure"
+	"gametype": "br,brutalci,ws,secure"
 }

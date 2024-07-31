@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26289",
 	"gameport": 26289,
-	"steamid": "90200503565444109",
+	"steamid": "90200532444534797",
 	"name": "Penance powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

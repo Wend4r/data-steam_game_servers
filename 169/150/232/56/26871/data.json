@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26871",
 	"gameport": 26871,
 	"specport": 26872,
-	"steamid": "90200503650215952",
+	"steamid": "90200532608800784",
 	"name": "Victory Royale powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "109.61.80.169:26916",
 	"gameport": 26916,
 	"specport": 26917,
-	"steamid": "90200503554924572",
+	"steamid": "90200532603528220",
 	"name": "[PRACC.COM] SCRIM-TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
