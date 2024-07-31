@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 29,
-	"bots": 1,
+	"bots": 2,
 	"map": "surf_theworldismine_njv",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,102-tick,BG,SurfTimer,broken fang,clarity,clarityeu.com,claritysurf,hard,knife,new skins,riptide,skins,t3,t4,t5,t6,t7,t8,"
+	"gametype": "102-tick,BG,SurfTimer,broken fang,clarity,clarityeu.com,claritysurf,hard,knife,new skins,riptide,skins,t3,t4,t5,t6,t7,t8,vip,ws"
 }
