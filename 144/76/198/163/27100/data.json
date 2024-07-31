@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,Betreutes Zocken,Betreuteszocken,Zocken,insecure"
+	"gametype": "128-tick,Betreutes Zocken,Betreuteszocken,Zocken,secure"
 }
