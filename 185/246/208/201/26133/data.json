@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 12,
 	"bots": 1,
-	"map": "mini_mirage",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

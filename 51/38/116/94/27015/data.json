@@ -1,19 +1,19 @@
 {
 	"addr": "51.38.116.94:27015",
 	"gameport": 27015,
-	"steamid": "90200534632260618",
+	"steamid": "90200534634706954",
 	"name": "JBSLO Jailbreak Slovenija",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 21,
 	"bots": 0,
 	"map": "jb_sg_dojo_ap_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "jailbreak slovenia,secure"
+	"gametype": "empty,jailbreak slovenia,secure"
 }
