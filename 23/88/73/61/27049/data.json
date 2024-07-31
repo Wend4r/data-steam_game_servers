@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_classicrainbowaux_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_classi,drop,eu,en,germany,ger,de,cybershoke,cyb"
+	"gametype": "bhop,bhop_classi,drop,eu,en,germany,ger,de,cybershoke,cyber,glo"
 }
