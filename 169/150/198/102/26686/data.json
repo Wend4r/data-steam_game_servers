@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.102:26686",
 	"gameport": 26686,
-	"steamid": "90200531572154374",
-	"name": "Sharks Youngsters CS2 powered by PRACC.COM",
+	"steamid": "90200531884780550",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
