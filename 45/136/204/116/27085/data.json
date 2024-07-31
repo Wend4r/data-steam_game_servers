@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27085",
 	"gameport": 27085,
 	"steamid": "90200530343919646",
-	"name": "genesis 14927: team_!「𝐋𝐊」skinhead vs team_seppo",
+	"name": "[genesis] League #8",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

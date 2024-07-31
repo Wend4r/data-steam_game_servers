@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.167:26462",
 	"gameport": 26462,
-	"steamid": "90200532031051802",
-	"name": "Leetify CS2 Retakes by It's me.. Silver Mario",
+	"specport": 26463,
+	"steamid": "90200533614235674",
+	"name": "[P] PopFlash Scrim - dusseldorf - 24",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,popflash,secure"
 }

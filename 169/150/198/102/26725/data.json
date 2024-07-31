@@ -2,8 +2,8 @@
 	"addr": "169.150.198.102:26725",
 	"gameport": 26725,
 	"specport": 26726,
-	"steamid": "90200532902153222",
-	"name": "Guará eSports powered by PRACC.COM",
+	"steamid": "90200533607994374",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
