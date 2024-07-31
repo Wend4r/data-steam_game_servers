@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "/454227310/kz_dzy_beyond_v2",
+	"map": "/2910319397/kz_sxb_remake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
+	"gametype": "aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
 }

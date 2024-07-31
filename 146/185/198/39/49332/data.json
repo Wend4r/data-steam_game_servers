@@ -1,0 +1,19 @@
+{
+	"addr": "146.185.198.39:49332",
+	"gameport": 49332,
+	"steamid": "85568392931985545",
+	"name": "WARFAL: SANDSTONE #1 [!VIP, !WS, !SKINS, !LVL]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 33,
+	"bots": 0,
+	"map": "sandstone_new",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battlepass,b"
+}
