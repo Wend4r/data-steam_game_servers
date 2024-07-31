@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_licciana_escape_p",
+	"map": "zm_vents_remake_m",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
