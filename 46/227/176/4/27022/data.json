@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 19,
 	"bots": 12,
-	"map": "de_nuke",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,dm,ffa,rank,sk,warmup,secure"
+	"gametype": "csportal,cz,dm,ffa,rank,sk,warmup,secure"
 }

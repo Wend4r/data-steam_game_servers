@@ -11,7 +11,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 11,
-	"bots": 1,
+	"bots": 0,
 	"map": "editor/zoo/smartprop_zoo",
 	"secure": false,
 	"dedicated": true,

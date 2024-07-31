@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.26:27050",
 	"gameport": 27050,
-	"steamid": "90200512520651794",
+	"steamid": "90200537710842898",
 	"name": "CS-PL [BF2 + 4FUN] [1.6 NOSTALGIA] @pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "cs_office_180",
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
