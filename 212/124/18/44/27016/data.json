@@ -1,7 +1,7 @@
 {
 	"addr": "212.124.18.44:27016",
 	"gameport": 27016,
-	"steamid": "90200532800657429",
+	"steamid": "90200533462426645",
 	"name": "[TEST SERVER] AWP Country [RU]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 11,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aim,awp,fy,mg,plugins,public,volk,volk_rus,insecure"
+	"gametype": "empty,aim,awp,fy,mg,plugins,public,volk,volk_rus,insecure"
 }

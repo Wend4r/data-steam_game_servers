@@ -1,7 +1,7 @@
 {
 	"addr": "45.136.205.119:27015",
 	"gameport": 27015,
-	"steamid": "90200531235949569",
+	"steamid": "90200533560915969",
 	"name": "[CS2] FLOWER | SAKURA #3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 0,
-	"map": "awp_lego_ultimate",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
