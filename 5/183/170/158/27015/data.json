@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 3,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_zvk_death",
+	"bots": 1,
+	"map": "awp_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
 }
