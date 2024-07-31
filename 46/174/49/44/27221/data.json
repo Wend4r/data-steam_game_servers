@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,bhop,deathrun,gloves,knife,lego,mg,shop,surf,viptest,secure"
+	"gametype": "empty,bhop,dr,mg,secure"
 }
