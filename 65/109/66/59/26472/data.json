@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26472",
 	"gameport": 26472,
-	"steamid": "90200529711322125",
+	"steamid": "90200532439971853",
 	"name": "agon1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 0,
+	"bots": 2,
 	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
