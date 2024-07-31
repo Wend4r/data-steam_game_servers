@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 33,
 	"bots": 1,
 	"map": "dz_sirocco",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!knife,!ws,gl,gloves,knife,ws,secure"
+	"gametype": "!gloves,!knife,!ws,gl,gloves,knife,ws,secure"
 }

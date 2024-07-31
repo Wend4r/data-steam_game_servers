@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26572",
 	"gameport": 26572,
+	"specport": 26573,
 	"steamid": "90200529872266267",
 	"name": "VOID GAMING",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
