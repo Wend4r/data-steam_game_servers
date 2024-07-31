@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 10,
 	"max_players": 40,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1TAP,1TAPARENA,ARENA,ARENA1TAP,CS2,CSGO,GO,ROMANIA,secure"
+	"gametype": "1TAP,1TAPARENA,ARENA,ARENA1TAP,CS2,CSGO,GO,ROMANIA,secure"
 }
