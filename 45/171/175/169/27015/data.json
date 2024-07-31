@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 8,
-	"map": "awp_india",
+	"map": "cs_minecraft_landscape",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
