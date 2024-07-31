@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.194.43:27046",
 	"gameport": 27046,
-	"steamid": "90200521095803921",
+	"steamid": "90200531328312337",
 	"name": "Valve Counter-Strike 2 eu_west Server (srcds333-fra2.273.32)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,empty,secure"
+	"gametype": "hidden,empty,insecure"
 }
