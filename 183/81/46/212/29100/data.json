@@ -11,9 +11,8 @@
 	"players": 0,
 	"max_players": 26,
 	"bots": 0,
-	"map": "de_thera",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wavy,wp,w"
+	"os": "w"
 }

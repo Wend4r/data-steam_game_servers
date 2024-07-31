@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30238",
 	"gameport": 30238,
 	"specport": 35029,
-	"steamid": "90200537716285455",
+	"steamid": "90200538053166095",
 	"name": "TeamTehix",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
