@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage_fps_blade",
+	"map": "de_inferno_fps_blade",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!roll,!shop,!viptest,!ws,128tick,awp,awp o"
+	"gametype": "!gloves,!knife,!roll,!shop,!viptest,!ws,128tick,awp,awp only,bl"
 }

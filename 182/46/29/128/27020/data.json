@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "hns_kitty",
+	"map": "hns_tyo_docg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26120",
 	"gameport": 26120,
-	"steamid": "90200513829463067",
+	"steamid": "90200532391416859",
 	"name": "BobrPractice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 5,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "aim_map_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
