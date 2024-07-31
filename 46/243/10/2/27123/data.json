@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 20,
 	"bots": 2,
-	"map": "awp_lego_2",
+	"map": "awp_creek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavrop"
+	"gametype": "23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavropol,cla"
 }
