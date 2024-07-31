@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.211:26648",
 	"gameport": 26648,
-	"steamid": "90200485909144599",
+	"steamid": "90200513773670423",
 	"name": "Madkiewicz.dathost",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

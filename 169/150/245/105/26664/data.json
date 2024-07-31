@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26664",
 	"gameport": 26664,
-	"steamid": "90200485698849805",
+	"steamid": "90200513719561229",
 	"name": "WZCUZ / CS2 / 5v5 / Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

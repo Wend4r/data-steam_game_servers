@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26367",
 	"gameport": 26367,
-	"steamid": "90200485929495565",
+	"steamid": "90200513719821325",
 	"name": "illegal-racer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

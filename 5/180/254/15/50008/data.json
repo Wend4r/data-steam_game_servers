@@ -1,8 +1,7 @@
 {
 	"addr": "5.180.254.15:50008",
 	"gameport": 50008,
-	"specport": 27020,
-	"steamid": "90200502763484160",
+	"steamid": "90200513653478400",
 	"name": "Team-SEEYOU by Cordes-Hosting.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

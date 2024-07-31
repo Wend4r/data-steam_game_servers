@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26896",
 	"gameport": 26896,
-	"steamid": "90200485890005001",
+	"steamid": "90200513744093193",
 	"name": "etowngaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

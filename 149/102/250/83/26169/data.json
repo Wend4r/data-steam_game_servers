@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.83:26169",
 	"gameport": 26169,
-	"steamid": "90200485874642947",
+	"steamid": "90200513694222339",
 	"name": "Serenity Esports Prac/Scrim Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

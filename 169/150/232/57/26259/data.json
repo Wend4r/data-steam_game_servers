@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26259",
 	"gameport": 26259,
-	"steamid": "90200485768627217",
+	"steamid": "90200513784456209",
 	"name": "GG-Staging",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

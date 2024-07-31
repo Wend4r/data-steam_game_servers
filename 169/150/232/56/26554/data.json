@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26554",
 	"gameport": 26554,
-	"steamid": "90200485713572880",
+	"steamid": "90200513843887120",
 	"name": "Yoni's Famous God Bless Retakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

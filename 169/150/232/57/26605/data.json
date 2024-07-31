@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26605",
 	"gameport": 26605,
-	"steamid": "90200485768728593",
+	"steamid": "90200513784540177",
 	"name": "octoplat",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

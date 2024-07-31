@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26958",
 	"gameport": 26958,
-	"steamid": "90200485713383440",
+	"steamid": "90200513843717136",
 	"name": "PTSD Prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

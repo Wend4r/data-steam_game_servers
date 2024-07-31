@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.167:26141",
 	"gameport": 26141,
-	"specport": 26142,
 	"steamid": "85568392931441420",
 	"name": "hi mom",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

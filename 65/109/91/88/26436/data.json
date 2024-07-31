@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26436",
 	"gameport": 26436,
-	"steamid": "90200485727987724",
+	"steamid": "90200513813459980",
 	"name": "SAATTOHOITOLAITOS - ELAKE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

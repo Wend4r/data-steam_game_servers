@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26746",
 	"gameport": 26746,
-	"steamid": "90200485713694736",
+	"steamid": "90200513844043792",
 	"name": "gamemen",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_all_in_one",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

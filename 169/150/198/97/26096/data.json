@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.97:26096",
 	"gameport": 26096,
+	"specport": 26097,
 	"steamid": "90200513678264321",
 	"name": "SO VIADO",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 9,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }

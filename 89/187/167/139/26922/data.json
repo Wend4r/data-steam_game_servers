@@ -2,7 +2,7 @@
 	"addr": "89.187.167.139:26922",
 	"gameport": 26922,
 	"specport": 26923,
-	"steamid": "90200485704103963",
+	"steamid": "90200513828298779",
 	"name": "xacty's customs server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

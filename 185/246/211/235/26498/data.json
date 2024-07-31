@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.235:26498",
 	"gameport": 26498,
-	"steamid": "90200485733748754",
+	"steamid": "90200513809173522",
 	"name": "Divine Sight CS2 Team Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

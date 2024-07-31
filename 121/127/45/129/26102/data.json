@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26102",
 	"gameport": 26102,
-	"steamid": "90200485748211718",
+	"steamid": "90200513818573830",
 	"name": "GoD CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26920",
 	"gameport": 26920,
-	"steamid": "90200485758751749",
+	"steamid": "90200513769457669",
 	"name": "BiG Ron's House",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "1v1",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

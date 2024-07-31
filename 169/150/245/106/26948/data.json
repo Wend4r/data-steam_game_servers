@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26948",
 	"gameport": 26948,
-	"steamid": "90200485763597326",
+	"steamid": "90200513789730830",
 	"name": "KippiePang#.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

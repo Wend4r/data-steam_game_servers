@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26979",
 	"gameport": 26979,
-	"steamid": "90200485748221958",
+	"steamid": "90200513818601478",
 	"name": "da boys | CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 5,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
