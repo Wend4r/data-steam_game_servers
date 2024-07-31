@@ -1,19 +1,19 @@
 {
 	"addr": "42.186.71.40:50004",
 	"gameport": 50004,
-	"steamid": "90200506917234696",
+	"steamid": "90200532984170504",
 	"name": "BUFF inspect server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
