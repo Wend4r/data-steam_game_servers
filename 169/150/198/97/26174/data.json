@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.198.97:26174",
 	"gameport": 26174,
-	"specport": 26175,
 	"steamid": "85568392930706882",
 	"name": "CS AJU",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 5,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "trn,troianos,secure"
+	"gametype": "empty,trn,troianos,insecure"
 }

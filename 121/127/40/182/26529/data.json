@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.40.182:26529",
 	"gameport": 26529,
-	"steamid": "90200501801621504",
-	"name": "Leetify CS2 Retakes by Not the FBI",
+	"specport": 26530,
+	"steamid": "90200512816752640",
+	"name": "[P] PopFlash Scrim - dallas - 24",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_anubis",
+	"players": 2,
+	"max_players": 7,
+	"bots": 1,
+	"map": "de_assembly",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,popflash,secure"
 }
