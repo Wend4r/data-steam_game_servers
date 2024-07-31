@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 21,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "awp_two_towers",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,aim,awp,baltic,chill,competit"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,aim,awp,baltic,chill,competitive,gl"
 }

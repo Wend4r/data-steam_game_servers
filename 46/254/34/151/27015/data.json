@@ -11,9 +11,8 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "_registered,arena,gamer,gamerarena,it,ita,secure"
+	"os": "l"
 }
