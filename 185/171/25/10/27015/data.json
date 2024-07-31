@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,buy,deagle,d"
+	"gametype": "!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,buy,deagle,dm,full"
 }

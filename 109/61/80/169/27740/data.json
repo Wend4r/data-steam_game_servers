@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 11,
 	"bots": 1,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,popflash.site,insecure"
+	"gametype": "popflash,popflash.site,secure"
 }

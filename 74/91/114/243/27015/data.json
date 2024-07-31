@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/491358151/bkz_blackrockshooter",
+	"map": "/2329271354/kz_surf_larry",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
