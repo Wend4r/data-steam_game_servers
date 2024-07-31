@@ -1,7 +1,6 @@
 {
 	"addr": "37.135.148.52:27015",
 	"gameport": 27015,
-	"specport": 27016,
 	"steamid": "85568392931957385",
 	"name": "TroubleChute's Test Server",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
