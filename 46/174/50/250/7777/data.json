@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
 	"map": "mg_bob4_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
+	"gametype": "empty,!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
 }

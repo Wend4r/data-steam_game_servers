@@ -1,19 +1,19 @@
 {
 	"addr": "193.33.176.69:27045",
 	"gameport": 27045,
-	"steamid": "90200531276015645",
-	"name": "HvH | Stulejka 16K [SOON] @pukawka.pl",
+	"steamid": "90200531419267101",
+	"name": "HvH | Stulejka 16K@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": 3,
-	"players": 2,
+	"region": -1,
+	"players": 1,
 	"max_players": 8,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "srcds.pro 4.0 stable secure unddosable,insecure"
+	"gametype": "insecure"
 }

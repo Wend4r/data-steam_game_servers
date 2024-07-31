@@ -1,7 +1,7 @@
 {
 	"addr": "91.64.79.156:27015",
 	"gameport": 27015,
-	"steamid": "90200531477319701",
+	"steamid": "90200531480900629",
 	"name": "havi.net // CS2 Server [VAC+CUSTOM ANTICHEAT]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

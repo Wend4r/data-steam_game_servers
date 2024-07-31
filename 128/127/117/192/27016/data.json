@@ -1,19 +1,19 @@
 {
 	"addr": "128.127.117.192:27016",
 	"gameport": 27016,
-	"steamid": "90200531394674689",
+	"steamid": "90200531539263489",
 	"name": "run.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "hns_devblocks",
+	"map": "hns_cbblereal",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
