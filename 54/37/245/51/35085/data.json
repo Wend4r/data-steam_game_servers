@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_scorch_go",
+	"map": "surf_cozy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_scorch_go,sec"
+	"gametype": "empty,128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_cozy,secure"
 }
