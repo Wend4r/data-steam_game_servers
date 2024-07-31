@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_four_towers_course_2_1_yea",
+	"map": "mg_first_course_yea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
+	"gametype": "empty,!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
 }
