@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 19,
 	"bots": 1,
-	"map": "am_must2_gg",
+	"map": "am_redline_1s2k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1vs1,anticheat,anticheat,arena,cs,cs2,csgo,death,deathro,deathr"
+	"gametype": "empty,1vs1,anticheat,anticheat,arena,cs,cs2,csgo,death,deathro,"
 }

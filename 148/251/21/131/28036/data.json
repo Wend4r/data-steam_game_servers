@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_nuke,1vs1,duel,de,cybershoke,128,128tick,cyber,drop,du"
+	"gametype": "am_nuke,1vs1,duel,de,cybershoke,128,128tick,cyber,drop,duels,ff"
 }
