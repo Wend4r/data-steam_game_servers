@@ -2,18 +2,18 @@
 	"addr": "37.230.210.185:27015",
 	"gameport": 27015,
 	"steamid": "85568392924746727",
-	"name": "@@ABP Bhop@@ [2602 Maps] [SR: 1:17.8] [Tier 4]",
+	"name": "@@ABP Bhop@@ [2602 Maps] [SR: 34.695] [Tier 4]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "bhop_twisted_test_chambers_v1",
+	"map": "bhop_alt_kirves",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerintheworld"
+	"gametype": "empty,128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerinth"
 }
