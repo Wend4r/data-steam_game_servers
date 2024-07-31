@@ -2,8 +2,8 @@
 	"addr": "65.109.91.88:26701",
 	"gameport": 26701,
 	"specport": 26702,
-	"steamid": "90200501305807884",
-	"name": "YeYo powered by PRACC.COM",
+	"steamid": "90200520722048012",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
