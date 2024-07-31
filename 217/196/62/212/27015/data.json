@@ -1,7 +1,7 @@
 {
 	"addr": "217.196.62.212:27015",
 	"gameport": 27015,
-	"steamid": "90200484314045470",
+	"steamid": "90200537620460574",
 	"name": "NNayas SERVER 01",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
