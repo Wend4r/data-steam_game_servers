@@ -1,7 +1,7 @@
 {
 	"addr": "83.141.28.57:27085",
 	"gameport": 27085,
-	"steamid": "90200529643549707",
+	"steamid": "90200530769794059",
 	"name": "Packmiko Esports ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,insecure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }

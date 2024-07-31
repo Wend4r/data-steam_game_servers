@@ -1,0 +1,19 @@
+{
+	"addr": "45.11.16.76:7541",
+	"gameport": 7541,
+	"steamid": "85568392931957321",
+	"name": "MOON-MG.COM | MINIGAME | SHOP | SKINS | VIP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "mg_100traps",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

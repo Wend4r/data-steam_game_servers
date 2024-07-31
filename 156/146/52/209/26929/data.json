@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_nyx",
+	"map": "surf_atrium",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
