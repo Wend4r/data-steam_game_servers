@@ -1,0 +1,19 @@
+{
+	"addr": "183.192.110.60:27015",
+	"gameport": 27015,
+	"steamid": "90200521791547406",
+	"name": "shipREKT Prefire practice",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128,AntiCheat,practice,prefire,secure"
+}
