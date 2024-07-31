@@ -1,0 +1,19 @@
+{
+	"addr": "222.211.91.140:20155",
+	"gameport": 20155,
+	"steamid": "85568392932015247",
+	"name": "荔云游戏服务器-CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

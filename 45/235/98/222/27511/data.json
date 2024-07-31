@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
 	"map": "surf_ski_3_nova_inf_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arg,argentina,awp,bhop,combat,deathrun,era,hitbox,hitreg,kill,knife,mood,neon,paradi,stickers,surf,surfcombat,timer,valha"
+	"gametype": "arg,argentina,awp,bhop,combat,deathrun,era,hitbox,hitreg,kill,knife,mood,neon,paradi,stickers,surf,surfcombat,timer,valhalla,ws"
 }
