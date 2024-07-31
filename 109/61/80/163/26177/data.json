@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26177",
 	"gameport": 26177,
+	"specport": 26178,
 	"steamid": "90200528009045014",
 	"name": "CS 1v1 Stream 1 - Main",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_orange_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

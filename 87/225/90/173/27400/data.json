@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 17,
 	"bots": 0,
-	"map": "am_aztec2_gg",
+	"map": "am_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
