@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 16,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "aim_street",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cabrestos,secure"
+	"gametype": "cabrestos,secure"
 }

@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27015",
 	"gameport": 27015,
 	"steamid": "90200477081154572",
-	"name": "genesis 14584: team_! ✞ zxc гений vs team_Lonney<3",
+	"name": "[genesis] League #9",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 9,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
