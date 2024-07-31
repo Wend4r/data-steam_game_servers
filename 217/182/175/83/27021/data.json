@@ -1,8 +1,7 @@
 {
 	"addr": "217.182.175.83:27021",
 	"gameport": 27021,
-	"specport": 27022,
-	"steamid": "90200518737815556",
+	"steamid": "90200523100129284",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

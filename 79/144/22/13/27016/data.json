@@ -1,7 +1,7 @@
 {
 	"addr": "79.144.22.13:27016",
 	"gameport": 27016,
-	"steamid": "90200505134840854",
+	"steamid": "90200523151094806",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 9,
-	"map": "cs_italy",
+	"map": "de_bank",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
