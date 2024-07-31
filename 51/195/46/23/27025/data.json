@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 64,
 	"bots": 1,
-	"map": "jb_chicken_island",
+	"map": "jb_vice_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop,simon,special,warden,secure"
+	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop,simon,special,warden,secure"
 }

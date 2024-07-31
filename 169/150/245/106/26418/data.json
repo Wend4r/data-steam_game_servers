@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.106:26418",
 	"gameport": 26418,
-	"steamid": "90200506936311822",
+	"steamid": "90200520605379598",
 	"name": "Vexar (ADVANCED) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
-	"bots": 7,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
