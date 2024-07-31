@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "aim_deagle_lego",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "fb.com/bombateam,secure"
+	"gametype": "empty,fb.com/bombateam,secure"
 }

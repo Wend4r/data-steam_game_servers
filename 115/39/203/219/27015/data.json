@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_100traps_v4_1",
+	"map": "kz_otakuroom",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
