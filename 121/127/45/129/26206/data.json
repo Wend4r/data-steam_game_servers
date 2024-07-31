@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26206",
 	"gameport": 26206,
-	"steamid": "90200531570198534",
+	"steamid": "90200531573972998",
 	"name": "DK8700",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 14,
-	"bots": 2,
-	"map": "awptraining",
+	"bots": 0,
+	"map": "hide_and_seek_portugal",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
-	"bots": 2,
+	"bots": 0,
 	"map": "kz_summercliff2_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,BCS,BHOP,BRUTALCS,CLIMB,CLIMB KZ,EASY,EU,FUN,GLOBAL,GOKZ,KZ,KZ CLIMB,KZTIMER,STRAFE,SURF,SURFSKI,SWE,SWEDEN,TIMER,WARMUP,ga"
+	"gametype": "empty,128,BCS,BHOP,BRUTALCS,CLIMB,CLIMB KZ,EASY,EU,FUN,GLOBAL,GOKZ,KZ,KZ CLIMB,KZTIMER,STRAFE,SURF,SURFSKI,SWE,SWEDEN,TIMER,WAR"
 }

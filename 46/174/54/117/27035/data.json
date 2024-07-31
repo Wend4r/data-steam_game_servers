@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27035",
 	"gameport": 27035,
 	"steamid": "90200530431630348",
-	"name": "genesis 14830: team_ffgowds vs team_a;a",
+	"name": "genesis 14841: team_апельсин vs team_He B Cetu",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
