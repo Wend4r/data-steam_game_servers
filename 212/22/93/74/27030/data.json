@@ -2,7 +2,7 @@
 	"addr": "212.22.93.74:27030",
 	"gameport": 27030,
 	"specport": 27032,
-	"steamid": "90200416741237764",
+	"steamid": "90200532230012932",
 	"name": "FURYLIGHT | AWP LEGO 2 | [!ws !knife !gloves !vip !case]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,awp_lego,awp_lego 2,case,classic,drop,duels,gloves,"
+	"gametype": "empty,128,128tick,awp_lego,awp_lego 2,case,classic,drop,duels,g"
 }

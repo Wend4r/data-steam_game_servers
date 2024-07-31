@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 9,
 	"max_players": 11,
-	"bots": 2,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsowni"
+	"gametype": "hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsownia.pl,h"
 }

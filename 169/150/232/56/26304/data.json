@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26304",
 	"gameport": 26304,
+	"specport": 27020,
 	"steamid": "90200513843798032",
 	"name": "Squidski's Playtesting Grounds",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
-	"bots": 3,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "tomb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
