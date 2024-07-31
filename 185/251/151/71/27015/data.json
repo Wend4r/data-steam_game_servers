@@ -1,7 +1,7 @@
 {
 	"addr": "185.251.151.71:27015",
 	"gameport": 27015,
-	"steamid": "90200521413131281",
+	"steamid": "90200521414430737",
 	"name": "CS2 Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_bank",
 	"secure": false,
 	"dedicated": true,

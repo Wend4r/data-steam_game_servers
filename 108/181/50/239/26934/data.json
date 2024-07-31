@@ -1,6 +1,7 @@
 {
 	"addr": "108.181.50.239:26934",
 	"gameport": 26934,
+	"specport": 26935,
 	"steamid": "90200518517761025",
 	"name": "STARWALKIN",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
