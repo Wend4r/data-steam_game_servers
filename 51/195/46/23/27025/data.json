@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "jb_minecraft_prison_b3",
+	"map": "jb_nrx_v9",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop,simon,special,warden,secure"
+	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop,simon,special,warden,secure"
 }
