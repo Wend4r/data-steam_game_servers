@@ -1,7 +1,7 @@
 {
 	"addr": "91.200.148.74:27015",
 	"gameport": 27015,
-	"steamid": "90200493198479373",
+	"steamid": "90200523654045709",
 	"name": "MAKEN Сервер",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
