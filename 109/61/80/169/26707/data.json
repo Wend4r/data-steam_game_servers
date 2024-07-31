@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26707",
 	"gameport": 26707,
-	"steamid": "90200485683487772",
+	"steamid": "90200513195115548",
 	"name": "e1nfach Home",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

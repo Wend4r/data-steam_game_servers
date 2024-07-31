@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26319",
 	"gameport": 26319,
-	"steamid": "90200485889254409",
+	"steamid": "90200513190172681",
 	"name": "AimDelay By Nozoj.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
