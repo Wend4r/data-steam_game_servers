@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,aim,be,competitive,de,en,english,es,eu,fr,fran"
+	"gametype": "!knife,!ws,aim,be,competitive,de,en,english,es,eu,fr,france,gb,"
 }
