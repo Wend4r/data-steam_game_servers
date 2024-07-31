@@ -1,0 +1,20 @@
+{
+	"addr": "79.137.202.24:26811",
+	"gameport": 26811,
+	"specport": 27109,
+	"steamid": "85568392932022478",
+	"name": "CSR",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.4.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

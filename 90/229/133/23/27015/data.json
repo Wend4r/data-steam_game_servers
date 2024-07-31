@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 32,
-	"bots": 9,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "de_sakura",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
+	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
 }

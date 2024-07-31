@@ -1,6 +1,7 @@
 {
 	"addr": "218.244.158.144:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200519991630866",
 	"name": "Counter-Strike 2",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 8,
-	"map": "de_dust2",
+	"bots": 6,
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
