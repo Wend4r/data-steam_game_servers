@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 3,
 	"max_players": 25,
 	"bots": 1,
 	"map": "am_mirage_mid_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,best,community,cs2,first,hu,hun,top,ubec,unbrea"
+	"gametype": "1v1,arena,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
 }
