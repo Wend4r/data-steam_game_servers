@@ -1,7 +1,7 @@
 {
 	"addr": "76.216.175.156:27015",
 	"gameport": 27015,
-	"steamid": "90200513079822352",
+	"steamid": "90200513260744720",
 	"name": "Darkwing",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 24,
 	"bots": 17,
-	"map": "de_toscan_d_prefab",
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",

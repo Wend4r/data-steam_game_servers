@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27210",
 	"gameport": 27210,
-	"steamid": "90200485768858641",
+	"steamid": "90200513231249425",
 	"name": "SERWER Rokelur",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_shortdust",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

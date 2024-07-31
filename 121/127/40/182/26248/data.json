@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.182:26248",
+	"gameport": 26248,
+	"specport": 26249,
+	"steamid": "90200513311908864",
+	"name": "Who knows powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}
