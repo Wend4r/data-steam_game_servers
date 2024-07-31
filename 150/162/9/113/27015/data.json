@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 5,
+	"players": 0,
 	"max_players": 20,
-	"bots": 15,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
