@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:31053",
 	"gameport": 31053,
 	"specport": 35863,
-	"steamid": "90200491635779593",
+	"steamid": "90200519068623881",
 	"name": "Stars Of Europe | Germany",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "176.9.62.21:30633",
 	"gameport": 30633,
 	"specport": 36262,
-	"steamid": "90200491655300099",
+	"steamid": "90200519073532931",
 	"name": "Gecko Main CS Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

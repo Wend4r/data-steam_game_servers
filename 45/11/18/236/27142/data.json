@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27142",
 	"gameport": 27142,
 	"specport": 27144,
-	"steamid": "90200491695003678",
+	"steamid": "90200519037946910",
 	"name": "Zonked PRACC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

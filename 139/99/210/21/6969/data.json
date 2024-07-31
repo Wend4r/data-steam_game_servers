@@ -2,7 +2,7 @@
 	"addr": "139.99.210.21:6969",
 	"gameport": 6969,
 	"steamid": "85568392931407728",
-	"name": "Counter-Strike 2",
+	"name": "shipREKT Surf",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 8,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "surf_rookie",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,128,AntiCheat,Surf,secure"
 }
