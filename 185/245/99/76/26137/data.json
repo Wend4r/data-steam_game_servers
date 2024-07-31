@@ -1,0 +1,20 @@
+{
+	"addr": "185.245.99.76:26137",
+	"gameport": 26137,
+	"specport": 26138,
+	"steamid": "90200518713723918",
+	"name": "Anatolian Foxes powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

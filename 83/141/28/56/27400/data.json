@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mills",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,insecure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }
