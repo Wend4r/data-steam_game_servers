@@ -2,7 +2,7 @@
 	"addr": "135.181.230.67:30400",
 	"gameport": 30400,
 	"steamid": "85568392932022885",
-	"name": "BOTS !WS !KNIFE",
+	"name": "5bots ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
