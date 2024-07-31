@@ -1,19 +1,19 @@
 {
 	"addr": "177.125.253.204:27015",
 	"gameport": 27015,
-	"steamid": "90200501831590924",
+	"steamid": "90200529534247948",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
-	"max_players": 10,
+	"players": 0,
+	"max_players": 20,
 	"bots": 0,
-	"map": "mapas/ar_beach",
+	"map": "ar_lunacy",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
