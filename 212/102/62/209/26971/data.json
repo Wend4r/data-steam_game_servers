@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 8,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,odenrind,secure"
+	"gametype": "odenrind,secure"
 }
