@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26219",
 	"gameport": 26219,
-	"steamid": "90200486575312912",
+	"steamid": "90200514394217488",
 	"name": "the server of all time",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

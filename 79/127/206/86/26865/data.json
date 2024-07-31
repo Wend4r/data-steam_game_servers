@@ -2,7 +2,7 @@
 	"addr": "79.127.206.86:26865",
 	"gameport": 26865,
 	"specport": 26866,
-	"steamid": "90200488032696325",
+	"steamid": "90200514454154245",
 	"name": "Eagle One Development Team - Playtest",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 15,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

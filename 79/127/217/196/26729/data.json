@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.196:26729",
 	"gameport": 26729,
-	"steamid": "90200486404703236",
+	"steamid": "90200514324684804",
 	"name": "8inch Gang Play Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
