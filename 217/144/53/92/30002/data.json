@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "awp_lego_8",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
+	"gametype": "awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secure"
 }
