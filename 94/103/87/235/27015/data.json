@@ -1,0 +1,19 @@
+{
+	"addr": "94.103.87.235:27015",
+	"gameport": 27015,
+	"steamid": "85568392932017832",
+	"name": "[ Revolution HvH ] MM HVH | 16k | Mirage/Office | AWP | RollFix",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gamesense,hvh,hvh ,insecure,skeet,uwupolizei,insecure"
+}
