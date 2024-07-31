@@ -1,0 +1,19 @@
+{
+	"addr": "106.181.35.78:27016",
+	"gameport": 27016,
+	"steamid": "90200534009621516",
+	"name": "No offliner allowed",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "ze_flower_a1_2_f",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ze,zm,zombie escape,zombie mod,zombies,secure"
+}
