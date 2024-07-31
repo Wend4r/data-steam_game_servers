@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,castle,inkabanium,kz,movement,vnl,insecure"
+	"gametype": "castle,inkabanium,kz,movement,vnl,insecure"
 }
