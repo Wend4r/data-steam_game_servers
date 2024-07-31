@@ -2,8 +2,8 @@
 	"addr": "65.109.91.88:26380",
 	"gameport": 26380,
 	"specport": 26381,
-	"steamid": "90200529174247436",
-	"name": "Enchanted powered by PRACC.COM",
+	"steamid": "90200529874562060",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
