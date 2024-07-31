@@ -10,7 +10,7 @@
 	"region": 1,
 	"players": 6,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_kiwiexultation",
 	"secure": true,
 	"dedicated": true,
