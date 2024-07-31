@@ -1,7 +1,7 @@
 {
 	"addr": "58.84.1.247:27033",
 	"gameport": 27033,
-	"steamid": "90200513730800671",
+	"steamid": "90200514064490527",
 	"name": "GTV #9",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
