@@ -1,7 +1,7 @@
 {
 	"addr": "178.32.97.29:27015",
 	"gameport": 27015,
-	"steamid": "90200521128332291",
+	"steamid": "90200529645846531",
 	"name": "Fr_Synohomes.com_CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 21,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
