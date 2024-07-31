@@ -1,0 +1,20 @@
+{
+	"addr": "109.201.148.199:27025",
+	"gameport": 27025,
+	"specport": 27026,
+	"steamid": "90200521863470086",
+	"name": "140201a9da8908b4b802542ff7ec5561",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}
