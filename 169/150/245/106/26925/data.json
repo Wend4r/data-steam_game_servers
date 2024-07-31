@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.106:26925",
 	"gameport": 26925,
-	"specport": 26926,
-	"steamid": "90200503551178766",
+	"steamid": "90200531303555086",
 	"name": "BeyondTheNorm",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
