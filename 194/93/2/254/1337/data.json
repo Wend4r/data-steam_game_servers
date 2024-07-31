@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,128 tickrate,agents,case,free vip,gloves,knife,mirage,s"
+	"gametype": "!,128 tickrate,agents,case,free vip,gloves,knife,mirage,shop,tw"
 }
