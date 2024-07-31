@@ -1,7 +1,7 @@
 {
 	"addr": "94.203.133.199:27015",
 	"gameport": 27015,
-	"steamid": "90200511613040646",
+	"steamid": "90200523361573894",
 	"name": "D1/19",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "mcdonalds-mds-cs2",
+	"bots": 8,
+	"map": "ar_baggage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
