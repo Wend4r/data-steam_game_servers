@@ -1,7 +1,7 @@
 {
 	"addr": "38.54.45.127:27030",
 	"gameport": 27030,
-	"steamid": "85568392931982094",
+	"steamid": "85568392931982215",
 	"name": "CsMarihuano",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 12,
-	"bots": 2,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
