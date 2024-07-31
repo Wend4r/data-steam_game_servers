@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.99:26983",
 	"gameport": 26983,
-	"steamid": "90200491825859587",
+	"steamid": "90200519409699843",
 	"name": "PLAY.PRACC.COM - [BR] MULTI-CFG DM - DUST2 ✦ SKINS ✦ BEST F",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 27,
-	"bots": 12,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PRACC,Warmup,insecure"
 }
