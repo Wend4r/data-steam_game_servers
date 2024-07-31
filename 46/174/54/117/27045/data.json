@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27045",
 	"gameport": 27045,
 	"steamid": "90200477263983628",
-	"name": "genesis 14630: team_XyL[i]gaN4eG vs team_♚𝙨𝙬𝙖𝙧�",
+	"name": "genesis 14640: team_veeeeeeee vs team_kaza",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortdust",
+	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

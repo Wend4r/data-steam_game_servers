@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 10,
-	"map": "de_season_d_prefab",
+	"map": "de_valpo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16000k,esp,españa,maxmoney,money,multimaps,spain,spanish,secur"
+	"gametype": "empty,16000k,esp,españa,maxmoney,money,multimaps,spain,spanish"
 }
