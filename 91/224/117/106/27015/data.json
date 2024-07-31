@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 15,
 	"bots": 1,
-	"map": "am_grass2_gg",
+	"map": "am_nukepit_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english\r,fight,multi,mu"
+	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english\r,fight,multi,multi ar"
 }
