@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_snowfall_wf",
+	"map": "am_aztec_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1tap,1v1,1vs1,arena,arenawildfire,awp,challenge,fun,horizon,hyd"
+	"gametype": "empty,1tap,1v1,1vs1,arena,arenawildfire,awp,challenge,fun,horiz"
 }

@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27045",
 	"gameport": 27045,
 	"steamid": "90200477110600734",
-	"name": "genesis 14442: team_684 vs team_LORD JORY PRIME",
+	"name": "genesis 14444: team_lazy vs team_change name",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 6,
+	"players": 3,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_stmarc",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
