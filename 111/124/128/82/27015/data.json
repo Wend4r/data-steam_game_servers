@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 11,
 	"bots": 1,
-	"map": "seek_mirage",
+	"map": "infernohideandseek",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
