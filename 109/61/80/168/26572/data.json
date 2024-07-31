@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.168:26572",
 	"gameport": 26572,
-	"specport": 26573,
-	"steamid": "90200501118217243",
+	"steamid": "90200529872266267",
 	"name": "VOID GAMING",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
