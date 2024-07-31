@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "bhop_linear_gif",
+	"map": "bhop_contex_prod",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
