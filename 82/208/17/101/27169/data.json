@@ -1,7 +1,7 @@
 {
 	"addr": "82.208.17.101:27169",
 	"gameport": 27169,
-	"steamid": "90200486723019785",
+	"steamid": "90200513932603401",
 	"name": "Turnaj",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
