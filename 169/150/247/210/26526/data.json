@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.247.210:26526",
 	"gameport": 26526,
+	"specport": 26527,
 	"steamid": "90200513709921302",
 	"name": "THC",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

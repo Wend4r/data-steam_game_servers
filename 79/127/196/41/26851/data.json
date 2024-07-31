@@ -1,9 +1,8 @@
 {
 	"addr": "79.127.196.41:26851",
 	"gameport": 26851,
-	"specport": 26852,
-	"steamid": "90200531091095559",
-	"name": "Nebula Esports (INTERMEDIATE) powered by PRACC.COM",
+	"steamid": "90200531287666695",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.97:26103",
 	"gameport": 26103,
-	"specport": 26104,
-	"steamid": "90200523275229189",
+	"steamid": "90200531082462213",
 	"name": "Jesse's Practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
