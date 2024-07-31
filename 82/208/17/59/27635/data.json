@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 11,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,aim,casual,cz,de,de_,deathmatch,dm,epiczone,eu,fastdl,ffa,guns,lag,mirage,only,ping,pistol,pl,rifle,sk,slovak,warmup,"
+	"gametype": "128,aim,casual,cz,de,de_,deathmatch,dm,epiczone,eu,fastdl,ffa,guns,lag,mirage,only,ping,pistol,pl,rifle,sk,slovak,warmup,ws,sec"
 }
