@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "/688769348/aim_ak47_bb",
+	"map": "/1280355275/aim_deagle7k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,1mpulse,LKv2,agents,bhop,classic,de,dust,gl,gloves,knife,mirage,public,tick,tik,vip,vips,ws,secure"
+	"gametype": "128,128tick,1mpulse,LKv2,agents,bhop,classic,de,dust,gl,gloves,knife,mirage,public,tick,tik,vip,vips,ws,secure"
 }

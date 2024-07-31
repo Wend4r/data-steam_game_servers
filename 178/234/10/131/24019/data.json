@@ -1,19 +1,19 @@
 {
 	"addr": "178.234.10.131:24019",
 	"gameport": 24019,
-	"steamid": "90200493260606465",
-	"name": "TDZ | LongJump | 128tic",
+	"steamid": "90200529286763521",
+	"name": "TDZ | Maniac 2 | 128tic",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/1465826915/kz_overjoyed",
+	"map": "/2889425517/objectbanddom",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
