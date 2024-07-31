@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_redline_carton",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,ru,valve_ds,secure"
+	"gametype": "empty,de_mirage,ru,valve_ds,secure"
 }

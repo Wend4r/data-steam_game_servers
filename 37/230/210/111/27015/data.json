@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 1,
-	"map": "seek_middletown",
+	"map": "privet6",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,gl,gloves,hidenseek,hns,idl,knife,maniac,merryproject,nosteam,pets,shop,stattrak,stattrak boost,stb,testvip,ws,secur"
+	"gametype": "bhop,gl,gloves,hidenseek,hns,idl,knife,maniac,merryproject,nosteam,pets,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
 }
