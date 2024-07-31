@@ -2,18 +2,18 @@
 	"addr": "185.231.246.129:28785",
 	"gameport": 28785,
 	"steamid": "85568392924902356",
-	"name": "Super Star GSGO Server",
+	"name": "ПУШКИ + ЛАЗЕРЫ | КСДМ (CS:GO) [Free]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.38.1.6",
+	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": 3,
 	"players": 29,
-	"max_players": 64,
+	"max_players": 40,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "ze_eternal_journey",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "n4a,ze"
+	"gametype": "!,csdm,dm,sentry,guns,new,sentry guns,msk,windows,linux,maxplayers,zdx,super,cybershoke"
 }
