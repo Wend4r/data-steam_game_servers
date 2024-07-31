@@ -1,0 +1,19 @@
+{
+	"addr": "115.39.203.219:27015",
+	"gameport": 27015,
+	"steamid": "85568392931333500",
+	"name": "Dot Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "mg_modern_dev",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}
