@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 1,
 	"map": "surf_fg_mai_remix_beta3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "-,1on1,1vs1,autobh,bh,bhop,bunnyhop,fragujemy,fragujemy.com,skins,surf,tier,timer,secure"
+	"gametype": "empty,-,1on1,1vs1,autobh,bh,bhop,bunnyhop,fragujemy,fragujemy.com,skins,surf,tier,timer,secure"
 }

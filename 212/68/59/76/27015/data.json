@@ -1,7 +1,7 @@
 {
 	"addr": "212.68.59.76:27015",
 	"gameport": 27015,
-	"steamid": "90200520428204035",
+	"steamid": "90200528749797379",
 	"name": "[ CS2.ORG.TR ] - www.prooyun.net - prooyun.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 8,
-	"bots": 6,
+	"bots": 7,
 	"map": "jb_cell_indicator_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
 }

@@ -2,7 +2,7 @@
 	"addr": "5.189.201.157:40000",
 	"gameport": 40000,
 	"steamid": "85568392931881466",
-	"name": "INTERIAL | ★ STAR | FPS+ [!WS, !VIP, !KNIFE]",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage_fps_interial",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cybershoke,fps,fpsboost,interial,mirage,public,shop,ws,secure"
+	"gametype": "empty,secure"
 }
