@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awplego,cs2,knife,lego,rusgang,russiangang,vip,ws,sec"
+	"gametype": "awp,awplego,cs2,knife,lego,rusgang,russiangang,vip,ws,secure"
 }
