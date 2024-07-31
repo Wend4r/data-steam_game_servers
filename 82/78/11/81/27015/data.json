@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,insecure"
+	"gametype": "empty,AstraMania,secure"
 }
