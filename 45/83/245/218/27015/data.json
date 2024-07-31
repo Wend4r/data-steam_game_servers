@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 29,
 	"bots": 1,
-	"map": "surf_beginner2",
+	"map": "surf_networked",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
