@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "deathrun_playground",
+	"map": "deathrun_civilization",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,death,deathrun,dr,games,mg,mini,run,secure"
+	"gametype": "128,AntiCheat,death,deathrun,dr,games,mg,mini,run,secure"
 }
