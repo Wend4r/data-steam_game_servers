@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
+	"gametype": "empty,!gl,!knife,!ws,Knife choice CORE,aim,arena,awp,bhop,drop,fun,idle,lvl,mg,minigame,multigame,pvp,shop,vip,ze,zlocss,secure"
 }
