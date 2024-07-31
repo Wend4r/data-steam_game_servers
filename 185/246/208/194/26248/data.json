@@ -1,0 +1,20 @@
+{
+	"addr": "185.246.208.194:26248",
+	"gameport": 26248,
+	"specport": 26249,
+	"steamid": "90200532967011342",
+	"name": "REGANTUM (we have serv) powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}
