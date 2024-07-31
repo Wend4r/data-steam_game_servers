@@ -1,7 +1,7 @@
 {
 	"addr": "93.239.123.74:27015",
 	"gameport": 27015,
-	"steamid": "90200532854643721",
+	"steamid": "85568392932022936",
 	"name": "Your server at gamingpc operated by csgosl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

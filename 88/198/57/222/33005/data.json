@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33005",
 	"gameport": 33005,
-	"steamid": "90200527986041863",
-	"name": "fatn by \"FreeGameHosting.eu\"",
+	"steamid": "90200533384763399",
+	"name": "1VS1 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno_night",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

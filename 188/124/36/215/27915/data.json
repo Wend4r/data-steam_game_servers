@@ -1,6 +1,7 @@
 {
 	"addr": "188.124.36.215:27915",
 	"gameport": 27915,
+	"specport": 27920,
 	"steamid": "85568392932018937",
 	"name": "MyRUN [PUBLIC] !WS !KNIFE !GLOVES",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 30,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
+	"gametype": "*grp:5114777i,128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
 }
