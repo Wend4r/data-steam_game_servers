@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "83.141.28.248:27295",
 	"gameport": 27295,
-	"specport": 27305,
 	"steamid": "85568392926196308",
 	"name": "STIHL eSports - www.ckras.com",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
-	"bots": 0,
+	"max_players": 12,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }
