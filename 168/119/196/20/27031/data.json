@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ai,aimdm,aim,128tick,128,cyber,eu,deathmatch,dm,en,de,ffa"
+	"gametype": "ai,aimdm,aim,128tick,128,cyber,eu,deathmatch,dm,en,de,ffa,cyber"
 }
