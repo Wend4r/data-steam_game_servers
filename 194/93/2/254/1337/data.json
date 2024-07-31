@@ -3,7 +3,7 @@
 	"gameport": 1337,
 	"specport": 27020,
 	"steamid": "85568392931976806",
-	"name": "[CS2] IMPERIA-GLUCK.RU | MIRAGE + DUST2 | [!WS]",
+	"name": "[CS2] IMPERIA-GLUCK.RU | MIRAGE ONLY | [!WS]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,128 tickrate,agents,case,free vip,gloves,knife,mirage,s"
+	"gametype": "empty,!,128 tickrate,agents,aim,bhop,gloves,knife,mirage,shop,s"
 }
