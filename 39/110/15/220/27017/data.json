@@ -1,0 +1,20 @@
+{
+	"addr": "39.110.15.220:27017",
+	"gameport": 27017,
+	"specport": 27020,
+	"steamid": "85568392920054269",
+	"name": "[JP] MelonSoda CS:GO Server #01",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "/125995702/aim_redline",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128tick,mss,insecure"
+}
