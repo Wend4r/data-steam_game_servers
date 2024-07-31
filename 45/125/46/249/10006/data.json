@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "kz_wetbricks",
+	"map": "kz_lust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+	"gametype": "empty,128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
 }
