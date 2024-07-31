@@ -1,0 +1,19 @@
+{
+	"addr": "213.113.193.191:27017",
+	"gameport": 27017,
+	"steamid": "85568392926035540",
+	"name": "GubbLir.se #3 WAR",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

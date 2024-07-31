@@ -10,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 25,
+	"max_players": 24,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,chill,chill.lv,competitive,g"
+	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,chill,chill.lv,competi"
 }
