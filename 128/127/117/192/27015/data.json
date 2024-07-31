@@ -1,19 +1,19 @@
 {
 	"addr": "128.127.117.192:27015",
 	"gameport": 27015,
-	"steamid": "90200528105293825",
-	"name": "[\tCS:2 ] SURF.WILDFIRE.RO | COMBAT SURF",
+	"steamid": "90200531540702209",
+	"name": "run.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
-	"product": "cs2",
+	"version": "1.38.8.1",
+	"product": "csgo",
 	"region": -1,
-	"players": 1,
-	"max_players": 64,
+	"players": 0,
+	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": true,
+	"map": "hns_devblocks",
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "insecure"
 }
