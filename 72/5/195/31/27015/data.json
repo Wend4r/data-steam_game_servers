@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,ws,secure"
+	"gametype": "empty,*grp:10536493i,csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,w"
 }

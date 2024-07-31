@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 9,
-	"map": "de_santo",
+	"map": "de_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16000k,esp,españa,maxmoney,money,multimaps,spain,spanish"
+	"gametype": "16000k,esp,españa,maxmoney,money,multimaps,spain,spanish,secur"
 }
