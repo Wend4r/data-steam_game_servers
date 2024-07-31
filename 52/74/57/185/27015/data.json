@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "kz_streetblock",
+	"map": "kz_sp1_redbrickbhop",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GOKZ Climb,KZTimer,Tickrate 128,du,duv2,gaster,jumpstats,kz,kzt,parkour,skz,surf,vnl,secure"
+	"gametype": "empty,GOKZ Climb,KZTimer,Tickrate 128,gaster,jumpstats,kz,kzt,parkour,skz,surf,vnl,secure"
 }

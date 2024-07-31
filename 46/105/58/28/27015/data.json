@@ -1,7 +1,7 @@
 {
 	"addr": "46.105.58.28:27015",
 	"gameport": 27015,
-	"steamid": "90200524358017025",
+	"steamid": "90200525012194305",
 	"name": "[FR] LES NUFS\r",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 8,
-	"map": "de_vertigo",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "VeryGames VG\r,secure"
+	"gametype": "empty,VeryGames VG\r,secure"
 }
