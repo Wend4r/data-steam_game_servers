@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
-	"bots": 0,
-	"map": "surf_roomservice_2",
+	"bots": 1,
+	"map": "surf_delusional_",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,sneak,snksrv,secure"
+	"gametype": "sneak,snksrv,secure"
 }

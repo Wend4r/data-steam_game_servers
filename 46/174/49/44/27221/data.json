@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 0,
 	"map": "deathrun_ratrace_yea_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,dr,mg,secure"
+	"gametype": "bhop,dr,mg,secure"
 }

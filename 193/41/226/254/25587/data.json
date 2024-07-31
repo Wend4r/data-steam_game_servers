@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4v5,CHRON,CHRONICALS,CHRONICALSde,CHRONgg,Cde,Cgg,Instadefuse,M"
+	"gametype": "empty,4v5,CHRON,CHRONICALS,CHRONICALSde,CHRONgg,Cde,Cgg,Instade"
 }
