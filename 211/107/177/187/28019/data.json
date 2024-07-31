@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_kzro_speedcavescape",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,secure"
+	"gametype": "KZTimer,KZTimer 1.106,Tickrate 128,secure"
 }
