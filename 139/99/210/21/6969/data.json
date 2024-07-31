@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_sakura",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Wingman,secure"
+	"gametype": "128,AntiCheat,Wingman,secure"
 }

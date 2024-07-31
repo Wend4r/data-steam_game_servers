@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_overpass",
+	"bots": 6,
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,insecure"
+	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,insecure"
 }
