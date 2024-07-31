@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 0,
-	"players": 5,
+	"players": 6,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_redline",
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,casual,classic,tehwebz,workshop,secure"
+	"gametype": "casual,classic,tehwebz,workshop,secure"
 }
