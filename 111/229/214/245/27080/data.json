@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_boatescape999",
+	"map": "ze_surf_concrete",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+	"gametype": "empty,CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,se"
 }
