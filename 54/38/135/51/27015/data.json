@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 4,
 	"max_players": 24,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only"
+	"gametype": "!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only,dance"
 }
