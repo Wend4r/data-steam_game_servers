@@ -2,8 +2,8 @@
 	"addr": "39.49.235.60:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200531664330767",
-	"name": "noobster's Deathmatch FFA",
+	"steamid": "90200533158319119",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 33,
-	"bots": 1,
-	"map": "de_lake",
+	"bots": 9,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,DM,Deathmatch,FFA,secure"
+	"gametype": "empty,secure"
 }

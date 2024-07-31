@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "surf_astra",
+	"map": "surf_glass9",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,"
+	"gametype": "surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "kz_sp1_xmas2021",
+	"map": "kz_colors_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
+	"gametype": "br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
 }
