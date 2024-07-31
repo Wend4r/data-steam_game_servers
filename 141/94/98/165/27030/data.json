@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 7,
-	"map": "fy_iceworld",
+	"map": "gg_lotus_extended",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
+	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
 }
