@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.136:26138",
 	"gameport": 26138,
-	"steamid": "90200533399420952",
+	"steamid": "90200533893999640",
 	"name": "P.J.S-CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 5,
-	"bots": 8,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
