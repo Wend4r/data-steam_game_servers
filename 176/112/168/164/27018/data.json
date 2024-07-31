@@ -3,18 +3,18 @@
 	"gameport": 27018,
 	"specport": 29018,
 	"steamid": "85568392931027797",
-	"name": "vkplay-csgo05-018",
+	"name": "Match server #1858",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_crashz_dust_1vs1",
+	"map": "aim_bluelines",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
