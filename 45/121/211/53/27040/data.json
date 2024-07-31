@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 2,
 	"max_players": 30,
 	"bots": 0,
-	"map": "am_sidestep_kz",
+	"map": "am_coop_kz",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,kz,killzone,aus,1v1,arena,knife,am_,de_,casual,kzg,awp,deathmatch,dm,australia,!ws,multi,practice,skins,ws,gameME,sec"
+	"gametype": "128,kz,killzone,aus,1v1,arena,knife,am_,de_,casual,kzg,awp,deathmatch,dm,australia,!ws,multi,practice,skins,ws,gameME,secure"
 }

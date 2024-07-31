@@ -1,0 +1,19 @@
+{
+	"addr": "103.85.86.29:27015",
+	"gameport": 27015,
+	"steamid": "85568392931502235",
+	"name": "DangerZone服务器组 HU危险区域无皮肤纯净大角度4�",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

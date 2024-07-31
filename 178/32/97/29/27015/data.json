@@ -1,8 +1,8 @@
 {
 	"addr": "178.32.97.29:27015",
 	"gameport": 27015,
-	"steamid": "90200515314598915",
-	"name": "VeryGames Server",
+	"steamid": "90200521128332291",
+	"name": "Fr_Synohomes.com_CS2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,VeryGames VG,secure"
+	"gametype": "empty,SynoHomes,secure"
 }

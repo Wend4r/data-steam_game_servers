@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26427",
 	"gameport": 26427,
-	"specport": 26428,
-	"steamid": "90200503735527438",
-	"name": "3eyes Esports powered by PRACC.COM",
+	"steamid": "90200521137495054",
+	"name": "FlyQuest powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_ancient",
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
