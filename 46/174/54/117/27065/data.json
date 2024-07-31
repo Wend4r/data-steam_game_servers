@@ -2,7 +2,7 @@
 	"addr": "46.174.54.117:27065",
 	"gameport": 27065,
 	"steamid": "90200477081325580",
-	"name": "genesis 14615: team_♚𝙨𝙬𝙖𝙧𝙤𝙫𝙨𝙠𝙞𝙮",
+	"name": "[genesis] League #14",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
