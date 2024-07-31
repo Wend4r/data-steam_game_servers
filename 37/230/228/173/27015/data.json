@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_escape_castle_v2",
+	"map": "mg_copter_tower_v5",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gloves,merryproject,minigame,no-steam,ws,secure"
+	"gametype": "gloves,merryproject,minigame,no-steam,ws,secure"
 }
