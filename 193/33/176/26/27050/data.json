@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_westwood",
+	"map": "cs_office_180",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
