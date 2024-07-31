@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 2,
 	"map": "mg_euphoria_v1c",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128 TICK,128 TIK,COURSE,FASTDL,FUN,GLOVES,KNIFE,KNIVES,LJ,MG,MINIGAMES,RANKS,SKINS,SPEED RUNS,SPEEDRUNS,STATS,SWOOBLES,TIMER,WS"
+	"gametype": "empty,128 TICK,128 TIK,COURSE,FASTDL,FUN,GLOVES,KNIFE,KNIVES,LJ,MG,MINIGAMES,RANKS,SKINS,SPEED RUNS,SPEEDRUNS,STATS,SWOOBLES,TI"
 }
