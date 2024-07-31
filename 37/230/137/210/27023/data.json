@@ -1,7 +1,7 @@
 {
 	"addr": "37.230.137.210:27023",
 	"gameport": 27023,
-	"steamid": "90200478328852504",
+	"steamid": "90200530841445400",
 	"name": "\tZ -=ZLOY-#2-CS2-BASIC-(de_dust2)-[ZLOYGAMES.COM]=-",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,public,vip,"
+	"gametype": "empty,\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,publi"
 }
