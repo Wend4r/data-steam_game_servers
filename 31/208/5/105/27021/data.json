@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_maginot",
+	"bots": 2,
+	"map": "de_island",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
 }

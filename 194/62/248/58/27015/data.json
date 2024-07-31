@@ -1,19 +1,19 @@
 {
 	"addr": "194.62.248.58:27015",
 	"gameport": 27015,
-	"steamid": "90200521585959954",
-	"name": "[EU] CompKiller Official HvH | Mirage Only",
+	"steamid": "85568392932022140",
+	"name": "[EU] CompKiller | Mirage Only",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.38.8.1",
-	"product": "csgo",
-	"region": -1,
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
 	"players": 0,
-	"max_players": 16,
-	"bots": 0,
+	"max_players": 64,
+	"bots": 2,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
