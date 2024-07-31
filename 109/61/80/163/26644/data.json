@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26644",
 	"gameport": 26644,
-	"steamid": "90200521649350678",
+	"steamid": "90200524621206550",
 	"name": "ENCE Prospects",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
