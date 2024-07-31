@@ -1,19 +1,19 @@
 {
 	"addr": "83.168.108.83:27235",
 	"gameport": 27235,
-	"steamid": "90200513592478737",
+	"steamid": "90200537368564753",
 	"name": "SERWER Byszy",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "top_hns_2016",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
