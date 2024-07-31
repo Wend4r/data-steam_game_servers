@@ -9,11 +9,11 @@
 	"product": "csgo",
 	"region": 255,
 	"players": 0,
-	"max_players": 29,
+	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26700",
 	"gameport": 26700,
-	"specport": 26701,
-	"steamid": "90200511487115286",
+	"steamid": "90200537528248342",
 	"name": "P1-K4 GOLD",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_chinatown_d",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

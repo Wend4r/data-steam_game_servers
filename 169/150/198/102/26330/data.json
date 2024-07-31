@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.102:26330",
 	"gameport": 26330,
-	"steamid": "90200508719734790",
+	"steamid": "90200537588675590",
 	"name": "FURIA Academy CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
