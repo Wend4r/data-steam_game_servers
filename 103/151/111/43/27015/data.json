@@ -1,19 +1,19 @@
 {
 	"addr": "103.151.111.43:27015",
 	"gameport": 27015,
-	"steamid": "90200514656846856",
-	"name": "Counter-Strike 2",
+	"steamid": "85568392930610205",
+	"name": "Vertical Gaming | Retake [PAK] | game.galorehost.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 0,
-	"bots": 0,
-	"map": "de_dust2",
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,msm,pug,secure"
 }
