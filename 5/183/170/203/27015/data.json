@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 36,
 	"bots": 0,
-	"map": "awp_tinytower_wf",
+	"map": "awp_portal_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1tap,arena,arenawildfire,awp,awpwildfire,challenge,fun,ho"
+	"gametype": "1tap,arena,arenawildfire,awp,awpwildfire,challenge,fun,horizon,"
 }

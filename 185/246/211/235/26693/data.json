@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 7,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dm,eu,exec,ffa,fr,francai,french,kocs,pickup,prac"
+	"gametype": "dathost,dm,eu,exec,ffa,fr,francai,french,kocs,pickup,pracc,re t"
 }
