@@ -3,18 +3,18 @@
 	"gameport": 27100,
 	"specport": 27120,
 	"steamid": "85568392931982033",
-	"name": "R0对战平台天梯服务器 成都51",
+	"name": "R0对战平台天梯服务器 成都52",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 10,
+	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

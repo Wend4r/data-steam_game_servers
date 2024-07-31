@@ -1,6 +1,7 @@
 {
 	"addr": "85.172.11.201:7755",
 	"gameport": 7755,
+	"specport": 27020,
 	"steamid": "85568392930343619",
 	"name": "Краснодар |22| Public [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -9,7 +10,7 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 1,
-	"max_players": 32,
+	"max_players": 33,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
