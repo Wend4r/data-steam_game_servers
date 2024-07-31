@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 23,
-	"bots": 4,
+	"bots": 5,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "agents,cs2,de_dust2,de_mirage,de_nuke,de_overpass,gloves,knife,"
+	"gametype": "empty,agents,cs2,de_dust2,de_mirage,de_nuke,de_overpass,gloves,"
 }
