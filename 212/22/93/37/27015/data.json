@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_prelude_ksf",
 	"secure": false,
 	"dedicated": true,

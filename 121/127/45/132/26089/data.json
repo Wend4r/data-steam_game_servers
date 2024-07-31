@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26089",
 	"gameport": 26089,
-	"steamid": "90200491486857225",
+	"steamid": "90200519070968841",
 	"name": "Totally NOOB Club",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
