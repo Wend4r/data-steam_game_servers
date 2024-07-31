@@ -2,18 +2,18 @@
 	"addr": "46.8.53.27:27060",
 	"gameport": 27060,
 	"steamid": "85568392931721041",
-	"name": "Strike League | team_wiseacre vs team_zxcaura",
+	"name": "Strike League | team_BO SINN vs team_unhitable",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 4,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_stmarc",
+	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

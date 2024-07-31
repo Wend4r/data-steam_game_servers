@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26425",
 	"gameport": 26425,
-	"steamid": "90200511840879630",
+	"steamid": "90200529592549390",
 	"name": "AIMBOTZ powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 9,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
