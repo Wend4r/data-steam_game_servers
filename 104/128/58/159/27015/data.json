@@ -2,18 +2,18 @@
 	"addr": "104.128.58.159:27015",
 	"gameport": 27015,
 	"steamid": "85568392931153262",
-	"name": "=(eGO)= | EVENTS | SURF | EdgeGamers.com",
+	"name": "=(eGO)= | EVENTS | BHOP | EdgeGamers.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_skipalot",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "EdgeGamers,Event,Events,eGO,edgegamers,ego,event,events,surf,se"
+	"gametype": "EdgeGamers,Event,Events,bh,bhop,bunny,bunnyhop,eGO,edgegamers,e"
 }

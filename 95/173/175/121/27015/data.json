@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": ".,insecure"
+	"gametype": "empty,.,insecure"
 }
