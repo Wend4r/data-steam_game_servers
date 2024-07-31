@@ -11,9 +11,9 @@
 	"players": 11,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,2v2,5v5,7v7,bolsheviks,dubai,dubaipeek,east,empty,exe"
+	"gametype": "1v1,2v2,5v5,7v7,bolsheviks,dubai,dubaipeek,east,empty,execute,g"
 }

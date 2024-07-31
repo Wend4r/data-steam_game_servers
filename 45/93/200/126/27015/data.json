@@ -2,18 +2,18 @@
 	"addr": "45.93.200.126:27015",
 	"gameport": 27015,
 	"steamid": "85568392931817932",
-	"name": "[CS2] STILCS2.RU | #2 MIRAGE ORANGE",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 3,
-	"players": 11,
-	"max_players": 30,
+	"region": -1,
+	"players": 0,
+	"max_players": 0,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "admin,cs2,freevip,mirage,mirageonly,public,stil,stilcs,stilyagi"
+	"gametype": "empty,insecure"
 }
