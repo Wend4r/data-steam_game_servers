@@ -1,7 +1,8 @@
 {
 	"addr": "79.127.196.41:26125",
 	"gameport": 26125,
-	"steamid": "90200528212505607",
+	"specport": 26126,
+	"steamid": "90200528374724615",
 	"name": "TEAM7 eSports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

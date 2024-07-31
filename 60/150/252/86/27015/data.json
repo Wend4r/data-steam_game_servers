@@ -1,19 +1,19 @@
 {
 	"addr": "60.150.252.86:27015",
 	"gameport": 27015,
-	"steamid": "90200518191258636",
+	"steamid": "90200528301054988",
 	"name": "DeathMOMOI",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_armored_core",
+	"map": "kz_lionheart",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
