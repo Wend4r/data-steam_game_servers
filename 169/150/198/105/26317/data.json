@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26317",
 	"gameport": 26317,
-	"steamid": "90200486062064649",
+	"steamid": "90200512668423177",
 	"name": "Adderfury",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
