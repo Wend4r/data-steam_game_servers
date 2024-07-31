@@ -2,7 +2,7 @@
 	"addr": "135.148.3.1:27015",
 	"gameport": 27015,
 	"steamid": "85568392931035217",
-	"name": "[SG] EASY BHOP | discord.gg/steamgamers | Tier: 2",
+	"name": "[SG] EASY BHOP | discord.gg/steamgamers | Tier: 1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "bhop_emevaelx3",
+	"map": "bhop_1derland",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
+	"gametype": "empty,bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
 }
