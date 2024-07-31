@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 2,
-	"map": "fy_iceworld",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }
