@@ -2,7 +2,7 @@
 	"addr": "212.102.62.210:26745",
 	"gameport": 26745,
 	"specport": 26746,
-	"steamid": "90200518940645405",
+	"steamid": "90200518942066717",
 	"name": "[v2] Showdown-WBXpo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
