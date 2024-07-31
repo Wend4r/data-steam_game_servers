@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 6,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_japan",
+	"bots": 1,
+	"map": "awp_buzzkill_snowy_final_ubec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
 }

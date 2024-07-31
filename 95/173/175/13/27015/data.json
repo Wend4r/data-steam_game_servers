@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,DEATMATCH,secure"
+	"gametype": "empty,!knife,!ws,DEATMATCH,secure"
 }

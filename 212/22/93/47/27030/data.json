@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 1,
-	"map": "/2292172552/fy_poolparty",
+	"map": "/1280355275/aim_deagle7k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,1mpulse,LKv2,agents,bhop,classic,de,dust,gl,gloves,knife,mirage,public,tick,tik,vip,vips,ws,secure"
+	"gametype": "128,128tick,1mpulse,LKv2,agents,bhop,classic,de,dust,gl,gloves,knife,mirage,public,tick,tik,vip,vips,ws,secure"
 }
