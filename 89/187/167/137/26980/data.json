@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 4,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_assembly",
+	"bots": 6,
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
+	"gametype": "128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
 }
