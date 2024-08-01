@@ -1,0 +1,19 @@
+{
+	"addr": "185.248.173.200:27015",
+	"gameport": 27015,
+	"steamid": "90200564963758098",
+	"name": "ItCaffeNet-CS2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
