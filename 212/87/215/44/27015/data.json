@@ -1,7 +1,6 @@
 {
 	"addr": "212.87.215.44:27015",
 	"gameport": 27015,
-	"specport": 27777,
 	"steamid": "85568392931970333",
 	"name": "CS2_OELDE_CASUAL_NEW",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
