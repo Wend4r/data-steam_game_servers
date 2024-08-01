@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_deagle_fb_hdr",
+	"map": "aim_$2000$_fbhdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+	"gametype": "empty,!,*grp:5114777i,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,"
 }
