@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128tick,csgo,dd2,dust2,ekb,ffa,fps,mirage,msk,nsk,rank,ru,rus,spb,ua,secure"
+	"gametype": "!gloves,!knife,!ws,128tick,csgo,dd2,dust2,ekb,ffa,fps,mirage,msk,nsk,rank,ru,rus,spb,ua,secure"
 }

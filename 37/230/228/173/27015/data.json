@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_skeet_multigames_v7",
+	"map": "mg_lego_multigames_r1c1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gloves,merryproject,minigame,no-steam,ws,secure"
+	"gametype": "gloves,merryproject,minigame,no-steam,ws,secure"
 }
