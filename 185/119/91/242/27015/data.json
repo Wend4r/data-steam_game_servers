@@ -1,19 +1,19 @@
 {
 	"addr": "185.119.91.242:27015",
 	"gameport": 27015,
-	"steamid": "85568392931851821",
-	"name": "[SRB] ★ SURF ★ BRUTALCI.info | | Tier: 2 | Linear",
+	"steamid": "85568392931851823",
+	"name": "BRUTALCI.info ARENA 1v1 [!ws !knife !agents]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 30,
+	"players": 7,
+	"max_players": 28,
 	"bots": 0,
-	"map": "surf_gleam",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "br,brutalci,ws,secure"
 }
