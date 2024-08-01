@@ -1,8 +1,8 @@
 {
 	"addr": "180.93.183.113:27025",
 	"gameport": 27025,
-	"steamid": "90200547509268511",
-	"name": "GTV #1",
+	"steamid": "90200548249796639",
+	"name": "[GBattle][VNG2] Server 01",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,9 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
