@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 8,
-	"map": "de_inferno",
+	"map": "awp_battle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,brasil,deathmatch,dm,faca,savage,savage servidores,savage"
+	"gametype": "brasil,deathmatch,dm,faca,savage,savage servidores,savageservid"
 }

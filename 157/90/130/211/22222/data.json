@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 3,
 	"max_players": 24,
 	"bots": 0,
-	"map": "bhop_fps_max",
+	"map": "bhop_emevaelx3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,bhop,cs2,gloves,knife,music,secure,secure"
+	"gametype": "agents,bhop,cs2,gloves,knife,music,secure,secure"
 }

@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 3,
+	"bots": 2,
 	"map": "awp_minecraft_crash_fp",
 	"secure": true,
 	"dedicated": true,
