@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.130:26982",
 	"gameport": 26982,
+	"specport": 26983,
 	"steamid": "90200530909818887",
 	"name": "Team Julemix ",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
