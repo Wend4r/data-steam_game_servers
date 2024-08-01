@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 30,
 	"bots": 0,
-	"map": "aim_ag_texture_city",
+	"map": "aim_ag_texture2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2018 hvh,2018 nospread,brain,brain cell,brain cell removal,brain removal,hvh,l,legacy,legacy hvh,nospread,nospread 2018,o"
+	"gametype": "2018 hvh,2018 nospread,brain,brain cell,brain cell removal,brain removal,hvh,l,legacy,legacy hvh,nospread,nospread 2018,old hvh"
 }
