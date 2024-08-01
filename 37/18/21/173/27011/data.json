@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
 	"map": "seek_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hide and seek,hns,horizon,maniac,maniack,maniak,prophunt,zombie"
+	"gametype": "empty,hide and seek,hns,horizon,maniac,maniack,maniak,prophunt,"
 }
