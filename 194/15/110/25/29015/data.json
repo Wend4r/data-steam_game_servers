@@ -2,7 +2,7 @@
 	"addr": "194.15.110.25:29015",
 	"gameport": 29015,
 	"steamid": "85568392931155575",
-	"name": "Team LEISURE by g-portal.com",
+	"name": "CS2 Server Hosted by g-portal.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
