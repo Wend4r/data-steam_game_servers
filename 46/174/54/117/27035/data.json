@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27035",
 	"gameport": 27035,
 	"steamid": "90200530431630348",
-	"name": "genesis 15450: team_encourage vs team_klarejust",
+	"name": "[genesis] League #11",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

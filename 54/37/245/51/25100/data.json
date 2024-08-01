@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 1,
-	"map": "surf_horizon_njv",
+	"bots": 2,
+	"map": "surf_juturna_easy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_horizon_njv,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_juturna_easy,secure"
 }
