@@ -1,0 +1,19 @@
+{
+	"addr": "110.175.8.64:27015",
+	"gameport": 27015,
+	"steamid": "85568392923694909",
+	"name": "TheCS2Lads v1 - Soz",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

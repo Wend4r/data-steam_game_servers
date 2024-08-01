@@ -2,18 +2,18 @@
 	"addr": "64.40.9.183:27031",
 	"gameport": 27031,
 	"steamid": "85568392931712534",
-	"name": "Sigma Squad 5 v 5",
+	"name": "Sigma Squad 10 v 10 + 2 Spec",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csgo,ghb,secure"
+	"gametype": "csgo,ghb,secure"
 }

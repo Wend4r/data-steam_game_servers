@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_alley_course_reskin",
+	"map": "mg_circle_course_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap"
+	"gametype": "cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap,mg_,s"
 }
