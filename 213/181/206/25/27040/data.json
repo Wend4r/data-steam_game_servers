@@ -12,9 +12,9 @@
 	"players": 11,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_japan",
+	"map": "awp_lego_2_shootout_ubec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
 }
