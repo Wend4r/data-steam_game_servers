@@ -1,6 +1,7 @@
 {
 	"addr": "45.179.91.41:27126",
 	"gameport": 27126,
+	"specport": 28126,
 	"steamid": "85568392931963982",
 	"name": "BLUJOIN/SC",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
-	"max_players": 10,
+	"players": 10,
+	"max_players": 11,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
