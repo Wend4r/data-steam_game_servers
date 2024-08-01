@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 26,
 	"bots": 1,
-	"map": "jb_vortex",
+	"map": "ba_jail_umbrella",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,vi"
+	"gametype": "atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,viptest,"
 }
