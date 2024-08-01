@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27097",
 	"gameport": 27097,
 	"specport": 27099,
-	"steamid": "90200519037881374",
+	"steamid": "90200547326769182",
 	"name": "flowac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

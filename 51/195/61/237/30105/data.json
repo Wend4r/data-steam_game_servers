@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.237:30105",
 	"gameport": 30105,
-	"steamid": "90200519043154959",
+	"steamid": "90200547291921423",
 	"name": "Love Sosa",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27212",
 	"gameport": 27212,
-	"steamid": "90200523429252126",
+	"steamid": "90200547326850078",
 	"name": "LV-ESPORTS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

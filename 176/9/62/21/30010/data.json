@@ -2,7 +2,7 @@
 	"addr": "176.9.62.21:30010",
 	"gameport": 30010,
 	"specport": 35072,
-	"steamid": "90200519073556483",
+	"steamid": "90200547381101571",
 	"name": "B44Azooooz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "ar_baggage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
