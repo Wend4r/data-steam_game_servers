@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26747",
 	"gameport": 26747,
-	"steamid": "90200548634074126",
+	"steamid": "90200557714723854",
 	"name": "DEAC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
