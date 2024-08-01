@@ -11,9 +11,9 @@
 	"players": 15,
 	"max_players": 26,
 	"bots": 0,
-	"map": "aim_p250pool_fb",
+	"map": "aim_glock18_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

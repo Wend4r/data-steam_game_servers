@@ -2,19 +2,19 @@
 	"addr": "46.174.51.223:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200565333910550",
+	"steamid": "90200565510553622",
 	"name": "NEZERLOR PROJECT ● МАНЬЯК БЛИЗКО [MANIAC]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "seek_lakehouse_2020",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
