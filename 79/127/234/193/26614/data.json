@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26614",
 	"gameport": 26614,
-	"steamid": "90200516974220301",
+	"steamid": "90200545362239501",
 	"name": "Broken's Land",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_flick",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

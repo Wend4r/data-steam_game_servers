@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_minecraft_landscape",
+	"bots": 1,
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
