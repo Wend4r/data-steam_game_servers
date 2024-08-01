@@ -3,7 +3,7 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "90200563184794640",
-	"name": "shipREKT Bhop",
+	"name": "shipREKT Retakes +QuickPlant +QuickDefuse",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "bhop_arcturus",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,bhop,secure"
+	"gametype": "128,AntiCheat,Retake,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_mesa_aether_fix",
+	"map": "surf_facility",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_mesa_aether"
+	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_facility,se"
 }

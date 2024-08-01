@@ -2,7 +2,7 @@
 	"addr": "169.150.232.57:26789",
 	"gameport": 26789,
 	"specport": 26790,
-	"steamid": "90200533698012177",
+	"steamid": "90200564184974353",
 	"name": "eNsKy esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
