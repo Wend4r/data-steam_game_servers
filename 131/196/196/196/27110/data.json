@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "awp_orange",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,brasil,faca,savage,savage servidores,savageservidores,skins"
+	"gametype": "empty,awp,brasil,faca,savage,savage servidores,savageservidores"
 }

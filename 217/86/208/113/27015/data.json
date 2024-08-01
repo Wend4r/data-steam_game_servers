@@ -1,20 +1,19 @@
 {
 	"addr": "217.86.208.113:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200537422824472",
-	"name": "TroubleChute's Test Server",
+	"steamid": "90200565078203416",
+	"name": "LAN CS2 Comp",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
+	"region": -1,
+	"players": 2,
 	"max_players": 64,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

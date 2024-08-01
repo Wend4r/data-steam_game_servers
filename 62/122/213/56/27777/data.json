@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 25,
 	"bots": 0,
 	"map": "rewert/hns_deadfarm",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,!viptest,128tick,anime,hide and seek,hideandseek,hns,maniac,maniacmod,no-steam,nonsteam,nosteam,seek,secure"
+	"gametype": "empty,!shop,!viptest,128tick,anime,hide and seek,hideandseek,hns,maniac,maniacmod,no-steam,nonsteam,nosteam,seek,secure"
 }
