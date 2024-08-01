@@ -1,0 +1,19 @@
+{
+	"addr": "69.138.7.7:30031",
+	"gameport": 30031,
+	"steamid": "85568392923217945",
+	"name": "CSGO Arms Race Free For All (arffa)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.5.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "ar_lunacy",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}
