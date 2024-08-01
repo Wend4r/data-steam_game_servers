@@ -1,19 +1,20 @@
 {
 	"addr": "79.127.234.193:26496",
 	"gameport": 26496,
-	"steamid": "85568392925450900",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26497,
+	"steamid": "90200564367366157",
+	"name": "Promatic-Life-Reborn  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_ancient",
-	"secure": false,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
