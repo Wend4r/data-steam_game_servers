@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 31,
 	"bots": 4,
-	"map": "shipment_version071",
+	"map": "de_orbit",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "/890259285/kz_gallus",
+	"map": "/156066234/kz_galaxy_go2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bad,fl0m,gokz,kz,servers,secure"
+	"gametype": "empty,bad,fl0m,gokz,kz,servers,secure"
 }
