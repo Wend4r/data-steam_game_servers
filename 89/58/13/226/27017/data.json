@@ -2,18 +2,18 @@
 	"addr": "89.58.13.226:27017",
 	"gameport": 27017,
 	"steamid": "85568392931382237",
-	"name": "utility",
+	"name": "cs2-practice",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 64,
 	"bots": 0,
-	"map": "<empty>",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,deathmatch,dm,fy,iceworld,tdm,insecure"
+	"gametype": "empty,deathmatch,dm,fy,iceworld,tdm,secure"
 }

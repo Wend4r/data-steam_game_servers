@@ -1,7 +1,7 @@
 {
 	"addr": "93.191.11.211:27212",
 	"gameport": 27212,
-	"steamid": "90200560938981405",
+	"steamid": "90200560939193373",
 	"name": "[CSserv.ru] New Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "ar_pool_day",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
