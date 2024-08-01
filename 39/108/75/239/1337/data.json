@@ -1,6 +1,7 @@
 {
 	"addr": "39.108.75.239:1337",
 	"gameport": 1337,
+	"specport": 27020,
 	"steamid": "85568392932016616",
 	"name": "GMQAQGM的小屋",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,da0rkam,powered,insecure"
+	"gametype": "da0rkam,powered,insecure"
 }
