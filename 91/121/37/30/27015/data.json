@@ -1,7 +1,7 @@
 {
 	"addr": "91.121.37.30:27015",
 	"gameport": 27015,
-	"steamid": "90200556853605407",
+	"steamid": "90200557003984927",
 	"name": "[FR] ETERNITY ONLY MAP AIM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 1,
-	"map": "aim_headshot",
+	"bots": 0,
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "VeryGames VG,secure"
+	"gametype": "empty,VeryGames VG,secure"
 }
