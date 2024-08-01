@@ -12,7 +12,7 @@
 	"players": 5,
 	"max_players": 30,
 	"bots": 1,
-	"map": "myrun/big_city_v3",
+	"map": "myrun/small_house",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
