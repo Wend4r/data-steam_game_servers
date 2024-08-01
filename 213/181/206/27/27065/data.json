@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 25,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,fb.com/bombateam,secure"
+	"gametype": "fb.com/bombateam,secure"
 }
