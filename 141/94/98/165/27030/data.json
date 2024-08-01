@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 8,
-	"map": "ar_maplewood",
+	"map": "poolday_dark_carnival",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
+	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
 }
