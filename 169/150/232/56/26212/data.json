@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FKZ,Femboykz,abh,autobhop,cs2,eu,europe,finland,insecure,"
+	"gametype": "FKZ,Femboykz,abh,autobhop,cs2,eu,europe,finland,insecure,kz,mov"
 }

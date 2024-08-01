@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_anubis,de,cybershoke,128,128tick,cyber,drop,en,eu,execute,ff"
+	"gametype": "empty,de_anubis,de,cybershoke,128,128tick,cyber,drop,en,eu,exec"
 }
