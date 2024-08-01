@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,elegantsharks.de,secure"
+	"gametype": "empty,elegantsharks.de,insecure"
 }
