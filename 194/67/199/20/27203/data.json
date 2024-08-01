@@ -1,7 +1,7 @@
 {
 	"addr": "194.67.199.20:27203",
 	"gameport": 27203,
-	"steamid": "90200556552182784",
+	"steamid": "90200558413986816",
 	"name": "[Cs2] Test Maniac server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "infernominecraft",
+	"map": "seek_town",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
