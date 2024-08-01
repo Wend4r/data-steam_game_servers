@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26645",
 	"gameport": 26645,
-	"steamid": "90200536952851469",
+	"steamid": "90200565337286669",
 	"name": "Paladin's Practice Prison",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

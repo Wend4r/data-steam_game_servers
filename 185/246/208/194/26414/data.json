@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.194:26414",
 	"gameport": 26414,
-	"steamid": "90200536714624014",
+	"steamid": "90200565243248654",
 	"name": "Cookiez powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

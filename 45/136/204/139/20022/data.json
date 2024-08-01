@@ -10,11 +10,11 @@
 	"product": "csgo",
 	"region": 255,
 	"players": 0,
-	"max_players": 30,
+	"max_players": 23,
 	"bots": 0,
-	"map": "35hp_2go_nightroom",
+	"map": "wcs_hangumhigh_dan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
+	"gametype": "empty,*grp:5114777i,128tick,500lvl,csgo,no-steam,rev=78393462,rpg,warcraft,wc:source,wcs,secure"
 }
