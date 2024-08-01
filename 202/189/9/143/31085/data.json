@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.9.143:31085",
 	"gameport": 31085,
-	"steamid": "90200520829295638",
+	"steamid": "90200539572219926",
 	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #12",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_inboxed_p",
+	"map": "ze_otakuroom_pt",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }
