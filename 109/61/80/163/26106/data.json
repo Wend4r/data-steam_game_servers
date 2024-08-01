@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26106",
 	"gameport": 26106,
-	"steamid": "90200513215459350",
+	"steamid": "90200540902273046",
 	"name": "JegFikStress",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

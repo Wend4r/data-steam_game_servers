@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.130:26509",
 	"gameport": 26509,
-	"steamid": "90200513215595542",
+	"steamid": "90200540902386710",
 	"name": "Josue Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

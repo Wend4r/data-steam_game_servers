@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.139:26935",
 	"gameport": 26935,
-	"steamid": "90200513135818779",
+	"steamid": "90200540967485467",
 	"name": "Kate's Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
