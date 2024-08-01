@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 32,
-	"bots": 8,
-	"map": "cs_rush_d_prefab",
+	"bots": 9,
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }
