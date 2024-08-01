@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26685",
 	"gameport": 26685,
+	"specport": 26686,
 	"steamid": "90200540389195793",
 	"name": "Big Dirty",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
