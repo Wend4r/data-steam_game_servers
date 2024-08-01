@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "2000_classics",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128-tick,asia(sg my ph th id),classic,competitive,cs1.6,old sch"
+	"gametype": "empty,128-tick,asia(sg my ph th id),classic,competitive,cs1.6,o"
 }

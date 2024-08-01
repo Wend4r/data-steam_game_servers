@@ -1,6 +1,7 @@
 {
 	"addr": "200.140.53.153:27018",
 	"gameport": 27018,
+	"specport": 27020,
 	"steamid": "85568392930430738",
 	"name": "Arena1",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 2,
 	"players": 11,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
