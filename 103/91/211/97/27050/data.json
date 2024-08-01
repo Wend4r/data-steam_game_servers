@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 37,
-	"bots": 20,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

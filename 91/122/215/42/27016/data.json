@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,cs2,fearstrike,lego,pub,public,secure"
+	"gametype": "awp,cs2,fearstrike,lego,pub,public,secure"
 }
