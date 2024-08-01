@@ -1,7 +1,7 @@
 {
 	"addr": "194.67.199.20:27203",
 	"gameport": 27203,
-	"steamid": "90200431194649600",
+	"steamid": "90200556025272320",
 	"name": "[Cs2] Test Maniac server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "has_floppytown",
+	"map": "prefabs/de_dust2/de_dust2_skybo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
