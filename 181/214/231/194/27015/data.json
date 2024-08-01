@@ -1,0 +1,19 @@
+{
+	"addr": "181.214.231.194:27015",
+	"gameport": 27015,
+	"steamid": "85568392931851929",
+	"name": "JazzCS.net DEV SERVER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 1,
+	"bots": 0,
+	"map": "surf_utopia_njv",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
