@@ -1,0 +1,19 @@
+{
+	"addr": "191.177.190.212:27015",
+	"gameport": 27015,
+	"steamid": "90200540329128974",
+	"name": "Server NicaoHasker2012",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 11,
+	"bots": 8,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}
