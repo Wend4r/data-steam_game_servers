@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_grass2",
+	"map": "am_water",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "*grp:10536493i,arena,1v1,anticheat,128tick,128,fun,de,awp,free,csgo,game,challenge,gloves,knife,map,server,server,skin,sneak,ws"
+	"gametype": "csgo,free,anticheat,awp,de,fun,128,128tick,1v1,arena,gloves,challenge,game,knife,map,server,server,skin,sneak,ws,secure"
 }

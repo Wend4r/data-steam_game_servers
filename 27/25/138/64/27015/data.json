@@ -1,19 +1,20 @@
 {
 	"addr": "27.25.138.64:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200550131101726",
-	"name": "Counter-Strike: Global Offensive",
+	"name": "NCHVH.CLUB",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "hidden,secure"
 }

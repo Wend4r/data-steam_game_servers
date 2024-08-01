@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.194:27015",
 	"gameport": 27015,
-	"steamid": "90200550891916314",
+	"steamid": "90200551058623514",
 	"name": "fajnyserwer1234@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 7,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
