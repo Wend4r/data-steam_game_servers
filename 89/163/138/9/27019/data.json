@@ -2,8 +2,8 @@
 	"addr": "89.163.138.9:27019",
 	"gameport": 27019,
 	"specport": 27020,
-	"steamid": "90200550423260174",
-	"name": "49ae4d7af7fb73f9932d926a6382975f",
+	"steamid": "90200559619766286",
+	"name": "h8r.gg",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
