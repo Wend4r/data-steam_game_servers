@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 1,
 	"map": "ttt_miniature_room_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Items,Store,TTT,fys,secure"
+	"gametype": "Items,Store,TTT,fys,secure"
 }

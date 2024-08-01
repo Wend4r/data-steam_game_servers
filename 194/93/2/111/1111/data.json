@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_texture_gg",
+	"map": "am_razeclub_basement",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,hvh,hvharena,raze,razeclub,razerclub,ssrazer,insecure"
+	"gametype": "empty,1v1,arena,hvh,hvharena,raze,razeclub,razerclub,ssrazer,in"
 }
