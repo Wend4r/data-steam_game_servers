@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "ze_morell_april_vacation_p",
+	"bots": 8,
+	"map": "ze_arctic_escape_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
+	"gametype": "exg,ze,僵尸逃跑,insecure"
 }
