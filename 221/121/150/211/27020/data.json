@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 29,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
