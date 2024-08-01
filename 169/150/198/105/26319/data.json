@@ -2,7 +2,7 @@
 	"addr": "169.150.198.105:26319",
 	"gameport": 26319,
 	"specport": 26320,
-	"steamid": "90200519859588105",
+	"steamid": "90200547018457097",
 	"name": "PLAY.PRACC.COM - [BR] RETAKE - DUST2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
