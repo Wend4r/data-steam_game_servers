@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.209.193:26256",
 	"gameport": 26256,
-	"steamid": "90200540080692235",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200540083466251",
+	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 4,
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
