@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27180",
 	"gameport": 27180,
-	"steamid": "90200513397020689",
+	"steamid": "90200540716265489",
 	"name": "SERWER avi",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "decache23232",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
