@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 1,
-	"map": "wcs_dust2_final",
+	"map": "$2000$_csgo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!de_dust2,arena,awp,awp,awp_lego,awp_lego,awp_lego_2,awp_lego_2,de_dust2,hlportal,hlxportal,idgame,p �\b\u0010�p\b,rev=783931,wa"
+	"gametype": "empty,!!!,!awp,!de_dust2,arena,awp,awp,awp_lego,awp_lego,awp_lego_2,awp_lego_2,de_dust2,hlportal,hlxportal,idgame,rev=783931,wa"
 }
