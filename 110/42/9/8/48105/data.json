@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:48105",
 	"gameport": 48105,
-	"steamid": "90200533491069966",
+	"steamid": "90200562317683726",
 	"name": "TREMOR",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
