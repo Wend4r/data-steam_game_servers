@@ -1,8 +1,8 @@
 {
 	"addr": "51.195.61.237:10005",
 	"gameport": 10005,
-	"steamid": "90200539812634639",
-	"name": "RhomesServer - free @ fshost.me",
+	"steamid": "90200540132163599",
+	"name": "Rhomes Server - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
