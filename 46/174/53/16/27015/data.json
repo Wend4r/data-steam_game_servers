@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 33,
 	"bots": 0,
-	"map": "mg_100traps_v4_2_yea",
+	"map": "mg_dc_course_yea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!shop,!viptest,!ws,anime,awp,bhop,kz,mg,minigame,surf,secure"
+	"gametype": "!gloves,!knife,!shop,!viptest,!ws,anime,awp,bhop,kz,mg,minigame,surf,secure"
 }
