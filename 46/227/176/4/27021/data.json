@@ -1,6 +1,7 @@
 {
 	"addr": "46.227.176.4:27021",
 	"gameport": 27021,
+	"specport": 27027,
 	"steamid": "85568392920101130",
 	"name": "CSPORTAL.sk | RETAKES ★SEASON03★ [!knife !gloves !ws !agent",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 1,
-	"max_players": 9,
+	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,knife,rank,reatkes,sk,svk,ws,secure"
+	"gametype": "csportal,cz,knife,rank,reatkes,sk,svk,ws,secure"
 }
