@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_het",
+	"bots": 1,
+	"map": "surf_horizon_njv",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_het,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_horizon_njv,secure"
 }

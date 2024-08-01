@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 25,
 	"bots": 1,
-	"map": "krevetka04",
+	"map": "twyxe_map_v8",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassi"
+	"gametype": "!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassic,mani"
 }
