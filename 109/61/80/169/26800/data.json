@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.169:26800",
 	"gameport": 26800,
+	"specport": 26801,
 	"steamid": "90200541827977244",
 	"name": "GreenHub",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_all_in_one",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

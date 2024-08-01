@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26088",
 	"gameport": 26088,
-	"steamid": "90200513829418011",
+	"steamid": "90200541888877595",
 	"name": "RYS Test Server ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

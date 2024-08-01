@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26960",
 	"gameport": 26960,
-	"steamid": "90200513829377051",
+	"steamid": "90200541888850971",
 	"name": "shaedy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

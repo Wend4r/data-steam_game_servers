@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.102:26955",
 	"gameport": 26955,
-	"steamid": "90200513819524102",
+	"steamid": "90200541952973830",
 	"name": "treino e cia",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

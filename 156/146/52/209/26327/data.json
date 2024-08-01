@@ -1,7 +1,7 @@
 {
 	"addr": "156.146.52.209:26327",
 	"gameport": 26327,
-	"steamid": "90200513800201242",
+	"steamid": "90200541943430170",
 	"name": "hayvanat bahcesi",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

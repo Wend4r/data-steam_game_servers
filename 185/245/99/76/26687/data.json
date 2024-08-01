@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26687",
 	"gameport": 26687,
-	"steamid": "90200537181265934",
+	"steamid": "90200541898540046",
 	"name": "WOPA Talents powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

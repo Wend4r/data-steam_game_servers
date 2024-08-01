@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.198:26556",
 	"gameport": 26556,
-	"steamid": "90200513809993746",
+	"steamid": "90200541873886226",
 	"name": "parrot",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

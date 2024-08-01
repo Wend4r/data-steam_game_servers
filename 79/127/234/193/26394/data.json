@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26394",
 	"gameport": 26394,
-	"steamid": "90200513720417293",
+	"steamid": "90200541923446797",
 	"name": "bfb2electricboogaloo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

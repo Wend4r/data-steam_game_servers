@@ -2,7 +2,7 @@
 	"addr": "37.19.215.246:26192",
 	"gameport": 26192,
 	"specport": 26193,
-	"steamid": "90200513805101081",
+	"steamid": "90200541868931097",
 	"name": "OLDT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

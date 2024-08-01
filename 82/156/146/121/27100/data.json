@@ -8,13 +8,13 @@
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": 255,
+	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "am_caribbean",
+	"bots": 3,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "R0对战平台,insecure"
+	"gametype": "empty,insecure"
 }

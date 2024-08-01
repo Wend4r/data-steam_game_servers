@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26494",
 	"gameport": 26494,
-	"steamid": "90200513799699482",
+	"steamid": "90200541942879258",
 	"name": "Raguls",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
