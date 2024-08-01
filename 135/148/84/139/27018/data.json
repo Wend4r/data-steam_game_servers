@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "surf_akai_final",
+	"map": "surf_skipalot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
 }
