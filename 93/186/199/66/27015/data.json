@@ -1,7 +1,6 @@
 {
 	"addr": "93.186.199.66:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930642439",
 	"name": "Elegant Sharks Praccserver <3",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "elegantsharks.de,secure"
+	"gametype": "empty,elegantsharks.de,secure"
 }
