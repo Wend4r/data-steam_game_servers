@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bg,dust2,inferno,mirage,insecure"
+	"gametype": "bg,dust2,inferno,mirage,secure"
 }
