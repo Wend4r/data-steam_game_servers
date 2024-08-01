@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26363",
 	"gameport": 26363,
 	"specport": 26364,
-	"steamid": "90200538535414798",
+	"steamid": "90200544290135054",
 	"name": "ROSOMAHA CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
