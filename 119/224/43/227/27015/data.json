@@ -1,7 +1,7 @@
 {
 	"addr": "119.224.43.227:27015",
 	"gameport": 27015,
-	"steamid": "90200542288585752",
+	"steamid": "85568392932023765",
 	"name": "ARRACHELAND",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
