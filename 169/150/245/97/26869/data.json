@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.97:26869",
+	"gameport": 26869,
+	"specport": 26870,
+	"steamid": "90200565210482693",
+	"name": "[P] PopFlash Scrim - amsterdam - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mills",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}

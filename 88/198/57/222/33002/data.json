@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33002",
 	"gameport": 33002,
-	"steamid": "90200561394777095",
-	"name": "aza by \"FreeGameHosting.eu\"",
+	"steamid": "90200565164832775",
+	"name": "\"1на1\" by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

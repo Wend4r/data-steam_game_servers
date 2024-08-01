@@ -12,7 +12,7 @@
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
 	"gametype": "empty,insecure"
