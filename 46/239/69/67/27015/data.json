@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,agents,cs2,gloves,knife,mapvote,rekyl,retake,rtv,skins,ws"
+	"gametype": "agents,cs2,gloves,knife,mapvote,rekyl,retake,rtv,skins,ws,secur"
 }
