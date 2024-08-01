@@ -2,18 +2,18 @@
 	"addr": "110.42.9.142:27040",
 	"gameport": 27040,
 	"steamid": "85568392931881509",
-	"name": "星社区CS2 监狱风云 #1",
+	"name": "星社区CS2 监狱风云 测试服",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "jb_moti2_final",
+	"map": "jb_waterworks",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
