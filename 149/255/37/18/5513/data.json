@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 32,
-	"bots": 6,
-	"map": "de_dust2",
+	"bots": 5,
+	"map": "cs_workout_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
