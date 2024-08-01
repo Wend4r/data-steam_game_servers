@@ -1,0 +1,19 @@
+{
+	"addr": "45.83.244.61:27015",
+	"gameport": 27015,
+	"steamid": "85568392931045018",
+	"name": "[CS2] Baller'N | Map-Vote | 16k$ | Ranks | Skins",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -3,
+	"players": 0,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,agents,ballern,de_dust2,de_mirage,gloves,knife,skins,vote"
+}
