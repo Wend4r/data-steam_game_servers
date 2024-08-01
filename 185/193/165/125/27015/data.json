@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_redline_rp",
+	"map": "surf_ski_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 9,
+	"players": 11,
 	"max_players": 45,
 	"bots": 0,
 	"map": "de_mirage_dusk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:44739913i,128,128tick,anime,awp,boost,csdm,csgo,dm,epoha,epoha00,epoha00h,era-00s,era00s,era00s,freevip,no-steam,public,vi"
+	"gametype": "128,128tick,anime,awp,boost,csdm,csgo,dm,epoha,epoha00,epoha00h,era-00s,era00s,era00s,freevip,no-steam,public,vip,viptest,secur"
 }

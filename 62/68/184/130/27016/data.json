@@ -1,0 +1,19 @@
+{
+	"addr": "62.68.184.130:27016",
+	"gameport": 27016,
+	"steamid": "85568392931904259",
+	"name": "surf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "surf_fiellu",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

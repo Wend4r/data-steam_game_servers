@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!lvl,!msk,!pub,!vip,!ws,secure"
+	"gametype": "!gloves,!knife,!lvl,!msk,!pub,!vip,!ws,secure"
 }
