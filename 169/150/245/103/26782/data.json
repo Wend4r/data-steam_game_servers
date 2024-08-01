@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.103:26782",
+	"gameport": 26782,
+	"steamid": "90200559063512075",
+	"name": "Leetify CS2 Practice Mode by bujaka41 LUKA MAGIC",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

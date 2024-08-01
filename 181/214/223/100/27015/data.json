@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -4,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!ws!glove!knife!ajan,128-tick,drop,dust2,insecure"
+	"gametype": "!ws!glove!knife!ajan,128-tick,drop,dust2,secure"
 }

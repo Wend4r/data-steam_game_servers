@@ -1,7 +1,7 @@
 {
 	"addr": "144.76.84.143:10015",
 	"gameport": 10015,
-	"steamid": "90200558554756105",
+	"steamid": "90200559003802633",
 	"name": "IKASDFFG - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,secure"
 }
