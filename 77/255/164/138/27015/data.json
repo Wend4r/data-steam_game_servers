@@ -1,7 +1,7 @@
 {
 	"addr": "77.255.164.138:27015",
 	"gameport": 27015,
-	"steamid": "90200549676153869",
+	"steamid": "90200549676583949",
 	"name": "KeydropPlewServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

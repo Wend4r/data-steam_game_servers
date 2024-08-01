@@ -1,7 +1,7 @@
 {
 	"addr": "217.5.148.29:27015",
 	"gameport": 27015,
-	"steamid": "90200521184004112",
+	"steamid": "90200549717447696",
 	"name": "LL Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "cs_office",
+	"bots": 2,
+	"map": "ar_pool_day",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

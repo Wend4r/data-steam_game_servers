@@ -1,7 +1,7 @@
 {
 	"addr": "177.54.145.59:27010",
 	"gameport": 27010,
-	"steamid": "90200527560423438",
+	"steamid": "90200549688554510",
 	"name": "SERVIDOR PRIVADO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
