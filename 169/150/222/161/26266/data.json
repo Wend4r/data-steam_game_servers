@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26266",
 	"gameport": 26266,
-	"steamid": "90200518372143107",
+	"steamid": "90200551021293571",
 	"name": "Alter Ego powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

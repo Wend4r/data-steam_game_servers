@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,knife,rank,sk,svk,ws,secure"
+	"gametype": "csportal,cz,knife,rank,sk,svk,ws,secure"
 }
