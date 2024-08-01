@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 4,
+	"bots": 7,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

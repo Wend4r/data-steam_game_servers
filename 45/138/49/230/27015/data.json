@@ -10,10 +10,10 @@
 	"region": -3,
 	"players": 1,
 	"max_players": 40,
-	"bots": 13,
+	"bots": 14,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ballerwiese,bw,de_dust2,dust2,secure"
+	"gametype": "empty,ballerwiese,bw,de_dust2,dust2,secure"
 }
