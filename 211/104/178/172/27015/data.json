@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 64,
-	"bots": 12,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cs2,dm,ffa,kr,secure"
+	"gametype": "empty,cs2,dm,ffa,kr,secure"
 }

@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 2,
 	"map": "newdeagle",
 	"secure": true,
 	"dedicated": true,

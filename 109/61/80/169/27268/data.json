@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 6,
 	"max_players": 7,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "/1967555916/mini_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,popflash.site,secure"
+	"gametype": "popflash,popflash.site,secure"
 }
