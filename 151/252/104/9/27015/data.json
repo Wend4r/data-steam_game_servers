@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,5x5,Alohasports,Krasnodar,Retake,Retakes,aSports,prim"
+	"gametype": "5v5,5x5,Alohasports,Krasnodar,Retake,Retakes,aSports,prime,secu"
 }

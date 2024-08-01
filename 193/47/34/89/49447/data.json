@@ -1,0 +1,19 @@
+{
+	"addr": "193.47.34.89:49447",
+	"gameport": 49447,
+	"steamid": "85568392931536808",
+	"name": "BLACK RUSSIA CS:2 | SANDSTONE #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 22,
+	"bots": 0,
+	"map": "sandstone_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
