@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 64,
 	"bots": 5,
-	"map": "cs_estate_cso2",
+	"map": "de_codewise_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
