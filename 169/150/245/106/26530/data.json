@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.106:26530",
 	"gameport": 26530,
-	"specport": 26531,
-	"steamid": "90200559618765838",
+	"steamid": "90200560626356238",
 	"name": "RushAllNight",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 6,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

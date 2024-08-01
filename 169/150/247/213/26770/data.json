@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.247.213:26770",
 	"gameport": 26770,
-	"steamid": "90200546517742617",
+	"steamid": "90200560606526489",
 	"name": "AliensWeb | discord.gg/RNNtJJNVc6",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
