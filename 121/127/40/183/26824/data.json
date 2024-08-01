@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26824",
 	"gameport": 26824,
-	"steamid": "90200540180086785",
+	"steamid": "90200540336648193",
 	"name": "Amoeba",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 4,
-	"max_players": 25,
+	"max_players": 8,
 	"bots": 0,
-	"map": "csgo_aim_training",
+	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
