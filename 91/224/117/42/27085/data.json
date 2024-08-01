@@ -1,8 +1,7 @@
 {
 	"addr": "91.224.117.42:27085",
 	"gameport": 27085,
-	"specport": 27086,
-	"steamid": "90200513720783880",
+	"steamid": "90200540904861704",
 	"name": "Serwer treningowy ekipy Epoki Lodowcowej 2023 @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

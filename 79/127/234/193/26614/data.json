@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_c17_5s",
+	"map": "de_sento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "193.135.10.79:27123",
 	"gameport": 27123,
-	"steamid": "90200513741584393",
+	"steamid": "90200540896242697",
 	"name": "A new Gameserver powered by Host-Unlimited.de",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
