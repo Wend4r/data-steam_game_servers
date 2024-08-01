@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.33:26012",
 	"gameport": 26012,
+	"specport": 26013,
 	"steamid": "90200541767801862",
 	"name": "CS2 Team",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 4,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
