@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.35:26704",
 	"gameport": 26704,
-	"steamid": "90200564833451016",
+	"steamid": "90200565027167240",
 	"name": "ARCADE CS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 8,
-	"bots": 0,
+	"bots": 18,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
