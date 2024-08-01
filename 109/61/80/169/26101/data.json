@@ -3,7 +3,7 @@
 	"gameport": 26101,
 	"specport": 26102,
 	"steamid": "85568392931971430",
-	"name": "YaLLa Compass",
+	"name": "a344982718409df0fc102163a81727aa",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -2,19 +2,19 @@
 	"addr": "169.150.245.97:26663",
 	"gameport": 26663,
 	"specport": 26664,
-	"steamid": "90200558346816517",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200558655473669",
+	"name": "PROTON X powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
