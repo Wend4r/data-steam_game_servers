@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 46,
 	"bots": 1,
-	"map": "surf_astra",
+	"map": "surf_utopia_njv",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
+	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
 }
