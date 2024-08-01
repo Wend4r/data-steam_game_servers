@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 38,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_aura",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,!ws,awp,easy,bhop,free,knife,game,fun,gloves,map,server,sneak,stat,skin,server,surf,surftimer,timer,utopia,ws,secure"
+	"gametype": "csgo,!ws,awp,easy,bhop,free,knife,game,fun,gloves,map,server,sneak,stat,skin,server,surf,surftimer,timer,utopia,ws,secure"
 }
