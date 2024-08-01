@@ -1,7 +1,7 @@
 {
 	"addr": "93.191.11.211:27214",
 	"gameport": 27214,
-	"steamid": "90200402028646429",
+	"steamid": "90200561577672733",
 	"name": "[CS2] SOULFULTALK - AWP | !KNIFE !SKINS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,soulful,ws"
+	"gametype": "empty,!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,soul"
 }
