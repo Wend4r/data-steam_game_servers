@@ -2,8 +2,8 @@
 	"addr": "121.127.45.130:26091",
 	"gameport": 26091,
 	"specport": 26092,
-	"steamid": "90200557946205191",
-	"name": "Cashout Cavaliers powered by PRACC.COM",
+	"steamid": "90200558112507911",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
