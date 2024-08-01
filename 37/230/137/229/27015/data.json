@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!glove,!knife,!ws,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,public,secure,skin"
+	"gametype": "!glove,!knife,!ws,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,public,secure,skins,vip,"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "admin,bighead,bigheads,cs2,freevip,fun,mirage,mirageonly,public"
+	"gametype": "empty,admin,bighead,bigheads,cs2,freevip,fun,mirage,mirageonly,"
 }
