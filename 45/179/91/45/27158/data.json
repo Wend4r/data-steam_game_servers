@@ -1,7 +1,6 @@
 {
 	"addr": "45.179.91.45:27158",
 	"gameport": 27158,
-	"specport": 28158,
 	"steamid": "85568392932022980",
 	"name": "dus cria",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
