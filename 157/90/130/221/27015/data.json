@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
+	"players": 4,
 	"max_players": 27,
 	"bots": 0,
 	"map": "awp_lego2_artex",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,cs2,secure,skins,ua,ws,secure"
+	"gametype": "awp,cs2,secure,skins,ua,ws,secure"
 }
