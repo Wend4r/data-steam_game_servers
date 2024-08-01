@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 4,
 	"max_players": 20,
-	"bots": 6,
+	"bots": 0,
 	"map": "de_bank",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
