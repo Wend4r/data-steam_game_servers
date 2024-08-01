@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,27region,DV,KHV,Khabarovsk,Public,secure"
+	"gametype": "empty,27region,DV,KHV,Khabarovsk,Public,insecure"
 }
