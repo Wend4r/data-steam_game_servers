@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!ws,!knife,!lvl,128,!vip,128tick,1mpulse,awp,awp_lego,lego_2,only_awp,only_awp_lego_2,only_lego,pub,public,vip,wp"
+	"gametype": "!gloves,!ws,!knife,!lvl,128,!vip,128tick,1mpulse,awp,awp_lego,lego_2,only_awp,only_awp_lego_2,only_lego,pub,public,vip,wp,wp s,"
 }
