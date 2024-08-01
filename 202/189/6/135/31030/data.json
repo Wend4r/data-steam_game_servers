@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 4,
-	"players": 2,
+	"players": 1,
 	"max_players": 48,
 	"bots": 0,
-	"map": "zm_jiequ",
+	"map": "zm_boundaries",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }
