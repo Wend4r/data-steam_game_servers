@@ -1,8 +1,7 @@
 {
 	"addr": "89.187.167.139:26192",
 	"gameport": 26192,
-	"specport": 26193,
-	"steamid": "90200532558628891",
+	"steamid": "90200561510701083",
 	"name": "change esports (avg 2.1k) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

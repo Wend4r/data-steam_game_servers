@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.163:26267",
 	"gameport": 26267,
-	"specport": 26268,
 	"steamid": "85568392931957671",
 	"name": "TryHearts",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

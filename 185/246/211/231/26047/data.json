@@ -1,8 +1,7 @@
 {
 	"addr": "185.246.211.231:26047",
 	"gameport": 26047,
-	"specport": 26048,
-	"steamid": "90200533136952334",
+	"steamid": "90200561700450318",
 	"name": "WOTAN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

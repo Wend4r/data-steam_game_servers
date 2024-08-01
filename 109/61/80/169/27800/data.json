@@ -9,11 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 1,
+	"map": "dz_vineyard",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,danger-zone,dangerzone,dz,secure"
+	"gametype": "danger-zone,dangerzone,dz,secure"
 }

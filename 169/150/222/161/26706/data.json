@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.222.161:26706",
 	"gameport": 26706,
-	"specport": 26707,
-	"steamid": "90200532563850243",
+	"steamid": "90200561685909507",
 	"name": "Tricksters (GUAM/HK/SG Servers) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 18,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "65.109.66.59:26481",
 	"gameport": 26481,
-	"specport": 26482,
-	"steamid": "90200532618960909",
+	"steamid": "90200561531186189",
 	"name": "RAGE x 362 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,

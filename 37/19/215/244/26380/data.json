@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.244:26380",
 	"gameport": 26380,
-	"steamid": "90200532510044183",
+	"steamid": "90200561570836503",
 	"name": "Linares Deportivo eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
