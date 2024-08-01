@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "api,awp,cs2,cs2zone,fps,gj,panel,pro,rank,shop,skins,vip,secure"
+	"gametype": "empty,api,awp,cs2,cs2zone,fps,gj,panel,pro,rank,shop,skins,vip,"
 }
