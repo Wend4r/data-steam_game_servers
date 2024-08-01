@@ -1,8 +1,8 @@
 {
 	"addr": "79.127.209.193:26403",
 	"gameport": 26403,
-	"steamid": "90200551040009227",
-	"name": "BARRAGE powered by PRACC.COM",
+	"steamid": "90200551189737483",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

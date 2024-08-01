@@ -1,0 +1,19 @@
+{
+	"addr": "87.122.58.221:27015",
+	"gameport": 27015,
+	"steamid": "85568392931455432",
+	"name": "1LVLUP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 32,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

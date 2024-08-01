@@ -1,0 +1,20 @@
+{
+	"addr": "95.79.66.247:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392932025042",
+	"name": "DZ HOWLING ALPHAS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 33,
+	"bots": 1,
+	"map": "dz_sirocco",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,!gloves,!knife,!ws,gl,gloves,knife,ws,secure"
+}
