@@ -1,0 +1,20 @@
+{
+	"addr": "212.102.62.210:26269",
+	"gameport": 26269,
+	"specport": 26270,
+	"steamid": "90200551640229917",
+	"name": "YellowLightning powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 5,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
