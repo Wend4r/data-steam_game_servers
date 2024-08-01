@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_nona,drop,eu,en,germany,ger,de,cybershoke,cyber"
+	"gametype": "bhop,bhop_nona,drop,eu,en,germany,ger,de,cybershoke,cyber,glove"
 }

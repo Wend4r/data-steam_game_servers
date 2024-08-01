@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.246:26257",
 	"gameport": 26257,
-	"steamid": "90200558354846745",
+	"steamid": "90200558356754457",
 	"name": "[ESP] Comunidad Bandidos | discord.gg/sjMwSZuBXR | Multimaps",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
