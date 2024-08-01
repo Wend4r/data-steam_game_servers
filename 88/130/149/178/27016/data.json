@@ -1,7 +1,7 @@
 {
 	"addr": "88.130.149.178:27016",
 	"gameport": 27016,
-	"steamid": "90200559508554769",
+	"steamid": "90200562273334289",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2649472971/kz_moon_fix",
+	"map": "/2420807980/kz_lionharder",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
