@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "kz_phaztec",
+	"map": "kz_rainrun_kn_f",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+	"gametype": "empty,128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
 }
