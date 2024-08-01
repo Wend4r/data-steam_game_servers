@@ -2,7 +2,7 @@
 	"addr": "109.61.80.168:26069",
 	"gameport": 26069,
 	"specport": 26070,
-	"steamid": "90200528164413467",
+	"steamid": "90200557051189275",
 	"name": "ToxicMens",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
