@@ -1,0 +1,19 @@
+{
+	"addr": "89.187.167.137:26003",
+	"gameport": 26003,
+	"steamid": "85568392931267410",
+	"name": "Booty Bay Auction House",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_pierdolnik_v1",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1v1,are"
+	"gametype": "empty,gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1"
 }

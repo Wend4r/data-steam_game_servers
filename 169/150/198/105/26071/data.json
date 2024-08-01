@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.105:26071",
 	"gameport": 26071,
-	"steamid": "90200558709807113",
-	"name": "QuaqX powered by PRACC.COM",
+	"steamid": "90200564376610825",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
