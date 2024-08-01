@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 17,
 	"bots": 0,
-	"map": "de_dust",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,knife,o"
+	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,k"
 }

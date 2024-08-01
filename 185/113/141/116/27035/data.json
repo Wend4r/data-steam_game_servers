@@ -2,7 +2,7 @@
 	"addr": "185.113.141.116:27035",
 	"gameport": 27035,
 	"steamid": "85568392931257263",
-	"name": "YFS",
+	"name": "[PT-ELITE] - GUNGAME | WWW.PTELITE.PT",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "ar_dizzy",
+	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,YFS,secure"
+	"gametype": "empty,secure"
 }
