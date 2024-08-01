@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_discovery_njv",
+	"map": "surf_overgrowth2_os_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,64Tick,Old Swedes,OldSwedes,Surf,Surftimer,difficult,hard,tier4,tier5,tier6,secure"
+	"gametype": "empty,*grp:3341592i,64Tick,Old Swedes,OldSwedes,Surf,Surftimer,difficult,hard,tier4,tier5,tier6,secure"
 }
