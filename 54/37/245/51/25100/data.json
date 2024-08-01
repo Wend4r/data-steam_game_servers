@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_juturna_easy",
+	"bots": 3,
+	"map": "surf_kepler",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_juturna_easy,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_kepler,secure"
 }

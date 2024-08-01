@@ -1,8 +1,8 @@
 {
 	"addr": "95.143.179.131:27203",
 	"gameport": 27203,
-	"steamid": "90200424124743682",
-	"name": "[CS2] Зона Комфорта 18+ | Reverse-Project",
+	"steamid": "90200562089711618",
+	"name": "[CS2] Сибирский Паблик 18+ | ARENA-MONSTER",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
