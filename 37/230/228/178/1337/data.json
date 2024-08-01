@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:5114777i,cheat,dark,hvh,mirage,insecure"
+	"gametype": "*grp:5114777i,cheat,dark,hvh,mirage,insecure"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "168.119.73.47:30083",
+	"gameport": 30083,
+	"specport": 35033,
+	"steamid": "90200548537888777",
+	"name": "grigs",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
