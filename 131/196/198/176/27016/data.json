@@ -1,7 +1,6 @@
 {
 	"addr": "131.196.198.176:27016",
 	"gameport": 27016,
-	"specport": 27020,
 	"steamid": "85568392931823918",
 	"name": "LuGoX #2 |HvH| +DoubleTapFix +NoSpreadFix",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 2,
 	"players": 1,
-	"max_players": 15,
-	"bots": 2,
+	"max_players": 14,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128t,4fun,arena,bhop,brasil,competitivo,gamersclub,gc,glove"
+	"gametype": "empty,128,128t,4fun,arena,bhop,brasil,competitivo,gamersclub,gc"
 }

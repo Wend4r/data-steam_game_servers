@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 2,
 	"max_players": 10,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,autohop,bhop,cas,edan,edan.gg,edan.pw,edans,gloves,knife,ws,x-la"
+	"gametype": "!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,autohop,bhop,cas,edan,edan.gg,edan.pw,edans,gloves,knife,ws,x-law,xlaw"
 }
