@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
 	"map": "winterday_bs",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac,neo,n"
+	"gametype": "empty,!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,cs2,fps,mirage,secure,skins,ua,ws,insecure"
+	"gametype": "empty,awp,cs2,fps,mirage,secure,skins,ua,ws,secure"
 }
