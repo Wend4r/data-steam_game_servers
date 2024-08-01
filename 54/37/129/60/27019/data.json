@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.129.60:27019",
 	"gameport": 27019,
-	"specport": 30005,
-	"steamid": "90200550609958943",
+	"steamid": "90200560378729503",
 	"name": "5vs5 | !ws !knife !stickers | HSMANIA.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsownia.pl,h"
+	"gametype": "empty,hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsowni"
 }
