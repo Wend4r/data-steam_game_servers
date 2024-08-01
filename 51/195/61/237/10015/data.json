@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10015",
 	"gameport": 10015,
-	"steamid": "90200548224252943",
-	"name": "ezgiguldemedi - free @ fshost.me",
+	"steamid": "90200549589482511",
+	"name": "Sigma - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
-	"max_players": 12,
+	"players": 0,
+	"max_players": 6,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

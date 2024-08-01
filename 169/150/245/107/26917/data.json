@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.107:26917",
+	"gameport": 26917,
+	"specport": 26918,
+	"steamid": "90200549588424719",
+	"name": "Leetify CS2 Surf by Fledge",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_elysium",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
