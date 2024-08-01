@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 33,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,algeria,anticheat,dz,hellzone,ma,maroc,rank,tn,tunisia,se"
+	"gametype": "algeria,anticheat,dz,hellzone,ma,maroc,rank,tn,tunisia,secure"
 }

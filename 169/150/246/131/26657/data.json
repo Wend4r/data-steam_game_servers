@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.246.131:26657",
+	"gameport": 26657,
+	"steamid": "90200558791764999",
+	"name": "Leetify CS2 Match by Cyber Ghost",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
