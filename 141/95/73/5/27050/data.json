@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": false,
+	"map": "dz_sirocco",
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "secure"
 }

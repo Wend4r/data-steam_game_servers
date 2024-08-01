@@ -1,7 +1,7 @@
 {
 	"addr": "45.136.205.194:27015",
 	"gameport": 27015,
-	"steamid": "90200560010870791",
+	"steamid": "90200563576674311",
 	"name": "[CS2] FLOWER | LOTUS #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 0,
-	"map": "de_inferno_fps_boost_new",
+	"map": "de_mirage_fps_boost_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,flower,lotus,public,secure"
+	"gametype": "empty,cs2,flower,lotus,public,secure"
 }
