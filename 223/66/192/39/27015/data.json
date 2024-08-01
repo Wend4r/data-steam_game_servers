@@ -1,7 +1,7 @@
 {
 	"addr": "223.66.192.39:27015",
 	"gameport": 27015,
-	"steamid": "90200540961197075",
+	"steamid": "90200541111890963",
 	"name": "wdsjlww",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

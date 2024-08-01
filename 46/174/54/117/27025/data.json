@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27025",
 	"gameport": 27025,
 	"steamid": "90200530428366860",
-	"name": "genesis 15024: team_Aimer vs team_ADMIN",
+	"name": "[genesis] League #10",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 6,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

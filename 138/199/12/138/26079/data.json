@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 14,
-	"bots": 10,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "surf_aquaflow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
