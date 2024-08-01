@@ -12,9 +12,9 @@
 	"players": 11,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_agency",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:\"\"\"\"\"\"\"\"\"\"\"\"\"\"i,HvH,SharkProject,aboba,abobahvh,bloodhvh,cheats,eXpidors,fipp,furios,gala,galaxy,gamesense,neverlose,nixwa"
+	"gametype": "HvH,SharkProject,aboba,abobahvh,bloodhvh,cheats,eXpidors,fipp,furios,gala,galaxy,gamesense,neverlose,nixware,onetap,shark,skeet"
 }
