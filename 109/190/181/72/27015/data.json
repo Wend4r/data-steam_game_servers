@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 3,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_chinatown_d_prefab",
+	"map": "de_sugarcane",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
