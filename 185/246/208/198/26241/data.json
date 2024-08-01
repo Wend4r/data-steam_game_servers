@@ -1,0 +1,20 @@
+{
+	"addr": "185.246.208.198:26241",
+	"gameport": 26241,
+	"specport": 26242,
+	"steamid": "90200560226862098",
+	"name": "boobs",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 20,
+	"bots": 9,
+	"map": "de_memento",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "bhop_gottagofast",
+	"map": "bhop_zentic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,bhop,cs2,gloves,knife,music,secure,secure"
+	"gametype": "agents,bhop,cs2,gloves,knife,music,secure,secure"
 }

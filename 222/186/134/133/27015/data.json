@@ -1,0 +1,19 @@
+{
+	"addr": "222.186.134.133:27015",
+	"gameport": 27015,
+	"steamid": "85568392932028371",
+	"name": "【KOD社区】-[放桶狂魔]-僵尸感染-Q群1012536014",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 1,
+	"max_players": 24,
+	"bots": 9,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "ftkm,prop,zm,zombie,secure"
+}
