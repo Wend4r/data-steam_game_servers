@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_brewery",
+	"map": "aim_ag_texture_city_advanced",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

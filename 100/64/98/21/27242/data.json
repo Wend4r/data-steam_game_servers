@@ -10,7 +10,7 @@
 	"region": 6,
 	"players": 12,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
