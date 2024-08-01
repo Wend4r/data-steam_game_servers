@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26664",
 	"gameport": 26664,
-	"steamid": "90200554880905230",
+	"steamid": "90200561215797262",
 	"name": "BLEED powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

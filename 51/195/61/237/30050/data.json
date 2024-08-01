@@ -2,19 +2,19 @@
 	"addr": "51.195.61.237:30050",
 	"gameport": 30050,
 	"specport": 35023,
-	"steamid": "90200559698880527",
+	"steamid": "90200561119964175",
 	"name": "dA koRe",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
