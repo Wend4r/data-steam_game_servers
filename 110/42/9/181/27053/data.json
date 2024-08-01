@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_odz_course_refix",
+	"map": "mg_horizon",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,mg,multigames,secure"
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
 }
