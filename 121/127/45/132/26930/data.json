@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.132:26930",
 	"gameport": 26930,
-	"steamid": "90200560699445257",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200560700362761",
+	"name": "Sera Esport Talent powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
