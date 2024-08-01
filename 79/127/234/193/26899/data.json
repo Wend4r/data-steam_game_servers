@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.234.193:26899",
 	"gameport": 26899,
-	"steamid": "90200557024694285",
-	"name": "AIMBOTZ powered by PRACC.COM",
+	"steamid": "90200557336485901",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
