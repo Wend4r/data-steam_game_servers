@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 8,
 	"max_players": 31,
 	"bots": 1,
-	"map": "de_ferentari",
+	"map": "unka_aimka",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
