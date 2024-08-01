@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26741",
 	"gameport": 26741,
 	"specport": 26742,
-	"steamid": "90200549832949774",
+	"steamid": "90200557853623310",
 	"name": "KaFFa (ESEA MAIN) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

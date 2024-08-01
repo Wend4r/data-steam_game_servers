@@ -1,7 +1,7 @@
 {
 	"addr": "137.74.4.78:27050",
 	"gameport": 27050,
-	"steamid": "90200556601958410",
+	"steamid": "90200557888241674",
 	"name": "\"[#DEV]\" \"CS-Utopia.pl\"",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_vandal",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

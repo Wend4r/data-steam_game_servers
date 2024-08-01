@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 5,
-	"map": "de_cache",
+	"map": "de_feast_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FUN,secure"
+	"gametype": "FUN,secure"
 }
