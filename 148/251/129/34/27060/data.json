@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "am_mirage_mid_p",
+	"map": "am_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
+	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
 }

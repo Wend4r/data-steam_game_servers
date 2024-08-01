@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "ba_jail_dr_death-row",
+	"map": "jb_electric_razor_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

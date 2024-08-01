@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 21,
 	"bots": 0,
-	"map": "seek_town",
+	"map": "seek_town_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lycoris,maniac,secure"
+	"gametype": "cs2,flower,lycoris,maniac,secure"
 }
