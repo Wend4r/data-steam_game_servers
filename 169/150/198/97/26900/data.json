@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.97:26900",
 	"gameport": 26900,
-	"steamid": "90200530635335681",
+	"steamid": "90200558917146625",
 	"name": "Yawara E-Sports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

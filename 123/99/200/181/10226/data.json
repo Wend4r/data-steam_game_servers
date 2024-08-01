@@ -1,0 +1,19 @@
+{
+	"addr": "123.99.200.181:10226",
+	"gameport": 10226,
+	"steamid": "85568392931860020",
+	"name": "胜利2服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

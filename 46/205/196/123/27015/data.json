@@ -1,7 +1,7 @@
 {
 	"addr": "46.205.196.123:27015",
 	"gameport": 27015,
-	"steamid": "90200532061338640",
+	"steamid": "90200558822283280",
 	"name": "CS:GO Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_utopia_njv",
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
