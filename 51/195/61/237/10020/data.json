@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10020",
 	"gameport": 10020,
-	"steamid": "90200560648522767",
-	"name": "baran_game_chiloviy - free @ fshost.me",
+	"steamid": "90200563450979343",
+	"name": "Khra - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,secure"
 }

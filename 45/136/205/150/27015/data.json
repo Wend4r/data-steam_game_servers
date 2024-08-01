@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 7,
 	"max_players": 25,
-	"bots": 1,
+	"bots": 2,
 	"map": "myghetto/hns_devblocks_byh1",
 	"secure": true,
 	"dedicated": true,
