@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26060",
 	"gameport": 26060,
-	"steamid": "90200513819082758",
+	"steamid": "90200541768079366",
 	"name": "Esport Taasinge",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

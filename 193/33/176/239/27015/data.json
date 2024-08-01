@@ -1,7 +1,6 @@
 {
 	"addr": "193.33.176.239:27015",
 	"gameport": 27015,
-	"specport": 25101,
 	"steamid": "85568392931732795",
 	"name": "[WYGRAJ SKINY ZA 350 PLN] NGNW.pl | 5VS5 MIRAGE | KNIFE | SKINS",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

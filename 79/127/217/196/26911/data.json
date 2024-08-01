@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.196:26911",
 	"gameport": 26911,
-	"steamid": "90200513859451908",
+	"steamid": "90200541833180164",
 	"name": "new server dugh",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
-	"map": "de_foroglio",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

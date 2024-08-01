@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.196.41:26803",
 	"gameport": 26803,
-	"steamid": "90200513741157383",
+	"steamid": "90200541777805319",
 	"name": "daMs",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26694",
 	"gameport": 26694,
-	"steamid": "90200513748836380",
+	"steamid": "90200541827019804",
 	"name": "Liebesgrotte",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

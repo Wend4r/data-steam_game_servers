@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26358",
 	"gameport": 26358,
-	"steamid": "90200513709740054",
+	"steamid": "90200541787972630",
 	"name": "Honved",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

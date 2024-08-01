@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26435",
 	"gameport": 26435,
-	"steamid": "90200513823306759",
+	"steamid": "90200541778197511",
 	"name": "Felsted eSport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

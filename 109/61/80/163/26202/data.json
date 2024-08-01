@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26202",
 	"gameport": 26202,
-	"steamid": "90200513709603862",
+	"steamid": "90200541787774998",
 	"name": "whoranzone",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

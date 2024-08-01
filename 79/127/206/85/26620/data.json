@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26620",
 	"gameport": 26620,
-	"steamid": "90200513859118084",
+	"steamid": "90200541832806404",
 	"name": "SmokedGaming Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

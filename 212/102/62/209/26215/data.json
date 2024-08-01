@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26215",
 	"gameport": 26215,
-	"steamid": "90200513749134364",
+	"steamid": "90200541827406876",
 	"name": "E-Sports Academy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

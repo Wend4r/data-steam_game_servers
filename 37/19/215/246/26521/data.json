@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.246:26521",
 	"gameport": 26521,
-	"steamid": "90200513804148761",
+	"steamid": "90200541867924505",
 	"name": "ZainKoala",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
