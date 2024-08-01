@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 100,
-	"bots": 6,
+	"bots": 0,
 	"map": "bhop_atom",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "increased_maxplayers,secure"
+	"gametype": "empty,increased_maxplayers,secure"
 }
