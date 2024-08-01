@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 4,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
+	"gametype": "empty,br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
 }
