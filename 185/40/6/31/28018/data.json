@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim_map_s2,aimdm,aim,128tick,128,cybershoke,en,deathmatch"
+	"gametype": "aim_map_s2,aimdm,aim,128tick,128,cybershoke,en,deathmatch,dm,cy"
 }
