@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
