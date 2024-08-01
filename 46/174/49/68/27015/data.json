@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.49.68:27015",
 	"gameport": 27015,
-	"steamid": "90200513147639808",
+	"steamid": "90200540331770880",
 	"name": "Взрослые Дядьки 18+",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
