@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 18,
 	"bots": 0,
-	"map": "achievement_idlefight_v3",
+	"map": "cp_orange_x3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,de_,ffa,knife,kosy,mirage,noze,onetap,only,pl,polsk"
+	"gametype": "empty,128,128tick,de_,ffa,knife,kosy,mirage,noze,onetap,only,pl"
 }
