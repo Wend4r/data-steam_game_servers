@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26473",
 	"gameport": 26473,
-	"steamid": "90200559033800733",
+	"steamid": "90200559205756957",
 	"name": "BIRB KAN INTE IT ELLER IP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
