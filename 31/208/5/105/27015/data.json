@@ -1,0 +1,20 @@
+{
+	"addr": "31.208.5.105:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392923697850",
+	"name": "OLDSWEDES LAN - Match01",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 32,
+	"bots": 3,
+	"map": "de_brewery",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+}
