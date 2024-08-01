@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_halo_poa_p4",
+	"map": "ze_lemonysnickets_p2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,escape,fastdl,ze,zm,zombie,secure"
+	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
 }
