@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "surf_bigloop_x",
+	"map": "surf_buzzkill2_csgo5",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,"
+	"gametype": "1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,wcs,ws"
 }

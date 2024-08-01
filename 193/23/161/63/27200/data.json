@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 10,
-	"map": "aim_tara",
+	"map": "aim_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

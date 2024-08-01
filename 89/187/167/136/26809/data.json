@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 7,
-	"bots": 2,
-	"map": "eco_singularity",
+	"bots": 1,
+	"map": "eco_asphalt",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
