@@ -1,0 +1,19 @@
+{
+	"addr": "31.60.25.134:27015",
+	"gameport": 27015,
+	"steamid": "85568392924951975",
+	"name": "SLOUD.PL [ONLY MIRAGE] SKINS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,MIRAGE,gosetti.pl:43258,secure"
+}
