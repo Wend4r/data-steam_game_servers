@@ -1,0 +1,19 @@
+{
+	"addr": "107.11.38.187:27015",
+	"gameport": 27015,
+	"steamid": "85568392931220628",
+	"name": "Ethical Pork Rinds [Silicon Heartland]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "cs_estate_cso2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
