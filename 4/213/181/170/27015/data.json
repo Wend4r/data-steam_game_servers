@@ -1,7 +1,7 @@
 {
 	"addr": "4.213.181.170:27015",
 	"gameport": 27015,
-	"steamid": "90200557868313604",
+	"steamid": "90200560379614212",
 	"name": "CS2|Vimal Sadan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 10,
-	"bots": 3,
-	"map": "de_overpass",
+	"bots": 0,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
