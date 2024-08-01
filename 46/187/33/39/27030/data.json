@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 15,
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

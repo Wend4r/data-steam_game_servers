@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.209.194:26744",
 	"gameport": 26744,
-	"steamid": "90200540791534604",
+	"steamid": "90200540793503756",
 	"name": "KILL3M [AUTOMIX] WS KNIFE ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
