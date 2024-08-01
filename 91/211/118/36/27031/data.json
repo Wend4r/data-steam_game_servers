@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,shop,ua,vip,secure"
+	"gametype": "!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,shop,ua,vip,secure"
 }
