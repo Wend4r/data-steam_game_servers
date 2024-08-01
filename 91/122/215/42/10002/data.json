@@ -1,0 +1,19 @@
+{
+	"addr": "91.122.215.42:10002",
+	"gameport": 10002,
+	"steamid": "85568392932023788",
+	"name": "Мой паблик 19+ Сервер RED",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes"
+}
