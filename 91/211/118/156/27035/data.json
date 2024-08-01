@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
 	"map": "/2835773194/de_mirage_minimal",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,secure"
+	"gametype": "empty,dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,secure"
 }
