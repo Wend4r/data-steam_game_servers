@@ -1,7 +1,7 @@
 {
 	"addr": "88.130.149.180:27016",
 	"gameport": 27016,
-	"steamid": "90200538648956947",
+	"steamid": "90200538780733459",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2968543739/kz_nbdy_maps",
+	"map": "/2912641145/kz_cf_foliage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
