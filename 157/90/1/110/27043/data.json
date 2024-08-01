@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 11,
 	"max_players": 64,
 	"bots": 0,
 	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gloves,combat,shoot,fight,ffa,eu,en,skin,germany,knife,su"
+	"gametype": "gloves,combat,shoot,fight,ffa,eu,en,skin,germany,knife,surf,dro"
 }
