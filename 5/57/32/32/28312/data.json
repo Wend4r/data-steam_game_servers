@@ -2,18 +2,18 @@
 	"addr": "5.57.32.32:28312",
 	"gameport": 28312,
 	"steamid": "85568392932025188",
-	"name": "PspGaming Aim/Awp Server",
+	"name": "PspGaming",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_lego_2_ultimate",
+	"map": "awp_lego_2011",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "MaxGaming,iranPspGaming,secure"
+	"gametype": "secure"
 }
