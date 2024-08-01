@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
+	"gametype": "128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
 }
