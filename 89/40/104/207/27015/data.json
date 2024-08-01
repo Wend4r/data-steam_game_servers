@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 36,
-	"bots": 2,
-	"map": "daymare",
+	"bots": 3,
+	"map": "awp_creek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }

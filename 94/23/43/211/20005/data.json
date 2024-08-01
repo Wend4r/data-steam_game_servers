@@ -1,0 +1,19 @@
+{
+	"addr": "94.23.43.211:20005",
+	"gameport": 20005,
+	"steamid": "85568392932028502",
+	"name": "FarAway Pracc Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
