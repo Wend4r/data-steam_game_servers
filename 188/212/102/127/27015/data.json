@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csgo !ws !knife,du,duv2,secure"
+	"gametype": "empty,csgo !ws !knife,du,duv2,secure"
 }

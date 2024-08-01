@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_lego_hardcore_ubec",
+	"bots": 1,
+	"map": "awp_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
+	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
 }
