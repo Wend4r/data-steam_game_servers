@@ -1,6 +1,7 @@
 {
 	"addr": "46.187.33.39:27030",
 	"gameport": 27030,
+	"specport": 27020,
 	"steamid": "85568392932021066",
 	"name": "Amile | Public | 128tick | Skins",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
