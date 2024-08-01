@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.210:26760",
+	"gameport": 26760,
+	"steamid": "90200549921485853",
+	"name": "Johnny Speeds powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 3,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
