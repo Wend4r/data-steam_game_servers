@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_aragami_p",
+	"map": "ze_immortal_flame",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,0,secure"
+	"gametype": "0,secure"
 }
