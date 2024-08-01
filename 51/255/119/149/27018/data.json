@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 52,
-	"bots": 1,
+	"bots": 4,
 	"map": "gg_105th_skwairup",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
+	"gametype": "freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
 }
