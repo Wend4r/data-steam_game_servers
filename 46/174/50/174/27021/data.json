@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "ttt_cabin_mg_surf_aim_awp_",
+	"map": "ttt_skyscrper_mg_surf_aim_awp_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
+	"gametype": "!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
 }
