@@ -12,9 +12,9 @@
 	"players": 9,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,insecure"
+	"gametype": "dm,god,pug,wolf,secure"
 }
