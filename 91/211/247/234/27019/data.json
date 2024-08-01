@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "aim_redline",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,ggarena,"
+	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,gg"
 }
