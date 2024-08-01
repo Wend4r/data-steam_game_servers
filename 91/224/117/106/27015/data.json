@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27016,
 	"steamid": "85568392931738343",
-	"name": "CS2 • Arena #2 • Pierdolnik.eu @ 1shot1kill.pl",
+	"name": "NOWE AREN IP - arena.pierdolnik.eu @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 15,
+	"max_players": 7,
 	"bots": 1,
-	"map": "am_pierdolnik_v1",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english\r,fight,multi,multi ar"
+	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english\r,fight,multi,mu"
 }
