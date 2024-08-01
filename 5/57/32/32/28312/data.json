@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,iranPspGaming,insecure"
+	"gametype": "empty,MaxGaming,iranPspGaming,secure"
 }

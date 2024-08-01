@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_boreas",
+	"map": "surf_utopia_njv",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,aim,am,awp,awp_lego_2,be,de,en,english,es,eu,f"
+	"gametype": "!knife,!ws,aim,am,awp,awp_lego_2,be,de,en,english,es,eu,fr,fran"
 }
