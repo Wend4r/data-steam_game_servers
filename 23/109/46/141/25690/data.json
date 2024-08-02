@@ -1,0 +1,19 @@
+{
+	"addr": "23.109.46.141:25690",
+	"gameport": 25690,
+	"steamid": "90200582700666900",
+	"name": "OP Energy westenergie.de",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.8.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

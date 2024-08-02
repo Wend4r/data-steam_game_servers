@@ -3,7 +3,7 @@
 	"gameport": 26517,
 	"specport": 26518,
 	"steamid": "85568392930703437",
-	"name": "[GER] LPLK | CS2 | Workshop-Maps |",
+	"name": "[GER] LPLK | CS2 | DARK SIDE |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 30,
-	"bots": 4,
-	"map": "de_engage_d",
+	"bots": 5,
+	"map": "de_dust_hr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FUN,secure"
+	"gametype": "empty,FUN,secure"
 }

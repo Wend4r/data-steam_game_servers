@@ -1,7 +1,7 @@
 {
 	"addr": "95.84.137.33:27015",
 	"gameport": 27015,
-	"steamid": "90200573944868885",
+	"steamid": "90200582709134357",
 	"name": "[CS2#1] Lucky PEEK Personalities [LEGO2|14+]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 2,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
