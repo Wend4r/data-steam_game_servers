@@ -1,6 +1,7 @@
 {
 	"addr": "62.122.215.104:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392929192974",
 	"name": "➥ ███ ★ KABAN-PROJECT.RU | PUBLIC #1 (MIRAGE) | СК�",
 	"appid": 730,
@@ -9,8 +10,8 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 25,
-	"bots": 0,
+	"max_players": 26,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
