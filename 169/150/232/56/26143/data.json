@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 10,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_cbble",
+	"bots": 1,
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
