@@ -2,12 +2,12 @@
 	"addr": "181.214.223.100:27015",
 	"gameport": 27015,
 	"steamid": "85568392932021055",
-	"name": "[TR] ★LFTツ pRo Pub ! ★",
+	"name": "cs2ciyiz CSGO SERVER TURKEY",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -4,
+	"region": 255,
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws!glove!knife!ajan,128-tick,drop,dust2,secure"
+	"gametype": "!skin,!ws,128tick,ajan,secure"
 }

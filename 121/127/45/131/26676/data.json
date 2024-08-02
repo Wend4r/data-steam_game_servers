@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26676",
 	"gameport": 26676,
-	"steamid": "90200565392248840",
+	"steamid": "90200591208599560",
 	"name": "ASECRET powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
