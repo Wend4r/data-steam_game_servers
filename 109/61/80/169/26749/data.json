@@ -3,18 +3,18 @@
 	"gameport": 26749,
 	"specport": 26750,
 	"steamid": "90200571164757020",
-	"name": "eBot :: TSM vs Permitta",
+	"name": "eBot :: Permitta vs TSM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 13,
+	"players": 5,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
