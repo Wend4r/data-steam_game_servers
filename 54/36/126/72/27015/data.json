@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 31,
-	"bots": 4,
-	"map": "de_waterfront_s2",
+	"bots": 5,
+	"map": "de_foroglio",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
