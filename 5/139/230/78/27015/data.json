@@ -1,7 +1,7 @@
 {
 	"addr": "5.139.230.78:27015",
 	"gameport": 27015,
-	"steamid": "90200524062372891",
+	"steamid": "90200573878952960",
 	"name": "server1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
