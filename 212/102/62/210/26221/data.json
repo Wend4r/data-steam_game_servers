@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.210:26221",
 	"gameport": 26221,
-	"steamid": "85568392930292652",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"steamid": "90200590486107165",
+	"name": "[CS2] PopFlash Retakes Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
-	"max_players": 16,
-	"bots": 5,
-	"map": "de_dust2",
-	"secure": false,
+	"region": 255,
+	"players": 4,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
