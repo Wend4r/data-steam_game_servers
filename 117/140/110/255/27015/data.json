@@ -1,7 +1,7 @@
 {
 	"addr": "117.140.110.255:27015",
 	"gameport": 27015,
-	"steamid": "90200574611620876",
+	"steamid": "90200575180800012",
 	"name": "Counter-Strike: Global Offensive dedicated server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 9,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",

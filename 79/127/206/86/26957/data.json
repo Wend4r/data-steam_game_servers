@@ -2,7 +2,7 @@
 	"addr": "79.127.206.86:26957",
 	"gameport": 26957,
 	"steamid": "85568392924046157",
-	"name": "CS2 5x5 #23 NEW YORK",
+	"name": "XPLAY.GG • CS2 5x5 #23 • [US]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
