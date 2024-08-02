@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "am_water_j_spin",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,fi,jonnekahvila,jonnekahvila.fi,publa,sauna,suomi,secure"
+	"gametype": "empty,cs2,fi,jonnekahvila,jonnekahvila.fi,publa,sauna,suomi,sec"
 }
