@@ -1,0 +1,19 @@
+{
+	"addr": "104.168.83.123:27020",
+	"gameport": 27020,
+	"steamid": "85568392926396327",
+	"name": "Church Of Citatsia | Test Server | Tier ?",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "surf_me",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Tickrate 102,!knife,autohop,85,85.3,bhop,ckSurf 1.18,citatsia,church,ckSurf,knife,store,surf,tier,ws,secure"
+}

@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.99:26228",
 	"gameport": 26228,
-	"steamid": "90200586068276227",
+	"steamid": "90200586259972099",
 	"name": "priv8",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 6,
 	"max_players": 14,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
