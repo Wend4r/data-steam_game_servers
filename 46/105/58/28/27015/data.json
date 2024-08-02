@@ -1,20 +1,19 @@
 {
 	"addr": "46.105.58.28:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200560097838081",
+	"steamid": "90200566286137345",
 	"name": "[FR] LES NUFS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 26,
-	"bots": 3,
-	"map": "de_inferno",
+	"players": 0,
+	"max_players": 25,
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "VeryGames VG,secure"
+	"gametype": "empty,VeryGames VG,secure"
 }
