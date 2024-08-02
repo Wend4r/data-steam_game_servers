@@ -1,6 +1,7 @@
 {
 	"addr": "193.238.109.147:29032",
 	"gameport": 29032,
+	"specport": 39032,
 	"steamid": "85568392922844588",
 	"name": "FASTCUP.NET",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

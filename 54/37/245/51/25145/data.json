@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_water-run_banjo_skill",
+	"map": "surf_ace_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_water-run_b"
+	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_ace_fix,sec"
 }
