@@ -11,9 +11,9 @@
 	"players": 233,
 	"max_players": 255,
 	"bots": 0,
-	"map": "aim_uspcars_fb",
+	"map": "aim_p250pool_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
