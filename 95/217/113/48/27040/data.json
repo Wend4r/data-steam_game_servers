@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 2,
-	"map": "surf_compact",
+	"map": "surf_mate",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lumilinna,surf,teehuone,top,secure"
+	"gametype": "lumilinna,surf,teehuone,top,secure"
 }
