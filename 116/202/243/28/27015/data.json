@@ -1,8 +1,7 @@
 {
 	"addr": "116.202.243.28:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200576383589391",
+	"steamid": "90200585872795663",
 	"name": "Adustio",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
