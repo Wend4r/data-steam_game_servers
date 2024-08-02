@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Items,Store,TTT,fys,secure"
+	"gametype": "Items,Store,TTT,fys,secure"
 }
