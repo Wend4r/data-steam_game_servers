@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 4,
 	"max_players": 15,
 	"bots": 1,
-	"map": "am_minecraft_wf",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,mul"
+	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,multi are"
 }
