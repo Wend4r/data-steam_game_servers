@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_evo",
+	"map": "surf_klue",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,cs2,csko,cyber,cz,eu,fun,gloves,jump,knife,knves,kz,mirage"
+	"gametype": "empty,bhop,cs2,csko,cyber,cz,eu,fun,gloves,jump,knife,knves,kz,"
 }
