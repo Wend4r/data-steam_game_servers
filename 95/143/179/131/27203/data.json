@@ -1,7 +1,7 @@
 {
 	"addr": "95.143.179.131:27203",
 	"gameport": 27203,
-	"steamid": "90200562093871106",
+	"steamid": "90200589947915266",
 	"name": "[CS2] Сибирский Паблик 18+ | ARENA-MONSTER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 30,
+	"max_players": 20,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
