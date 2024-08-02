@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 3,
+	"bots": 1,
 	"map": "aim_crashz_dust_1on1",
 	"secure": true,
 	"dedicated": true,
