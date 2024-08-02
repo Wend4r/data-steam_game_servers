@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 12,
+	"players": 7,
 	"max_players": 25,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,128,128tick,custom,cyber,cybershoke,de_mirage,drop,fun,gloves,knife,msk,official,old,pro,public,ru,skin,wh,ws,secure"
+	"gametype": "128,128tick,custom,cyber,cybershoke,de_mirage,drop,fun,gloves,knife,msk,official,old,pro,public,ru,skin,wh,ws,secure"
 }
