@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 8,
-	"map": "de_lake",
+	"map": "de_safehouse",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "R0对战平台,gravity,insecure"
+	"gametype": "R0对战平台,insecure"
 }

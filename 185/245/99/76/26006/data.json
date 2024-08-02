@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26006",
 	"gameport": 26006,
-	"steamid": "90200582764522510",
+	"steamid": "90200582766099470",
 	"name": "forZe YNG CS2  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 11,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
