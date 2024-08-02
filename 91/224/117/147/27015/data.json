@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 19,
 	"bots": 1,
 	"map": "rm_cache_minecraft_studioadept",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,StudioADEPT,awp,freevip,gloves,gosetti.pl:32111,hns,jb,knife,knives,losowe rangi,losowerangi,rank mode,rankmode,testvip,v"
+	"gametype": "StudioADEPT,awp,freevip,gloves,gosetti.pl:32111,hns,jb,knife,knives,losowe rangi,losowerangi,rank mode,rankmode,testvip,vip,ws,"
 }

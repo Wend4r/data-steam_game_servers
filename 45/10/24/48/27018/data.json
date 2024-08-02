@@ -1,7 +1,7 @@
 {
 	"addr": "45.10.24.48:27018",
 	"gameport": 27018,
-	"specport": 27201,
+	"specport": 27299,
 	"steamid": "85568392931785658",
 	"name": "Ollum's Servers | Wingman | EU - 64 Tick",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 4,
 	"bots": 1,
-	"map": "de_bank",
+	"map": "de_shortinferno_2014_ogv2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

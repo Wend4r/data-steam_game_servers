@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,7/24 SLOT,DC,DROP,FUN,Only,SAKLANBAC,[PYT] 👑PRO,s"
+	"gametype": "empty,!knife,!ws,7/24 SLOT,DC,DROP,FUN,Only,SAKLANBAC,[PYT] �"
 }
