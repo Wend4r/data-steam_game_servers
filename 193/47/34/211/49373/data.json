@@ -2,18 +2,18 @@
 	"addr": "193.47.34.211:49373",
 	"gameport": 49373,
 	"steamid": "85568392931585453",
-	"name": "[hvhserver.xyz] roll fix |",
+	"name": "Counter-Strike: Global Offensive",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 11,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_italy",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+	"gametype": "empty,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 1,
 	"map": "surf_greatriver_xdre4m",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,bhop,ger,greatriver,longjumps,rage,rage-community,ragecom,rank,rc,surf,surf_greatriver_xdre4m,toplist,vip,xdream,sec"
+	"gametype": "best,bhop,ger,greatriver,longjumps,rage,rage-community,ragecom,rank,rc,surf,surf_greatriver_xdre4m,toplist,vip,xdream,secure"
 }
