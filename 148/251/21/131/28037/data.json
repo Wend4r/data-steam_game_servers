@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_vertigo,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa"
+	"gametype": "de_vertigo,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa,ger,g"
 }
