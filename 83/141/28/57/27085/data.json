@@ -1,6 +1,7 @@
 {
 	"addr": "83.141.28.57:27085",
 	"gameport": 27085,
+	"specport": 27095,
 	"steamid": "90200567894627339",
 	"name": "Packmiko Esports ",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 12,
+	"players": 1,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "mg_100traps",
+	"bots": 8,
+	"map": "mg_n64_goldeneye",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
