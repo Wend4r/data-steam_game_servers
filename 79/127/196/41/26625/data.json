@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:26625",
 	"gameport": 26625,
+	"specport": 26626,
 	"steamid": "90200561546179591",
 	"name": "PERCEPTIONS powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
