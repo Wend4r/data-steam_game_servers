@@ -1,7 +1,7 @@
 {
 	"addr": "146.19.87.17:27777",
 	"gameport": 27777,
-	"steamid": "90200566094329858",
+	"steamid": "85568392931883986",
 	"name": "[CS2] 5GG-CSGO.RU | AWP #6 | 14+",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "awp_lego_2_5ive",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

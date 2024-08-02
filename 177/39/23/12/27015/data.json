@@ -1,7 +1,7 @@
 {
 	"addr": "177.39.23.12:27015",
 	"gameport": 27015,
-	"steamid": "90200565927693340",
+	"steamid": "90200566114767900",
 	"name": "SPOT-X Competitivo 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 8,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
