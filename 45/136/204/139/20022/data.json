@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 0,
-	"map": "wcs_dust2_(v2,2)_HDR",
+	"map": "wcs_castle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
+	"gametype": "empty,rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
 }

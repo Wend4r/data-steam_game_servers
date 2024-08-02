@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "jb_cell_indicator_",
+	"map": "jb_improved_alpha",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cola,colateam,colateames,cs2,españa,jail,jailbreak,spain,secur"
+	"gametype": "empty,cola,colateam,colateames,cs2,españa,jail,jailbreak,spain"
 }
