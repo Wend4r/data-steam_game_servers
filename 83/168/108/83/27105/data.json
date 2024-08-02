@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27105",
 	"gameport": 27105,
-	"steamid": "90200540550387729",
+	"steamid": "90200567156068369",
 	"name": "SERWER Kedzior",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 4,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
