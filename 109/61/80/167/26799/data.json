@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Ger,German,W33dZone,secure"
+	"gametype": "empty,Ger,German,W33dZone,insecure"
 }

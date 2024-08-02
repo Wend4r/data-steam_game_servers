@@ -2,7 +2,7 @@
 	"addr": "138.199.12.129:26848",
 	"gameport": 26848,
 	"specport": 26849,
-	"steamid": "90200541813635087",
+	"steamid": "90200571150581775",
 	"name": "Yobble HQ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_train",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HQ,Yobble,secure"
+	"gametype": "empty,HQ,Yobble,insecure"
 }

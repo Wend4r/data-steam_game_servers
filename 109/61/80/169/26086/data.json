@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26086",
 	"gameport": 26086,
-	"steamid": "90200541828911132",
+	"steamid": "90200571166329884",
 	"name": "grendaes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

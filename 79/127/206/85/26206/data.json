@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26206",
 	"gameport": 26206,
-	"steamid": "90200541834003460",
+	"steamid": "90200571235214340",
 	"name": "Experimental",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 2,
-	"map": "de_train",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

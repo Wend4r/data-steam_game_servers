@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 3,
-	"map": "de_dust2",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CFC,insecure"
+	"gametype": "empty,CFC,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26045",
 	"gameport": 26045,
-	"steamid": "90200541878376453",
+	"steamid": "90200571140578309",
 	"name": "Mardako ONLY",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

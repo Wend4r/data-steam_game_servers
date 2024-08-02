@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26960",
 	"gameport": 26960,
-	"steamid": "90200541888850971",
+	"steamid": "90200571176073243",
 	"name": "shaedy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

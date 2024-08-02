@@ -1,8 +1,7 @@
 {
 	"addr": "89.187.167.136:26583",
 	"gameport": 26583,
-	"specport": 26584,
-	"steamid": "90200541817891864",
+	"steamid": "90200571200302104",
 	"name": "BUHM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
