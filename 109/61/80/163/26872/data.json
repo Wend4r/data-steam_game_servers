@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26872",
 	"gameport": 26872,
+	"specport": 26873,
 	"steamid": "90200585493226518",
 	"name": "GI-ZONE",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

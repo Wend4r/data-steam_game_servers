@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 20,
-	"bots": 2,
+	"bots": 0,
 	"map": "ar_pool_day",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
