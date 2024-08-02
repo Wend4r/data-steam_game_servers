@@ -1,0 +1,19 @@
+{
+	"addr": "23.109.46.193:25666",
+	"gameport": 25666,
+	"steamid": "90200584802964483",
+	"name": "OP Energy eSport powered by westenergie.de/karriere \"Work&CS2\"",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.39.9.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "awp_lego_2011",
+	"map": "awp_fy_snow_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,admin,awp,awponly,cs2,freevip,lego,vac,vip,viptest,secure"
+	"gametype": "admin,awp,awponly,cs2,freevip,lego,vac,vip,viptest,secure"
 }

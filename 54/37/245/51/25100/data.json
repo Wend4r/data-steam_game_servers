@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 3,
-	"map": "surf_bazzi_fix",
+	"bots": 2,
+	"map": "surf_ataque_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_bazzi_fix,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_ataque_final,secure"
 }
