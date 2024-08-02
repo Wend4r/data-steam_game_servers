@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_cache",
+	"bots": 2,
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
 }
