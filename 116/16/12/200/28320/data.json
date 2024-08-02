@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_pudding_multigames",
+	"map": "mg_ke_multigame",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

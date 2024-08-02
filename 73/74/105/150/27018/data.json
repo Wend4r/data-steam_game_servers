@@ -5,7 +5,7 @@
 	"name": "ishiNET Competitive",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.2",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,secure"
+	"gametype": "empty,hidden,insecure"
 }
