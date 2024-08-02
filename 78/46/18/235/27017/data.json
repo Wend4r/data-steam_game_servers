@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 28,
 	"bots": 8,
-	"map": "de_cbble",
+	"map": "mp_raid",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FOE CS2 FFA Copy of Main server,but FFA.,secure"
+	"gametype": "FOE CS2 FFA Copy of Main server,but FFA.,secure"
 }
