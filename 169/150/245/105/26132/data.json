@@ -2,7 +2,7 @@
 	"addr": "169.150.245.105:26132",
 	"gameport": 26132,
 	"steamid": "85568392924046202",
-	"name": "XPLAY.GG • CS2 2x2 #22 • [NL]",
+	"name": "CS2 2x2 #22 NL",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

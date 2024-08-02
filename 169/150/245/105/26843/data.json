@@ -2,7 +2,7 @@
 	"addr": "169.150.245.105:26843",
 	"gameport": 26843,
 	"specport": 26844,
-	"steamid": "90200560655353869",
+	"steamid": "90200589075750925",
 	"name": "NAVI Javelins  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

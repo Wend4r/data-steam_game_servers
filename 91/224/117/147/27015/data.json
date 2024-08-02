@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 19,
 	"bots": 1,
 	"map": "rm_desperados_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "StudioADEPT,awp,freevip,gloves,gosetti.pl:32111,hns,jb,knife,knives,losowe rangi,losowerangi,rank mode,rankmode,testvip,vip,ws,"
+	"gametype": "empty,StudioADEPT,awp,freevip,gloves,gosetti.pl:32111,hns,jb,knife,knives,losowe rangi,losowerangi,rank mode,rankmode,testvip,v"
 }
