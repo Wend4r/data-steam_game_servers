@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28283",
 	"gameport": 28283,
 	"steamid": "85568392931859297",
-	"name": "|Warmup| badkidserver",
+	"name": "|Live| badkidserver",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
