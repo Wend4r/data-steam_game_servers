@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30075",
 	"gameport": 30075,
 	"specport": 35074,
-	"steamid": "90200547291820047",
+	"steamid": "90200573364649999",
 	"name": "Practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

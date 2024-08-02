@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27222",
 	"gameport": 27222,
 	"specport": 27224,
-	"steamid": "90200547326832670",
+	"steamid": "90200573324410910",
 	"name": "z00mun serveri",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
-	"map": "aim_redline",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

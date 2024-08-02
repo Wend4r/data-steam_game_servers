@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27087",
 	"gameport": 27087,
 	"specport": 27089,
-	"steamid": "90200547326786590",
+	"steamid": "90200573324340254",
 	"name": "HARDACE SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
