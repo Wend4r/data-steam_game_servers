@@ -1,0 +1,20 @@
+{
+	"addr": "65.109.91.88:26453",
+	"gameport": 26453,
+	"specport": 26454,
+	"steamid": "90200588522691596",
+	"name": "[P] PopFlash Scrim - helsinki - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 9,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}
