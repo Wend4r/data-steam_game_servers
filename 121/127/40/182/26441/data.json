@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26441",
 	"gameport": 26441,
-	"steamid": "90200571398949888",
+	"steamid": "90200571400433664",
 	"name": "Covid Quarantine Zone ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
