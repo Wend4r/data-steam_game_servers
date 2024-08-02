@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 23,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty"
+	"gametype": "4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty,freev"
 }
