@@ -1,8 +1,9 @@
 {
 	"addr": "169.150.245.103:26153",
 	"gameport": 26153,
-	"steamid": "90200584961513483",
-	"name": "ENTROX (ESEA Open) powered by PRACC.COM",
+	"specport": 26154,
+	"steamid": "90200584963344395",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
