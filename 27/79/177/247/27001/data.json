@@ -1,0 +1,19 @@
+{
+	"addr": "27.79.177.247:27001",
+	"gameport": 27001,
+	"steamid": "90200585547868173",
+	"name": "Refund CSGO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

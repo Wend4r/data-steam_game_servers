@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,automix,karachi,pakistan,pug,retake,skins,secure"
+	"gametype": "empty,128tick,automix,karachi,pakistan,pug,retake,skins,insecure"
 }
