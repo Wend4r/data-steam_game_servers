@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10010",
 	"gameport": 10010,
-	"steamid": "90200565469327375",
-	"name": "meowmeow - free @ fshost.me",
+	"steamid": "90200566532164623",
+	"name": "babapro12 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_anubis",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
