@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 1,
-	"map": "awp_lego_2",
+	"map": "awp_lego_9",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,adminka,anime,avp,awp,awp,awp_lego,csgo,free vip,gl,jailbreak,maniac,no-steam,steam,vip,vipka,ws,zm,zombie,zombie"
+	"gametype": "adminka,anime,avp,awp,awp,awp_lego,csgo,free vip,gl,jailbreak,maniac,no-steam,steam,vip,vipka,ws,zm,zombie,zombie mod,zombiemod"
 }
