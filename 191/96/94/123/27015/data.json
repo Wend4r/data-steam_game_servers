@@ -1,7 +1,7 @@
 {
 	"addr": "191.96.94.123:27015",
 	"gameport": 27015,
-	"steamid": "90200501189712910",
+	"steamid": "90200581533449230",
 	"name": "Doboj Old School pwrd by Game Arena [Balkan CS2]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
