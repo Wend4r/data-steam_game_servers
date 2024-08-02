@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,irankhordad,insecure"
+	"gametype": "MaxGaming,irankhordad,secure"
 }
