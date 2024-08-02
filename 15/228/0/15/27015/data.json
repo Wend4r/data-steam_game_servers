@@ -1,7 +1,7 @@
 {
 	"addr": "15.228.0.15:27015",
 	"gameport": 27015,
-	"steamid": "90200570166966301",
+	"steamid": "90200570773115933",
 	"name": "Waltercito's server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 8,
 	"map": "dust2_remake",
 	"secure": true,
 	"dedicated": true,
