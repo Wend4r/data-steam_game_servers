@@ -1,7 +1,8 @@
 {
 	"addr": "217.86.208.113:27015",
 	"gameport": 27015,
-	"steamid": "90200590332966936",
+	"specport": 27020,
+	"steamid": "90200590508594200",
 	"name": "[Gamehammel] Competitive #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +11,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 11,
-	"bots": 2,
+	"bots": 10,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

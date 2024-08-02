@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26337",
 	"gameport": 26337,
-	"steamid": "90200590195271696",
+	"steamid": "90200590542295056",
 	"name": "lilypad",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

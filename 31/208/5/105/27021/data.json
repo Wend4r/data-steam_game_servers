@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 32,
-	"bots": 1,
-	"map": "de_piranesi",
+	"bots": 2,
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
 }

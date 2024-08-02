@@ -1,6 +1,7 @@
 {
 	"addr": "20.98.50.158:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931334141",
 	"name": "Dͥ̿̓Ẻͧ͋G̯̐͜Ë́̃̒N͒̓̀Eͧ̌̃R̳͢ACY &",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "<empty>",
+	"bots": 3,
+	"map": "sambre-4-14",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,krunker,insecure"
+	"gametype": "empty,krunker,secure"
 }

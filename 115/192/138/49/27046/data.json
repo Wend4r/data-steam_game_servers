@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!guns,aug,retake,runpro,tg,secure"
+	"gametype": "!guns,aug,retake,runpro,tg,secure"
 }
