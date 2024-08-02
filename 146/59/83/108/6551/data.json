@@ -11,9 +11,9 @@
 	"players": 52,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_alien_mountain_escape_p",
+	"map": "ze_pogworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
