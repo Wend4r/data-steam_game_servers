@@ -1,7 +1,6 @@
 {
 	"addr": "149.102.250.83:26328",
 	"gameport": 26328,
-	"specport": 26329,
 	"steamid": "85568392930853442",
 	"name": "cs.kirs.online",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 1,
-	"map": "de_brewery",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

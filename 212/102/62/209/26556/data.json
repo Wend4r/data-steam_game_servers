@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26556",
 	"gameport": 26556,
-	"steamid": "90200541826836508",
+	"steamid": "90200571164385308",
 	"name": "Abakion CS Clan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

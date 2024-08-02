@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26610",
 	"gameport": 26610,
-	"steamid": "90200541803023362",
+	"steamid": "90200571224436738",
 	"name": "Don1 Private Scrim Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

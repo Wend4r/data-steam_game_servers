@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 22,
 	"bots": 0,
-	"map": "awp_gade_gg",
+	"map": "awp_slaughter_gg2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,gg"
+	"gametype": "1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,ggasia,g"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.33:26012",
 	"gameport": 26012,
-	"specport": 26013,
-	"steamid": "90200541767801862",
+	"steamid": "90200571084623878",
 	"name": "CS2 Team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

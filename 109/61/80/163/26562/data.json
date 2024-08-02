@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26562",
 	"gameport": 26562,
-	"steamid": "90200541788568598",
+	"steamid": "90200571244129302",
 	"name": "faZzy prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

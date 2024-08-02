@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26982",
 	"gameport": 26982,
-	"steamid": "90200541788227606",
+	"steamid": "90200571080000534",
 	"name": "iHurt Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

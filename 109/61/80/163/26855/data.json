@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26855",
 	"gameport": 26855,
-	"steamid": "90200541788213270",
+	"steamid": "90200571079990294",
 	"name": "Frenkos",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26670",
 	"gameport": 26670,
-	"steamid": "90200541826993180",
+	"steamid": "90200571164549148",
 	"name": "koerperspiele",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26366",
 	"gameport": 26366,
-	"steamid": "90200541921826829",
+	"steamid": "90200571124072461",
 	"name": "SilenceCSGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.106:26052",
 	"gameport": 26052,
-	"specport": 26053,
-	"steamid": "90200541897436174",
+	"steamid": "90200571154672654",
 	"name": "Onlyfrags CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
