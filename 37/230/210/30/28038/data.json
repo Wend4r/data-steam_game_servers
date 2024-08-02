@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "mirror_de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,mirror_de_nuke,fun,official,custom,old,msk,128,128tick,pr"
+	"gametype": "mirror_de_nuke,fun,official,custom,old,msk,128,128tick,pro,publ"
 }
