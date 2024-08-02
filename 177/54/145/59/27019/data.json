@@ -1,6 +1,7 @@
 {
 	"addr": "177.54.145.59:27019",
 	"gameport": 27019,
+	"specport": 27119,
 	"steamid": "90200581699737614",
 	"name": "SERVIDOR PRIVADO",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"players": 1,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
