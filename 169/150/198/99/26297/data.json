@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.198.99:26297",
 	"gameport": 26297,
-	"steamid": "90200590494691331",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26298,
+	"steamid": "90200590494945283",
+	"name": "Chapecoense E-Sports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_dust2",
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

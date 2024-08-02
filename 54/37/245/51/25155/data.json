@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 0,
-	"map": "surf_beneath",
+	"bots": 3,
+	"map": "surf_be_gentle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_beneath,secure"
+	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_be_gentle,secure"
 }
