@@ -11,9 +11,9 @@
 	"players": 57,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_pogworld",
+	"map": "ze_rizomata_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
