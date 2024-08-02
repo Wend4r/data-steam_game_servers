@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26969",
 	"gameport": 26969,
-	"steamid": "90200540952413196",
+	"steamid": "90200567622133772",
 	"name": "Rakkauden kanaali",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

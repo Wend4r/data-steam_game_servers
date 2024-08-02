@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.34:26980",
 	"gameport": 26980,
-	"specport": 26981,
-	"steamid": "90200541013287943",
+	"steamid": "90200567582944263",
 	"name": "foxmeep's foxhole",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

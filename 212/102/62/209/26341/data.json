@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26341",
 	"gameport": 26341,
-	"steamid": "90200540997621788",
+	"steamid": "90200567692035100",
 	"name": "Fat,Sick & Nearly Dead",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 11,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

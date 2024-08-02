@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26619",
 	"gameport": 26619,
-	"steamid": "90200540982340623",
+	"steamid": "90200567676675087",
 	"name": "McMalc's Dungeon",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

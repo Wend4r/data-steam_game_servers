@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.137:26430",
 	"gameport": 26430,
-	"steamid": "90200541056511001",
+	"steamid": "90200567627237401",
 	"name": "Skin Check",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
