@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "aim_uspcars",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "public,awp,aim,fy,events,skins,knives,gloves,vip,stats,training"
+	"gametype": "empty,public,awp,aim,fy,events,skins,knives,gloves,vip,stats,tr"
 }

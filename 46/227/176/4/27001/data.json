@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 13,
 	"bots": 3,
-	"map": "de_cbble_csgo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,knife,rank,sk,svk,ws,secure"
+	"gametype": "csportal,cz,knife,rank,sk,svk,ws,secure"
 }
