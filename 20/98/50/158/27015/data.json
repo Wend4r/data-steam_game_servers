@@ -11,7 +11,7 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 5,
 	"map": "boyard",
 	"secure": true,
 	"dedicated": true,
