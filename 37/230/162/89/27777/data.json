@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "seek_violetto",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lycoris,maniac,secure"
+	"gametype": "cs2,flower,lycoris,maniac,secure"
 }
