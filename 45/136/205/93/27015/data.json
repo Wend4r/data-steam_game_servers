@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 50,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1,90,A !arena,cybershoke,dd2,deti,drop,dust2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm,secure"
+	"gametype": "empty,1,90,A !arena,cybershoke,dd2,deti,drop,dust2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm,secure"
 }

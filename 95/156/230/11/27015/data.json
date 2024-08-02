@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_icecap_escape_v5_p",
+	"map": "ze_tropico_escape_gf1_1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zomb"
+	"gametype": "!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zombiemod,"
 }
