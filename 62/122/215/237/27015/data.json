@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust",
+	"map": "de_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!vip,!ws,secure"
+	"gametype": "!gloves,!knife,!vip,!ws,secure"
 }
