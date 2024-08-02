@@ -1,7 +1,7 @@
 {
 	"addr": "47.121.209.77:27015",
 	"gameport": 27015,
-	"steamid": "90200580934385692",
+	"steamid": "90200581438311452",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 6,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "cs_mansion_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
