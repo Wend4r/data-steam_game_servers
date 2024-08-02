@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,gloves,knifes,laleagane,shop,skins,vip,ws,secure"
+	"gametype": "bhop,gloves,knifes,laleagane,shop,skins,vip,ws,secure"
 }
