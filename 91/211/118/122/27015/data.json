@@ -1,7 +1,6 @@
 {
 	"addr": "91.211.118.122:27015",
 	"gameport": 27015,
-	"specport": 47015,
 	"steamid": "85568392931760936",
 	"name": "💛💙 КИЇВ ЛАЙТ | PUBLIC ✅",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 38,
-	"bots": 1,
-	"map": "de_overpass",
+	"bots": 8,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,Ukraine"
+	"gametype": "empty,!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,U"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!GLOVE,!WS ,Aim ,Awp ,[TR] LaSante JailBreak ,secure"
+	"gametype": "!GLOVE,!WS ,Aim ,Awp ,[TR] LaSante JailBreak ,secure"
 }

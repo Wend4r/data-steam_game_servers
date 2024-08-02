@@ -1,7 +1,7 @@
 {
 	"addr": "46.146.232.209:27021",
 	"gameport": 27021,
-	"steamid": "90200589652895767",
+	"steamid": "90200589840462871",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "duels,1vs1,duel,cybershoke,cyber,128,128tick,drop,duels_mirage_"
+	"gametype": "empty,duels,1vs1,duel,cybershoke,cyber,128,128tick,drop,duels_m"
 }

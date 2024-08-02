@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 10,
-	"map": "cs_italy",
+	"bots": 11,
+	"map": "de_aztec_cso2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,casual,cs2,fun,secure"
+	"gametype": "casual,cs2,fun,secure"
 }
