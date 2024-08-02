@@ -1,8 +1,7 @@
 {
 	"addr": "46.105.58.28:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200573311174657",
+	"steamid": "90200573600649217",
 	"name": "[FR] SERVEUR FUN DES NUFS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 26,
-	"bots": 3,
-	"map": "de_mirage",
+	"max_players": 25,
+	"bots": 19,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "VeryGames VG,secure"
+	"gametype": "empty,VeryGames VG,secure"
 }
