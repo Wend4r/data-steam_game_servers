@@ -1,7 +1,6 @@
 {
 	"addr": "51.68.135.106:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931732791",
 	"name": "NGNW.PL | ONLY MIRAGE | SKINY | GLOVES | RANK | RANGI | VIP",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
