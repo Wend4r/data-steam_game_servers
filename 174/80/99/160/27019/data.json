@@ -1,7 +1,7 @@
 {
 	"addr": "174.80.99.160:27019",
 	"gameport": 27019,
-	"steamid": "90200566032259085",
+	"steamid": "90200566032351245",
 	"name": "fightfightfight",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
