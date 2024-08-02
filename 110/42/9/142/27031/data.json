@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 48,
 	"bots": 0,
-	"map": "jb_cell_indicator_",
+	"map": "jb_skyjail_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
