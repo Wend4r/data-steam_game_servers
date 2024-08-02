@@ -1,7 +1,7 @@
 {
 	"addr": "61.136.235.199:27015",
 	"gameport": 27015,
-	"steamid": "90200514335451138",
+	"steamid": "90200572199388162",
 	"name": "shhao的1155服务器[一服]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
