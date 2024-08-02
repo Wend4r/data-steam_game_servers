@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 2,
 	"map": "mg_acrophobia_run_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:1509670i,128 TICK,128 TIK,COURSE,FASTDL,FUN,GLOVES,KNIFE,KNIVES,LJ,MG,MINIGAMES,RANKS,SKINS,SPEED RUNS,SPEEDRUNS,STA"
+	"gametype": "*grp:1509670i,128 TICK,128 TIK,COURSE,FASTDL,FUN,GLOVES,KNIFE,KNIVES,LJ,MG,MINIGAMES,RANKS,SKINS,SPEED RUNS,SPEEDRUNS,STATS,SWO"
 }

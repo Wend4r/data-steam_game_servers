@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.232.56:26395",
 	"gameport": 26395,
-	"steamid": "90200513263458320",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200588749149200",
+	"name": "Leetify CS2 Practice Mode by average iq",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"players": 1,
+	"max_players": 11,
 	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
