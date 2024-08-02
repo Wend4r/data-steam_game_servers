@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,na,noaim,war,insecure"
+	"gametype": "empty,na,noaim,war,secure"
 }

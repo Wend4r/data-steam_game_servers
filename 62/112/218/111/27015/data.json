@@ -1,20 +1,19 @@
 {
 	"addr": "62.112.218.111:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "85568392922844406",
+	"steamid": "85568392922844138",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 8,
 	"max_players": 64,
 	"bots": 1,
-	"map": "drawbridge",
-	"secure": true,
+	"map": "de_ancient",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
