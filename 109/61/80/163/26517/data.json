@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.163:26517",
 	"gameport": 26517,
-	"specport": 26518,
 	"steamid": "85568392930703437",
 	"name": "[GER] LPLK | CS2 | DARK SIDE |",
 	"appid": 730,
@@ -11,7 +10,7 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 30,
-	"bots": 5,
+	"bots": 4,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
