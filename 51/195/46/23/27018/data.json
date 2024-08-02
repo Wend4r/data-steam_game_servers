@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 5,
-	"map": "awp_minecraft_crash_fp",
+	"map": "awp_woodgarden_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CZ/SK,awp,drop,free,lego,official,only,skill,sniper,special,sta"
+	"gametype": "empty,CZ/SK,awp,drop,free,lego,official,only,skill,sniper,speci"
 }
