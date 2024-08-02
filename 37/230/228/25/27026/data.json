@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 1,
-	"map": "tjump_funk_b00",
+	"map": "hns_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,knife,msk,nopre,pre,pro,rank,ru,skin,stats,tjump_funk_b00,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_cbble_csgo,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
