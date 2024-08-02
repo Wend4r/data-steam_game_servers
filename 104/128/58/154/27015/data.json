@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ttt_closequarters",
+	"map": "ttt_clue",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
+	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
 }

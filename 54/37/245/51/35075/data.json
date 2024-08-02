@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 45,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
