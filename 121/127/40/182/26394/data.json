@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 11,
-	"bots": 3,
+	"bots": 8,
 	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
