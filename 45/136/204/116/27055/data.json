@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27055",
 	"gameport": 27055,
 	"steamid": "90200530343222302",
-	"name": "genesis 15574: team_zowie vs team_nubrain",
+	"name": "genesis 15576: team_zowie vs team_nubrain",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

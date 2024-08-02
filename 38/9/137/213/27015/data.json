@@ -1,8 +1,8 @@
 {
 	"addr": "38.9.137.213:27015",
 	"gameport": 27015,
-	"steamid": "90200572238753802",
-	"name": "Tournament CS2 MAIN server << powered by cs2-multiserver",
+	"steamid": "90200572239597578",
+	"name": "Competitive CS2 MAIN server << powered by cs2-multiserver",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,msm,tournament,secure"
+	"gametype": "empty,competitive,msm,secure"
 }
