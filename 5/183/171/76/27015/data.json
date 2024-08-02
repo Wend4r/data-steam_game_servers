@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 19,
 	"bots": 1,
-	"map": "am_grass2_gg",
+	"map": "am_redline_1s2k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1vs1,anticheat,anticheat,arena,cs,cs2,csgo,death,deathro,"
+	"gametype": "1vs1,anticheat,anticheat,arena,cs,cs2,csgo,death,deathro,deathr"
 }

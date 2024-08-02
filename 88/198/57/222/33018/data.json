@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.57.222:33018",
 	"gameport": 33018,
-	"steamid": "90200581427010567",
-	"name": "\"цццццццццццццц\" by \"FreeGameHosting.eu\"",
+	"steamid": "90200591076717575",
+	"name": "berb by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "aim_map",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
