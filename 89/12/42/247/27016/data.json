@@ -1,7 +1,7 @@
 {
 	"addr": "89.12.42.247:27016",
 	"gameport": 27016,
-	"steamid": "90200575795363858",
+	"steamid": "90200576503814162",
 	"name": "Server 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "drawbridge",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 6,
 	"max_players": 64,
 	"bots": 0,
 	"map": "seek_town",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_t"
+	"gametype": "maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_town,kn"
 }

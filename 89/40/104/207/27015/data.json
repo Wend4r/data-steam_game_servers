@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 36,
-	"bots": 0,
-	"map": "ar_shoots",
+	"bots": 2,
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }
