@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,!ws,Server,awp,awp_lego_2,custom,drop,fast drops,gl,knife,minigame 24/7,public,public,secure,server,speedway,viponly,vips"
+	"gametype": "empty,!shop,!ws,Server,awp,awp_lego_2,custom,drop,fast drops,gl,knife,minigame 24/7,public,public,secure,server,speedway,viponl"
 }
