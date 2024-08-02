@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_victoria",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,knife,eu,en,germany,kz,kreedz,ger,de,cybershoke,cyber,dro"
+	"gametype": "knife,eu,en,germany,kz,kreedz,ger,de,cybershoke,cyber,drop,kz_v"
 }
