@@ -2,7 +2,7 @@
 	"addr": "193.34.79.20:63123",
 	"gameport": 63123,
 	"steamid": "85568392931733831",
-	"name": "CS:GO NoN STEAM // nahman.unaux.com  (0/20)",
+	"name": "CS:GO NoN STEAM // nahman.unaux.com  (3/20)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_allpistols",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS:GO,France,Israel,WS,secure"
+	"gametype": "CS:GO,France,Israel,WS,secure"
 }
