@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 26,
 	"bots": 0,
-	"map": "kz_spacemario_h",
+	"map": "kz_futureblock",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
+	"gametype": "csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
 }
