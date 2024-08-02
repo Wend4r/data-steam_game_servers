@@ -1,7 +1,7 @@
 {
 	"addr": "86.4.32.221:27021",
 	"gameport": 27021,
-	"steamid": "90200564043648012",
+	"steamid": "90200567619573772",
 	"name": "Craigus' CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

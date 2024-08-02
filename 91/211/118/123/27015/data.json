@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws;!knife;!gloves;!viptest;aim;warmup,dm,ukraine,secure"
+	"gametype": "empty,!ws;!knife;!gloves;!viptest;aim;warmup,dm,ukraine,secure"
 }
