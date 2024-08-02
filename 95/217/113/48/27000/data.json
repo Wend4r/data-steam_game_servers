@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 2,
-	"map": "bhop_atom",
+	"map": "bhop_atmospheric",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,eu,finland,jump,lumi,maps,muro,prestrafe,shavit,stats,suomi,tas,timer,timer,"
+	"gametype": "empty,!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,eu,finland,jump,lumi,maps,muro,prestrafe,shavit,stats,suomi,tas,timer,"
 }

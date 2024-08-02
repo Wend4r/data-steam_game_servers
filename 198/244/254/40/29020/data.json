@@ -1,19 +1,19 @@
 {
 	"addr": "198.244.254.40:29020",
 	"gameport": 29020,
-	"steamid": "90200589407461380",
+	"steamid": "90200589645712388",
 	"name": "DM Server #1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
