@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 8,
-	"map": "de_lake",
+	"map": "de_sugarcane",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "R0对战平台,gravity,insecure"
+	"gametype": "R0对战平台,insecure"
 }

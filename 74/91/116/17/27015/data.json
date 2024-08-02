@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 100,
 	"bots": 0,
 	"map": "/125488374/de_dust2_se",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,1v1,5v5,64 tick,8emihh,CSGO,Deathmatch,Flow,FlowSense,MM,No FD,Semi,aimware,games,hack,hvh,increased_maxplayers,oneta"
+	"gametype": "16k,1v1,5v5,64 tick,8emihh,CSGO,Deathmatch,Flow,FlowSense,MM,No FD,Semi,aimware,games,hack,hvh,increased_maxplayers,onetap,skee"
 }
