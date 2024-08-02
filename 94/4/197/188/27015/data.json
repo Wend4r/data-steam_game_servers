@@ -1,7 +1,7 @@
 {
 	"addr": "94.4.197.188:27015",
 	"gameport": 27015,
-	"steamid": "90200565247264771",
+	"steamid": "90200580920363011",
 	"name": "Spid",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

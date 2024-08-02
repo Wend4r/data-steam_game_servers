@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "surf_rookie",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Retake,europe,francophone,fun,knives,scout,secure"
+	"gametype": "Retake,europe,francophone,fun,knives,scout,secure"
 }
