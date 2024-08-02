@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ar_monastery",
+	"map": "gg_speedball_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:3969910i,TtK,ar,armsrace,deathmatch,dm,fastDL,fightyard,fy,gameME,gg,gungame,stats,timetokill.net,secure"
+	"gametype": "empty,*grp:3969910i,TtK,ar,armsrace,deathmatch,dm,fastDL,fightyard,fy,gameME,gg,gungame,stats,timetokill.net,insecure"
 }

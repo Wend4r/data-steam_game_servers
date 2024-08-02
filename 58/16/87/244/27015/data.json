@@ -1,7 +1,7 @@
 {
 	"addr": "58.16.87.244:27015",
 	"gameport": 27015,
-	"steamid": "90200586686844956",
+	"steamid": "90200586689907740",
 	"name": "伴莺の小窝",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
