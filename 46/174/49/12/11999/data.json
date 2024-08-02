@@ -2,7 +2,7 @@
 	"addr": "46.174.49.12:11999",
 	"gameport": 11999,
 	"specport": 27020,
-	"steamid": "90200590299668488",
+	"steamid": "90200590842140680",
 	"name": "WCS | Warcraft mod",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "35hp_2go_nightroom",
+	"map": "35hp_1go_sweet",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,no-steam,insecure"
+	"gametype": "no-steam,insecure"
 }
