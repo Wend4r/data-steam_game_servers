@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 1,
 	"map": "awp_kaja_myth",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,Hostzone,Savage,awp,brasil,competitivo,csgo,hostzone,knife,loja,only,putinha,putinha servidores,savage,shop,skin,ski"
+	"gametype": "4fun,Hostzone,Savage,awp,brasil,competitivo,csgo,hostzone,knife,loja,only,putinha,putinha servidores,savage,shop,skin,skins,ws,"
 }
