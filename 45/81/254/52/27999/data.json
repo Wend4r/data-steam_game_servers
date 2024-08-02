@@ -12,7 +12,7 @@
 	"players": 2,
 	"max_players": 23,
 	"bots": 3,
-	"map": "cs2_max",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
