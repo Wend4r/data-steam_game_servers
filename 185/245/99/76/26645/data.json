@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
