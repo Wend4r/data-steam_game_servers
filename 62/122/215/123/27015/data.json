@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_outferno2",
+	"map": "de_rails",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,*grp:6395B4085E84BE18B643023F6D7AB2ABi,rev=763939"
+	"gametype": "!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,!viptest,!ws,128,128tick,64,64tick,glo,rev=763939"
 }
