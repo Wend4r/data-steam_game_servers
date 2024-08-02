@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 30,
-	"bots": 4,
-	"map": "cs_assault_cso2_night",
+	"bots": 5,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FUN,secure"
+	"gametype": "empty,FUN,insecure"
 }

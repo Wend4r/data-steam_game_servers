@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 52,
 	"bots": 1,
-	"map": "fy_sandstone_t0",
+	"map": "gg_bat",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
+	"gametype": "freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
 }
