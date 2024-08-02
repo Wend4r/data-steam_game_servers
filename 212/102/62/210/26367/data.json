@@ -1,7 +1,6 @@
 {
 	"addr": "212.102.62.210:26367",
 	"gameport": 26367,
-	"specport": 26368,
 	"steamid": "85568392931028689",
 	"name": "Team Lowki",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
