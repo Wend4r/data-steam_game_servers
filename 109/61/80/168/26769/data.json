@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26769",
 	"gameport": 26769,
+	"specport": 26770,
 	"steamid": "90200588769665051",
 	"name": "5x5 games",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 10,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
