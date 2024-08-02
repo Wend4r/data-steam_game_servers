@@ -1,0 +1,19 @@
+{
+	"addr": "73.165.71.182:27016",
+	"gameport": 27016,
+	"steamid": "90200588567006216",
+	"name": "mahone_tv PRACTICE SERVER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
