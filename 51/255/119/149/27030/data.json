@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 9,
 	"map": "de_ruins",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,5x5,classic,competitive,esl,freevip,machmacking,mm,no-steam,nosteam,se7en,se7enkills,gameME,secure"
+	"gametype": "128tick,5x5,classic,competitive,esl,freevip,machmacking,mm,no-steam,nosteam,se7en,se7enkills,gameME,secure"
 }
