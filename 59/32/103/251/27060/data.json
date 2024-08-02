@@ -1,0 +1,19 @@
+{
+	"addr": "59.32.103.251:27060",
+	"gameport": 27060,
+	"steamid": "85568392920216709",
+	"name": "﻿【X社区】僵尸逃跑 [2服]  ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 62,
+	"bots": 0,
+	"map": "ze_ardeca_revamp",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,ZombieReloaded,93x,bbs.93x.net,ZM,escape,xnet,z,ze,zombie,secure"
+}
