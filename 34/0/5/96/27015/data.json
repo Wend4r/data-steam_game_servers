@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 16,
 	"bots": 0,
-	"map": "awp_lego_2_vl",
+	"map": "awp_slaughter_lego_vl_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

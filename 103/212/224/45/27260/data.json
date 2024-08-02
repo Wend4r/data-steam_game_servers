@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,killzone,kzg,secure"
+	"gametype": "empty,killzone,kzg,insecure"
 }
