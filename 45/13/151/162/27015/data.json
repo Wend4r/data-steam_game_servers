@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 4,
+	"players": 0,
 	"max_players": 6,
 	"bots": 1,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "10fps,16k,1tap,1tap,1tap.ro,antiaim,bratva,eclypse,escobar,hvh,hvh 1tap,infinity,mm hvh,ragebot,rantei,ranteis,ro,romania,zwix,"
+	"gametype": "empty,10fps,16k,1tap,1tap,1tap.ro,antiaim,bratva,eclypse,escobar,hvh,hvh 1tap,infinity,mm hvh,ragebot,rantei,ranteis,ro,romania"
 }

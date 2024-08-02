@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 8,
-	"bots": 8,
-	"map": "de_breach",
+	"bots": 0,
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
