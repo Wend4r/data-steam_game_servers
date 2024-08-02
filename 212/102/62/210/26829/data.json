@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.210:26829",
 	"gameport": 26829,
+	"specport": 26830,
 	"steamid": "90200564615903261",
 	"name": "THE GENTLEMEN (TGM) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 21,
 	"bots": 1,
 	"map": "am_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws !lvl !knife !gloves !vip,secure"
+	"gametype": "empty,!ws !lvl !knife !gloves !vip,secure"
 }
