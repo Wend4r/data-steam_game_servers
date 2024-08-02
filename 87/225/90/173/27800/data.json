@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 42,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,dust2,"
+	"gametype": "empty,1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,"
 }

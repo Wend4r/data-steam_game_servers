@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_buses_from_hell_csgo",
+	"map": "mg_raptors_course_cmg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:3969910i,TtK,bhop,deathrun,dr,fastDL,fun,mg,minigames,timetokill.net,secure"
+	"gametype": "TtK,bhop,deathrun,dr,fastDL,fun,mg,minigames,timetokill.net,secure"
 }
