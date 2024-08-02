@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26050",
 	"gameport": 26050,
 	"specport": 26051,
-	"steamid": "90200561215068174",
+	"steamid": "90200566645041166",
 	"name": "Permitta Academy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
