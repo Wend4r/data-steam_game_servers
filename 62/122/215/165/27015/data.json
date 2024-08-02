@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
 	"bots": 0,
-	"map": "mg_jump_21_yea_hd",
+	"map": "mg_sky_realm_v4_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!shop,!vip,!ws,3jump,4jump,anime,bhop,cs2,mg,minigame,rank,secure"
+	"gametype": "!gloves,!knife,!shop,!vip,!ws,3jump,4jump,anime,bhop,cs2,mg,minigame,rank,secure"
 }

@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27055",
 	"gameport": 27055,
 	"steamid": "90200530343222302",
-	"name": "[genesis] League #test",
+	"name": "genesis 15660: team_бойскаут vs team_?",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }
