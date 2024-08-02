@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ttt_nipperhouse2",
+	"map": "ttt_closequarters",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
+	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "217.43.138.213:27015",
 	"gameport": 27015,
-	"steamid": "90200455699148813",
+	"steamid": "90200584819574797",
 	"name": "TeamAwesome",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
