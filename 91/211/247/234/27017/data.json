@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_must2_kat",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,EU,LT,LTU,Vimo,Vimo.lt,arena,gg arena,knife,lietuva,l"
+	"gametype": "1v1,EU,LT,LTU,Vimo,Vimo.lt,arena,gg arena,knife,lietuva,lithuan"
 }

@@ -2,18 +2,18 @@
 	"addr": "103.62.51.136:27058",
 	"gameport": 27058,
 	"steamid": "85568392931756170",
-	"name": "WeenieMob.com | Easy Surf | Timer | RampBugFix",
+	"name": "WeenieMob.com • Easy Surf • Timer • RampBugFix",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "surf_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,aus,bhop,casual,oce,surf,secure"
 }

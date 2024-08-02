@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.103:26458",
 	"gameport": 26458,
-	"steamid": "90200590597766151",
-	"name": "MYTH e-Sports powered by PRACC.COM",
+	"steamid": "90200590924703751",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
