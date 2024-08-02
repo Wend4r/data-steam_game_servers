@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.34:26085",
 	"gameport": 26085,
-	"specport": 26086,
-	"steamid": "90200561546242055",
+	"steamid": "90200590255098887",
 	"name": "DXA powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 3,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

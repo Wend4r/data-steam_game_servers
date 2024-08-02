@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.35:26709",
 	"gameport": 26709,
-	"steamid": "90200561550820360",
+	"steamid": "90200590100900872",
 	"name": "500x powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.97:26808",
 	"gameport": 26808,
-	"specport": 26809,
-	"steamid": "90200561878984709",
+	"steamid": "90200590245014533",
 	"name": "PoMo's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_inferno_d_prefab",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
