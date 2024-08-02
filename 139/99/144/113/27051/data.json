@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 60,
-	"bots": 0,
-	"map": "surf_hotrod_beta",
+	"bots": 3,
+	"map": "surf_deathstar",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!knife,!ws,de,de_,beginner,aim_,am_,australia,easy,easy surf,gameM,killzone,kitsune,ksf,knife,kzg,kz,skill,surf,surf_,uto"
+	"gametype": "!knife,!ws,de,de_,beginner,aim_,am_,australia,easy,easy surf,gameM,killzone,kitsune,ksf,knife,kzg,kz,skill,surf,surf_,utopia,ws"
 }
