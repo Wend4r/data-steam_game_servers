@@ -2,18 +2,18 @@
 	"addr": "185.113.141.33:60010",
 	"gameport": 60010,
 	"steamid": "85568392931026030",
-	"name": "[PT] Tuga Army • AWP P1NO",
+	"name": "[PT] Tuga Army • AWP",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 12,
+	"players": 3,
 	"max_players": 32,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
