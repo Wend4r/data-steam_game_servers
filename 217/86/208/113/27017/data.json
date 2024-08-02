@@ -1,19 +1,19 @@
 {
 	"addr": "217.86.208.113:27017",
 	"gameport": 27017,
-	"steamid": "90200590025097240",
-	"name": "LAN CS2 Armsrace",
+	"steamid": "90200590174992408",
+	"name": "[Gamehammel] Armsrace",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 64,
+	"max_players": 11,
 	"bots": 0,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

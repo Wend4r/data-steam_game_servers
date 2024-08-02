@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_tower_lego",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "anticheat,no-steam,secure,insecure"
+	"gametype": "empty,anticheat,no-steam,secure,insecure"
 }
