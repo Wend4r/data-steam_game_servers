@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 2,
-	"map": "de_train",
+	"map": "de_sevirno_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
