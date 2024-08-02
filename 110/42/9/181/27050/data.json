@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 4,
 	"map": "bhop_lego_color",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,bhop,bunnyhop,fastdl,timer,secure"
+	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
 }

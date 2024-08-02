@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27115",
 	"gameport": 27115,
-	"steamid": "90200540821583895",
+	"steamid": "90200567481340951",
 	"name": "SERWER Anotni",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "seek_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
