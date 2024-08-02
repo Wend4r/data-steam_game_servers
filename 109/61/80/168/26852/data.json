@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 8,
-	"map": "refrag_warmup",
+	"bots": 6,
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
