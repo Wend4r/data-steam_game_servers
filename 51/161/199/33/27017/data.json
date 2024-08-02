@@ -11,10 +11,10 @@
 	"region": 5,
 	"players": 1,
 	"max_players": 40,
-	"bots": 1,
-	"map": "surf_garden_h_go",
+	"bots": 2,
+	"map": "surf_networked",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
 }
