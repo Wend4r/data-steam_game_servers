@@ -1,7 +1,7 @@
 {
 	"addr": "79.140.150.172:27016",
 	"gameport": 27016,
-	"steamid": "90200581173651475",
+	"steamid": "90200585484652563",
 	"name": "bhop_",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 2,
+	"bots": 0,
 	"map": "bhop_tranquility",
 	"secure": false,
 	"dedicated": true,

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 16,
 	"bots": 1,
 	"map": "/2991756587/awp_lego_2_minecraf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,shop,ua,vip,secure"
+	"gametype": "!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,shop,ua,vip,secure"
 }
