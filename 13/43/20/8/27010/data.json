@@ -1,6 +1,7 @@
 {
 	"addr": "13.43.20.8:27010",
 	"gameport": 27010,
+	"specport": 27020,
 	"steamid": "85568392924631322",
 	"name": "OVOSCHI",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 8,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_memento",
+	"map": "de_palais",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
