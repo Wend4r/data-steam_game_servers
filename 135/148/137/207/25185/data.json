@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 3,
-	"map": "surf_tundra_v2",
+	"map": "surf_elysium4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_tundra_v2,secure"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_elysium4,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26519",
 	"gameport": 26519,
+	"specport": 26520,
 	"steamid": "90200584543062030",
 	"name": "MySkillCS2 powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 12,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
