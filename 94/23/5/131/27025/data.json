@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 6,
-	"map": "de_feast_prefab",
+	"map": "aim_deagle7k_ultra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
