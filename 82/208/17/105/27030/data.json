@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!WS,!knife,GLOVES,WS,cz,games-town,gamestown,gloves,knife"
+	"gametype": "!WS,!knife,GLOVES,WS,cz,games-town,gamestown,gloves,knife,publi"
 }
