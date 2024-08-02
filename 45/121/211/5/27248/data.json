@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 3,
+	"bots": 0,
 	"map": "kz_morestairs_msq",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Tickrate 128,KZTimer 1.106,KZTimer,aus,auskz,bhop,bunnyhop,climb,climbing,kreedz,kz,kztimer,secure"
+	"gametype": "empty,Tickrate 128,KZTimer 1.106,KZTimer,aus,auskz,bhop,bunnyhop,climb,climbing,kreedz,kz,kztimer,secure"
 }
