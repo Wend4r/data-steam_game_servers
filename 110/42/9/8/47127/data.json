@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:47127",
 	"gameport": 47127,
-	"steamid": "90200562316540942",
+	"steamid": "90200577114337294",
 	"name": "5KINGS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_nuke",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

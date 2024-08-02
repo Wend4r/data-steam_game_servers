@@ -2,7 +2,7 @@
 	"addr": "20.211.84.159:27015",
 	"gameport": 27015,
 	"steamid": "90200572158446622",
-	"name": "Stehar's Shitty Shotty Show",
+	"name": "YFS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 4,
-	"map": "cs_lagos",
+	"bots": 5,
+	"map": "aimusp",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "YFS,secure"
 }
