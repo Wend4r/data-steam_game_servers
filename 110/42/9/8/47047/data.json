@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:47047",
 	"gameport": 47047,
-	"steamid": "90200562315441166",
+	"steamid": "90200589719524366",
 	"name": "Flaming Rose",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
