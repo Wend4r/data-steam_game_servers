@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 2,
-	"map": "aim_nuke_hall",
+	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }
