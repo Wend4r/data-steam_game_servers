@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
+	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
 }
