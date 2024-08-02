@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.105:26178",
+	"gameport": 26178,
+	"steamid": "90200590364062733",
+	"name": "Heikir",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_cbble_csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
