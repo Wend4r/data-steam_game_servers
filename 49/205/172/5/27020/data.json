@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,conneqt,conneqtgaming,delhi,executes,insecure"
+	"gametype": "empty,conneqt,conneqtgaming,delhi,executes,secure"
 }
