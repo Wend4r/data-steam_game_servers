@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.194:26924",
 	"gameport": 26924,
+	"specport": 26925,
 	"steamid": "90200582045919246",
 	"name": "Legion Esport powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
