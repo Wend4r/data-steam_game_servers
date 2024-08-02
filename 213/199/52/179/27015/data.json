@@ -2,18 +2,18 @@
 	"addr": "213.199.52.179:27015",
 	"gameport": 27015,
 	"steamid": "85568392932025156",
-	"name": "Counter-Strike 2",
+	"name": "3core Romania Compe",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,128 tick,comp,pula negrooo,secure"
 }
