@@ -1,7 +1,7 @@
 {
 	"addr": "82.222.239.193:27015",
 	"gameport": 27015,
-	"steamid": "90200590544780304",
+	"steamid": "90200590546234384",
 	"name": "TahaTest",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 4,
 	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
