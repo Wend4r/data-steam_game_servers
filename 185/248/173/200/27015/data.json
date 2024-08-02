@@ -1,7 +1,7 @@
 {
 	"addr": "185.248.173.200:27015",
 	"gameport": 27015,
-	"steamid": "90200564963758098",
+	"steamid": "90200590578493458",
 	"name": "ItCaffeNet-CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

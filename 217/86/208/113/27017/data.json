@@ -1,7 +1,7 @@
 {
 	"addr": "217.86.208.113:27017",
 	"gameport": 27017,
-	"steamid": "90200590333013016",
+	"steamid": "90200590509462552",
 	"name": "[Gamehammel] Armsrace",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 21,
-	"bots": 0,
+	"bots": 1,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
