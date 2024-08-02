@@ -2,7 +2,7 @@
 	"addr": "45.235.98.50:27060",
 	"gameport": 27060,
 	"steamid": "85568392931773995",
-	"name": "❤️ Turros Strike ❤️[RETAKE => KNIFES Y SKINS GRATIS, TO",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

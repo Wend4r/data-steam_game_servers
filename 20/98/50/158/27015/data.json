@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
-	"map": "monarch",
+	"bots": 0,
+	"map": "<empty>",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,krunker,secure"
+	"gametype": "empty,krunker,insecure"
 }

@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 21,
-	"bots": 8,
-	"map": "de_mission",
+	"bots": 9,
+	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FR FFA FUN CASUAL,secure"
+	"gametype": "empty,FR FFA FUN CASUAL,secure"
 }
