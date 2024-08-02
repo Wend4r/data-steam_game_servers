@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_crashz_dust_1vs1",
+	"map": "aim_bluelines",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
