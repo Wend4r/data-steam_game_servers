@@ -1,0 +1,20 @@
+{
+	"addr": "62.234.39.69:27015",
+	"gameport": 27015,
+	"specport": 27021,
+	"steamid": "85568392931668472",
+	"name": "一起成为灰烬吧",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_bank",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "xtag,secure"
+}
