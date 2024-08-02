@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_assembly",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,pub,pu"
+	"gametype": "empty,!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,"
 }
