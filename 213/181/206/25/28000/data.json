@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "awp_lego_8",
+	"map": "fun_bounce",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,en,eu,europe,f2p,free2play,gloves,hu,hun,hungarian,hu"
+	"gametype": "awp,en,eu,europe,f2p,free2play,gloves,hu,hun,hungarian,hungary,"
 }

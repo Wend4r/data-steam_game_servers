@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 1,
-	"map": "hns_seekend2_po_porcie_xdd",
+	"map": "maniac_1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassi"
+	"gametype": "!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassic,mani"
 }
