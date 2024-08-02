@@ -1,19 +1,19 @@
 {
 	"addr": "85.190.164.23:25565",
 	"gameport": 25565,
-	"steamid": "90200573691286558",
+	"steamid": "90200574030100510",
 	"name": "Gexils Arena",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "workshop_preview_dust2",
+	"map": "1v1aim_map_longdustversion_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
