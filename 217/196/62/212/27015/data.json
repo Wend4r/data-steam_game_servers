@@ -1,7 +1,7 @@
 {
 	"addr": "217.196.62.212:27015",
 	"gameport": 27015,
-	"steamid": "90200537620460574",
+	"steamid": "90200567114849310",
 	"name": "NNayas SERVER 01",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
