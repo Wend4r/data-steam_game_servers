@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CM2.Network,Tournament,pcw,war,secure"
+	"gametype": "CM2.Network,Tournament,pcw,war,secure"
 }

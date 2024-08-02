@@ -1,19 +1,19 @@
 {
 	"addr": "51.161.198.217:27017",
 	"gameport": 27017,
-	"steamid": "85568392930810897",
-	"name": "[AU] Spread 16k | Nospread/Rapid Fix",
+	"steamid": "85568392930595136",
+	"name": "[AU] Spread Main 16k",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_dust2_port_prefab",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16k,hvh,spread,whyrulookingattagsufreak,insecure"
+	"gametype": "empty,16k,hvh,spread,whyrulookingattagsufreak,insecure"
 }
