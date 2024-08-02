@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26414",
 	"gameport": 26414,
+	"specport": 26415,
 	"steamid": "90200571124823053",
 	"name": "Dot Stats | Scrim | 10man",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "kz_checkmate",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
