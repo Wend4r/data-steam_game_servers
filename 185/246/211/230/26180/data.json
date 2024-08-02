@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.230:26180",
 	"gameport": 26180,
-	"steamid": "90200542957662221",
+	"steamid": "90200571836502029",
 	"name": "Eclipse",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
