@@ -1,7 +1,7 @@
 {
 	"addr": "5.9.116.124:7031",
 	"gameport": 7031,
-	"steamid": "90200582153063428",
+	"steamid": "90200582455058436",
 	"name": "A Pterodactyl hosted Space Engineer Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

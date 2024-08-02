@@ -2,19 +2,19 @@
 	"addr": "79.127.208.97:27015",
 	"gameport": 27015,
 	"specport": 27016,
-	"steamid": "90200571096626192",
-	"name": "be50108d8ca64ebe0b85b20285f3b4e9",
+	"steamid": "90200582544410640",
+	"name": "1268bed342d3c627368339f9cd039e8e",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 64,
 	"bots": 2,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
