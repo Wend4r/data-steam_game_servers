@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26448",
 	"gameport": 26448,
-	"steamid": "90200584278632461",
+	"steamid": "90200586533868557",
 	"name": "Joeys Sex Dungeon",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
