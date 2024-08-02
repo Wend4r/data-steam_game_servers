@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_Breezy_v5c",
+	"map": "ze_trend_machine_2_v1_25_f",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,escape,fastdl,ze,zm,zombie,secure"
+	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
 }

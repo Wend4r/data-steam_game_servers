@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "msm,pug,secure"
+	"gametype": "empty,msm,pug,secure"
 }
