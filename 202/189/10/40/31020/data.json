@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_vietnam_p",
+	"map": "ze_popkart_b3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 4,
-	"players": 3,
+	"players": 1,
 	"max_players": 26,
 	"bots": 0,
-	"map": "kf_35hp_gx",
+	"map": "35hp_minecraft_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

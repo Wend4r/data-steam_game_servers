@@ -11,10 +11,9 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 15,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
