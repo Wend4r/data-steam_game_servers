@@ -1,0 +1,19 @@
+{
+	"addr": "185.248.102.128:30228",
+	"gameport": 30228,
+	"steamid": "90200583673309188",
+	"name": "ПАБЛИК СЕРВЕР 128TICK !KNIFE !SKINS !GLOVES [CS2]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
