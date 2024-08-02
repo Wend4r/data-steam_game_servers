@@ -2,7 +2,7 @@
 	"addr": "46.174.54.117:27045",
 	"gameport": 27045,
 	"steamid": "90200530431800332",
-	"name": "genesis 15861: team_hvh boys vs team_черепняк",
+	"name": "genesis 15875: team_наркота в моем днк vs team_s",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_shortdust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
