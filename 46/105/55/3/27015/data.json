@@ -1,8 +1,9 @@
 {
 	"addr": "46.105.55.3:27015",
 	"gameport": 27015,
-	"steamid": "90200590880382989",
-	"name": "VeryGames Server",
+	"specport": 27020,
+	"steamid": "90200591062934541",
+	"name": "Narco Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,VeryGames VG,insecure"
+	"gametype": "empty,Narco Gaming,secure"
 }
