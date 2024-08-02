@@ -1,7 +1,6 @@
 {
 	"addr": "45.92.216.106:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930721261",
 	"name": "Arschwasser CS2 Server",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 13,
+	"players": 0,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

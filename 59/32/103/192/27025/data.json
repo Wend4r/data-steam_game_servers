@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_minecraft_sakura",
+	"map": "ze_paycheck_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
