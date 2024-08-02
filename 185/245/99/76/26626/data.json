@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26626",
 	"gameport": 26626,
-	"steamid": "90200559888575502",
+	"steamid": "90200565793820686",
 	"name": "Prestige 3.3K ELO (Main) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

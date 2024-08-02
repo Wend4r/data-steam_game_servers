@@ -2,7 +2,7 @@
 	"addr": "37.230.210.26:27020",
 	"gameport": 27020,
 	"specport": 28020,
-	"steamid": "90200499294032897",
+	"steamid": "90200565763650561",
 	"name": "︻デ═一✮ BECEЛЫЙ MIRAGE ██ CKИHЫ OPУЖИЯ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,am,am_,awp,awp_,bhop,bhop_,cs_,cybershoke,de_dust2,de_mirage,dust2,mg,mg_,mirage,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,in"
+	"gametype": "empty,!,$,am,am_,awp,awp_,bhop,bhop_,cs_,cybershoke,de_dust2,de_mirage,dust2,mg,mg_,mirage,secure,sgaming,surf,surf_,ze,ze_,zm,"
 }
