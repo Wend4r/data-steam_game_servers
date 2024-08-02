@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 24,
-	"bots": 3,
+	"bots": 1,
 	"map": "idgame/awp_lego_2018_ldr",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!awp,1mpulse,HLstatsX:CE,Knife choice CORE,LKv2,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,idgame,insecure"
+	"gametype": "empty,!,!awp,1mpulse,HLstatsX:CE,Knife choice CORE,LKv2,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,idgame,insecure"
 }

@@ -2,18 +2,18 @@
 	"addr": "82.97.250.141:51280",
 	"gameport": 51280,
 	"steamid": "85568392931838675",
-	"name": "[CS2] MAJESTOCS.RU - AWP | !KNIFE !SKINS",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 22,
+	"max_players": 32,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,s"
+	"gametype": "empty,secure"
 }
