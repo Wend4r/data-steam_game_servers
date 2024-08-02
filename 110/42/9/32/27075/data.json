@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 20,
 	"bots": 0,
-	"map": "football_field",
+	"map": "ka_soccer_2009",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "37.20.204.26:27015",
 	"gameport": 27015,
-	"steamid": "90200571299032071",
+	"steamid": "90200571812608007",
 	"name": "Public Server For flashp00p",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 10,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
