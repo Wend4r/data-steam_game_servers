@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 100,
-	"bots": 2,
+	"bots": 4,
 	"map": "bhop_serv",
 	"secure": true,
 	"dedicated": true,
