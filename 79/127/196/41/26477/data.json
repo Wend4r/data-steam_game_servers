@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.196.41:26477",
 	"gameport": 26477,
-	"steamid": "90200532307223559",
-	"name": "Leetify CS2 Match by soldieR",
+	"steamid": "90200576512922631",
+	"name": "AIMBOTZ powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 12,
-	"bots": 1,
-	"map": "de_inferno",
+	"players": 1,
+	"max_players": 13,
+	"bots": 9,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

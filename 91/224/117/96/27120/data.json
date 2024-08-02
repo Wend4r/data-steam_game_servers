@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 0,
-	"map": "seek_mirage",
+	"map": "aim_fiffy_gg1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

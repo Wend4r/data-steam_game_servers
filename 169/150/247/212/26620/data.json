@@ -2,7 +2,7 @@
 	"addr": "169.150.247.212:26620",
 	"gameport": 26620,
 	"specport": 26621,
-	"steamid": "90200549036483608",
+	"steamid": "90200576574023704",
 	"name": "god bless",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

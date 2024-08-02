@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 16,
+	"players": 17,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,secure"
+	"gametype": "dm,god,pug,wolf,secure"
 }

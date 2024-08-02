@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26920",
 	"gameport": 26920,
-	"steamid": "90200576146437148",
+	"steamid": "90200576330902556",
 	"name": "MalaCS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 5,
 	"bots": 8,
-	"map": "cs_office",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
