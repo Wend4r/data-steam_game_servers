@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.231:26094",
 	"gameport": 26094,
-	"steamid": "90200553177836558",
+	"steamid": "90200581703104526",
 	"name": "Cabrestos do Monte",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "aim_ag_texture_jungle",
+	"map": "newdeagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cabrestos,dathost,dathost.net,secure"
+	"gametype": "empty,cabrestos,dathost,dathost.net,secure"
 }
