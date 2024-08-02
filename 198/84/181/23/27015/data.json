@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 8,
-	"map": "de_subzero_d",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

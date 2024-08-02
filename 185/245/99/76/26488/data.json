@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26488",
 	"gameport": 26488,
 	"specport": 26489,
-	"steamid": "90200559891392526",
+	"steamid": "90200565795112974",
 	"name": "Bassirou powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
