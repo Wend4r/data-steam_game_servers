@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,en,pr,usa,valve_ds,secure"
+	"gametype": "empty,de_mirage,en,pr,usa,valve_ds,secure"
 }

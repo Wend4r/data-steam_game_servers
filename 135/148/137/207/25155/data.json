@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 45,
-	"bots": 1,
+	"bots": 0,
 	"map": "surf_utopia_v3_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gk,gloves,gofree,goldknife,knife,rank,store,styles,surf,surf_utopia_v3,surfing,surftimer,utopia,vip,ws,"
+	"gametype": "empty,102,102tick,easysurf,gf,gk,gloves,gofree,goldknife,knife,rank,store,styles,surf,surf_utopia_v3,surfing,surftimer,utopia,v"
 }
