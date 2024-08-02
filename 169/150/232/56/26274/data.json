@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26274",
 	"gameport": 26274,
-	"steamid": "90200538903251984",
+	"steamid": "90200566453642256",
 	"name": "Alenix",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

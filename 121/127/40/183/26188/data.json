@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26188",
 	"gameport": 26188,
-	"steamid": "90200538833618945",
+	"steamid": "90200566448301057",
 	"name": "xmplfy prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
