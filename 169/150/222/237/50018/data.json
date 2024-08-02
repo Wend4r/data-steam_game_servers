@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:50018",
 	"gameport": 50018,
-	"steamid": "90200561683245071",
+	"steamid": "90200589537226767",
 	"name": "IHC Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

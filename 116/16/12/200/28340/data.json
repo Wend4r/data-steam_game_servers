@@ -1,0 +1,19 @@
+{
+	"addr": "116.16.12.200:28340",
+	"gameport": 28340,
+	"steamid": "85568392931723911",
+	"name": "[X社区][CS2] 刀服 35HP",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 4,
+	"players": 0,
+	"max_players": 26,
+	"bots": 0,
+	"map": "kf_35hp_gx",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}
