@@ -12,9 +12,9 @@
 	"players": 6,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
+	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
 }

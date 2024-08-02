@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
-	"bots": 0,
-	"map": "kz_jumpspace_easy",
+	"bots": 2,
+	"map": "kz_baxter",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,KZTimer,KZTimer 1.100,Tickrate 128,insecure"
+	"gametype": "KZTimer,KZTimer 1.100,Tickrate 128,insecure"
 }
