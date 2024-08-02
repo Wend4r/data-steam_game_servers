@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 19,
 	"bots": 1,
-	"map": "surf_ny_bigloop",
+	"map": "surf_japan_ptad_go_v5",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suom"
+	"gametype": "combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suomi,surf"
 }
