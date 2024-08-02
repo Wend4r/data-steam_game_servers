@@ -1,8 +1,7 @@
 {
 	"addr": "91.202.246.126:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "85568392922844435",
+	"steamid": "85568392922845048",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "fy_iceworld_remake",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
