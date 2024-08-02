@@ -1,7 +1,6 @@
 {
 	"addr": "82.142.70.234:27020",
 	"gameport": 27020,
-	"specport": 28020,
 	"steamid": "85568392931642400",
 	"name": "PLAYzone ARENA #1",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 2,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

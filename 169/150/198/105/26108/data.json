@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "cs_italy_classic",
+	"map": "de_mills",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
