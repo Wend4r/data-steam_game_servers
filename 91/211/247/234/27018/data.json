@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_clouds",
+	"map": "jb_spy_vs_spy_cs2_port4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,LTU,Vimo,Vimo.lt,case,gg arena,gloves,jail,jailbrea"
+	"gametype": "EU,LT,LTU,Vimo,Vimo.lt,case,gg arena,gloves,jail,jailbreak,jb,k"
 }
