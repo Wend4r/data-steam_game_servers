@@ -2,7 +2,7 @@
 	"addr": "121.127.47.35:26744",
 	"gameport": 26744,
 	"specport": 26745,
-	"steamid": "90200576545632264",
+	"steamid": "90200605802989576",
 	"name": "PLAY.PRACC.COM - [AUS] RETAKE - MIRAGE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

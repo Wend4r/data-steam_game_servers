@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "bkz_impulse",
+	"map": "surf_kitsune2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gl"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gloves,i"
 }

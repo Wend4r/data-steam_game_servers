@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26266",
 	"gameport": 26266,
-	"steamid": "90200579323686915",
+	"steamid": "90200605862016003",
 	"name": "Alter Ego powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

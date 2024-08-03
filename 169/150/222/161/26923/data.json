@@ -2,7 +2,7 @@
 	"addr": "169.150.222.161:26923",
 	"gameport": 26923,
 	"specport": 26924,
-	"steamid": "90200576444978179",
+	"steamid": "90200605863209987",
 	"name": "PLAY.PRACC.COM - [HK] RETAKE - MIRAGE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
