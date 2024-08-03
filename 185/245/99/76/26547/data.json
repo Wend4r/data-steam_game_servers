@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26547",
 	"gameport": 26547,
-	"steamid": "90200606801555470",
+	"steamid": "90200613132744718",
 	"name": "Aurora 1xbet (CS2) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
