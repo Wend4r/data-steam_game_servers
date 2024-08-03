@@ -2,18 +2,18 @@
 	"addr": "104.128.58.159:27015",
 	"gameport": 27015,
 	"steamid": "85568392931153262",
-	"name": "=(eGO)= | EVENTS | BHOP | EdgeGamers.com",
+	"name": "=(eGO)= | EVENTS | MINIGAMES | EdgeGamers.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 9,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_64_speedrun",
+	"map": "mg_pudding_multigames",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "EdgeGamers,Event,Events,bh,bhop,bunny,bunnyhop,eGO,edgegamers,e"
+	"gametype": "EdgeGamers,Event,Events,couse,eGO,edgegamers,ego,event,events,g"
 }
