@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ffa,multimaps,secure"
+	"gametype": "ffa,multimaps,secure"
 }

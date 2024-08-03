@@ -1,7 +1,7 @@
 {
 	"addr": "62.182.159.99:27715",
 	"gameport": 27715,
-	"steamid": "90200601132526598",
+	"steamid": "85568392932034510",
 	"name": "SatoruProject [MANNIAC] | !WS !KNIFE !GLOVES",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "satoru/hide_park",
-	"secure": true,
+	"map": "hide_park",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
