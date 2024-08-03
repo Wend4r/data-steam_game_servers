@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.97:26967",
 	"gameport": 26967,
-	"steamid": "90200532182239233",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200607000522753",
+	"name": "Leetify CS2 Practice Mode by Gold",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"players": 1,
+	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

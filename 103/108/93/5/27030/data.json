@@ -11,10 +11,10 @@
 	"region": 1,
 	"players": 0,
 	"max_players": 34,
-	"bots": 0,
-	"map": "surf_greatriver_xdre4m_so_kg",
+	"bots": 1,
+	"map": "surf_air_arena",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Awpbhop,surf,combat,bhop,!ws,!knife,!store,nf,bh,bananahu"
+	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
 }
