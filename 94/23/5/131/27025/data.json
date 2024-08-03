@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "aim_map_3g2",
+	"map": "cs_ferry",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
