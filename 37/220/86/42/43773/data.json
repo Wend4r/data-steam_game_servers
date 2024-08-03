@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_city_mixed_fb",
+	"map": "aim_100hp_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

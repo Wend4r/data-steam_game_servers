@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/2727337316/kz_bhop_mentalism",
+	"map": "/2671761632/kz_sp1_kansopyon",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
