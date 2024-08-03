@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.210:26194",
 	"gameport": 26194,
-	"steamid": "90200610079912989",
-	"name": "RED DEVILS (esea op) powered by PRACC.COM",
+	"steamid": "90200610576539677",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

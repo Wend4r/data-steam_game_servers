@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128 tick,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europ"
+	"gametype": "128 tick,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europe,fun,"
 }
