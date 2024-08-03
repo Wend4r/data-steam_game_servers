@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26499",
 	"gameport": 26499,
-	"steamid": "90200571140806661",
+	"steamid": "90200598308122629",
 	"name": "[CannaLAN] Sweat Lodge",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

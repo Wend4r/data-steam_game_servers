@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.33:26638",
 	"gameport": 26638,
-	"specport": 26639,
-	"steamid": "90200571264872454",
+	"steamid": "90200598382681094",
 	"name": "Underground ESC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

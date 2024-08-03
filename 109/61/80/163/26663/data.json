@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26663",
 	"gameport": 26663,
-	"steamid": "90200571245008918",
+	"steamid": "90200598338976790",
 	"name": "suhari",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

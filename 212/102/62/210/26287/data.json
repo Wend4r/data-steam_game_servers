@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26287",
 	"gameport": 26287,
-	"steamid": "90200571181632541",
+	"steamid": "90200598432544797",
 	"name": "Team MUSLIM pracc server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5v5,EU,Prime,ancient,anubis,comp,competitive,inferno,mirage,sec"
+	"gametype": "empty,5v5,EU,Prime,ancient,anubis,comp,competitive,inferno,mira"
 }

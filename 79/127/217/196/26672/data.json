@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.196:26672",
 	"gameport": 26672,
-	"steamid": "90200571235107844",
+	"steamid": "90200598482695172",
 	"name": "Anarchy Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
