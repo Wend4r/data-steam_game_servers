@@ -1,7 +1,7 @@
 {
 	"addr": "78.142.96.157:27015",
 	"gameport": 27015,
-	"steamid": "90200573870391298",
+	"steamid": "90200601063244802",
 	"name": "Gutshaus LAN-Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
