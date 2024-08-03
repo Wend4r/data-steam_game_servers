@@ -1,8 +1,7 @@
 {
 	"addr": "115.38.86.5:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200611168731160",
+	"steamid": "90200612869636120",
 	"name": "inmpug",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 15,
-	"bots": 1,
-	"map": "de_hydrangea",
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
