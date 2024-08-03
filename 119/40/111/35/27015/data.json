@@ -1,7 +1,7 @@
 {
 	"addr": "119.40.111.35:27015",
 	"gameport": 27015,
-	"steamid": "90200595832707097",
+	"steamid": "90200596625396761",
 	"name": "ceens",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

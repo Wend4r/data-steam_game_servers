@@ -1,7 +1,7 @@
 {
 	"addr": "195.201.175.88:27020",
 	"gameport": 27020,
-	"steamid": "90200568375416846",
+	"steamid": "90200596130721806",
 	"name": "crlty-Gaming CS2 Server #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_outferno2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
