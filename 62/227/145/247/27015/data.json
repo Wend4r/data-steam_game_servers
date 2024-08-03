@@ -1,11 +1,11 @@
 {
 	"addr": "62.227.145.247:27015",
 	"gameport": 27015,
-	"steamid": "90199666804584451",
+	"steamid": "90200602165208067",
 	"name": "GORE CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.0",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "37.9.13.107:28115",
 	"gameport": 28115,
-	"steamid": "90200600481768460",
+	"steamid": "90200602225274892",
 	"name": "CS 2 Server hosted by Nova-Host.ru",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_marooned",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
