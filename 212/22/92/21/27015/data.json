@@ -1,6 +1,7 @@
 {
 	"addr": "212.22.92.21:27015",
 	"gameport": 27015,
+	"specport": 27022,
 	"steamid": "85568392932034395",
 	"name": "wsb msk1",
 	"appid": 730,
@@ -9,8 +10,8 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 14,
-	"bots": 2,
+	"max_players": 15,
+	"bots": 9,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
