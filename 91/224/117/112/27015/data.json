@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "mirror_de_mirage",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gosetti.pl:31522,secure"
+	"gametype": "empty,gosetti.pl:31522,secure"
 }

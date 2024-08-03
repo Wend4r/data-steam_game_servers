@@ -1,7 +1,6 @@
 {
 	"addr": "91.211.247.234:27052",
 	"gameport": 27052,
-	"specport": 27020,
 	"steamid": "85568392931721622",
 	"name": "Vimo.lt [5v5]",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,Vimo,Vimo.lt,secure"
+	"gametype": "empty,5v5,Vimo,Vimo.lt,insecure"
 }
