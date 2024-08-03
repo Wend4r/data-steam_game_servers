@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30183",
 	"gameport": 30183,
 	"specport": 35051,
-	"steamid": "90200588657399823",
+	"steamid": "90200600202170383",
 	"name": "lucster04",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

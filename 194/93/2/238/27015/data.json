@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 52,
 	"bots": 0,
-	"map": "de_cache_alpha",
+	"map": "de_dust2_minimal",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,no-steam,insecure"
+	"gametype": "no-steam,insecure"
 }
