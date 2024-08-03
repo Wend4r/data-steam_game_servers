@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.129:26780",
 	"gameport": 26780,
-	"specport": 26781,
-	"steamid": "90200585833416710",
+	"steamid": "90200601840137222",
 	"name": "HAUS of Army",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
