@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26429",
 	"gameport": 26429,
-	"steamid": "90200565728749593",
+	"steamid": "90200591602630681",
 	"name": "REFRAG.GG - Retakes [EU]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

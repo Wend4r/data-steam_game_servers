@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_clouds",
+	"map": "jb_vipinthemix_cs2_port3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Jailbreak,secure"
+	"gametype": "empty,Jailbreak,secure"
 }
