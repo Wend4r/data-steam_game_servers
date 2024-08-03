@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.37:27055",
 	"gameport": 27055,
-	"steamid": "90200598290966539",
+	"steamid": "90200598654493707",
 	"name": "【KOD社区】HF满十5F|免费皮肤不排队",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
