@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 5,
-	"players": 11,
+	"players": 10,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aus,killzone,!ws,gloves,executes,aim,de_,dust2,knife,kzg,"
+	"gametype": "aus,killzone,!ws,gloves,executes,aim,de_,dust2,knife,kzg,skin,m"
 }
