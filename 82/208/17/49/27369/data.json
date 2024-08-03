@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 12,
 	"bots": 2,
-	"map": "awp_lego_2_carton",
+	"map": "awp_lego_2011",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
