@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,!ws,awp,easy,bhop,free,knife,game,fun,gloves,map,server,sneak,stat,skin,server,surf,surftimer,timer,utopia,ws,secure"
+	"gametype": "csgo,!ws,awp,easy,bhop,free,knife,game,fun,gloves,map,server,sneak,stat,skin,server,surf,surftimer,timer,utopia,ws,secure"
 }
