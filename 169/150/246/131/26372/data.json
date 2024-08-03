@@ -2,7 +2,7 @@
 	"addr": "169.150.246.131:26372",
 	"gameport": 26372,
 	"steamid": "85568392923979260",
-	"name": "CS2 DUELS#23 ZA",
+	"name": "XPLAY.GG • CS2 DUELS#23 • [ZA]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "duels_mirage_xplaygg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
