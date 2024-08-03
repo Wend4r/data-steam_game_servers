@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
 	"map": "ze_neochrome_csgo3a",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,insecure"
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,insecure"
 }

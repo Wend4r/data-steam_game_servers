@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_natureblock_scte",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
