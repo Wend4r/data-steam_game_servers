@@ -1,7 +1,7 @@
 {
 	"addr": "177.136.162.7:27015",
 	"gameport": 27015,
-	"steamid": "90200611587978267",
+	"steamid": "90200616857082907",
 	"name": "prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 43,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
