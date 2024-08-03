@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 30,
 	"bots": 1,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
+	"gametype": "128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
 }
