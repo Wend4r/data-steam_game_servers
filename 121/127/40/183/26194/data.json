@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.183:26194",
+	"gameport": 26194,
+	"steamid": "90200597277450241",
+	"name": "[P] PopFlash Scrim - dallas - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}
