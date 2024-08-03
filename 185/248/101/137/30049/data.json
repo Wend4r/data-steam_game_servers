@@ -1,0 +1,19 @@
+{
+	"addr": "185.248.101.137:30049",
+	"gameport": 30049,
+	"steamid": "90200599265343501",
+	"name": "Воуки и Комары",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 2,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}
