@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 16,
-	"bots": 0,
-	"map": "fy_pool_day",
+	"bots": 2,
+	"map": "de_rats_1337_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cabrestos,secure"
+	"gametype": "cabrestos,secure"
 }

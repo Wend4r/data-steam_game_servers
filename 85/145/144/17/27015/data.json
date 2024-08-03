@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HAWK5,training,wingman,secure"
+	"gametype": "HAWK5,training,wingman,secure"
 }

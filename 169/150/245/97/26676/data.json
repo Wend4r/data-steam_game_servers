@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.97:26676",
 	"gameport": 26676,
-	"steamid": "90200605658628101",
-	"name": "Belfast Storm powered by PRACC.COM",
+	"steamid": "90200606386692101",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
