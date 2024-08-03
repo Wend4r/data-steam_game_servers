@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.57.222:33007",
 	"gameport": 33007,
-	"steamid": "90200612499456007",
-	"name": "qwekwoqd by \"FreeGameHosting.eu\"",
+	"steamid": "90200612835752967",
+	"name": "SSSSS by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "cs_office",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "secure"
 }
