@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "surf_hades",
+	"map": "surf_andromeda",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,#1,1,102,102.4,128,CL,DreamsGamers.cl,Surf chile,Surf chi"
+	"gametype": "#1,1,102,102.4,128,CL,DreamsGamers.cl,Surf chile,Surf chile #1,"
 }

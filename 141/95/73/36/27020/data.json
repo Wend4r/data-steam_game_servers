@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dev,k4ryuu,kitsune,kitsunelab,lab,test,insecure"
+	"gametype": "empty,dev,k4ryuu,kitsune,kitsunelab,lab,test,secure"
 }
