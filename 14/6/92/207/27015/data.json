@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_strange_escape_p",
+	"map": "ze_20_seconds_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,0,secure"
+	"gametype": "0,secure"
 }

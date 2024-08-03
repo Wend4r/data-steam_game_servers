@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 16,
 	"bots": 0,
-	"map": "dr_dojo",
+	"map": "deathrun_lego_world_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbr"
+	"gametype": "best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbreakabl"
 }
