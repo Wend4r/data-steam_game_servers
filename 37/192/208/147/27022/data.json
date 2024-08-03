@@ -1,0 +1,19 @@
+{
+	"addr": "37.192.208.147:27022",
+	"gameport": 27022,
+	"steamid": "85568392932034692",
+	"name": "sp4rky's DM server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}
