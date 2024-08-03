@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26621",
 	"gameport": 26621,
-	"steamid": "90200566209233933",
+	"steamid": "90200593062225933",
 	"name": "Solita.fi CS2 server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

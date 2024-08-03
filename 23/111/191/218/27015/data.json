@@ -11,10 +11,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 17,
-	"bots": 3,
-	"map": "awp_map_classic5",
+	"bots": 4,
+	"map": "aim_map_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,casual,classic,tehwebz,workshop,secure"
+	"gametype": "casual,classic,tehwebz,workshop,secure"
 }

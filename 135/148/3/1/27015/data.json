@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "bhop_gottagofast",
+	"map": "bhop_1derland",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
+	"gametype": "empty,bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
 }

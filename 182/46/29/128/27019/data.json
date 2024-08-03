@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 20,
 	"bots": 0,
-	"map": "hns_backyard_v1",
+	"map": "hns_freeway_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
