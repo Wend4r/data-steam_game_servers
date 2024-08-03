@@ -1,8 +1,7 @@
 {
 	"addr": "162.55.132.184:1042",
 	"gameport": 1042,
-	"specport": 27020,
-	"steamid": "90200568970770448",
+	"steamid": "90200596358244368",
 	"name": "Nofame 3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 15,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
