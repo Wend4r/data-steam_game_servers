@@ -3,7 +3,7 @@
 	"gameport": 27019,
 	"specport": 27020,
 	"steamid": "90200600696709134",
-	"name": "ff46f20beca5a03bf2871d8ecb60f16b",
+	"name": "6b077efb94b0c31abcd5fe894692ab39",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

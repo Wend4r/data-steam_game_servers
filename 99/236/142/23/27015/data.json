@@ -1,19 +1,19 @@
 {
 	"addr": "99.236.142.23:27015",
 	"gameport": 27015,
-	"steamid": "90200597824321560",
-	"name": "Counter-Strike 2",
+	"steamid": "85568392932034346",
+	"name": "Meta's Epic Awp Bhop Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "awp_simpsons_street",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
