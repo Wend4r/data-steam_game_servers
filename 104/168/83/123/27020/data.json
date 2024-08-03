@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "surf_me",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Tickrate 102,!knife,autohop,85,85.3,bhop,ckSurf 1.18,citatsia,church,ckSurf,knife,store,surf,tier,ws,secure"
+	"gametype": "empty,Tickrate 102,!knife,autohop,85,85.3,bhop,ckSurf 1.18,citatsia,church,ckSurf,knife,store,surf,tier,ws,insecure"
 }
