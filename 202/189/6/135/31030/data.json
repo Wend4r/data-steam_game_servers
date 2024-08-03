@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 48,
 	"bots": 0,
-	"map": "zm_mansion_p",
+	"map": "zm_tranquility_c1_d_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "185.233.184.44:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931418190",
 	"name": "POBEDA.WIN",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 17,
+	"players": 1,
+	"max_players": 16,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
