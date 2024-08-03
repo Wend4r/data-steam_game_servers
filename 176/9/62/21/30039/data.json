@@ -1,0 +1,20 @@
+{
+	"addr": "176.9.62.21:30039",
+	"gameport": 30039,
+	"specport": 35087,
+	"steamid": "90200612196884483",
+	"name": "4LG Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 19,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

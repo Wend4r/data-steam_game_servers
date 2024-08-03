@@ -2,8 +2,8 @@
 	"addr": "39.49.235.60:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200584652861455",
-	"name": "noobster's Competitive",
+	"steamid": "90200612175977487",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_ruins_d_prefab",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,secure"
+	"gametype": "empty,secure"
 }
