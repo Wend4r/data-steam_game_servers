@@ -1,7 +1,7 @@
 {
 	"addr": "46.32.146.115:27015",
 	"gameport": 27015,
-	"steamid": "90200393464393728",
+	"steamid": "90200598721114112",
 	"name": "V12 CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
