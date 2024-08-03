@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.35:26371",
 	"gameport": 26371,
-	"steamid": "90200602257647624",
+	"steamid": "90200602433757192",
 	"name": "Sams CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
