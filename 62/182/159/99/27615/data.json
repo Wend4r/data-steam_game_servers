@@ -1,8 +1,8 @@
 {
 	"addr": "62.182.159.99:27615",
 	"gameport": 27615,
-	"steamid": "90200585439583238",
-	"name": "CS 2 Server hosted by Nova-Host.ru",
+	"steamid": "90200608275589126",
+	"name": "[CS2] PROTON | AWP |!ws !knife",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
