@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.103:26326",
 	"gameport": 26326,
-	"steamid": "90200602058643467",
+	"steamid": "90200602411085835",
 	"name": "My Counterstrike Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 8,
 	"bots": 8,
-	"map": "de_breach",
+	"map": "cs_mansion_dagestan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
