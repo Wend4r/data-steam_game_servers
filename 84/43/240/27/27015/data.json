@@ -1,7 +1,7 @@
 {
 	"addr": "84.43.240.27:27015",
 	"gameport": 27015,
-	"steamid": "90200602050512901",
+	"steamid": "90200602237733893",
 	"name": "TroubleChute's Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

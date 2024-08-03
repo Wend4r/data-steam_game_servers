@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_Halloween_House_b4",
+	"map": "ze_PotC_IV_p3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zomb"
+	"gametype": "!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zombiemod,"
 }
