@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.40.183:26728",
 	"gameport": 26728,
-	"specport": 26729,
-	"steamid": "90200565929567233",
+	"steamid": "90200593281172481",
 	"name": "Mindset Diff Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "37.230.228.211:27022",
 	"gameport": 27022,
-	"specport": 27020,
 	"steamid": "85568392930343625",
 	"name": "Краснодар |30| Mirage [Mirror]",
 	"appid": 730,
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 33,
+	"max_players": 32,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,

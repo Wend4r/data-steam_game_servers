@@ -1,7 +1,7 @@
 {
 	"addr": "217.86.208.113:27019",
 	"gameport": 27019,
-	"steamid": "90200593059825688",
+	"steamid": "90200593221776408",
 	"name": "[Gamehammel] Surf",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Surf,combat,surf,surfcombat,secure"
+	"gametype": "Surf,combat,surf,surfcombat,secure"
 }
