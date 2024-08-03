@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26130",
 	"gameport": 26130,
-	"steamid": "90200591579539470",
+	"steamid": "90200598355127310",
 	"name": "PeeP (ex-ILIN) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
