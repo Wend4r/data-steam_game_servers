@@ -1,6 +1,7 @@
 {
 	"addr": "94.130.14.211:27059",
 	"gameport": 27059,
+	"specport": 27060,
 	"steamid": "90200607984332803",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_crashz_dust_1on1",
+	"map": "fistmap",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
