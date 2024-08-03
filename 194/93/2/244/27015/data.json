@@ -2,19 +2,19 @@
 	"addr": "194.93.2.244:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200605702329369",
+	"steamid": "90200606092571673",
 	"name": "MAGNIMUM ● CLASSIC",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }
