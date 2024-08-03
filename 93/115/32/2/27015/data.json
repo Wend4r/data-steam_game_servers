@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "am_guter",
+	"map": "am_snowfall_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!nametag,!skins,!ws,128 tick,1v1,arena,challenge,csgo,gloves,legacy,multi1v1,new csgo case,new skins,ngz,ngz.ro,"
+	"gametype": "empty,!gloves,!knife,!nametag,!skins,!ws,128 tick,1v1,arena,challenge,csgo,gloves,legacy,multi1v1,new csgo case,new skins,ngz,n"
 }
