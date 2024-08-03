@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 3,
-	"map": "surf_ace_fix",
+	"map": "surf_nuclear",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_ace_fi"
+	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_nuclea"
 }

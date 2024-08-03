@@ -1,8 +1,7 @@
 {
 	"addr": "45.179.91.41:27146",
 	"gameport": 27146,
-	"specport": 28146,
-	"steamid": "90200612320220173",
+	"steamid": "90200612661741581",
 	"name": "PampsChoro @ HOSTZONE.com.br",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 11,
-	"bots": 0,
+	"max_players": 10,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
