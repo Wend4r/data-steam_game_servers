@@ -1,7 +1,7 @@
 {
 	"addr": "51.83.172.143:23500",
 	"gameport": 23500,
-	"steamid": "90200571690876943",
+	"steamid": "90200598222766095",
 	"name": "ServerProject.pl | ciampaka",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pl,svpj,insecure"
+	"gametype": "empty,pl,svpj,secure"
 }

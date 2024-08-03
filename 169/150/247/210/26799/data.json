@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.210:26799",
 	"gameport": 26799,
-	"steamid": "90200571596305430",
+	"steamid": "90200598178828310",
 	"name": "Bocciofila",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,

@@ -2,7 +2,7 @@
 	"addr": "46.174.54.117:27045",
 	"gameport": 27045,
 	"steamid": "90200530431800332",
-	"name": "genesis 16145: team_Аркадий поровозов vs team_�",
+	"name": "[genesis] League #12",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
