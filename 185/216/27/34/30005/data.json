@@ -1,19 +1,19 @@
 {
 	"addr": "185.216.27.34:30005",
 	"gameport": 30005,
-	"steamid": "90200607444604957",
+	"steamid": "90200607737425949",
 	"name": "DEV",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

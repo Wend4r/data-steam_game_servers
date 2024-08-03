@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 3,
-	"map": "de_train",
+	"bots": 2,
+	"map": "de_favela_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
