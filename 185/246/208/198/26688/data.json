@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.198:26688",
 	"gameport": 26688,
-	"steamid": "90200608394352658",
+	"steamid": "90200608550130706",
 	"name": "Петушиное семя ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }
