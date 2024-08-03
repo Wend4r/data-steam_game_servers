@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.32:27085",
 	"gameport": 27085,
-	"steamid": "90200607596514310",
+	"steamid": "90200610776984582",
 	"name": "【KOD社区】饰品检视|Buff饰品一键预览",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "big_d2_31_05_24",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
