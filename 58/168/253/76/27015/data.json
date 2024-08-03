@@ -1,7 +1,7 @@
 {
 	"addr": "58.168.253.76:27015",
 	"gameport": 27015,
-	"steamid": "90200522108098586",
+	"steamid": "90200592769467418",
 	"name": "Edina Dungeon",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,9 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
-	"os": "w"
+	"os": "w",
+	"gametype": "empty,secure"
 }
