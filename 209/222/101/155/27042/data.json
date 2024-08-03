@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_raptors_course_cmg",
+	"map": "mg_alley_course_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:3969910i,TtK,bhop,deathrun,dr,fastDL,fun,mg,minigames,timetokill.net,secure"
+	"gametype": "empty,*grp:3969910i,TtK,bhop,deathrun,dr,fastDL,fun,mg,minigames,timetokill.net,insecure"
 }

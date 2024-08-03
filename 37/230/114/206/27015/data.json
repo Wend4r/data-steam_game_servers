@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 18,
-	"bots": 2,
-	"map": "awp_lego_2",
+	"bots": 0,
+	"map": "awp_india_hd",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cas"
+	"gametype": "!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cases,cla"
 }

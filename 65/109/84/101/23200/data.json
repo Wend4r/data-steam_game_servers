@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.84.101:23200",
 	"gameport": 23200,
-	"steamid": "90200592983421982",
+	"steamid": "90200598083880990",
 	"name": "Noobs",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,4Netplayers,Germany,de,insecure"
+	"gametype": "empty,4Netplayers,Germany,de,secure"
 }
