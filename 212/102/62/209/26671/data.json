@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.209:26671",
+	"gameport": 26671,
+	"steamid": "90200608457253916",
+	"name": "TSV",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
