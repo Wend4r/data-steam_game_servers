@@ -1,13 +1,13 @@
 {
 	"addr": "193.19.119.127:30005",
 	"gameport": 30005,
-	"steamid": "90200611738981402",
+	"steamid": "90200611740851226",
 	"name": "Server CS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,16K,HvH,Impossible,MSK,RU,hvh,insecure"
 }

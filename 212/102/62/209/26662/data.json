@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26662",
 	"gameport": 26662,
-	"steamid": "90200611522667548",
-	"name": "EYS Clan powered by PRACC.COM",
+	"steamid": "90200611705150492",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
