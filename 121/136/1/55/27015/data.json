@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 10,
-	"max_players": 10,
-	"bots": 0,
-	"map": "de_mirage",
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

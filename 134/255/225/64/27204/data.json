@@ -1,0 +1,19 @@
+{
+	"addr": "134.255.225.64:27204",
+	"gameport": 27204,
+	"steamid": "85568392931450613",
+	"name": "Crystalpeeks babonische Terrosisten",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.2",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 28,
+	"bots": 2,
+	"map": "awplongrangewithbot",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
