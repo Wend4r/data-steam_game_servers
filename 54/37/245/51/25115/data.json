@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 64,
-	"bots": 3,
-	"map": "surf_liberation",
+	"bots": 2,
+	"map": "surf_smaragd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_liberation,secure"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_smaragd,secure"
 }

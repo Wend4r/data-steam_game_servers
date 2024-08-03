@@ -1,7 +1,7 @@
 {
 	"addr": "68.44.152.27:27015",
 	"gameport": 27015,
-	"steamid": "90200585171764245",
+	"steamid": "90200616479856661",
 	"name": "Drixevel's Test Server [CS2]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 16,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,

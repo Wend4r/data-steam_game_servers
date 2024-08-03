@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.32:27025",
 	"gameport": 27025,
-	"steamid": "90200616392742918",
+	"steamid": "90200616395649030",
 	"name": "【KOD社区】混战2F|免费龙狙潘多拉",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
