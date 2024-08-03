@@ -11,9 +11,9 @@
 	"players": 28,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_kox",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -1,0 +1,19 @@
+{
+	"addr": "42.118.154.243:29065",
+	"gameport": 29065,
+	"steamid": "85568392931589248",
+	"name": "[7-Mau] RETAKES 5v5 #1 | By WAVY",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wav"
+}
