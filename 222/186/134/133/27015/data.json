@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ftkm,gravity,prop,zm,zombie,secure"
+	"gametype": "ftkm,gravity,prop,zm,zombie,secure"
 }
