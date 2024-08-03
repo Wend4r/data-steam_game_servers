@@ -1,6 +1,7 @@
 {
 	"addr": "37.19.215.246:26836",
 	"gameport": 26836,
+	"specport": 26837,
 	"steamid": "90200609753586713",
 	"name": "csmix 2024",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 12,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
