@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 0,
-	"map": "awp_pro",
+	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam,insecure"
+	"gametype": "*grp:5114777i,no-steam,insecure"
 }

@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27085",
 	"gameport": 27085,
 	"steamid": "90200530600560652",
-	"name": "[genesis] League #16",
+	"name": "genesis 16520: team_Klehus vs team_kermitttt.exe",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

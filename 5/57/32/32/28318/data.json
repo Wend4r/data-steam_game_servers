@@ -2,18 +2,18 @@
 	"addr": "5.57.32.32:28318",
 	"gameport": 28318,
 	"steamid": "85568392932034906",
-	"name": "Immortals Mix/Match Server",
+	"name": "Immortals",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 8,
 	"max_players": 12,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "MaxGaming,iranImmortals,secure"
+	"gametype": "empty,insecure"
 }

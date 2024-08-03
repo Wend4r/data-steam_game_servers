@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.168:26970",
 	"gameport": 26970,
-	"specport": 26971,
-	"steamid": "90200586021012507",
+	"steamid": "90200613024717851",
 	"name": "InternationalAgents",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
