@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,competitive,dv,public,steam,secure"
+	"gametype": "empty,competitive,dv,public,steam,insecure"
 }
