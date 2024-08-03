@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "zm_cbglc_b3_space_fixed",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ftkm,gravity,prop,zm,zombie,secure"
+	"gametype": "ftkm,gravity,prop,zm,zombie,secure"
 }

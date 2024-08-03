@@ -1,7 +1,7 @@
 {
 	"addr": "109.205.180.199:27115",
 	"gameport": 27115,
-	"steamid": "90200605029900315",
+	"steamid": "90200605399172123",
 	"name": "11Barbaren",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
