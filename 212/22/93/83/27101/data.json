@@ -1,0 +1,20 @@
+{
+	"addr": "212.22.93.83:27101",
+	"gameport": 27101,
+	"specport": 27103,
+	"steamid": "85568392923110960",
+	"name": "EXTREME SHOT MIRAGE | #1 [ONLY][MIRAGE][128tick] | !ws !gloves ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,128 tick,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europe,fun,gloves,guns,knife,maps,mirage,public,rus,shop,steam,vip,ws"
+}

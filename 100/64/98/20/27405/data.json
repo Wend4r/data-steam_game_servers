@@ -10,10 +10,10 @@
 	"region": 6,
 	"players": 4,
 	"max_players": 64,
-	"bots": 8,
-	"map": "de_inferno",
+	"bots": 7,
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

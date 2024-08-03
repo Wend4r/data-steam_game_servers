@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "big_city_v3",
+	"map": "hide_park",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1mpulse,LKv2,insecure"
+	"gametype": "empty,insecure"
 }
