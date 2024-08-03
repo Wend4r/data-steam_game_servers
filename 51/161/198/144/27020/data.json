@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 64,
-	"bots": 9,
+	"bots": 0,
 	"map": "gg_split_gg1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

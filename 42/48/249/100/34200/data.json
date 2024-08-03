@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 20,
-	"bots": 6,
+	"bots": 4,
 	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
