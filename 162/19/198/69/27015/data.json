@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 40,
-	"bots": 10,
+	"bots": 1,
 	"map": "surf_froots_ksf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,64tick,SurfHeaven,autobhop,cs20,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,secure"
+	"gametype": "empty,!knife,!ws,64tick,SurfHeaven,autobhop,cs20,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,secure"
 }

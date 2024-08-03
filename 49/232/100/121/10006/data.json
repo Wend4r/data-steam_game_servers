@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 2,
 	"bots": 0,
-	"map": "kz_dontjump",
+	"map": "kz_drops_od",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,secure"
+	"gametype": "hidden,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "149.50.98.59:27115",
 	"gameport": 27115,
-	"steamid": "90200612099646480",
+	"steamid": "90200612272222224",
 	"name": "Калач CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
