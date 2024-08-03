@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "dr_dojo",
+	"map": "dr_simpsons_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbr"
+	"gametype": "best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbreakabl"
 }

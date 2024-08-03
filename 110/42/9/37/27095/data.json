@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.37:27095",
 	"gameport": 27095,
-	"steamid": "90200580980593675",
+	"steamid": "90200616291208203",
 	"name": "【KOD社区】满十赛事服#1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

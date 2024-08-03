@@ -1,8 +1,7 @@
 {
 	"addr": "88.99.92.247:27215",
 	"gameport": 27215,
-	"specport": 27220,
-	"steamid": "90200502972520463",
+	"steamid": "90200616300613647",
 	"name": "MarburgPrac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
