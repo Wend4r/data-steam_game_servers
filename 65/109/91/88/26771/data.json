@@ -1,8 +1,7 @@
 {
 	"addr": "65.109.91.88:26771",
 	"gameport": 26771,
-	"specport": 26772,
-	"steamid": "90200590249971724",
+	"steamid": "90200616869135372",
 	"name": "RootsACPrac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

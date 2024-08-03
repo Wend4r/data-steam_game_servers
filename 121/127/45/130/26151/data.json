@@ -2,7 +2,7 @@
 	"addr": "121.127.45.130:26151",
 	"gameport": 26151,
 	"specport": 26152,
-	"steamid": "90200590254886919",
+	"steamid": "90200616709329927",
 	"name": "GUARD RETAKE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

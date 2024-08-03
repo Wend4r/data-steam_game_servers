@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26878",
 	"gameport": 26878,
-	"steamid": "90200590229799958",
+	"steamid": "90200616813798422",
 	"name": "YoungStars",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

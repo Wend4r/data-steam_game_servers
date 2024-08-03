@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.246:26125",
 	"gameport": 26125,
-	"steamid": "90200590766665753",
+	"steamid": "90200616789472281",
 	"name": "kHORG ELLAGI",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
