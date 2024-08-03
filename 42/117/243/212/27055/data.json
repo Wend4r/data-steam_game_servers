@@ -1,0 +1,19 @@
+{
+	"addr": "42.117.243.212:27055",
+	"gameport": 27055,
+	"steamid": "85568392930469138",
+	"name": "Perta Kreedz Retake Pug",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "/715243400/kz_bhop_zenith",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
