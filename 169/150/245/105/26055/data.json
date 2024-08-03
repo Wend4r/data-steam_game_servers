@@ -2,7 +2,7 @@
 	"addr": "169.150.245.105:26055",
 	"gameport": 26055,
 	"specport": 26056,
-	"steamid": "90200585920978957",
+	"steamid": "90200606662388749",
 	"name": "MapINK - Playtest",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_artemis",
+	"bots": 1,
+	"map": "de_modem",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -2,7 +2,7 @@
 	"addr": "46.174.55.208:27046",
 	"gameport": 27046,
 	"steamid": "85568392931848131",
-	"name": "CS2 ARENA | 1v1 #8 [RU] — CYBERSHOKE.NET",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "am_aztec2_cybershoke",
+	"map": "am_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "am_aztec2_cybershoke,1vs1,1v1,arena,128,128tick,cyber,cybershok"
+	"gametype": "empty,am_japan,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel"
 }
