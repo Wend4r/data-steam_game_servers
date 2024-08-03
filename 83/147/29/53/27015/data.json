@@ -2,7 +2,7 @@
 	"addr": "83.147.29.53:27015",
 	"gameport": 27015,
 	"steamid": "85568392931865607",
-	"name": "Ludara Gaming - Public 24/7",
+	"name": "Ludara Mirage Only [FREE VIP 22-10H]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
