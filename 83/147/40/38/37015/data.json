@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_spaceladders_v2",
+	"map": "kz_oloramasa",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,climb,gokz,hoc,house,jumpstats,kreedz,kz,kzt,kztimer,of,skz,vanilla,vnl,secure"
+	"gametype": "climb,gokz,hoc,house,jumpstats,kreedz,kz,kzt,kztimer,of,skz,vanilla,vnl,secure"
 }
