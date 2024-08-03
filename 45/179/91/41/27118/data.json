@@ -1,7 +1,7 @@
 {
 	"addr": "45.179.91.41:27118",
 	"gameport": 27118,
-	"steamid": "90200612862665741",
+	"steamid": "90200615349932045",
 	"name": "Gamese 3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,

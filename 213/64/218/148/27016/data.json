@@ -1,6 +1,7 @@
 {
 	"addr": "213.64.218.148:27016",
 	"gameport": 27016,
+	"specport": 27021,
 	"steamid": "90200613990677530",
 	"name": "Custom bots",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 10,
-	"bots": 8,
-	"map": "de_nuke",
+	"bots": 9,
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
