@@ -1,7 +1,7 @@
 {
 	"addr": "85.76.162.123:27016",
 	"gameport": 27016,
-	"steamid": "90200610954940416",
+	"steamid": "90200610956513280",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_ancient",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
