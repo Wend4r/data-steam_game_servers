@@ -1,19 +1,19 @@
 {
 	"addr": "213.64.218.148:27016",
 	"gameport": 27016,
-	"steamid": "90200613032461338",
+	"steamid": "90200613988172826",
 	"name": "Custom bots",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

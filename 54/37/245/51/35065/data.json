@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_lockdown",
+	"map": "surf_domain",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_lockdown,secure"
+	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_domain,secure"
 }
