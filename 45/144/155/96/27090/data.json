@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12v12,24/7,bulgaria,competitive,cs2,fun,leaderboard,ranks"
+	"gametype": "12v12,24/7,bulgaria,competitive,cs2,fun,leaderboard,ranks,secur"
 }
