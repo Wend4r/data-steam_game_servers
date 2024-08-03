@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 18,
 	"bots": 0,
-	"map": "aim_awp_row_v1",
+	"map": "am_caribbean",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tickrate,1tap,awp,fun,goarenafreakz,horizon,hydra,n4amicii,nevermore,no steam,no-steam,nodeagle,one,pubzone,shop,tap,top,vip"
+	"gametype": "empty,128tickrate,1tap,awp,fun,goarenafreakz,horizon,hydra,n4amicii,nevermore,no steam,no-steam,nodeagle,one,pubzone,shop,tap,t"
 }
