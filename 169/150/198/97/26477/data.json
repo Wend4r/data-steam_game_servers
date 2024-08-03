@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.198.97:26477",
+	"gameport": 26477,
+	"steamid": "90200615840331777",
+	"name": "PLAY.PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+}

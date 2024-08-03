@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knves,kz,"
+	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
 }
