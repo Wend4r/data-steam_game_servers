@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.211.230:26746",
 	"gameport": 26746,
-	"steamid": "85568392930458726",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"steamid": "90200606663146509",
+	"name": "Sharks powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 16,
+	"max_players": 17,
 	"bots": 0,
-	"map": "de_nuke",
-	"secure": false,
+	"map": "de_inferno",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

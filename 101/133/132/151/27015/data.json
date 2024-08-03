@@ -1,6 +1,7 @@
 {
 	"addr": "101.133.132.151:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200605825977353",
 	"name": "MB服务器",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 12,
-	"bots": 3,
-	"map": "de_dust2",
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
