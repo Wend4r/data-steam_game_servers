@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,TTF SERVER WAR,secure"
+	"gametype": "empty,TTF SERVER WAR,insecure"
 }

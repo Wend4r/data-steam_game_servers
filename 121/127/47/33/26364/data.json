@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26364",
 	"gameport": 26364,
-	"steamid": "90200571084563462",
+	"steamid": "90200598381368326",
 	"name": "Pacos CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

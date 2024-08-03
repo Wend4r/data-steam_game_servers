@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.235:26544",
 	"gameport": 26544,
-	"steamid": "90200571114776594",
+	"steamid": "90200598405828626",
 	"name": "BR'z eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "brz,dathost,dathost.net,secure"
+	"gametype": "empty,brz,dathost,dathost.net,insecure"
 }

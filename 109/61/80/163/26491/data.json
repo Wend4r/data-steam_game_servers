@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26491",
 	"gameport": 26491,
-	"steamid": "90200571244000278",
+	"steamid": "90200598337629206",
 	"name": "INEX Decor - prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

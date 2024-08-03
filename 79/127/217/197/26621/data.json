@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26621",
 	"gameport": 26621,
-	"steamid": "90200571140450309",
+	"steamid": "90200598307662853",
 	"name": "The Boys",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

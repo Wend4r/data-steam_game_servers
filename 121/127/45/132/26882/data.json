@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26882",
 	"gameport": 26882,
-	"steamid": "90200571214976009",
+	"steamid": "90200598402117641",
 	"name": "Klub Hjerting & Tarp",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

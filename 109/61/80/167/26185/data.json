@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26185",
 	"gameport": 26185,
-	"steamid": "90200571249359898",
+	"steamid": "90200598426644506",
 	"name": "CS2 BS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

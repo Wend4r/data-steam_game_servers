@@ -2,7 +2,7 @@
 	"addr": "169.150.247.209:26431",
 	"gameport": 26431,
 	"specport": 26432,
-	"steamid": "90200571209806869",
+	"steamid": "90200598352516117",
 	"name": "Manzanilla de la muerte Wohnzimmer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

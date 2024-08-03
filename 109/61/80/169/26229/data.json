@@ -2,7 +2,7 @@
 	"addr": "109.61.80.169:26229",
 	"gameport": 26229,
 	"specport": 26230,
-	"steamid": "90200571164761116",
+	"steamid": "90200598271842332",
 	"name": "mens) Server #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

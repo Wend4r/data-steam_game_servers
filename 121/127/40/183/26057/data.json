@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26057",
 	"gameport": 26057,
-	"steamid": "90200571239264257",
+	"steamid": "90200598367522817",
 	"name": "Epic Hold",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

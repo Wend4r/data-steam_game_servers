@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_outferno2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,*grp:6395B4085E84BE18B643023F6D7AB2ABi,rev=763939"
+	"gametype": "empty,!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,*grp:6395B4085E84BE18B643023F6D7AB2ABi,rev="
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26589",
 	"gameport": 26589,
-	"steamid": "90200571239326721",
+	"steamid": "90200598367591425",
 	"name": "Keep Calm and Chill",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 2,
-	"map": "fy_pool_day",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

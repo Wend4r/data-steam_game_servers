@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,retakes,secure"
+	"gametype": "empty,dathost,dathost.net,retakes,secure"
 }
