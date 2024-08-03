@@ -1,7 +1,7 @@
 {
 	"addr": "46.151.199.65:26976",
 	"gameport": 26976,
-	"steamid": "90200567148614658",
+	"steamid": "90200594145932290",
 	"name": "TB - The Gorfing",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

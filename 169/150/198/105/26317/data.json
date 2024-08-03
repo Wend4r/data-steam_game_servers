@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26317",
 	"gameport": 26317,
-	"steamid": "90200566424225801",
+	"steamid": "90200594017039369",
 	"name": "Adderfury",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.206.85:26804",
+	"gameport": 26804,
+	"specport": 26805,
+	"steamid": "90200594125416452",
+	"name": "[P] PopFlash Scrim - new_york_city - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,secure"
+}
