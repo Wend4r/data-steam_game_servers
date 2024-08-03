@@ -1,7 +1,7 @@
 {
 	"addr": "45.159.6.195:25565",
 	"gameport": 25565,
-	"steamid": "90200591275299844",
+	"steamid": "90200597613709316",
 	"name": "Gexils Arena",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "ar_shoots",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.46.38:27021",
 	"gameport": 27021,
+	"specport": 27022,
 	"steamid": "90200594213706763",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

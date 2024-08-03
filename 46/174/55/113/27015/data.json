@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 35,
 	"bots": 0,
-	"map": "jb_moti2_final",
+	"map": "jb_minecraftparty_v8",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 30,
-	"bots": 3,
-	"map": "surf_lore_e",
+	"bots": 2,
+	"map": "surf_lo_tek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,cksurf,easy,finland,kitsune,mesa,skill,skillsurf,suomi,surf,surftimer,"
+	"gametype": "!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,cksurf,easy,finland,kitsune,mesa,skill,skillsurf,suomi,surf,surftimer,timer,"
 }
