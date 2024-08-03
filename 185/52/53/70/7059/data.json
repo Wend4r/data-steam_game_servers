@@ -1,7 +1,7 @@
 {
 	"addr": "185.52.53.70:7059",
 	"gameport": 7059,
-	"steamid": "90200592987607050",
+	"steamid": "90200593920845834",
 	"name": "Counter Strike 2 DEATHMATCH NOOBGAMEZONE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
