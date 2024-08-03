@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26824",
 	"gameport": 26824,
-	"steamid": "90200594494943233",
+	"steamid": "90200595088893953",
 	"name": "Amoeba",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
