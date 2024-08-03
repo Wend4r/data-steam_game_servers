@@ -1,6 +1,7 @@
 {
 	"addr": "45.235.99.104:27617",
 	"gameport": 27617,
+	"specport": 27020,
 	"steamid": "85568392931028588",
 	"name": ",🔥 420Servers 🔥 RETAKE #2 | SKINS-AGENTES GRATIS",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 4,
-	"max_players": 10,
+	"max_players": 11,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
