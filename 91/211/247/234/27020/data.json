@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 33,
 	"bots": 1,
-	"map": "awp_summer_surf_cs2",
+	"map": "awp_lego_2_winter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,g"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,ggarena"
 }
