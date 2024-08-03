@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_radio_building_v1_3",
+	"map": "ze_boatescape888_v1_8",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,FyS,ZE,Zombie Escape,fyscs.com,secure"
+	"gametype": "FyS,ZE,Zombie Escape,fyscs.com,secure"
 }
