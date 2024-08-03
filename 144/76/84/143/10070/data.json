@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10070",
 	"gameport": 10070,
-	"steamid": "90200590087133193",
-	"name": "KeRa - free @ fshost.me",
+	"steamid": "90200616156848137",
+	"name": "Lueflue - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
-	"max_players": 2,
+	"players": 1,
+	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": true,
+	"map": "de_nuke",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

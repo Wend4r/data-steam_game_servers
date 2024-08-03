@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_dust2_night_gylala",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,"
+	"gametype": "FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,lowpin"
 }
