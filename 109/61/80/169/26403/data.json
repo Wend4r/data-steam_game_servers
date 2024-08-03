@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26403",
 	"gameport": 26403,
-	"steamid": "90200594632411164",
+	"steamid": "90200609742983196",
 	"name": "Enigma Prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

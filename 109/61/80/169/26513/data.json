@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26513",
 	"gameport": 26513,
-	"steamid": "90200591160546332",
+	"steamid": "90200609742741532",
 	"name": "WMS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
