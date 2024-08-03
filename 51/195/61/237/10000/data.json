@@ -1,19 +1,19 @@
 {
 	"addr": "51.195.61.237:10000",
 	"gameport": 10000,
-	"steamid": "90200608344324111",
-	"name": "Carthage Network - free @ fshost.me",
+	"steamid": "90200608846625807",
+	"name": "nafe3 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
-	"max_players": 4,
+	"players": 6,
+	"max_players": 12,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
