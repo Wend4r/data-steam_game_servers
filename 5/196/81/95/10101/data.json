@@ -1,6 +1,7 @@
 {
 	"addr": "5.196.81.95:10101",
 	"gameport": 10101,
+	"specport": 10111,
 	"steamid": "85568392932022310",
 	"name": "Counter-Strike 2",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 33,
 	"bots": 1,
-	"map": "am_anubis_p",
+	"map": "arenka_anubishouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
