@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Brasil,Only pistol,Putinha,Savage,autobhop,bhop,faca,pistol,pistola,putinha,putinha servidores,retake,savage,somente pistola,ws"
+	"gametype": "empty,Brasil,Only pistol,Putinha,Savage,autobhop,bhop,faca,pistol,pistola,putinha,putinha servidores,retake,savage,somente pist"
 }
