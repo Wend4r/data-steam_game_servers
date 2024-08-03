@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "hns_alley_v1",
+	"map": "hns_flowtown_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_alley_v1,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_flowtown_v1,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
