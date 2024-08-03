@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "kz_slowerrun",
+	"map": "kz_sxb_xbcmzl",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bad,fl0m,gokz,kz,servers,secure"
+	"gametype": "empty,bad,fl0m,gokz,kz,servers,secure"
 }
