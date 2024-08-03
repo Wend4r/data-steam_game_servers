@@ -1,0 +1,19 @@
+{
+	"addr": "220.187.43.67:27025",
+	"gameport": 27025,
+	"steamid": "90200590737229854",
+	"name": "<<<NO GLST>>>",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.7.9",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 24,
+	"bots": 0,
+	"map": "ar_baggage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}
