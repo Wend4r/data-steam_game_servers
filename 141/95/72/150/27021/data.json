@@ -3,7 +3,7 @@
 	"gameport": 27021,
 	"specport": 29021,
 	"steamid": "85568392931882981",
-	"name": "[PL]|ıllıllıGramyPLıllıllı|✦RANKING✦RANGI✦ (1/12)",
+	"name": "[PL]|ıllıllıGramyPLıllıllı|✦RANKING✦RANGI✦ (2/12)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bo1,bo2,bo3,boty,mm,rangi,ranking,insecure"
+	"gametype": "bo1,bo2,bo3,boty,mm,rangi,ranking,insecure"
 }

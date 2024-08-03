@@ -2,7 +2,7 @@
 	"addr": "212.22.92.5:27002",
 	"gameport": 27002,
 	"specport": 27020,
-	"steamid": "85568392931519173",
+	"steamid": "85568392932035031",
 	"name": "✪ DeRose ONLY AWP 16+ ✪ |  !ws  !knife  !gloves  !vip",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!vip,!ws,16+,Competitive,Custom Skins,Fun,Public,insecure"
+	"gametype": "empty,!gloves,!knife,!vip,!ws,16+,Competitive,Custom Skins,Fun,Public,insecure"
 }
