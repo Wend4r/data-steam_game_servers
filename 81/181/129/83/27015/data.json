@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "obg_am_halloween_2020",
+	"map": "obg_am_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,du,duv2,secure"
+	"gametype": "du,duv2,secure"
 }

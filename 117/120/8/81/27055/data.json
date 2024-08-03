@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 2,
-	"map": "drawbridge",
+	"bots": 3,
+	"map": "de_maginot",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

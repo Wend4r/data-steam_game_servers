@@ -1,7 +1,7 @@
 {
 	"addr": "159.65.119.31:27015",
 	"gameport": 27015,
-	"steamid": "85568392931259300",
+	"steamid": "85568392931694863",
 	"name": "test_servak",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

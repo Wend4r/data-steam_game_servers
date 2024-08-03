@@ -1,6 +1,7 @@
 {
 	"addr": "79.143.20.234:27075",
 	"gameport": 27075,
+	"specport": 27076,
 	"steamid": "90200571631051805",
 	"name": "QEO CS2 qeo.kz",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

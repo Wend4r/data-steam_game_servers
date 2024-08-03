@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 4,
 	"max_players": 42,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,"
+	"gametype": "1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,dust2,"
 }
