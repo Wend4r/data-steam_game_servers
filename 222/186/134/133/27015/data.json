@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 5,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "zm_echo_mainstreet_v93xnet_re-l",
 	"secure": true,
 	"dedicated": true,
