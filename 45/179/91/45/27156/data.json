@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 6,
-	"map": "/243702660/aim_botz",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
+	"gametype": "empty,br,brasil,csgo,host,hostzone,sao paulo,sp,insecure"
 }

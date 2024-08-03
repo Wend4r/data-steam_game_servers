@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "hns_devblocks_v5",
+	"map": "hns_favela_beta",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,favela,favelayaw,fvl,fy,hidenseek,hns,hostzone,knife,kz,movement,savage,surf,ws,secure"
+	"gametype": "empty,bhop,favela,favelayaw,fvl,fy,gravity,hidenseek,hns,hostzone,knife,kz,movement,savage,surf,ws,insecure"
 }

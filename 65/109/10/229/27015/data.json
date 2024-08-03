@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "finland,finnish,gloves,knife,pvprealm,realmi,realmi.fi,retake s"
+	"gametype": "empty,finland,finnish,gloves,knife,pvprealm,realmi,realmi.fi,re"
 }
