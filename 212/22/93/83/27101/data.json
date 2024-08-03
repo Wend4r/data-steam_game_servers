@@ -9,11 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128 tick,1mpul,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europe,fun,gloves,guns,knife,maps,mirage,public,rus,shop,steam,"
+	"gametype": "128 tick,1mpul,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europe,fun,gloves,guns,knife,maps,mirage,public,rus,shop,steam,vip,ws"
 }
