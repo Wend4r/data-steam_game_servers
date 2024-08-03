@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26165",
 	"gameport": 26165,
-	"steamid": "90200585596582918",
-	"name": "Miami E-Sports powered by PRACC.COM",
+	"steamid": "85568392931041839",
+	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 10,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_anubis",
-	"secure": true,
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26288",
 	"gameport": 26288,
+	"specport": 26289,
 	"steamid": "90200612471999505",
 	"name": "Gravity Rangers Money Crew",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_santo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
