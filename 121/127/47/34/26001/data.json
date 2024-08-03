@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.47.34:26001",
+	"gameport": 26001,
+	"specport": 26002,
+	"steamid": "90200609537301511",
+	"name": "Leetify CS2 KZ by Nexar",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kzpro_only_up_extended",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

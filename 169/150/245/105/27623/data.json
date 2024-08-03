@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.105:27623",
+	"gameport": 27623,
+	"specport": 27624,
+	"steamid": "85568392931026950",
+	"name": "Meow DZ Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 24,
+	"bots": 1,
+	"map": "dz_sirocco",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "danger-zone,dangerzone,dz,secure"
+}
