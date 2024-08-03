@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
 	"map": "/2458920550/de_tuscan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,0,secure"
+	"gametype": "0,secure"
 }
