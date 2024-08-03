@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,fp,public,ranks,vip,secure"
+	"gametype": "empty,bhop,fp,public,ranks,vip,insecure"
 }
