@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.129:26603",
+	"gameport": 26603,
+	"steamid": "90200611317146630",
+	"name": "Leetify CS2 Match by Acozin☃ (个_个)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
