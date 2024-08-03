@@ -1,0 +1,19 @@
+{
+	"addr": "59.55.78.96:27015",
+	"gameport": 27015,
+	"steamid": "85568392931930811",
+	"name": "走振麦的单挑练习房",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "aim_map",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
