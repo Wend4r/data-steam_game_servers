@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "awp_india_cs2",
+	"map": "awp_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,admin,awp,awponly,cs2,freevip,lego,vac,vip,viptest,secure"
+	"gametype": "admin,awp,awponly,cs2,freevip,lego,vac,vip,viptest,secure"
 }
