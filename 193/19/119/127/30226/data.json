@@ -2,18 +2,18 @@
 	"addr": "193.19.119.127:30226",
 	"gameport": 30226,
 	"steamid": "85568392932034946",
-	"name": "Server CS",
+	"name": " Personal Faceit server ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
-	"max_players": 20,
+	"players": 1,
+	"max_players": 14,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
