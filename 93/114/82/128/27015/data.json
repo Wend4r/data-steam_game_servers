@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "KILOWAT,alphacs,counter-strike 2,cs2,csgo,gloves,gloves,knifes,"
+	"gametype": "empty,KILOWAT,alphacs,counter-strike 2,cs2,csgo,gloves,gloves,k"
 }
