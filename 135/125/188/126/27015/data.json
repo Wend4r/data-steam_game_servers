@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 4,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_train",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2v2,64tick,aimware,alhamdullilah,awp,dm,fata,fatality,hack,hackvs,hackvshack,hvh,hvh,newvision,nv,onetap,otc,skeet,wingma"
+	"gametype": "2v2,64tick,aimware,alhamdullilah,awp,dm,fata,fatality,hack,hackvs,hackvshack,hvh,hvh,newvision,nv,onetap,otc,skeet,wingman,xane"
 }
