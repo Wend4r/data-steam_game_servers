@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 38,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ajan,!knife,!mvp,!ws,7/24 Admin,DROP,FUN,PRO,secure"
+	"gametype": "empty,!ajan,!knife,!mvp,!ws,7/24 Admin,DROP,FUN,PRO,insecure"
 }
