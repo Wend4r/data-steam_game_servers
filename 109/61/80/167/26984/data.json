@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26984",
 	"gameport": 26984,
-	"steamid": "90200608242460698",
+	"steamid": "90200608572697626",
 	"name": "PRAC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
