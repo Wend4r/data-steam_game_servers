@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 24,
-	"bots": 1,
-	"map": "dz_sirocco",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "danger-zone,dangerzone,dz,secure"
+	"gametype": "empty,danger-zone,dangerzone,dz,secure"
 }
