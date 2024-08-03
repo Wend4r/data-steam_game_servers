@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 52,
 	"bots": 0,
 	"map": "de_dust2_minimal",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,no-steam,insecure"
+	"gametype": "no-steam,insecure"
 }

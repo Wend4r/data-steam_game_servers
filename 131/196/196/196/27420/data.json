@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 1,
 	"map": "surf_ski_3_nova_inf_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Legends,Legends S,after,br,brasil,chv,combat surf,csgo,drevenz,era,era SA,host,hostzone,lust,mysk,sao paulo,sp,surf,surf combat"
+	"gametype": "empty,Legends,Legends S,after,br,brasil,chv,combat surf,csgo,drevenz,era,era SA,host,hostzone,lust,mysk,sao paulo,sp,surf,surf "
 }

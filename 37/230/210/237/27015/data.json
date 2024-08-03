@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
+	"gametype": "128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
 }
