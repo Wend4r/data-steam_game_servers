@@ -11,9 +11,9 @@
 	"players": 25,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_deagle_fb",
+	"map": "aim_ultradeagle_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
