@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 64,
-	"bots": 0,
-	"map": "aim_map_pro_cs2",
+	"bots": 1,
+	"map": "aim_headshot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
