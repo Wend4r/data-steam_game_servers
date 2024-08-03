@@ -2,7 +2,7 @@
 	"addr": "89.187.167.139:26935",
 	"gameport": 26935,
 	"specport": 26936,
-	"steamid": "90200567647112219",
+	"steamid": "90200592826171419",
 	"name": "Kate's Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 8,
 	"bots": 1,
-	"map": "de_foroglio",
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
