@@ -2,7 +2,7 @@
 	"addr": "169.150.198.105:26533",
 	"gameport": 26533,
 	"specport": 26534,
-	"steamid": "90200590775311369",
+	"steamid": "90200592830303241",
 	"name": "Showdown | 1v1-Wagers\r",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
