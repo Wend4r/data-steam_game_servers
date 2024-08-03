@@ -3,18 +3,18 @@
 	"gameport": 26442,
 	"specport": 26443,
 	"steamid": "90200604756845581",
-	"name": "eBot :: WEST vs Comrades G.P.N.",
+	"name": "eBot :: Team Five vs Kapibara",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 12,
 	"max_players": 14,
-	"bots": 2,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
