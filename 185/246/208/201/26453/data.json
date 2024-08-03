@@ -1,0 +1,20 @@
+{
+	"addr": "185.246.208.201:26453",
+	"gameport": 26453,
+	"specport": 26454,
+	"steamid": "90200616348870677",
+	"name": "[P] PopFlash Scrim - warsaw - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 7,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}

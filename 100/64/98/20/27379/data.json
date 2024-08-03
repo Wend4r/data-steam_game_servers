@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.98.20:27379",
 	"gameport": 27379,
-	"steamid": "90200616342086674",
+	"steamid": "90200616343448594",
 	"name": "Valve Counter-Strike 2 dubai Server (srcds1010-dxb1.161.365)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,empty,insecure"
+	"gametype": "hidden,reserved,empty,secure"
 }
