@@ -1,8 +1,8 @@
 {
 	"addr": "45.159.6.195:25565",
 	"gameport": 25565,
-	"steamid": "90200597792156676",
-	"name": "Gexils Arena",
+	"steamid": "90200615560273924",
+	"name": "Apex Hosting Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "1v1aim_map_longdustversion_d",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "insecure"
 }
