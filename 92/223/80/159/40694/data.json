@@ -1,0 +1,19 @@
+{
+	"addr": "92.223.80.159:40694",
+	"gameport": 40694,
+	"steamid": "85568392931076363",
+	"name": "Хабаровск |51| Mirage [HBK][CS2][WS][KNIFE][AGETN][GLOVE]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes,agent"
+}
