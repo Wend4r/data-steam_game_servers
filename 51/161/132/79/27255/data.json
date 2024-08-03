@@ -1,0 +1,19 @@
+{
+	"addr": "51.161.132.79:27255",
+	"gameport": 27255,
+	"steamid": "90200604071420958",
+	"name": "JD | Private Surf Server #2 | kzg.gg",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.4.7",
+	"product": "csgo",
+	"region": 5,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gameME,hidden,secure"
+}
