@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,iranImmortals,insecure"
+	"gametype": "MaxGaming,iranImmortals,secure"
 }
