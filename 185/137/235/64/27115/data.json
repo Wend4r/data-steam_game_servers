@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!lvl,!shop,!ws,FREE,K,SKINS,agents,awp,frag,gloves,knife,lvl,ovn,premium,pub,public,rs,shop,shot,stickers,"
+	"gametype": "!gloves,!knife,!lvl,!shop,!ws,FREE,K,SKINS,agents,awp,frag,gloves,knife,lvl,ovn,premium,pub,public,rs,shop,shot,stickers,vip,ws"
 }
