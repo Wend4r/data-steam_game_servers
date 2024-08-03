@@ -11,9 +11,9 @@
 	"players": 62,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_angle_ak47_fb",
+	"map": "aim_city_mixed_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
