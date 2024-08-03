@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.57.222:33006",
 	"gameport": 33006,
-	"steamid": "90200591398700039",
-	"name": "artur1337 by \"FreeGameHosting.eu\"",
+	"steamid": "90200604590924807",
+	"name": "HvH 1v1 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "fy_pool_day",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "insecure"
 }
