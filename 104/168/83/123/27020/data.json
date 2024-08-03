@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Tickrate 102,!knife,autohop,85,85.3,bhop,ckSurf 1.18,citatsia,church,ckSurf,knife,store,surf,tier,ws,insecure"
+	"gametype": "empty,Tickrate 102,!knife,autohop,85,85.3,bhop,ckSurf 1.18,citatsia,church,ckSurf,knife,store,surf,tier,ws,secure"
 }
