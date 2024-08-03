@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.163:26556",
 	"gameport": 26556,
-	"steamid": "90200559187926038",
-	"name": "Leetify CS2 Practice Mode by Uchiha Kaisa",
+	"specport": 26557,
+	"steamid": "90200610832947222",
+	"name": "[P] PopFlash Scrim - dusseldorf - 24",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_tuscan_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "popflash,secure"
 }
