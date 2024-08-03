@@ -1,7 +1,7 @@
 {
 	"addr": "181.191.98.136:27015",
 	"gameport": 27015,
-	"steamid": "90200591348038667",
+	"steamid": "85568392931823994",
 	"name": "Server dos cria",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 60,
+	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
