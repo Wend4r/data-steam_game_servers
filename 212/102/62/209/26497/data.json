@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26497",
 	"gameport": 26497,
-	"steamid": "90200607323692060",
+	"steamid": "90200607495015452",
 	"name": "Serverni",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
