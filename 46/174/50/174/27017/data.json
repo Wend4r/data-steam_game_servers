@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
+	"gametype": "empty,!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
 }
