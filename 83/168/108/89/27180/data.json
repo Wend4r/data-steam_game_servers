@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27180",
 	"gameport": 27180,
-	"steamid": "90200590660627479",
+	"steamid": "90200594203300887",
 	"name": "SERWER Malik",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 2,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27145",
 	"gameport": 27145,
-	"steamid": "90200583193977879",
+	"steamid": "90200594203590679",
 	"name": "SERWER parlanoo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "gd_rialto",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
