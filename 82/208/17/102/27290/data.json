@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5v5,CZ,EU,PL,SK,WG,ak,awp,fun,wgames,secure"
+	"gametype": "1v1,5v5,CZ,EU,PL,SK,WG,ak,awp,fun,wgames,secure"
 }

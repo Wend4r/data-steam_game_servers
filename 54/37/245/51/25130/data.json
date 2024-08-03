@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "bhop_conquest2",
+	"bots": 1,
+	"map": "bhop_cyanglow_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_conquest"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_cyanglow"
 }

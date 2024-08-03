@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "aim_redline",
+	"map": "surf_ski_2_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
 }

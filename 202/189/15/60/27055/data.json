@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_colorlicouspilar_p",
+	"map": "ze_strange_escape_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }

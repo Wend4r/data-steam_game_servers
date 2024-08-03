@@ -1,6 +1,7 @@
 {
 	"addr": "37.19.215.246:26217",
 	"gameport": 26217,
+	"specport": 26218,
 	"steamid": "90200612009216025",
 	"name": "[P] PopFlash Scrim - barcelona - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }
