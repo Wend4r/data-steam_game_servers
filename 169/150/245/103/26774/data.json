@@ -2,7 +2,7 @@
 	"addr": "169.150.245.103:26774",
 	"gameport": 26774,
 	"specport": 26775,
-	"steamid": "90200581812090891",
+	"steamid": "90200607835929611",
 	"name": "Constrict Gaming (ESEA Inter) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

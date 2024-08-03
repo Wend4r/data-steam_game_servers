@@ -1,8 +1,7 @@
 {
 	"addr": "108.181.50.239:26896",
 	"gameport": 26896,
-	"specport": 26897,
-	"steamid": "90200580727138305",
+	"steamid": "90200607955059713",
 	"name": "STARWALKIN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

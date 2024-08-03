@@ -2,7 +2,7 @@
 	"addr": "212.102.62.210:26717",
 	"gameport": 26717,
 	"specport": 26718,
-	"steamid": "90200581688006685",
+	"steamid": "90200607900682269",
 	"name": "Showdown | ClanBattle v2 | Coming soon\r",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
