@@ -2,7 +2,7 @@
 	"addr": "169.150.198.103:26784",
 	"gameport": 26784,
 	"steamid": "85568392923976746",
-	"name": "XPLAY.GG • CS2 BHOP #15 • [BR]",
+	"name": "CS2 Bhop#15 BR",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "bhop_gottagofast",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

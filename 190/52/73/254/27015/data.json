@@ -2,7 +2,7 @@
 	"addr": "190.52.73.254:27015",
 	"gameport": 27015,
 	"steamid": "85568392932023597",
-	"name": "Counter-Strike 2",
+	"name": "Deko KZ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "kz_victoria",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,128,AntiCheat,kz,secure"
 }
