@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26511",
 	"gameport": 26511,
+	"specport": 26512,
 	"steamid": "90200598251478042",
 	"name": "RuvodeS Server",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
