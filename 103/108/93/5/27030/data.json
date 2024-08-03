@@ -1,0 +1,20 @@
+{
+	"addr": "103.108.93.5:27030",
+	"gameport": 27030,
+	"specport": 27020,
+	"steamid": "85568392932034558",
+	"name": "combat surf",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 1,
+	"players": 1,
+	"max_players": 33,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
+}
