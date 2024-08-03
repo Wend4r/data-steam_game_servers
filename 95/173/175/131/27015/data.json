@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,15TEMMUZ,SEHITLER,SELCUK,SERVERI,WAFFLE,secure"
+	"gametype": "15TEMMUZ,SEHITLER,SELCUK,SERVERI,WAFFLE,secure"
 }
