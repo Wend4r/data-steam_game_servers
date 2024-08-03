@@ -12,9 +12,9 @@
 	"players": 7,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
