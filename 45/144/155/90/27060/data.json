@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 16,
 	"bots": 0,
-	"map": "aim_centro",
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,se"
+	"gametype": "24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,secure"
 }
