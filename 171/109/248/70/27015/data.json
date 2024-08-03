@@ -1,7 +1,8 @@
 {
 	"addr": "171.109.248.70:27015",
 	"gameport": 27015,
-	"steamid": "90200601135253525",
+	"specport": 27020,
+	"steamid": "90200601456389141",
 	"name": "Counter-Strike: Global Offensive dedicated server",
 	"appid": 730,
 	"gamedir": "csgo",

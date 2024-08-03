@@ -1,6 +1,7 @@
 {
 	"addr": "37.230.228.211:27018",
 	"gameport": 27018,
+	"specport": 27020,
 	"steamid": "85568392930343623",
 	"name": "Москва |02| Mirage [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 2,
-	"max_players": 32,
+	"max_players": 33,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
+	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
 }
