@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33017",
 	"gameport": 33017,
-	"steamid": "90200589179791367",
-	"name": "lacosta by \"FreeGameHosting.eu\"",
+	"steamid": "90200611117178887",
+	"name": "1vs1 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
