@@ -1,7 +1,6 @@
 {
 	"addr": "212.102.62.210:26795",
 	"gameport": 26795,
-	"specport": 26796,
 	"steamid": "85568392931773991",
 	"name": "ddddddddddddddd",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

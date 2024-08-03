@@ -2,7 +2,7 @@
 	"addr": "169.150.245.105:26300",
 	"gameport": 26300,
 	"specport": 26301,
-	"steamid": "90200594818625549",
+	"steamid": "90200611052271629",
 	"name": "Custom CS2 Community Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
-	"map": "de_inferno_night",
+	"bots": 3,
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 1,
 	"max_players": 20,
-	"bots": 0,
-	"map": "bloodstrike",
+	"bots": 1,
+	"map": "de_orange",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
