@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 2,
 	"max_players": 20,
-	"bots": 5,
-	"map": "bloodstrike",
+	"bots": 0,
+	"map": "de_drachenschanze",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
