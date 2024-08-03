@@ -1,7 +1,7 @@
 {
 	"addr": "37.18.21.234:27500",
 	"gameport": 27500,
-	"steamid": "90200489621923857",
+	"steamid": "90200610575072273",
 	"name": "Новый сервер CW-SERV.RU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 7,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
