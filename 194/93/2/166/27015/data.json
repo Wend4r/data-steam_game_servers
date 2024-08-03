@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,no-steam,secure"
+	"gametype": "no-steam,secure"
 }

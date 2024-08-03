@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.34:26529",
 	"gameport": 26529,
+	"specport": 26530,
 	"steamid": "90200571131053063",
 	"name": "Vizard",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

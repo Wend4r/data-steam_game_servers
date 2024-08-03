@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 32,
-	"bots": 6,
+	"bots": 8,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
