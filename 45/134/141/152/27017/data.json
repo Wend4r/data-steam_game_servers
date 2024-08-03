@@ -1,6 +1,7 @@
 {
 	"addr": "45.134.141.152:27017",
 	"gameport": 27017,
+	"specport": 27018,
 	"steamid": "90200587528088577",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 1,
 	"map": "mst_pistolmap_ver2.0",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
