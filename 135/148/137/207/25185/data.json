@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_raphaello",
+	"map": "surf_tundra_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_raphaello,sec"
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_tundra_v2,sec"
 }
