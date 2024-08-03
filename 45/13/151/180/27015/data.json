@@ -1,13 +1,13 @@
 {
 	"addr": "45.13.151.180:27015",
 	"gameport": 27015,
-	"steamid": "85568392932034267",
-	"name": "Counter-Strike: Global Offensive",
+	"steamid": "85568392932034571",
+	"name": "★ DR.OLDBUTGOLD.RO bring back the (g)old days!",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,DEATHRUN/DR/ROMANIA/OLD DR/OLD DEATHRUN/BEST DEATHRUN,insecure"
 }
