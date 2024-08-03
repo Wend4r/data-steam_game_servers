@@ -1,19 +1,19 @@
 {
 	"addr": "87.182.164.170:27017",
 	"gameport": 27017,
-	"steamid": "90200616557956127",
-	"name": "A SharpTimer Server | Tier: 1 | Linear",
+	"steamid": "90200616560691231",
+	"name": "[T1] surf nyx 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "surf_nyx",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
