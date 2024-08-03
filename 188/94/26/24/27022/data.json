@@ -1,6 +1,7 @@
 {
 	"addr": "188.94.26.24:27022",
 	"gameport": 27022,
+	"specport": 27020,
 	"steamid": "90200594409806867",
 	"name": "NYXIA Ares",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

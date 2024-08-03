@@ -1,6 +1,7 @@
 {
 	"addr": "62.242.34.151:20000",
 	"gameport": 20000,
+	"specport": 20001,
 	"steamid": "85568392930592634",
 	"name": "BLAST Premier 2024",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 11,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

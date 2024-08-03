@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.46.23:27029",
 	"gameport": 27029,
-	"steamid": "90200615595436045",
+	"steamid": "90200616145404941",
 	"name": "HOT TOP SECRET EXPERIMENTAL SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
+	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop"
 }
