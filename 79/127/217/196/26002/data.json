@@ -1,19 +1,20 @@
 {
 	"addr": "79.127.217.196:26002",
 	"gameport": 26002,
-	"steamid": "90200542008304644",
-	"name": "Leetify CS2 Practice Mode by dewey",
+	"specport": 26003,
+	"steamid": "85568392925441101",
+	"name": "CS2 BETA SERVER (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
+	"region": -1,
+	"players": 2,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_nuke",
-	"secure": true,
+	"bots": 1,
+	"map": "de_overpass",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }
