@@ -2,7 +2,7 @@
 	"addr": "194.93.2.182:27015",
 	"gameport": 27015,
 	"steamid": "85568392932024797",
-	"name": "DEPROJECT [MG]",
+	"name": "[DEPROJECT] 4 ПРЫЖКА | MINIGAME | ВИП ВСЕМ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

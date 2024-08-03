@@ -1,19 +1,19 @@
 {
 	"addr": "212.8.252.199:27015",
 	"gameport": 27015,
-	"steamid": "90200436109817873",
+	"steamid": "90200616114730001",
 	"name": "Quepop Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.1.2",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
