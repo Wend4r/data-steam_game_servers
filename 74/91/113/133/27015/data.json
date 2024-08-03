@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
-	"bots": 0,
-	"map": "surf_royal",
+	"bots": 1,
+	"map": "surf_tycho",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,server,gloves,easy,bhop,kz,climb,free,stat,sneak,fun,store,skin,map,server,anticheat,game,knife,surf,surftimer,timer"
+	"gametype": "csgo,server,gloves,easy,bhop,kz,climb,free,stat,sneak,fun,store,skin,map,server,anticheat,game,knife,surf,surftimer,timer,vip,w"
 }
