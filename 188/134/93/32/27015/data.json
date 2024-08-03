@@ -1,19 +1,19 @@
 {
 	"addr": "188.134.93.32:27015",
 	"gameport": 27015,
-	"steamid": "90200576340628493",
+	"steamid": "90200601555170317",
 	"name": "ServerCSGO",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 9,
-	"map": "de_overpass",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

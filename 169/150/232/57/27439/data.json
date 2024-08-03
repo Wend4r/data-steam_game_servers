@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 15,
-	"bots": 1,
+	"bots": 0,
 	"map": "/2085124881/kz_pamxul_wip",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "beginner,kz,rcnoobclub,secure"
+	"gametype": "empty,beginner,kz,rcnoobclub,secure"
 }

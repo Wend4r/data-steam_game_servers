@@ -12,9 +12,9 @@
 	"players": 11,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
