@@ -1,0 +1,19 @@
+{
+	"addr": "37.20.204.26:53769",
+	"gameport": 53769,
+	"steamid": "85568392932028895",
+	"name": "flashp00p",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
