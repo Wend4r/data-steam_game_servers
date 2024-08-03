@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_bhop_nothing_go",
+	"map": "kz_mandelbrot",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
