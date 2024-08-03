@@ -1,7 +1,6 @@
 {
 	"addr": "45.138.48.2:27017",
 	"gameport": 27017,
-	"specport": 27020,
 	"steamid": "85568392930495048",
 	"name": "HUSK.GG PRACC - INTMA",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
