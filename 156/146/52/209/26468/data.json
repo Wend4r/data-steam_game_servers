@@ -1,20 +1,19 @@
 {
 	"addr": "156.146.52.209:26468",
 	"gameport": 26468,
-	"specport": 26469,
-	"steamid": "90200589777702938",
-	"name": "[P] PopFlash Scrim - istanbul - 30",
+	"steamid": "90200628567650330",
+	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
+	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

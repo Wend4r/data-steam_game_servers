@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "awp_bhop_rocket",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
