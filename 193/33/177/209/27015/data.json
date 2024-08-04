@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 0,
-	"map": "de_cbble_1s2k",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only"
+	"gametype": "!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only,dance"
 }

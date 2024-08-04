@@ -3,18 +3,18 @@
 	"gameport": 26387,
 	"specport": 26388,
 	"steamid": "90200632357327900",
-	"name": "eBot :: Team Five vs Kapibara",
+	"name": "eBot :: Kapibara vs Team Five",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 10,
 	"max_players": 14,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
