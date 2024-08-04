@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 18,
 	"bots": 0,
-	"map": "awp_india_hd",
+	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cases,cla"
+	"gametype": "empty,!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cas"
 }

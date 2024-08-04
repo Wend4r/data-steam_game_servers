@@ -1,7 +1,7 @@
 {
 	"addr": "154.223.16.65:27015",
 	"gameport": 27015,
-	"steamid": "90200637173699601",
+	"steamid": "90200637361196049",
 	"name": "CODEREKT.XYZ | Servidor en Mantenimiento ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

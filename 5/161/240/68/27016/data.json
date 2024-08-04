@@ -9,12 +9,12 @@
 	"version": "1.38.7.9",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_seaside_u1",
+	"bots": 6,
+	"map": "de_gwalior",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
