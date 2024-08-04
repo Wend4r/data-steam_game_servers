@@ -1,7 +1,7 @@
 {
 	"addr": "199.231.161.226:50772",
 	"gameport": 50772,
-	"steamid": "90200590336008216",
+	"steamid": "90200642251017240",
 	"name": "CS2 Server Hosted by Darkseid",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
