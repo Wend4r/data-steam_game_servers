@@ -12,7 +12,7 @@
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
 	"gametype": "empty,dathost,dathost.net,insecure"

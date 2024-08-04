@@ -1,19 +1,20 @@
 {
 	"addr": "95.163.86.121:27017",
 	"gameport": 27017,
-	"steamid": "85568392931985539",
-	"name": "LegacyCS - Public",
+	"specport": 27020,
+	"steamid": "85568392931515932",
+	"name": "Counter Strike: Reborn | Public",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.36.2.9",
+	"version": "1.35.4.2",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_oldust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,incsgo.ru,public,insecure"
+	"gametype": "incsgo.ru,public,insecure"
 }
