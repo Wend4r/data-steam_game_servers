@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_sakura",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Wingman,secure"
+	"gametype": "128,AntiCheat,Wingman,secure"
 }
