@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_whiteshit",
+	"map": "bhop_arcturus",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

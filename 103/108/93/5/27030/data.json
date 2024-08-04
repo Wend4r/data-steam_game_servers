@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 1,
-	"players": 1,
+	"players": 0,
 	"max_players": 34,
 	"bots": 1,
 	"map": "surf_air_arena",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
+	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
 }
