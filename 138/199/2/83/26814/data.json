@@ -1,0 +1,19 @@
+{
+	"addr": "138.199.2.83:26814",
+	"gameport": 26814,
+	"steamid": "90200620138927120",
+	"name": "Leetify CS2 Match by ricecube",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 7,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
