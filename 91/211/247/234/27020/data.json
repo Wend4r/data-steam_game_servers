@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 33,
-	"bots": 3,
+	"bots": 0,
 	"map": "awp_deluxe_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,ggarena"
+	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,g"
 }

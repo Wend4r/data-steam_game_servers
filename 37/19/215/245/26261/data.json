@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.245:26261",
 	"gameport": 26261,
-	"steamid": "90200616923021336",
+	"steamid": "90200643274358808",
 	"name": "Capitan Cannabis SV",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
