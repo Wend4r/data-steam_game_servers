@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_zvk_death",
+	"map": "awp_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
 }
