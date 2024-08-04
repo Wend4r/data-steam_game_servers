@@ -1,0 +1,19 @@
+{
+	"addr": "24.21.50.187:27015",
+	"gameport": 27015,
+	"steamid": "90200642753444873",
+	"name": "\"Dom's\" Cs2 KZ server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

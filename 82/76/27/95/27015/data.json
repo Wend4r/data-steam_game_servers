@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!skins,!ws,alphacs,break,e,elitegamers,gge"
+	"gametype": "!gloves,!knife,!skins,!ws,alphacs,break,e,elitegamers,ggez,indu"
 }

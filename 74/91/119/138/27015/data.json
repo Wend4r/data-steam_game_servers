@@ -1,8 +1,8 @@
 {
 	"addr": "74.91.119.138:27015",
 	"gameport": 27015,
-	"steamid": "90200624394477588",
-	"name": "NFOservers.com: New server",
+	"steamid": "90200642703806484",
+	"name": "NFOservers.com: Onshot16k",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -12,8 +12,8 @@
 	"max_players": 24,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
