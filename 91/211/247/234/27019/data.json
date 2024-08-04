@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 4,
 	"max_players": 33,
-	"bots": 0,
-	"map": "aim_deagle",
+	"bots": 2,
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,gg"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,ggarena,"
 }
