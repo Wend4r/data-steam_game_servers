@@ -1,19 +1,19 @@
 {
 	"addr": "45.136.205.249:27015",
 	"gameport": 27015,
-	"steamid": "85568392932035853",
-	"name": "# [PUBLIC] SapphireTech | 1 AWP",
+	"steamid": "90200632237945886",
+	"name": "hvh прокладка",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
 	"players": 0,
-	"max_players": 20,
+	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "ar_baggage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,10x10,16,1awp,5x5,ekb,gamesense,hvh,insecure,k,msk,neverlose,nixware,nsk,onetap,s-t,sapphire,sapphire.tech,sapphiretech,s"
+	"gametype": "empty,*grp:5114777i,insecure"
 }
