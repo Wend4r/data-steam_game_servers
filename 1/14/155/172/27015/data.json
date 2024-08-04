@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_new_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "YFS,secure"
 }
