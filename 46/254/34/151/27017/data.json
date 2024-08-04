@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_train",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "_registered,arena,gamer,gamerarena,it,ita,secure"
+	"gametype": "empty,_registered,arena,gamer,gamerarena,it,ita,secure"
 }
