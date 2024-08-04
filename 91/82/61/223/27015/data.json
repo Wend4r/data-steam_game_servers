@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "2000_classics",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

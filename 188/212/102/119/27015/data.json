@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 15,
-	"bots": 1,
+	"bots": 0,
 	"map": "aim_ultradeagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "api,cs2,cs2zone,deagle,fps,gj,panel,pro,rank,shop,skins,vip,sec"
+	"gametype": "empty,api,cs2,cs2zone,deagle,fps,gj,panel,pro,rank,shop,skins,v"
 }
