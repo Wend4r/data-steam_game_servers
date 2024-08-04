@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "xc_lucid_global",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,128t,128tick,Global,KZ,Kreedz,VNL,abh,autobh,autobhop,eu,femboy,femboykz,fkz,global,kz,vanilla,vnl,secure"
+	"gametype": "128-tick,128t,128tick,Global,KZ,Kreedz,VNL,abh,autobh,autobhop,eu,femboy,femboykz,fkz,global,kz,vanilla,vnl,secure"
 }
