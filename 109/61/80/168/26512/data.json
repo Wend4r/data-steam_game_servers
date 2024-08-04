@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26512",
 	"gameport": 26512,
+	"specport": 26513,
 	"steamid": "85568392932036015",
 	"name": "Procampgg",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
