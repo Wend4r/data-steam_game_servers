@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.202:26036",
 	"gameport": 26036,
-	"steamid": "90200599251385374",
+	"steamid": "90200625935527966",
 	"name": "Equity.INT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
