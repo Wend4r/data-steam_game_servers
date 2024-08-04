@@ -1,19 +1,19 @@
 {
 	"addr": "149.102.135.182:27015",
 	"gameport": 27015,
-	"steamid": "90200638021411868",
-	"name": "AMP Powered Counter-Strike 2 Server HALHAN",
+	"steamid": "90200638221148188",
+	"name": "HALHAN-3 Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

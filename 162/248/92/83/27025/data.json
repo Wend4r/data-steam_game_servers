@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 0,
 	"map": "kz_sxb_biewan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "KZTimer,KZTimer 1.106,Tickrate 128,kz,sneak,snksrv,secure"
+	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,kz,sneak,snksrv,secure"
 }

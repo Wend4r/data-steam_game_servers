@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2889425517/objectbanddom",
+	"map": "/1232389954/hns_floppytown_v002",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!shop,128tic,!vip,hide and seek,and,!knife,!ws,128,hide,hns,knife,man,maniac,seek,shop,tic,vip,ws,insecure"
+	"gametype": "!shop,128tic,!vip,hide and seek,and,!knife,!ws,128,hide,hns,knife,man,maniac,seek,shop,tic,vip,ws,insecure"
 }
