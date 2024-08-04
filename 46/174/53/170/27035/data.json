@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 65,
 	"bots": 0,
-	"map": "ze_icecap_escape_v5_p",
+	"map": "ze_cyberspace_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,*grp:1058014i,increased_maxplayers,!,fun,bhop,escape,64,ekb,mos,moscow,msk,n4a,net4all,net4all.ru,ru,rus,russia,secure,sk"
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russia,net4all.ru,secure,ski,z,ze,skins,spb,zm,vip,zombie,zombies,zr"
 }

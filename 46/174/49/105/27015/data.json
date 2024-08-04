@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 5,
+	"players": 7,
 	"max_players": 30,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
+	"gametype": "128tick,admin,awp,drops,free,free admin,free vip,gloves,knife,mm,public,viptest,ws,secure"
 }
