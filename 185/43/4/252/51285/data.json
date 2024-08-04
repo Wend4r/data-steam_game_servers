@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2_se++",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+	"gametype": "empty,16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
 }
