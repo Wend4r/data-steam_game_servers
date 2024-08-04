@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "frypemap_cv7",
+	"map": "mg_metal_course_2_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
