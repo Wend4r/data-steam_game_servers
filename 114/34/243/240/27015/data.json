@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 48,
 	"bots": 27,
-	"map": "de_manor_d_prefab",
+	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
