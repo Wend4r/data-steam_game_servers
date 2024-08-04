@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 7,
 	"max_players": 64,
-	"bots": 9,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
