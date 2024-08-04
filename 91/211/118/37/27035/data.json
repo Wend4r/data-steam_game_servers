@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 16,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128,128tic,casual,drop,gloves,kh,kiev,knife,mirage,pub,ranks,secu,steam,ua,vip,viptest,ws,x-clusive,xc"
+	"gametype": "!gloves,!knife,!ws,128,128tic,casual,drop,gloves,kh,kiev,knife,mirage,pub,ranks,secu,steam,ua,vip,viptest,ws,x-clusive,xclusive"
 }
