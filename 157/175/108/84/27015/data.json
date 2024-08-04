@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 6,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,2v2,5v5,7v7,bolsheviks,dubai,dubaipeek,east,empty,execute,g"
+	"gametype": "empty,1v1,2v2,5v5,7v7,bolsheviks,dubai,dubaipeek,east,empty,exe"
 }
