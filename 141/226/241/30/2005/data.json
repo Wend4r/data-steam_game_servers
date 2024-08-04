@@ -1,7 +1,7 @@
 {
 	"addr": "141.226.241.30:2005",
 	"gameport": 2005,
-	"steamid": "90200611415967771",
+	"steamid": "90200619828127771",
 	"name": "  ▲▼ ➜ Retakes 5 | Next-il | ★ ISRAEL - ▼▲",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws,secur"
+	"gametype": "empty,gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws"
 }
