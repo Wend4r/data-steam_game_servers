@@ -11,7 +11,7 @@
 	"region": 3,
 	"players": 10,
 	"max_players": 32,
-	"bots": 6,
+	"bots": 1,
 	"map": "cs_apollo_cs2",
 	"secure": true,
 	"dedicated": true,
