@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_rogiql",
+	"map": "bhop_chatgris_dream",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,bhop,bunnyhop,fastdl,timer,secure"
+	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
 }
