@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "surf_boreas",
+	"map": "surf_kitsune2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

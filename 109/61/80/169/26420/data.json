@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 7,
 	"max_players": 11,
-	"bots": 0,
-	"map": "cs_thunder_d_prefab",
+	"bots": 2,
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
 }
