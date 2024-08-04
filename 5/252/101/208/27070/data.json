@@ -11,10 +11,9 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 4,
-	"bots": 1,
-	"map": "de_lake",
+	"bots": 0,
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AVENTUM,Desolate,Hack vs Hack,HvH,ev0lve,fatality,gamesense,league,neverlose,onetap,skeet,unmatched,insecure"
+	"gametype": "empty,AVENTUM,Desolate,Hack vs Hack,HvH,ev0lve,fatality,gamesense,league,neverlose,onetap,skeet,unmatched,insecure"
 }

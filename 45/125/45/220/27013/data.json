@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 2,
 	"map": "de_dust2_w",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,himeneko,neko,god,kod,practice,aug,hime,bot,run,tg,insecure"
+	"gametype": "csgo,himeneko,neko,god,kod,practice,aug,hime,bot,run,tg,insecure"
 }
