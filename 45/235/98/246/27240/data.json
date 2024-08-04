@@ -1,7 +1,7 @@
 {
 	"addr": "45.235.98.246:27240",
 	"gameport": 27240,
-	"steamid": "90200622549160971",
+	"steamid": "90200622905822219",
 	"name": "CS2 Server By Garryshost",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 2,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

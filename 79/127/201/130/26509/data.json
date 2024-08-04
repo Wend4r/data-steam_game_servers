@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.130:26509",
 	"gameport": 26509,
-	"steamid": "90200594622327830",
+	"steamid": "90200622770337814",
 	"name": "Josue Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
