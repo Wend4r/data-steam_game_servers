@@ -1,19 +1,20 @@
 {
 	"addr": "62.122.127.241:27060",
 	"gameport": 27060,
+	"specport": 27061,
 	"steamid": "90200621571266564",
-	"name": "arrmy.gg",
+	"name": "arrmy.gg :: drain gang vs Pogon Wschowa ALLIN",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 10,
 	"max_players": 41,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

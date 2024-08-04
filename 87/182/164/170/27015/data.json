@@ -1,19 +1,19 @@
 {
 	"addr": "87.182.164.170:27015",
 	"gameport": 27015,
-	"steamid": "90200638697043999",
+	"steamid": "90200638699564063",
 	"name": "[DE] surf utopia 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "surf_utopia_njv",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
