@@ -1,19 +1,19 @@
 {
 	"addr": "75.167.113.115:27015",
 	"gameport": 27015,
-	"steamid": "90200620297007111",
+	"steamid": "90200622163805191",
 	"name": "[Matrix Reloaded] CS2 Zombie Escape 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 9,
+	"bots": 10,
 	"map": "ze_aztecnoob_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

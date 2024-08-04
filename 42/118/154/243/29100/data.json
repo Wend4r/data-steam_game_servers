@@ -11,9 +11,9 @@
 	"players": 11,
 	"max_players": 26,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wav"
+	"gametype": "7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wavy,wp,w"
 }
