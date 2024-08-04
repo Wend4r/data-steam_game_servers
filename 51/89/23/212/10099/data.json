@@ -1,0 +1,19 @@
+{
+	"addr": "51.89.23.212:10099",
+	"gameport": 10099,
+	"steamid": "85568392931408252",
+	"name": "▶︎ GELB: MIRAGE [SKINS & RANKS]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,mirage,models,custom,cs2,secure,ws,knife,gloves,agents,coins,music"
+}

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "vnl_ll_nuke",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "boynikita,whitelisted,insecure"
+	"gametype": "empty,boynikita,whitelisted,insecure"
 }

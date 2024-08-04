@@ -1,19 +1,19 @@
 {
 	"addr": "178.212.111.120:27016",
 	"gameport": 27016,
-	"steamid": "90200634190459922",
+	"steamid": "90200634381237266",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 9,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,maniac,"
+	"gametype": "empty,krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,m"
 }

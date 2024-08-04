@@ -1,0 +1,19 @@
+{
+	"addr": "51.89.23.212:10162",
+	"gameport": 10162,
+	"steamid": "85568392931408315",
+	"name": "▶︎ БЛАКИТНИЙ: MIRAGE [SKINS & RANKS]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 25,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "awp,mirage,models,custom,cs2,secure,ws,knife,gloves,agents,coins,music"
+}
