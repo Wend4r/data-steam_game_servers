@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.46.23:27029",
 	"gameport": 27029,
-	"steamid": "90200634913809421",
+	"steamid": "90200635095830541",
 	"name": "HOT TOP SECRET EXPERIMENTAL SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_moti2_final",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
+	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop"
 }
