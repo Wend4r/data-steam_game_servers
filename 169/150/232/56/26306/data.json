@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26306",
 	"gameport": 26306,
 	"specport": 26307,
-	"steamid": "90200611403555856",
+	"steamid": "90200618831263760",
 	"name": "Kunai powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
