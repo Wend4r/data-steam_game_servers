@@ -1,7 +1,8 @@
 {
 	"addr": "121.127.45.131:26382",
 	"gameport": 26382,
-	"steamid": "90200638031483912",
+	"specport": 26383,
+	"steamid": "90200638033569800",
 	"name": "Razunlimited",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_ag_texture_city_advanced",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
