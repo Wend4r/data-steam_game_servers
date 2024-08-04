@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 3,
 	"max_players": 24,
-	"bots": 6,
-	"map": "gg_ar_deagle",
+	"bots": 5,
+	"map": "gg_ar_aztec_melee",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

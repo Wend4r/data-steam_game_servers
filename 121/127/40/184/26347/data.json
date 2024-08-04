@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,deathmatch,dm,ffa,multicfg,pistol,refrag,rifle,warmup,secur"
+	"gametype": "empty,awp,deathmatch,dm,ffa,multicfg,pistol,refrag,rifle,warmup"
 }
