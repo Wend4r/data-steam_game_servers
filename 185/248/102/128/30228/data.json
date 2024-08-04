@@ -1,7 +1,7 @@
 {
 	"addr": "185.248.102.128:30228",
 	"gameport": 30228,
-	"steamid": "90200631670034436",
+	"steamid": "90200636420804612",
 	"name": "КАЙФОВЫЙ ПАБЛИК | СКИНЫ | 128TICK [CS2]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

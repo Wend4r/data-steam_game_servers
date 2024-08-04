@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_kiitovittu",
+	"map": "bhop_blue_shade",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

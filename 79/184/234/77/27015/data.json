@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 12,
-	"map": "de_aztec",
+	"bots": 8,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
