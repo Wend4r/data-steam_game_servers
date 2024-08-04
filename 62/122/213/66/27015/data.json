@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 2,
-	"map": "fy_snow_y0",
+	"map": "gg_dupa_gg1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
