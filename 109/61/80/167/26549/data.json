@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.167:26549",
 	"gameport": 26549,
-	"specport": 26550,
 	"steamid": "85568392925265886",
 	"name": "tryison",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26444",
 	"gameport": 26444,
-	"steamid": "90200601320457223",
+	"steamid": "90200627601978375",
 	"name": "CS2 XL",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

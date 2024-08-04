@@ -1,6 +1,7 @@
 {
 	"addr": "42.194.235.185:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200627437301761",
 	"name": "Your server name goes here",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

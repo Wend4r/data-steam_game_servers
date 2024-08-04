@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26077",
 	"gameport": 26077,
-	"steamid": "90200601339063325",
+	"steamid": "90200627572941853",
 	"name": "Nordic Exellence | Retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_thera",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
