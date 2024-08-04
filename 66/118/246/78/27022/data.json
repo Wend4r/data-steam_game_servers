@@ -2,18 +2,18 @@
 	"addr": "66.118.246.78:27022",
 	"gameport": 27022,
 	"steamid": "85568392930614624",
-	"name": "    EdgeGamers Dev #414 | Development",
+	"name": "    EdgeGamers Dev #911 | Development",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_quake_cs2",
+	"map": "jb_kwejsi_final_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
+	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
 }
