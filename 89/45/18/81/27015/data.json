@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 10,
 	"max_players": 33,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anticheat,competitive,europe,fun,gloves,knifes,ro,romania,skins"
+	"gametype": "empty,anticheat,competitive,europe,fun,gloves,knifes,ro,romania"
 }
