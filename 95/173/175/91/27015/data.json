@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 6,
 	"max_players": 38,
 	"bots": 0,
 	"map": "aim_redline_23",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,7/24,TR,admin,awp,bhop,drop,fun,pro,rocket,tr,"
+	"gametype": "!knife,!ws,7/24,TR,admin,awp,bhop,drop,fun,pro,rocket,tr,secure"
 }

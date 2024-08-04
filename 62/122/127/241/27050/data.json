@@ -3,18 +3,18 @@
 	"gameport": 27050,
 	"specport": 27051,
 	"steamid": "90200621571254276",
-	"name": "arrmy.gg",
+	"name": "arrmy.gg :: ϟShock by lightningϟ vs Elite Zebras",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 11,
 	"max_players": 41,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

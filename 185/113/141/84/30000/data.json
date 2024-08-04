@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "awp_lego_2011",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,awp,awparena,portugal,pt,pts,ptskills,secure"
+	"gametype": "empty,1v1,arena,awp,awparena,portugal,pt,pts,ptskills,secure"
 }
