@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26941",
 	"gameport": 26941,
+	"specport": 26942,
 	"steamid": "90200632895851546",
 	"name": "PLAY.PRACC.COM - [DE] RETAKE - INFERNO",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
