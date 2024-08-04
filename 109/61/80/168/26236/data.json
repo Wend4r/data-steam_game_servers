@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 19,
-	"bots": 8,
-	"map": "fy_buzzkill523",
+	"bots": 9,
+	"map": "fy_delta523",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
