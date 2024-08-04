@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.244:26464",
 	"gameport": 26464,
-	"steamid": "90200598301610007",
+	"steamid": "90200624471359511",
 	"name": "[ESPAÑA] | DM+SKINS | discord.gg/62unwZa9MF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

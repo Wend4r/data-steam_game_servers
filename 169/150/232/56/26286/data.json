@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26286",
 	"gameport": 26286,
-	"steamid": "90200598287086608",
+	"steamid": "90200624576412688",
 	"name": "lasagne lounge",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

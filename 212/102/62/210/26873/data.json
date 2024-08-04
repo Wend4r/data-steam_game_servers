@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26873",
 	"gameport": 26873,
-	"steamid": "90200598277006365",
+	"steamid": "90200624551830557",
 	"name": "Ligan | 5v5",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26437",
 	"gameport": 26437,
-	"steamid": "90200598306922501",
+	"steamid": "90200624570904581",
 	"name": "TuckersWorld",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

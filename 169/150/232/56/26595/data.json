@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26595",
 	"gameport": 26595,
-	"specport": 26596,
-	"steamid": "90200598286523408",
+	"steamid": "90200624575786000",
 	"name": "SON northwinds CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

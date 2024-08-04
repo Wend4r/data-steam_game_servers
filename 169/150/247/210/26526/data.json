@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.247.210:26526",
 	"gameport": 26526,
-	"specport": 26527,
-	"steamid": "90200598337475606",
+	"steamid": "90200624610338838",
 	"name": "THC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

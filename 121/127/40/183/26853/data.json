@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,denton.dev,ferda,secure"
+	"gametype": "empty,denton.dev,ferda,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26302",
 	"gameport": 26302,
-	"steamid": "90200598401261577",
+	"steamid": "90200624590781449",
 	"name": "Tareba Mentoria",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 7,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

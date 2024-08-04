@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26331",
 	"gameport": 26331,
-	"steamid": "90200598371956761",
+	"steamid": "90200624516586521",
 	"name": "PRIMITIF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "121.127.45.129:26834",
 	"gameport": 26834,
 	"specport": 26835,
-	"steamid": "90200598381163526",
+	"steamid": "90200624595150854",
 	"name": "CS2 VIP1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

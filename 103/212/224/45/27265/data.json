@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 4,
-	"map": "awp_arena_vlgbeta_gg2",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,kz,kzg,"
+	"gametype": "empty,aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,k"
 }

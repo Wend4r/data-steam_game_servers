@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.234.193:26414",
 	"gameport": 26414,
-	"specport": 26415,
-	"steamid": "90200598267300877",
+	"steamid": "90200624526865421",
 	"name": "Dot Stats | Scrim | 10man",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "kz_checkmate",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26699",
 	"gameport": 26699,
-	"steamid": "90200598328061959",
+	"steamid": "90200624650910727",
 	"name": "EsportVestCS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

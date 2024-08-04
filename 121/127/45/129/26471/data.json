@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26471",
 	"gameport": 26471,
-	"steamid": "90200598381140998",
+	"steamid": "90200624595188742",
 	"name": "Business College Syd - Server #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

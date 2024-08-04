@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26510",
 	"gameport": 26510,
-	"steamid": "90200598380944390",
+	"steamid": "90200624594941958",
 	"name": "Eastside Esport CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
