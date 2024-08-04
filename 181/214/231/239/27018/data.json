@@ -7,13 +7,13 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
+	"region": 255,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Awesome,EU,hvh,rapidfirefix,rapidfix,spread,insecure"
+	"gametype": "Awesome,EU,hvh,rapidfirefix,rapidfix,spread,insecure"
 }
