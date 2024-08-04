@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgaming,se"
+	"gametype": "empty,5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgam"
 }

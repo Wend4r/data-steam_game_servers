@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26617",
 	"gameport": 26617,
+	"specport": 26618,
 	"steamid": "90200641536289801",
 	"name": "NORDIX powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

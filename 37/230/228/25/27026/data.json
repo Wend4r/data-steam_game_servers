@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "hns_lazytown_advanced_v1",
+	"map": "hns_sandtown2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_lazytown_advanced_v1,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_sandtown2,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
