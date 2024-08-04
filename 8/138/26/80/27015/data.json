@@ -1,6 +1,7 @@
 {
 	"addr": "8.138.26.80:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932034408",
 	"name": "sbwby",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,5v5,competitive,secure"
+	"gametype": "empty,128tick,5v5,competitive,insecure"
 }

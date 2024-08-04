@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 6,
 	"bots": 0,
-	"map": "awp_india",
+	"map": "aim_centro",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
