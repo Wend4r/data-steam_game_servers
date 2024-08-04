@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 5,
 	"max_players": 20,
 	"bots": 0,
-	"map": "seek_violetto",
+	"map": "winterday_bs",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspub"
+	"gametype": "BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspublic,gl"
 }

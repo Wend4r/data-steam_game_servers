@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2_port_prefab",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,hvh,spread,whyrulookingattagsufreak,insecure"
+	"gametype": "16k,hvh,spread,whyrulookingattagsufreak,insecure"
 }
