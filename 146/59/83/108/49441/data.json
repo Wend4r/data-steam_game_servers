@@ -2,18 +2,18 @@
 	"addr": "146.59.83.108:49441",
 	"gameport": 49441,
 	"steamid": "85568392931883097",
-	"name": "Counter-Strike: Global Offensive",
+	"name": "{PL/EU/UA} HackHaven HVH Project #1|ONLY MIRAGE! MM 16K {CSGO}",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "hvh,pl,eu,poland,HvH,ukraine,ua,hackhaven,HackHaven"
 }

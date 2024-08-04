@@ -1,7 +1,7 @@
 {
 	"addr": "93.191.11.211:27212",
 	"gameport": 27212,
-	"steamid": "90200582493442077",
+	"steamid": "90200628007480349",
 	"name": ".:Zombie_Detroid:.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
