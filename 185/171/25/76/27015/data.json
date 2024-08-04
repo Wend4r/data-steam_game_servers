@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_fruits",
+	"map": "surf_life_of_duck_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,n"
+	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,nametag"
 }
