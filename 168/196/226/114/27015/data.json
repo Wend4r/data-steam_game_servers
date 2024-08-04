@@ -1,7 +1,7 @@
 {
 	"addr": "168.196.226.114:27015",
 	"gameport": 27015,
-	"steamid": "90200642332634123",
+	"steamid": "90200642335120395",
 	"name": "pene",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
