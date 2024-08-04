@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "deathrun_princess_missing",
+	"map": "dr_dojo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbreakabl"
+	"gametype": "empty,best,community,cs2,deathrun,dr,first,hu,hun,top,ubec,unbr"
 }
