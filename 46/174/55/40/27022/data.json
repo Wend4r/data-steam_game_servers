@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "ttt_mcvillage_surfjbamgbhop",
+	"map": "ttt_ratsktchn_mg_surf_aim_awp_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
+	"gametype": "empty,!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
 }
