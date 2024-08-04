@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.194:26323",
 	"gameport": 26323,
-	"steamid": "90200593211547662",
+	"steamid": "90200619178837006",
 	"name": "sandals",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
