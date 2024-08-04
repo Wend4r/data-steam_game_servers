@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
+	"gametype": "128tick,cs:go,csgo,no-steam,public,spb,паблик,secure"
 }
