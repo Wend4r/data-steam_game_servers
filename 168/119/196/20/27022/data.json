@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_adventure_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "bhop,bhop_advent,drop,eu,en,germany,ger,de,cybershoke,cyber,glo"
+	"gametype": "empty,bhop,bhop_advent,drop,eu,en,germany,ger,de,cybershoke,cyb"
 }
