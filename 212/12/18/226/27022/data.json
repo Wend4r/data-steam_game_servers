@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 8,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awplego,cs2,knife,lego,rusgang,russiangang,vip,ws,sec"
+	"gametype": "awp,awplego,cs2,knife,lego,rusgang,russiangang,vip,ws,secure"
 }
