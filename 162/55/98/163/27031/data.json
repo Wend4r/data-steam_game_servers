@@ -1,7 +1,7 @@
 {
 	"addr": "162.55.98.163:27031",
 	"gameport": 27031,
-	"steamid": "90200596695421960",
+	"steamid": "90200622155223048",
 	"name": "FruchtLabor - Training 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
