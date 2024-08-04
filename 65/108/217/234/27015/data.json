@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 19,
 	"bots": 1,
-	"map": "surf_aero_violence",
+	"map": "surf_intrepid_x",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suomi,surf"
+	"gametype": "empty,combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suom"
 }

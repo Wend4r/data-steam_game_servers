@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
 	"bots": 1,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,admin,competitive,drop,free,freevip,gloves,idle,models,nametag,nevermore,nexus,no-ste,old,romania,skins,steam,usp,vip,vip"
+	"gametype": "admin,competitive,drop,free,freevip,gloves,idle,models,nametag,nevermore,nexus,no-ste,old,romania,skins,steam,usp,vip,vipgratis"
 }
