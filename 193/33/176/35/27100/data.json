@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.35:27100",
 	"gameport": 27100,
-	"steamid": "90200593846372379",
+	"steamid": "90200618967439387",
 	"name": "SERWER DangeR@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
