@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 2,
+	"bots": 0,
 	"map": "casino",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "24/7,aim,blackjack,casino,coinflip,deathmatch,dice,dm,fun,roule"
+	"gametype": "empty,24/7,aim,blackjack,casino,coinflip,deathmatch,dice,dm,fun"
 }

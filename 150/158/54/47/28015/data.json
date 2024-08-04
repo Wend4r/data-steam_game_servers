@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_ffxii_mt_bur_omisace_v4c7",
+	"map": "ze_overlord_a7",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+	"gametype": "empty,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.201.202:26290",
+	"gameport": 26290,
+	"specport": 26291,
+	"steamid": "90200633944862750",
+	"name": "Leetify CS2 KZ by -IWNL- GOD",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kz_niche",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

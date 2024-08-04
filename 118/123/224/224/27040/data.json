@@ -1,7 +1,8 @@
 {
 	"addr": "118.123.224.224:27040",
 	"gameport": 27040,
-	"steamid": "90200632586278913",
+	"specport": 28045,
+	"steamid": "90200633571947521",
 	"name": "Valve Counter-Strike 2 alicloud_chengdu_ctuali Server (srcds103",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +12,7 @@
 	"players": 10,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

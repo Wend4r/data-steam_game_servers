@@ -11,10 +11,10 @@
 	"region": 2,
 	"players": 10,
 	"max_players": 13,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS-2,Compeditive server,DS,secure"
+	"gametype": "empty,CS-2,Compeditive server,DS,secure"
 }
