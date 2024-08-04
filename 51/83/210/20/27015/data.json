@@ -10,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 4,
-	"max_players": 28,
+	"max_players": 29,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1vs1,24/7,de_,de_mirage,f2p,gloves,gosetti.pl:29659,horiz"
+	"gametype": "1vs1,24/7,de_,de_mirage,f2p,gloves,gosetti.pl:29659,horizon,kat"
 }

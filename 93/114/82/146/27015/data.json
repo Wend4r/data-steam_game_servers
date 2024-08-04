@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,rank,skins,vip,insecure"
+	"gametype": "empty,competitive,rank,skins,vip,secure"
 }
