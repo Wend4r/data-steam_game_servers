@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.105:26124",
 	"gameport": 26124,
+	"specport": 26125,
 	"steamid": "90200623420952585",
 	"name": "lr2 agency powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
