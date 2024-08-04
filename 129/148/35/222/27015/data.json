@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,brasil,madrugadao,secure"
+	"gametype": "brasil,madrugadao,secure"
 }
