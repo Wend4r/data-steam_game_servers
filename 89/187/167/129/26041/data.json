@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.129:26041",
 	"gameport": 26041,
-	"steamid": "90200634997408785",
+	"steamid": "90200635159861265",
 	"name": "stratbox.app Retakes UK",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

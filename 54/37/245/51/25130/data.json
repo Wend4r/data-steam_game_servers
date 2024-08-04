@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 2,
 	"max_players": 45,
-	"bots": 2,
-	"map": "bhop_p06_go",
+	"bots": 0,
+	"map": "bhop_rockthevote2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_p06_go,s"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_rockthev"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.2.44:27144",
 	"gameport": 27144,
-	"steamid": "90200627445902343",
+	"steamid": "90200635090254855",
 	"name": "Valve Counter-Strike 2 asia Server (srcds3025-sgp2.153.130)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 5,
 	"players": 10,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
