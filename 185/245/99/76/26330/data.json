@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26330",
 	"gameport": 26330,
 	"specport": 26331,
-	"steamid": "90200612638885902",
+	"steamid": "90200618498697230",
 	"name": "UNiTY AC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
