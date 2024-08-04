@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "kz_wasabi",
+	"map": "kz_duality_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+	"gametype": "128-tick,climb,cngokz,gokz,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
 }

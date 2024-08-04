@@ -1,7 +1,7 @@
 {
 	"addr": "135.125.188.126:27015",
 	"gameport": 27015,
-	"specport": 27026,
+	"specport": 27023,
 	"steamid": "85568392931825269",
 	"name": " [NewVision] HvH | 1x1/2x2 | #4 |",
 	"appid": 730,
@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
-	"max_players": 4,
+	"players": 1,
+	"max_players": 11,
 	"bots": 1,
-	"map": "de_shortdust",
+	"map": "de_safehouse",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2v2,64tick,aimware,alhamdullilah,awp,dm,fata,fatality,hack,hackvs,hackvshack,hvh,hvh,newvision,nv,onetap,otc,skeet,wingma"
+	"gametype": "2v2,64tick,aimware,alhamdullilah,awp,dm,fata,fatality,hack,hackvs,hackvshack,hvh,hvh,newvision,nv,onetap,otc,skeet,wingman,xane"
 }
