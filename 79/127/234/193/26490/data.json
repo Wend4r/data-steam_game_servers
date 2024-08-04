@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26490",
 	"gameport": 26490,
-	"steamid": "90200594036713485",
+	"steamid": "90200619914066957",
 	"name": "RETAKE CHICAGO LOW PING",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

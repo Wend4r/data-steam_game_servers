@@ -2,7 +2,7 @@
 	"addr": "121.127.40.183:26744",
 	"gameport": 26744,
 	"specport": 26745,
-	"steamid": "90200594497531905",
+	"steamid": "90200620207641601",
 	"name": "Black | Hazard 10 Mans",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_blackgold_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

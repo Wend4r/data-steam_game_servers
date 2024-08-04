@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26640",
 	"gameport": 26640,
-	"specport": 26641,
-	"steamid": "90200594567801872",
+	"steamid": "90200620136052752",
 	"name": "4everVisionaries",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

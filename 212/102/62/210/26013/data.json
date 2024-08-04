@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26013",
 	"gameport": 26013,
-	"steamid": "90200594597616669",
+	"steamid": "90200620196821021",
 	"name": "Jotunheimen eSport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

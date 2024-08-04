@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 0,
-	"map": "awp_lego_anime_AP3",
+	"map": "awp_lego_anime4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,128tick,anime,animeawp,animeproject,animepub,awp,awponly,no-steam,secure"
+	"gametype": "128tick,anime,animeawp,animeproject,animepub,awp,awponly,no-steam,secure"
 }
