@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 42,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,"
+	"gametype": "1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,dust2,"
 }

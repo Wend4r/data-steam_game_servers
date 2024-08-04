@@ -1,8 +1,9 @@
 {
 	"addr": "212.102.62.209:26049",
 	"gameport": 26049,
-	"steamid": "90200633740254236",
-	"name": "GeishaKuulat (We have Praccom server) powered by PRACC.COM",
+	"specport": 26050,
+	"steamid": "90200633743259676",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
