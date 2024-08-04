@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 7,
+	"players": 5,
 	"max_players": 32,
-	"bots": 7,
-	"map": "zm_lost_soul_hdr_v1",
+	"bots": 10,
+	"map": "zm_abandoned_place_b1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ftkm,prop,zm,zombie,secure"
+	"gametype": "zp,secure"
 }
