@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 1,
 	"map": "xc_minecraft4",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,kz,timer,secure"
+	"gametype": "empty,ZED,fastdl,kz,timer,secure"
 }
