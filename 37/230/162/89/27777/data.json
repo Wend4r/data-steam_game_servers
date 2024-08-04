@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 25,
 	"bots": 0,
-	"map": "seek_violetto",
+	"map": "minecraft_by_howl",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lycoris,maniac,secure"
+	"gametype": "cs2,flower,lycoris,maniac,secure"
 }

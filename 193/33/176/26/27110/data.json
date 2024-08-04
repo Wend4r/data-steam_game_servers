@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.26:27110",
 	"gameport": 27110,
-	"steamid": "90200382293602322",
+	"steamid": "90200642432289810",
 	"name": "[PL/EU] ABNEGAT.ORG",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,5vs5,ARENA,deathmatch,gloves,hvh\r,retakes,skin,skins,ws,sec"
+	"gametype": "empty,1v1,5vs5,ARENA,deathmatch,gloves,hvh\r,retakes,skin,skins,"
 }

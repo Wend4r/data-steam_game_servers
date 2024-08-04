@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 36,
 	"bots": 0,
-	"map": "awp_creek",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AstraMania,secure"
+	"gametype": "empty,AstraMania,secure"
 }
