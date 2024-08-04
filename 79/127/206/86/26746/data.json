@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.206.86:26746",
 	"gameport": 26746,
-	"specport": 26747,
 	"steamid": "85568392931463953",
 	"name": "Naughty Claws",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "aim_redline",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
