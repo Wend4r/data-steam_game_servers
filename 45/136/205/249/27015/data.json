@@ -2,18 +2,18 @@
 	"addr": "45.136.205.249:27015",
 	"gameport": 27015,
 	"steamid": "85568392932035853",
-	"name": "Counter-Strike: Global Offensive",
+	"name": "allah mafia",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 21,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,*grp:5114777i,insecure"
 }
