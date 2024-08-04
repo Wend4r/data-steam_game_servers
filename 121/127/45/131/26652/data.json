@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.131:26652",
 	"gameport": 26652,
+	"specport": 26653,
 	"steamid": "90200636119268360",
 	"name": "CHIPPI CHIPPI CHAPPA powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

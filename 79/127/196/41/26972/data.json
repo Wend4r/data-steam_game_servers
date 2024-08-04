@@ -1,8 +1,8 @@
 {
 	"addr": "79.127.196.41:26972",
 	"gameport": 26972,
-	"steamid": "90200611473780743",
-	"name": "SAW powered by PRACC.COM",
+	"steamid": "90200636859413511",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

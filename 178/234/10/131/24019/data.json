@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/1138164704/seek_cache_minecraf",
+	"map": "/2202605960/seek_train",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
