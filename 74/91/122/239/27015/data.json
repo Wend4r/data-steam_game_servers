@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 33,
-	"bots": 0,
-	"map": "cs_ferry",
+	"bots": 8,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

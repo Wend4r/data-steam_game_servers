@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "bhop_easyhop",
+	"map": "bhop_linear_concrete2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
