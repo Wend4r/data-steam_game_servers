@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,no-steam,insecure"
+	"gametype": "no-steam,insecure"
 }

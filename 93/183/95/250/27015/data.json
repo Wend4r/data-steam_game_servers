@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 10,
+	"bots": 1,
 	"map": "de_marquis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

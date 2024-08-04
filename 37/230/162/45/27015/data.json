@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_swag_multigames_v7_hdr",
+	"map": "mg_wipeout_course_easy_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!!!!!,!knife,!shop,!ws,128tr,1v1,custom,drop,fast drops,mg,minigame,no-steam,only MiniGame,public,server,speedway,timer,v"
+	"gametype": "!!!!!,!knife,!shop,!ws,128tr,1v1,custom,drop,fast drops,mg,minigame,no-steam,only MiniGame,public,server,speedway,timer,vi,vips"
 }
