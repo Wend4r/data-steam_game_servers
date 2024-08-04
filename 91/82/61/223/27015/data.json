@@ -2,7 +2,7 @@
 	"addr": "91.82.61.223:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200633315746833",
+	"steamid": "90200633485289489",
 	"name": "Office Scrim Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 1,
-	"map": "cs_office",
+	"bots": 2,
+	"map": "2000_classics",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
