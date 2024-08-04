@@ -1,19 +1,19 @@
 {
 	"addr": "68.110.120.66:27015",
 	"gameport": 27015,
-	"steamid": "90200633996906501",
+	"steamid": "90200634159167493",
 	"name": "(S)moke(S)ignals ☁ Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "nuketown",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

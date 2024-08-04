@@ -2,7 +2,7 @@
 	"addr": "121.127.47.33:26700",
 	"gameport": 26700,
 	"specport": 26701,
-	"steamid": "90200616734492678",
+	"steamid": "90200634103468038",
 	"name": "Nine Lives powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
