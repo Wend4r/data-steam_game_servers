@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26790",
 	"gameport": 26790,
-	"steamid": "90200609742919708",
+	"steamid": "90200636124287004",
 	"name": "DomimoLand",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

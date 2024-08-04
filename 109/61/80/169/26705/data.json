@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26705",
 	"gameport": 26705,
-	"steamid": "90200609742783516",
+	"steamid": "90200636124140572",
 	"name": "Sprizen",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

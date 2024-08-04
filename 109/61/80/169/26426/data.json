@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26426",
 	"gameport": 26426,
-	"steamid": "90200609742902300",
+	"steamid": "90200636124267548",
 	"name": "harumi",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
