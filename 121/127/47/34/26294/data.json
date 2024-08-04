@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.47.34:26294",
 	"gameport": 26294,
-	"steamid": "90200628102872071",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200628328474631",
+	"name": "Altered Edge powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -1,0 +1,19 @@
+{
+	"addr": "5.101.3.225:28017",
+	"gameport": 28017,
+	"steamid": "85568392931052710",
+	"name": "[CS2] JC | AWP LEGO ONLY",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 25,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,awp,public,knifes,cs2,jumpclassic,cybershoke,aim"
+}
