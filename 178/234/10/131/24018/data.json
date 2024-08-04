@@ -1,7 +1,7 @@
 {
 	"addr": "178.234.10.131:24018",
 	"gameport": 24018,
-	"steamid": "90200634214290433",
+	"steamid": "90200635197881345",
 	"name": "TDZ | Maniac | 128tic",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "!shop,128tic,!vip,hide and seek,and,!knife,!ws,128,hide,hns,knife,man,maniac,seek,shop,tic,vip,ws,insecure"
 }
