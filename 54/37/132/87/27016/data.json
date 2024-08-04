@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_lake",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,knife,o"
+	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,k"
 }
