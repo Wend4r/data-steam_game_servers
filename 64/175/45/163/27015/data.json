@@ -1,7 +1,7 @@
 {
 	"addr": "64.175.45.163:27015",
 	"gameport": 27015,
-	"steamid": "90200620826457088",
+	"steamid": "90200621635543040",
 	"name": "ChungusBungus",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 8,
-	"bots": 5,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

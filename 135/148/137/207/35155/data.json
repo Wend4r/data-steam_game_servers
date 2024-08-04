@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_aquaflow",
+	"map": "surf_southpark_refix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_aquaflow,se"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_southpark_r"
 }
