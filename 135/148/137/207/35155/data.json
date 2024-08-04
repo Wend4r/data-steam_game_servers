@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 2,
 	"max_players": 45,
-	"bots": 1,
-	"map": "surf_horizon_njv",
+	"bots": 2,
+	"map": "surf_aquaflow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_horizon_njv"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_aquaflow,se"
 }
