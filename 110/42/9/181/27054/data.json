@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_alone_naipi",
+	"map": "mg_dfs_upsidedown_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
