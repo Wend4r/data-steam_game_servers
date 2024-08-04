@@ -1,6 +1,7 @@
 {
 	"addr": "164.70.190.47:27022",
 	"gameport": 27022,
+	"specport": 27023,
 	"steamid": "90200624652185607",
 	"name": "whatever",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 64,
-	"bots": 5,
-	"map": "de_gracia_d",
+	"bots": 9,
+	"map": "de_akiba",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
