@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 6,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "zm_house_of_1003_corpses",
 	"secure": true,
 	"dedicated": true,
