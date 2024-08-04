@@ -1,0 +1,19 @@
+{
+	"addr": "82.194.23.173:26250",
+	"gameport": 26250,
+	"steamid": "85568392932034448",
+	"name": "gay",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.4.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_nuke_old",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
