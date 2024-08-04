@@ -1,7 +1,7 @@
 {
 	"addr": "85.13.106.250:48650",
 	"gameport": 48650,
-	"steamid": "90200632691441670",
+	"steamid": "90200632879440902",
 	"name": "cs2-mlrp-cz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 10,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

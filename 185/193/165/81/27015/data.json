@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,awp_lego_2,bunny,lego,mg,prooyun,tr,turkey,se"
+	"gametype": "128tick,awp,awp_lego_2,bunny,lego,mg,prooyun,tr,turkey,secure"
 }

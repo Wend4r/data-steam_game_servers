@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.211.230:26036",
 	"gameport": 26036,
-	"steamid": "90200632687118349",
-	"name": "NeverPlay powered by PRACC.COM",
+	"steamid": "90200632860351501",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
