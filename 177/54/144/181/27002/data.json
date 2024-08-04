@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
+	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
 }
