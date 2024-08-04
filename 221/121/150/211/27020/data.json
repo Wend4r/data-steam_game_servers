@@ -3,7 +3,7 @@
 	"gameport": 27020,
 	"specport": 27023,
 	"steamid": "90200624195324942",
-	"name": "shipREKT Aim maps",
+	"name": "AAC Wingman",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 29,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,aim,secure"
+	"gametype": "128,AntiCheat,Wingman,secure"
 }

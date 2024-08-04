@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
+	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
 }

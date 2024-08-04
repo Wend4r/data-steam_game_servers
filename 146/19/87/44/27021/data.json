@@ -1,7 +1,7 @@
 {
 	"addr": "146.19.87.44:27021",
 	"gameport": 27021,
-	"steamid": "90200629601657885",
+	"steamid": "85568392931777274",
 	"name": "ОСТРЫЙ СЕРВЕР | 4JUMP | ВИП БЕСПЛАТНО",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
