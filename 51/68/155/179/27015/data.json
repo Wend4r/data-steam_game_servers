@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "mg_minecraft_course_JB_N1",
+	"map": "mg_minecraft_course_lf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,4fun,awp,course,dr,dust,fastdl,free,fun,hns,mg,multigames,pl,poland,recoil,shop,store,surf,vip,secure"
+	"gametype": "128,4fun,awp,course,dr,dust,fastdl,free,fun,hns,mg,multigames,pl,poland,recoil,shop,store,surf,vip,secure"
 }

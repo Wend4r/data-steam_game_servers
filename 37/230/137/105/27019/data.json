@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "msk,multicfg,multi,cybershoke,dm,ffa,deathmatch,cyber,128,128ti"
+	"gametype": "empty,msk,multicfg,multi,cybershoke,dm,ffa,deathmatch,cyber,128"
 }
