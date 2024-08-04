@@ -2,7 +2,7 @@
 	"addr": "91.224.117.96:27235",
 	"gameport": 27235,
 	"specport": 27236,
-	"steamid": "90200625405135902",
+	"steamid": "90200627011419166",
 	"name": "CS2 TEST #2 @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "bb_castle_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

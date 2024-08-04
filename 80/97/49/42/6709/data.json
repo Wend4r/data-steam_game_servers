@@ -2,18 +2,18 @@
 	"addr": "80.97.49.42:6709",
 	"gameport": 6709,
 	"steamid": "85568392931723396",
-	"name": "AWP | Napas Project | !ws !rank",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 254,
-	"max_players": 255,
+	"players": 0,
+	"max_players": 32,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
