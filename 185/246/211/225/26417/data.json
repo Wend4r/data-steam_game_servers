@@ -1,19 +1,20 @@
 {
 	"addr": "185.246.211.225:26417",
 	"gameport": 26417,
-	"steamid": "90200560819684360",
-	"name": "kHORG ELLAGI",
+	"specport": 26418,
+	"steamid": "90200618342644744",
+	"name": "Portuguese Tactics Squad powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 10,
-	"bots": 2,
-	"map": "de_dust2",
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

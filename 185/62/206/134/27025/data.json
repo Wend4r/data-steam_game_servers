@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,fragnet,fragnet.net,high performance,insecure"
+	"gametype": "fragnet,fragnet.net,high performance,insecure"
 }
