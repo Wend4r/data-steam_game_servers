@@ -1,6 +1,7 @@
 {
 	"addr": "46.105.55.3:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200638396135437",
 	"name": "Narco Gaming",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 13,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Narco Gaming,secure"
+	"gametype": "Narco Gaming,secure"
 }
