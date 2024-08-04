@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 8,
 	"max_players": 10,
-	"bots": 3,
-	"map": "de_ancient",
+	"bots": 2,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

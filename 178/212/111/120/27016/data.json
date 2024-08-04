@@ -1,7 +1,7 @@
 {
 	"addr": "178.212.111.120:27016",
 	"gameport": 27016,
-	"steamid": "90200639118151698",
+	"steamid": "90200639442550802",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,m"
+	"gametype": "krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,maniac,"
 }

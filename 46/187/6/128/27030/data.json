@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 9,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!knife,!vip,!ws,insecure"
+	"gametype": "!gloves,!knife,!vip,!ws,secure"
 }
