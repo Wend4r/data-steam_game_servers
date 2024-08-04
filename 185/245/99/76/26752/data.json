@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26752",
 	"gameport": 26752,
-	"steamid": "90200637459585038",
+	"steamid": "90200643311727630",
 	"name": "VP.Prodigy  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
