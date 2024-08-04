@@ -1,0 +1,19 @@
+{
+	"addr": "81.4.254.14:27016",
+	"gameport": 27016,
+	"steamid": "90200622608863255",
+	"name": "MizaPro | ZOMBIE ESCAPE | !WS !KNIFE | discord.gg/XPpVEGra3b",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "ze_alien_mountain_escape_p3",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zombiemod,"
+}
