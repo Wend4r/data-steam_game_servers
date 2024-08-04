@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.97:26766",
 	"gameport": 26766,
-	"steamid": "90200531078636549",
-	"name": "Leetify CS2 Practice Mode by mazafaka",
+	"steamid": "90200643268144133",
+	"name": "Leetify CS2 Practice Mode by fl1peR",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
