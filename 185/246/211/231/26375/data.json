@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.211.231:26375",
+	"gameport": 26375,
+	"steamid": "90200639896546318",
+	"name": "Leetify CS2 Match by EDSHOT MACHINE !!!!!!!",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 6,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

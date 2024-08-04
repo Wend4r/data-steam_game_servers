@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "aim_map_2019",
+	"map": "ar_ds_cornered_gg1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
