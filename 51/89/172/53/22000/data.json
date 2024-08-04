@@ -1,0 +1,19 @@
+{
+	"addr": "51.89.172.53:22000",
+	"gameport": 22000,
+	"steamid": "90200642391740446",
+	"name": "THUGA-GAMING",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 8,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,THUGA-GAMING,secure"
+}
