@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
 	"map": "deathrun_civilization",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "deathrun_civilizat,deathrun,de,CS,14,!kl,128,128tick,cybershoke"
+	"gametype": "empty,deathrun_civilizat,deathrun,de,CS,14,!kl,128,128tick,cybe"
 }
