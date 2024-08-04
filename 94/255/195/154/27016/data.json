@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_lego_multigames",
+	"map": "mg_skeet_multigames_v7",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,testing,secure"
+	"gametype": "testing,secure"
 }
