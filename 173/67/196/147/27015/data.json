@@ -1,7 +1,7 @@
 {
 	"addr": "173.67.196.147:27015",
 	"gameport": 27015,
-	"steamid": "90200590644165661",
+	"steamid": "90200618886969373",
 	"name": "Cleft.Fun",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
