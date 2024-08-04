@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.129:26939",
 	"gameport": 26939,
-	"steamid": "90200615295396881",
+	"steamid": "90200642141717521",
 	"name": "Wiglan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 2,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
