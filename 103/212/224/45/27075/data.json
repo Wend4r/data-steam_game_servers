@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_ny_bigloop",
+	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!ws,killzone,de,combat surf,combat,easy surf,beginner,de,austra"
+	"gametype": "empty,!ws,killzone,de,combat surf,combat,easy surf,beginner,de,"
 }

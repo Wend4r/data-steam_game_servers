@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
-	"bots": 0,
-	"map": "de_stmarc",
+	"bots": 8,
+	"map": "de_lake",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,R0对战平台,insecure"
+	"gametype": "R0对战平台,insecure"
 }
