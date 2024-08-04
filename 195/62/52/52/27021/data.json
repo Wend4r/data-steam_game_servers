@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws !lvl !knife !gloves !vip !shop sentry lasers,secure"
+	"gametype": "empty,!ws !lvl !knife !gloves !vip !shop sentry lasers,secure"
 }
