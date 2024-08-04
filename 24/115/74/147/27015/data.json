@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 12,
-	"map": "de_dust2_classic",
+	"map": "shipment",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "casual,cs2,fun,secure"
+	"gametype": "empty,casual,cs2,fun,secure"
 }
