@@ -1,0 +1,19 @@
+{
+	"addr": "89.233.18.187:27015",
+	"gameport": 27015,
+	"steamid": "90200638856149022",
+	"name": "VB netcafe",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 3,
+	"max_players": 64,
+	"bots": 0,
+	"map": "cs_italy",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}
