@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 28,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage_artex",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,cs2,fps,mirage,secure,skins,ua,ws,secure"
+	"gametype": "empty,awp,cs2,fps,mirage,secure,skins,ua,ws,secure"
 }
