@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26425",
 	"gameport": 26425,
-	"steamid": "90200598442290189",
+	"steamid": "90200624691663885",
 	"name": "Lussac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

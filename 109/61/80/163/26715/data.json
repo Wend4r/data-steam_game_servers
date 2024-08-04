@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26715",
 	"gameport": 26715,
-	"steamid": "90200598497797142",
+	"steamid": "90200624612050966",
 	"name": "algeria",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

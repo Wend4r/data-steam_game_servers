@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26168",
 	"gameport": 26168,
-	"steamid": "90200598427522074",
+	"steamid": "90200624631856154",
 	"name": "bussibar",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

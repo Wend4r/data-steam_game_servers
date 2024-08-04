@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26843",
 	"gameport": 26843,
-	"steamid": "90200598437549084",
+	"steamid": "90200624681867292",
 	"name": "Monkey Business",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

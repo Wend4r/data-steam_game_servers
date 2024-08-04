@@ -2,7 +2,7 @@
 	"addr": "185.246.208.194:26198",
 	"gameport": 26198,
 	"specport": 26199,
-	"steamid": "90200598359044110",
+	"steamid": "90200624707162126",
 	"name": "[H3SQ] DM 24/7 DD2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

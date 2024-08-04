@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.251.35:26150",
 	"gameport": 26150,
-	"steamid": "90200598363632642",
+	"steamid": "90200624607391746",
 	"name": "Franck's Private Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

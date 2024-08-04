@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.139:26164",
 	"gameport": 26164,
-	"steamid": "90200598313168923",
+	"steamid": "90200624641260571",
 	"name": "Shroomless",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26924",
 	"gameport": 26924,
-	"steamid": "90200598427782170",
+	"steamid": "90200624632123418",
 	"name": "SE Discord - EU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26207",
 	"gameport": 26207,
-	"steamid": "90200598442579981",
+	"steamid": "90200624691960845",
 	"name": "Comportaya",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
