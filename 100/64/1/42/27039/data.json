@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.1.42:27039",
 	"gameport": 27039,
-	"steamid": "90200610849844229",
+	"steamid": "90200620720374789",
 	"name": "Valve Counter-Strike 2 asia Server (srcds2023-sgp2.152.25)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,empty,secure"
+	"gametype": "hidden,empty,insecure"
 }
