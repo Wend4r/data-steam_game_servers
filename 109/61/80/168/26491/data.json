@@ -3,7 +3,7 @@
 	"gameport": 26491,
 	"specport": 26492,
 	"steamid": "90200626496729115",
-	"name": "eBot :: iSUPPLYPOWER vs Kapibara",
+	"name": "eBot :: Kapibara vs iSUPPLYPOWER",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 12,
-	"bots": 2,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
