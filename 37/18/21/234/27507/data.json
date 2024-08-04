@@ -2,7 +2,7 @@
 	"addr": "37.18.21.234:27507",
 	"gameport": 27507,
 	"steamid": "85568392932037219",
-	"name": "Новый сервер CW-SERV.RU",
+	"name": "[CS2] Kafezon - Public | !KNIFE !SKINS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,s"
 }
