@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_spasauna",
+	"map": "de_laivasauna",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,fi,jonnekahvila,jonnekahvila.fi,publa,sauna,suomi,secure"
+	"gametype": "empty,cs2,fi,jonnekahvila,jonnekahvila.fi,publa,sauna,suomi,sec"
 }
