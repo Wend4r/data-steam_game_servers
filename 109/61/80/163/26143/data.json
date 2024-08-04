@@ -12,9 +12,9 @@
 	"players": 10,
 	"max_players": 11,
 	"bots": 1,
-	"map": "cs_italy",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
