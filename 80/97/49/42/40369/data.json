@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,10fps,10vs10,alyx,alyxhvh,csgohvh,europe,galaxy,gamesense,hvh,mirage,mm,insecure"
+	"gametype": "10fps,10vs10,alyx,alyxhvh,csgohvh,europe,galaxy,gamesense,hvh,mirage,mm,insecure"
 }

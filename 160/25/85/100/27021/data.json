@@ -1,7 +1,7 @@
 {
 	"addr": "160.25.85.100:27021",
 	"gameport": 27021,
-	"steamid": "90200636646601743",
+	"steamid": "90200638358983695",
 	"name": "\"Solo_Aim\" \"1v1|\" By The Checkmate",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "cs2_dust_1on1",
+	"map": "1v1aim_map_longdustversion_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

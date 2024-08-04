@@ -1,7 +1,6 @@
 {
 	"addr": "188.165.192.78:27030",
 	"gameport": 27030,
-	"specport": 27020,
 	"steamid": "85568392931716804",
 	"name": "Serveur Pracc Undercover",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 16,
+	"max_players": 15,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

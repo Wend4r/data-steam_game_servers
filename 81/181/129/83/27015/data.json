@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "obg_am_grass2",
+	"map": "obg_am_ramps_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,du,duv2,insecure"
+	"gametype": "empty,du,duv2,secure"
 }
