@@ -1,0 +1,20 @@
+{
+	"addr": "89.187.167.129:26146",
+	"gameport": 26146,
+	"specport": 26147,
+	"steamid": "90200623913040913",
+	"name": "[P] PopFlash Scrim - bristol - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 7,
+	"bots": 1,
+	"map": "awp_india",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,secure"
+}
