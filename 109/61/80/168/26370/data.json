@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26370",
 	"gameport": 26370,
-	"steamid": "85568392931326978",
+	"steamid": "85568392927654809",
 	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 4,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

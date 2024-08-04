@@ -1,6 +1,7 @@
 {
 	"addr": "146.59.108.100:27015",
 	"gameport": 27015,
+	"specport": 27070,
 	"steamid": "85568392931211475",
 	"name": "█ Csowicze.pl | Losowe Cheaty | SKINY|RANGI|SKLEP|VIP|UNIKAT",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 1,
 	"max_players": 23,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskill"
+	"gametype": "cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskills,secu"
 }
