@@ -1,0 +1,19 @@
+{
+	"addr": "109.204.224.244:27015",
+	"gameport": 27015,
+	"steamid": "85568392931809254",
+	"name": "timps.vps",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
