@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 1,
 	"max_players": 24,
-	"bots": 0,
-	"map": "newhightowers",
+	"bots": 7,
+	"map": "gg_ar_urban_arena",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
