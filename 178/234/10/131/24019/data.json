@@ -1,19 +1,19 @@
 {
 	"addr": "178.234.10.131:24019",
 	"gameport": 24019,
-	"steamid": "90200634214765569",
+	"steamid": "90200635564178433",
 	"name": "TDZ | Maniac 2 | 128tic",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2233723948/simpsonsredux",
+	"map": "/2889425517/objectbanddom",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
