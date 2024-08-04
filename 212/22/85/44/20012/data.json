@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,r"
+	"gametype": "!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,russian"
 }

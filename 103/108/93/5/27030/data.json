@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 34,
 	"bots": 1,
-	"map": "surf_air_arena",
+	"map": "surf_ski_2_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
+	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
 }
