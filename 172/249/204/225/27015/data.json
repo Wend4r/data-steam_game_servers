@@ -1,19 +1,19 @@
 {
 	"addr": "172.249.204.225:27015",
 	"gameport": 27015,
-	"steamid": "90200617495175169",
+	"steamid": "90200618281089025",
 	"name": "Com Works - L.A Lan Center - 24/7 Casual",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 18,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
