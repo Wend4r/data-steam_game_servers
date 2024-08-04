@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.206.86:26858",
+	"gameport": 26858,
+	"steamid": "90200618180135941",
+	"name": "DookieSoup's Deathmath Spectacular",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 16,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

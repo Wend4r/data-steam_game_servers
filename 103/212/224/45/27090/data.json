@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_technique",
+	"map": "surf_astra",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
+	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
 }
