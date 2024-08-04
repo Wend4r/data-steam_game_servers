@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 4,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 0,
 	"map": "kz_surf_larry",
 	"secure": true,
 	"dedicated": true,
