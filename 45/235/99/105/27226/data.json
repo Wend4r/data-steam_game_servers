@@ -1,6 +1,7 @@
 {
 	"addr": "45.235.99.105:27226",
 	"gameport": 27226,
+	"specport": 27020,
 	"steamid": "85568392931777359",
 	"name": "Wilde",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 4,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
