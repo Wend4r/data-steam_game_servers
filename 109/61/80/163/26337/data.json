@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_rats_kitchoon",
+	"map": "de_akiba",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BR,FR,Raz0r,[BR] fun,[FR],be,belgique,casual,ffa,fr,franc"
+	"gametype": "BR,FR,Raz0r,[BR] fun,[FR],be,belgique,casual,ffa,fr,france,fren"
 }

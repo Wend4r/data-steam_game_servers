@@ -10,10 +10,10 @@
 	"region": 5,
 	"players": 2,
 	"max_players": 64,
-	"bots": 8,
-	"map": "cs_italy",
+	"bots": 0,
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }
