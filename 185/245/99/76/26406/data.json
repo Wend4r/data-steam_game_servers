@@ -2,8 +2,8 @@
 	"addr": "185.245.99.76:26406",
 	"gameport": 26406,
 	"specport": 26407,
-	"steamid": "90200633321233422",
-	"name": "Kronjyllands powered by PRACC.COM",
+	"steamid": "90200640703991822",
+	"name": "FXNation (Open/inter) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
