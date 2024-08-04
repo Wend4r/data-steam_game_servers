@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 48,
 	"bots": 27,
-	"map": "cs_france_2",
+	"map": "de_engage_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
