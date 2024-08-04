@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.206.86:26556",
 	"gameport": 26556,
-	"steamid": "85568392925439299",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"steamid": "90200642956174341",
+	"name": "Leetify CS2 Retakes by Obi-Jaun Tap",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
-	"max_players": 15,
+	"region": 255,
+	"players": 4,
+	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "de_ancient",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

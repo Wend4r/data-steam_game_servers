@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26349",
 	"gameport": 26349,
-	"steamid": "90200636725179406",
+	"steamid": "90200642970807310",
 	"name": "OG CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
