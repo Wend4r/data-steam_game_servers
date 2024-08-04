@@ -1,7 +1,7 @@
 {
 	"addr": "45.144.155.74:27015",
 	"gameport": 27015,
-	"steamid": "90200636455462927",
+	"steamid": "90200636642551823",
 	"name": "CS2: Server - Powerd QGSHOSTING.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 32,
 	"bots": 2,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
