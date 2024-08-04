@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "aim_dour",
+	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
