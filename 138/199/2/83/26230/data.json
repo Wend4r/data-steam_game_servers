@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.2.83:26230",
 	"gameport": 26230,
-	"steamid": "90200601976026128",
+	"steamid": "90200628444171280",
 	"name": "Zyph",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
