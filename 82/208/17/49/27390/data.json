@@ -1,0 +1,19 @@
+{
+	"addr": "82.208.17.49:27390",
+	"gameport": 27390,
+	"steamid": "85568392931768063",
+	"name": "VixX-Public",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
