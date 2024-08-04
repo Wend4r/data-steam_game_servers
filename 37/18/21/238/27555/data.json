@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!gloves,!knife,!ws,128tick,1vs1,aim,arena,awp,bhop,cyber,cybe"
+	"gametype": "empty,!,!gloves,!knife,!ws,128tick,1vs1,aim,arena,awp,bhop,cybe"
 }

@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.210:26341",
+	"gameport": 26341,
+	"steamid": "90200637144222749",
+	"name": "Tournament Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "aim_redline_23",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
