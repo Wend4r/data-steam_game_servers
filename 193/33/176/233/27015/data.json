@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.233:27015",
 	"gameport": 27015,
-	"steamid": "90200629643911169",
+	"steamid": "90200630610357249",
 	"name": "NAZWA SERWERA [SRCDS] @pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
