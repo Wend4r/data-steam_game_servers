@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS2,LANN,LANN Gaming,Mongolia,secure"
+	"gametype": "CS2,LANN,LANN Gaming,Mongolia,secure"
 }
