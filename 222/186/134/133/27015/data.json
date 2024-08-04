@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 7,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "zm_playtime_v2",
 	"secure": true,
 	"dedicated": true,
