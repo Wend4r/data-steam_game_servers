@@ -12,7 +12,7 @@
 	"players": 5,
 	"max_players": 30,
 	"bots": 0,
-	"map": "boss_oberon_b",
+	"map": "$2000$_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

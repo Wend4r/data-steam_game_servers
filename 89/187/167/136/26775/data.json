@@ -1,0 +1,20 @@
+{
+	"addr": "89.187.167.136:26775",
+	"gameport": 26775,
+	"specport": 26776,
+	"steamid": "90200634815675416",
+	"name": "Crimson Elite (ESEA Intermediate) powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
