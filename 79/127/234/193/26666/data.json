@@ -3,18 +3,18 @@
 	"gameport": 26666,
 	"specport": 26667,
 	"steamid": "90200642434710541",
-	"name": "326837d621c2e8c6ede4d7b9e8bb50b1",
+	"name": "ca3d99ab5c295f0b60b5083f86466db9",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 5,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
