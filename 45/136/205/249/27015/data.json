@@ -1,19 +1,19 @@
 {
 	"addr": "45.136.205.249:27015",
 	"gameport": 27015,
-	"steamid": "90200627382240286",
+	"steamid": "85568392932035853",
 	"name": "# [PUBLIC] SapphireTech | 1 AWP",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,10x10,16,1awp,5x5,ekb,gamesense,hvh,insecure,k,msk,neverlose,nixware,nsk,onetap,s-t,sapphire,sapphire.tech,sapphiretech,s"
+	"gametype": "10x10,16,1awp,5x5,ekb,gamesense,hvh,insecure,k,msk,neverlose,nixware,nsk,onetap,s-t,sapphire,sapphire.tech,sapphiretech,st,tech"
 }
