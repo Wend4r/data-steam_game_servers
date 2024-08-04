@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27267",
 	"gameport": 27267,
 	"specport": 27269,
-	"steamid": "90200600271408158",
+	"steamid": "90200625687993374",
 	"name": "CKA XABAROVSK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27082",
 	"gameport": 27082,
-	"steamid": "90200613436100638",
+	"steamid": "90200625688051742",
 	"name": "BTRpracc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

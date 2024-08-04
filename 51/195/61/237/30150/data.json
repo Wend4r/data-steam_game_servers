@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30150",
 	"gameport": 30150,
 	"specport": 35044,
-	"steamid": "90200601234440207",
+	"steamid": "90200625849256975",
 	"name": "VoidGuardians.Pro",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

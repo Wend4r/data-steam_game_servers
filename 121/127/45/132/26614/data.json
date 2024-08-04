@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26614",
 	"gameport": 26614,
+	"specport": 26615,
 	"steamid": "90200625657095177",
 	"name": "Frb. Falcons powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
