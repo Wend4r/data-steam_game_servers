@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 100,
 	"bots": 0,
-	"map": "hns_tyo_og",
+	"map": "hns_kitty_og",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128 tick,gravity,gstrafe,hns,increased_maxplayers,pre,secure"
+	"gametype": "128 tick,gravity,gstrafe,hns,increased_maxplayers,pre,secure"
 }

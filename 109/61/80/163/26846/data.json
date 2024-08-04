@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26846",
 	"gameport": 26846,
-	"steamid": "90200634560149526",
+	"steamid": "90200634844954646",
 	"name": "lord´s CS server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_dogtown",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
