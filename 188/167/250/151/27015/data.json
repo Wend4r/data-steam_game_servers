@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "kz_rome",
+	"map": "kz_butterfly",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,kz,insecure"
+	"gametype": "kz,insecure"
 }

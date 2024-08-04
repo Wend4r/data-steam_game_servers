@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 7,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_defense3002_p",
+	"map": "ze_dangerous_waters_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,le"
+	"gametype": "OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,lego2,no"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.167:26314",
 	"gameport": 26314,
-	"specport": 26315,
-	"steamid": "90200606712925210",
+	"steamid": "90200632718044186",
 	"name": "Tier Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26114",
 	"gameport": 26114,
+	"specport": 26115,
 	"steamid": "90200632621560859",
 	"name": "AC Crimson",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
