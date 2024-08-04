@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26062",
 	"gameport": 26062,
+	"specport": 26063,
 	"steamid": "85568392926405156",
 	"name": "BETERA Vibe City",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 11,
 	"max_players": 16,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }

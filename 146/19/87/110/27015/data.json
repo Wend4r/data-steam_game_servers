@@ -1,7 +1,7 @@
 {
 	"addr": "146.19.87.110:27015",
 	"gameport": 27015,
-	"steamid": "90200629686713375",
+	"steamid": "90200630626640927",
 	"name": "Polaris2 AWP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

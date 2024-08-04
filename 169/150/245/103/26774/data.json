@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.103:26774",
 	"gameport": 26774,
+	"specport": 26775,
 	"steamid": "90200630401941515",
 	"name": "Constrict Gaming (ESEA Inter) powered by PRACC.COM",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
