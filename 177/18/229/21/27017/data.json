@@ -1,20 +1,19 @@
 {
 	"addr": "177.18.229.21:27017",
 	"gameport": 27017,
-	"specport": 27021,
-	"steamid": "90200643136330773",
-	"name": "nigga burger",
+	"steamid": "85568392931886236",
+	"name": "[HvH] ★ CRIA NÃO CAI ★ | $16k | ROLL FIX | 1 AWP [SA]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.38.7.9",
+	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
-	"max_players": 20,
-	"bots": 1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure,insecure"
+	"gametype": "compet,brasil,hackvshack,hack,4fun,bhop,gloves,arena,crianaocai,hvh,luckhvh,knife,jail,jailbreak,kz,luckzera,mix,retake,surf,ws"
 }
