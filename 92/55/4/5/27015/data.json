@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "3eoh.apeha 1,competitive,msm,secure"
+	"gametype": "empty,3eoh.apeha 1,competitive,msm,secure"
 }
