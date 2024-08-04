@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.230:26746",
 	"gameport": 26746,
-	"steamid": "90200607183798285",
+	"steamid": "90200633749297165",
 	"name": "Sharks powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

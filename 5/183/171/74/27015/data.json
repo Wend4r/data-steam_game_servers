@@ -1,7 +1,7 @@
 {
 	"addr": "5.183.171.74:27015",
 	"gameport": 27015,
-	"steamid": "90200572611659787",
+	"steamid": "90200633724502027",
 	"name": "HusiFFA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
