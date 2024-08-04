@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.119.129:27015",
 	"gameport": 27015,
-	"steamid": "90200617796874251",
+	"steamid": "90200624628275211",
 	"name": "CSC Event Server 8",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,20 +1,19 @@
 {
 	"addr": "3.112.26.126:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "85568392925342003",
-	"name": "A-Soul 满十",
+	"steamid": "90200624749563922",
+	"name": "UB社区 CS2 僵尸逃跑 #1 Q群 647885103",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 25,
-	"bots": 1,
-	"map": "de_inferno",
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
