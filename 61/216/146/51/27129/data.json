@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "am_winterbound",
+	"map": "am_fenikss",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
