@@ -1,7 +1,7 @@
 {
 	"addr": "66.151.242.117:27115",
 	"gameport": 27115,
-	"steamid": "90200663429784589",
+	"steamid": "90200663430995981",
 	"name": "Brother Discord 3.0",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 8,
 	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

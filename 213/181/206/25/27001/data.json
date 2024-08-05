@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!lvl,!ws,best,eu,free,freevip,gaming,hu,hun,hungar"
+	"gametype": "!knife,!lvl,!ws,best,eu,free,freevip,gaming,hu,hun,hungarian,hu"
 }

@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "awp_lego_2",
+	"map": "awp_lego_2016_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
