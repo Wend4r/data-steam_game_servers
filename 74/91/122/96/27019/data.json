@@ -11,10 +11,9 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 33,
-	"bots": 1,
-	"map": "bhop_morgulan",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "autohop,bhop,horizon,secure"
+	"gametype": "empty,autohop,bhop,horizon,secure"
 }
