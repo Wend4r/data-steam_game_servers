@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 7,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,gloves,knifes,laleagane,shop,skins,vip,ws,secure"
+	"gametype": "bhop,gloves,knifes,laleagane,shop,skins,vip,ws,secure"
 }
