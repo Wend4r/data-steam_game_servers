@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33020",
 	"gameport": 33020,
-	"steamid": "90200638095173639",
-	"name": "PRZERWA2 by \"FreeGameHosting.eu\"",
+	"steamid": "90200654270788615",
+	"name": "2212 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
