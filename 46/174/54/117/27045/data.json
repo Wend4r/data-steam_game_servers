@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27045",
 	"gameport": 27045,
 	"steamid": "90200530431800332",
-	"name": "genesis 17651: team_wallhack vs team_sosiska_killer",
+	"name": "genesis 17665: team_пес патрон vs team_klz",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_train",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

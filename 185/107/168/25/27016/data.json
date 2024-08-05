@@ -1,0 +1,19 @@
+{
+	"addr": "185.107.168.25:27016",
+	"gameport": 27016,
+	"steamid": "85568392930704478",
+	"name": "MiB server 2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.9",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 11,
+	"bots": 2,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
