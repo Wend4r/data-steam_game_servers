@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_dust2_classic",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brutalci,ws,secure"
+	"gametype": "br,brutalci,ws,secure"
 }

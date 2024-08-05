@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 4,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,casual,defuse,drop,fast,free,official,only,premier,"
+	"gametype": "CZ/SK,casual,defuse,drop,fast,free,official,only,premier,public"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "119.45.17.222:27015",
 	"gameport": 27015,
-	"steamid": "90200636776038404",
+	"steamid": "90200662030711812",
 	"name": "LinuxGSM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 16,
+	"max_players": 20,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
