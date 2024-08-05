@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 3,
-	"map": "surf_spacejam",
+	"map": "surf_rewind",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_spacejam,secure"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_rewind,secure"
 }

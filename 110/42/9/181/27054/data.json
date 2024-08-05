@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_fourcorners_v3_immortal",
+	"map": "mg_dfs_Happy_15_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
+	"gametype": "ZED,fastdl,mg,multigames,secure"
 }
