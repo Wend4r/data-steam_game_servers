@@ -2,7 +2,7 @@
 	"addr": "192.145.99.107:40519",
 	"gameport": 40519,
 	"steamid": "85568392931562670",
-	"name": "Freezing-Blood CS:2 | MIRAGE #4 |",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

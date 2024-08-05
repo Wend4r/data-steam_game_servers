@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,conneqt,conneqtgaming,delhi,executes,insecure"
+	"gametype": "empty,conneqt,conneqtgaming,delhi,executes,secure"
 }

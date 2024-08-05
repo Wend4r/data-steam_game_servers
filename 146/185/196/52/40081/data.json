@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 3,
-	"max_players": 28,
+	"max_players": 0,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
