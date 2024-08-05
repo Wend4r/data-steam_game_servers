@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
 	"bots": 2,
 	"map": "surf_tequila",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,85,US,_,beginner,challenge,for,games,gfl,gflclan,gloves,knife,lag,life,no,s,skins,stats,style,surf,surf_,tick,timer,weapon,ws"
+	"gametype": "empty,!,85,US,_,beginner,challenge,for,games,gfl,gflclan,gloves,knife,lag,life,no,s,skins,stats,style,surf,surf_,tick,timer,wea"
 }
