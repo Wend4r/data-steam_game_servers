@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26366",
 	"gameport": 26366,
-	"steamid": "90200632693353478",
+	"steamid": "90200658710765574",
 	"name": "MF CSGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

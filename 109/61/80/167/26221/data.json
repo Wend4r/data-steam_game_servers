@@ -2,7 +2,7 @@
 	"addr": "109.61.80.167:26221",
 	"gameport": 26221,
 	"specport": 26222,
-	"steamid": "90200632718600218",
+	"steamid": "90200658570218522",
 	"name": "mens) Server #4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

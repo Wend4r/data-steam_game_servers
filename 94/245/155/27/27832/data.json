@@ -2,7 +2,7 @@
 	"addr": "94.245.155.27:27832",
 	"gameport": 27832,
 	"steamid": "85568392931717502",
-	"name": "TOURNEY #2 BO3 [terra.ya1.ru]|!1x1|!2x2|!3x3|!4x4|!5x5|!pass|!r",
+	"name": "TERRA PENS test [terra.ya1.ru]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -14,6 +14,5 @@
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
