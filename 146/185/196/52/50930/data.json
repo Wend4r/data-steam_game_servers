@@ -1,0 +1,19 @@
+{
+	"addr": "146.185.196.52:50930",
+	"gameport": 50930,
+	"steamid": "85568392932047995",
+	"name": "[DA]-CSGO.RU | Public | 128tick | Skins",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!gloves,!knife,!vip,!ws,secure"
+}

@@ -1,6 +1,7 @@
 {
 	"addr": "45.179.91.41:27138",
 	"gameport": 27138,
+	"specport": 28138,
 	"steamid": "85568392931851898",
 	"name": "̿̿ ̿̿ ̿'̿'\\̵͇̿̿\\=(•̪●) Bala Tensa 4Fun™",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 19,
-	"bots": 0,
-	"map": "de_mission",
+	"bots": 1,
+	"map": "awp_creek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4Fun,Agents,Bala,Bala Tensa,Brasil,Gloves,Knife,Music,Sti"
+	"gametype": "4Fun,Agents,Bala,Bala Tensa,Brasil,Gloves,Knife,Music,Stickers,"
 }
