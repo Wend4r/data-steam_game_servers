@@ -2,7 +2,7 @@
 	"addr": "39.58.194.200:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200651234157570",
+	"steamid": "90200652539086850",
 	"name": "noobster's GunGame +Deathmatch +Turbo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 33,
 	"bots": 1,
-	"map": "fy_pool_day",
+	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,Gungame,gg,turbo,secure"
+	"gametype": "empty,128,AntiCheat,Gungame,gg,turbo,secure"
 }
