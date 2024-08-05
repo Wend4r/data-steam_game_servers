@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.24:27055",
 	"gameport": 27055,
-	"steamid": "90200636839298070",
+	"steamid": "90200645189977110",
 	"name": "Testowy do pluginów @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

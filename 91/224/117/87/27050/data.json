@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.87:27050",
 	"gameport": 27050,
-	"steamid": "90200637241515029",
+	"steamid": "90200645240356885",
 	"name": "CS2 RETAKE @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

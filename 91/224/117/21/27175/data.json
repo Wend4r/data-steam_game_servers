@@ -1,8 +1,7 @@
 {
 	"addr": "91.224.117.21:27175",
 	"gameport": 27175,
-	"specport": 27176,
-	"steamid": "90200635367105555",
+	"steamid": "90200645253902355",
 	"name": "gampre.pl #4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

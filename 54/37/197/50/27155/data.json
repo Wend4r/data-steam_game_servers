@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.197.50:27155",
 	"gameport": 27155,
-	"specport": 27156,
-	"steamid": "90200481704640512",
+	"steamid": "90200645115126784",
 	"name": "POLteam White @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

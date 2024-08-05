@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.197.50:27070",
 	"gameport": 27070,
-	"specport": 27071,
-	"steamid": "90200638317417472",
+	"steamid": "90200645115292672",
 	"name": "montarzufka@1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
