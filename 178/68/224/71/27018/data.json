@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_arcane_final",
+	"map": "bhop_classicrainbowaux_fix",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_arcane_final,drop,cyber,cybershoke,gloves,knife"
+	"gametype": "bhop,bhop_arcane_final,drop,cyber,cybershoke,gloves,knife,pronu"
 }
