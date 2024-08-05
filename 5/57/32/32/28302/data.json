@@ -2,18 +2,18 @@
 	"addr": "5.57.32.32:28302",
 	"gameport": 28302,
 	"steamid": "85568392932003663",
-	"name": "PARZIVAL",
+	"name": "|Casual| PARZIVAL",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "aim_deagle7k_ultra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
