@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,admin,bighead,bigheads,cs2,freevip,fun,mirage,mirageonly,"
+	"gametype": "admin,bighead,bigheads,cs2,freevip,fun,mirage,mirageonly,public"
 }

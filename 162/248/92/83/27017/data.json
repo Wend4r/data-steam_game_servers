@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,secure"
+	"gametype": "empty,csgo,anticheat,free,easy,bhop,climb,kz,timer,fun,gloves,server,vanilla,server,vip,game,usa,sneak,knife,skin,ws,insecure"
 }
