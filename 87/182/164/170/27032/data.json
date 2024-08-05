@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27032",
 	"gameport": 27032,
-	"steamid": "90200664787841055",
+	"steamid": "90200667123605535",
 	"name": "[DE] ZOMBIE UPHILL 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "zombiehill",
 	"secure": true,
 	"dedicated": true,

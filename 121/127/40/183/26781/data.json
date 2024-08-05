@@ -2,8 +2,8 @@
 	"addr": "121.127.40.183:26781",
 	"gameport": 26781,
 	"specport": 26782,
-	"steamid": "90200644274023425",
-	"name": "h8r.gg",
+	"steamid": "90200667073189889",
+	"name": "79f5b7ca6e1aa08bdcb3503409529e5a",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
