@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 33,
-	"bots": 0,
-	"map": "aim_map",
+	"bots": 3,
+	"map": "aim_deagle7k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,gg"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,ggarena,"
 }
