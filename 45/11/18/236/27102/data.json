@@ -1,19 +1,19 @@
 {
 	"addr": "45.11.18.236:27102",
 	"gameport": 27102,
-	"steamid": "90200531766458398",
+	"steamid": "90200660917900318",
 	"name": "Warixx",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 10,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

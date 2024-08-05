@@ -1,0 +1,19 @@
+{
+	"addr": "82.65.165.220:27015",
+	"gameport": 27015,
+	"steamid": "85568392924338150",
+	"name": "cMaMaison CS:Source",
+	"appid": 240,
+	"gamedir": "cstrike",
+	"version": "6630498",
+	"product": "cstrike",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "alltalk,bots,friendlyfire"
+}

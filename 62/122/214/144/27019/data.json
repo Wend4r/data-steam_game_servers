@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 12,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,ffa,aim,deathmatch,cybershoke,headshot,128,128t"
+	"gametype": "de_mirage,ffa,aim,deathmatch,cybershoke,headshot,128,128tick,dm"
 }

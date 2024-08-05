@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 38,
 	"bots": 0,
-	"map": "twyxe_csgo_map_02",
+	"map": "twyxe_map_ver2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ajan,!knife,!mvp,!ws,7/24 Admin,DROP,FUN,PRO,secure"
+	"gametype": "!ajan,!knife,!mvp,!ws,7/24 Admin,DROP,FUN,PRO,secure"
 }
