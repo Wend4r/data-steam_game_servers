@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 100,
 	"bots": 0,
-	"map": "hns_xez",
+	"map": "hns_rooftops_boost",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128 tick,gravity,gstrafe,hns,increased_maxplayers,pre,secure"
+	"gametype": "empty,128 tick,gravity,gstrafe,hns,increased_maxplayers,pre,secure"
 }
