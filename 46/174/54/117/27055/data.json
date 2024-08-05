@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27055",
 	"gameport": 27055,
 	"steamid": "90200530597264396",
-	"name": "genesis 17417: team_pidoras vs team_Adolescence",
+	"name": "[genesis] League #13",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_shortnuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
