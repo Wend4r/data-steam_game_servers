@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.32.34:27122",
 	"gameport": 27122,
-	"steamid": "90200644347991061",
+	"steamid": "90200652670883861",
 	"name": "Valve Counter-Strike 2 australia Server (srcds1015-syd1.171.108",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "graphics_settings",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,empty,secure"
 }
