@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 33,
-	"bots": 0,
-	"map": "ar_shoots",
+	"bots": 1,
+	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Gungame,gg,turbo,secure"
+	"gametype": "128,AntiCheat,Gungame,gg,turbo,secure"
 }

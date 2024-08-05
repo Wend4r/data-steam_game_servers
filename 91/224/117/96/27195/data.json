@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.96:27195",
 	"gameport": 27195,
-	"steamid": "90200561130757150",
+	"steamid": "90200652748467230",
 	"name": "Napster",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 25,
+	"max_players": 13,
 	"bots": 0,
-	"map": "aim_map_s2r",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

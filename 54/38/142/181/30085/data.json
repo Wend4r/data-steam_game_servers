@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_two_towers",
+	"map": "awp_lego_2_shootout",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AWP;SKINY;KOSY;GLOVES;MUSIC;ONLY AWP;LEGO,secure"
+	"gametype": "AWP;SKINY;KOSY;GLOVES;MUSIC;ONLY AWP;LEGO,secure"
 }
