@@ -1,7 +1,7 @@
 {
 	"addr": "78.131.52.255:27015",
 	"gameport": 27015,
-	"steamid": "90200641502726170",
+	"steamid": "90200659692683290",
 	"name": "-=NegaTeam=-CS2★!rank★!votemap",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "as_tundra_classic",
+	"map": "cs_backalley_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
+	"gametype": "empty,!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
 }
