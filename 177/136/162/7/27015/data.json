@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 43,
-	"bots": 4,
-	"map": "de_ancient",
+	"bots": 0,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
