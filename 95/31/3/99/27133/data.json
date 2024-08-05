@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 64,
-	"bots": 3,
-	"map": "aim_deagle_lego",
+	"bots": 4,
+	"map": "aim_uspwhite",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,1v1,1vs1,1x1,HS,aim,am_,arena,arena,awp,awp_lego,awp_le"
+	"gametype": "!,1v1,1vs1,1x1,HS,aim,am_,arena,arena,awp,awp_lego,awp_lego_2,d"
 }
