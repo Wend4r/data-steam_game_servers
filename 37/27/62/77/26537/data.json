@@ -1,19 +1,20 @@
 {
 	"addr": "37.27.62.77:26537",
 	"gameport": 26537,
-	"steamid": "90200658724533266",
-	"name": "Leetify CS2 Practice Mode by COOKIE =]]]]]",
+	"specport": 26538,
+	"steamid": "90200661736599570",
+	"name": "Leetify CS2 KZ by zethram",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_ancient",
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kz_niche",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
