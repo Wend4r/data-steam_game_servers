@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.139:26980",
 	"gameport": 26980,
-	"steamid": "90200625960528923",
+	"steamid": "90200651689592859",
 	"name": "Aut0n Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.203:26545",
 	"gameport": 26545,
-	"steamid": "90200624610418710",
+	"steamid": "90200651609445398",
 	"name": "Lerums Yngre",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 7,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
