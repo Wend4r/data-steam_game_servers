@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "museum",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
+	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
 }
