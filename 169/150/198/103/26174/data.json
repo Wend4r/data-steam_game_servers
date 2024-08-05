@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26174",
 	"gameport": 26174,
-	"steamid": "90200659577528327",
+	"steamid": "90200660363880455",
 	"name": "SMOKE ACADEMY powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

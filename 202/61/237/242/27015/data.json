@@ -1,0 +1,19 @@
+{
+	"addr": "202.61.237.242:27015",
+	"gameport": 27015,
+	"steamid": "85568392932047331",
+	"name": "Murlisgib",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "Murlisgib,gravity,secure"
+}

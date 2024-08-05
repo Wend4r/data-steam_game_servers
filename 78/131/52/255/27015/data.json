@@ -1,19 +1,19 @@
 {
 	"addr": "78.131.52.255:27015",
 	"gameport": 27015,
-	"steamid": "90200659692683290",
+	"steamid": "90200660218889242",
 	"name": "-=NegaTeam=-CS2★!rank★!votemap",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "as_oilrig",
+	"map": "de_dust2_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
+	"gametype": "empty,!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26903",
 	"gameport": 26903,
-	"steamid": "90200660213468182",
+	"steamid": "90200660379499542",
 	"name": "NeonLight",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
