@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 25,
-	"bots": 0,
-	"map": "prefabs/de_dust2/de_dust2_skybo",
+	"bots": 1,
+	"map": "awp_slaughter_ln",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,"
+	"gametype": "alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,ro,rom"
 }
