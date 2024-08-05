@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!admins,!gloves,!knife,!rs,!vips !shop !viptest mirage dust dust2 inferno fps+ boost fps boost awp deagle ak47,!ws,secure"
+	"gametype": "empty,!admins,!gloves,!knife,!rs,!vips !shop !viptest mirage dust dust2 inferno fps+ boost fps boost awp deagle ak47,!ws,secure"
 }
