@@ -1,7 +1,6 @@
 {
 	"addr": "82.208.17.101:27261",
 	"gameport": 27261,
-	"specport": 26261,
 	"steamid": "85568392931474106",
 	"name": "nEuroShock Server",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
