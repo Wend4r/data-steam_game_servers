@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.130:26742",
 	"gameport": 26742,
-	"steamid": "90200662635247634",
+	"steamid": "90200662771310610",
 	"name": "-=[dMw]=- Counter Strike 2 Arms Race",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 5,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

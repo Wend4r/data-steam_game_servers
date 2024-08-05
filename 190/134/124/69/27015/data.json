@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
-	"max_players": 30,
-	"bots": 2,
+	"players": 0,
+	"max_players": 4,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "2v2,64tick,onetap,awp,aimware,fatality,hvh,otc,fata,alhamdullilah,skeet,wingman,xane,insecure"
+	"gametype": "empty,2v2,64tick,onetap,awp,aimware,fatality,hvh,otc,fata,alhamdullilah,skeet,wingman,xane,insecure"
 }
