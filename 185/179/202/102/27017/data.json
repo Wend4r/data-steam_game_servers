@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DubaiPeek,Retake,dubai,dubaipeek,dxb,ezQ,k0za,lot,lotgami"
+	"gametype": "DubaiPeek,Retake,dubai,dubaipeek,dxb,ezQ,k0za,lot,lotgaming,lp,"
 }
