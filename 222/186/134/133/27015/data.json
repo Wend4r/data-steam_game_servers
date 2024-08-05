@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 5,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "zp_aztec_infinity_d_16toGO",
 	"secure": true,
 	"dedicated": true,
