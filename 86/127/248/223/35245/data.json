@@ -1,0 +1,19 @@
+{
+	"addr": "86.127.248.223:35245",
+	"gameport": 35245,
+	"steamid": "90200607860967424",
+	"name": "[ES] .:COMUNIDAD FENIX:. | CS2 JAILBREAK ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 0,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "ba_jail_razor_lnz_2023",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,Random,RandomPicks,comunidad,admin,Picks,comunidad fenix,"
+}
