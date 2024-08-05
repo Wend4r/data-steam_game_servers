@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 38,
 	"bots": 5,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,U"
+	"gametype": "!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,Ukraine"
 }
