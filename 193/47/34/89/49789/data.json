@@ -2,18 +2,18 @@
 	"addr": "193.47.34.89:49789",
 	"gameport": 49789,
 	"steamid": "85568392931866842",
-	"name": "[CS:GO]Proekt |PVE| PUBLIC [128 TICK]",
+	"name": "Counter-Strike: Global Offensive",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
 	"players": 0,
-	"max_players": 25,
+	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf"
+	"gametype": "empty,secure"
 }

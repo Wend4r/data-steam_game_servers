@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.49.99:27022",
 	"gameport": 27022,
-	"steamid": "90200643378997279",
+	"steamid": "90200644300108831",
 	"name": "Case-Battle Juliett",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
