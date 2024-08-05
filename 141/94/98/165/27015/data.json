@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_aztecnoob_p",
+	"map": "ze_parkers_pit_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,cola,colateam,cs2,españa,gloves,heeffects,knife,s"
+	"gametype": "agents,cola,colateam,cs2,españa,gloves,heeffects,knife,spain,w"
 }
