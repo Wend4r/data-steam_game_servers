@@ -1,6 +1,7 @@
 {
 	"addr": "92.55.4.5:27017",
 	"gameport": 27017,
+	"specport": 27022,
 	"steamid": "85568392931824225",
 	"name": "[3EOH.APEHA 1] Competitive CS2 server 3",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 2,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,3eoh.apeha 1,competitive,msm,insecure"
+	"gametype": "empty,3eoh.apeha 1,competitive,msm,secure"
 }

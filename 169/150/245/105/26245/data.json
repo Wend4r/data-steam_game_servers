@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.105:26245",
 	"gameport": 26245,
-	"specport": 26246,
-	"steamid": "90200659548985357",
+	"steamid": "90200659551754253",
 	"name": "Base Server Image - Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
