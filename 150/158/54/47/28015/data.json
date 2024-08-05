@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_palace_of_minolila_v1",
+	"map": "ze_ffxii_westersand_v7_z9",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+	"gametype": "empty,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
 }
