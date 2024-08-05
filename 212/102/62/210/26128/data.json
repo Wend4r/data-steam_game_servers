@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.210:26128",
 	"gameport": 26128,
-	"steamid": "90200647374923805",
+	"steamid": "90200661469874205",
 	"name": "Ogaa Booga 360",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 3,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

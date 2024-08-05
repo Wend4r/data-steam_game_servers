@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,deathmatch,deatmach,dm,ffa,ffa,gloves,knife,kz,mirag"
+	"gametype": "empty,!knife,!ws,deathmatch,deatmach,dm,ffa,ffa,gloves,knife,kz"
 }
