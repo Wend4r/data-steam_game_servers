@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27230",
 	"gameport": 27230,
-	"steamid": "90200619146360849",
+	"steamid": "90200645048092689",
 	"name": "SERWER Szczepan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_train_classic",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
