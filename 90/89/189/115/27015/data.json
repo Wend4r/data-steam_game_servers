@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 50,
 	"bots": 0,
-	"map": "surf_atrium",
+	"map": "surf_beginner",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

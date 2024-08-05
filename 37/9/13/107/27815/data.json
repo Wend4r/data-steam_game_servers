@@ -1,7 +1,7 @@
 {
 	"addr": "37.9.13.107:27815",
 	"gameport": 27815,
-	"steamid": "90200660958606348",
+	"steamid": "90200660961109004",
 	"name": "SatoruProject [MIRAGE] | !WS !KNIFE !GLOVES",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
