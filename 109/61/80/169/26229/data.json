@@ -3,18 +3,18 @@
 	"gameport": 26229,
 	"specport": 26230,
 	"steamid": "90200636124123164",
-	"name": "mens) Server #2",
+	"name": "eBot :: Johnny Speeds vs Into the Breach",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 3,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

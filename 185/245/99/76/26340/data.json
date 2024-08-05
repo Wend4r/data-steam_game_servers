@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26340",
 	"gameport": 26340,
+	"specport": 26341,
 	"steamid": "90200659663047694",
 	"name": "ELITE KLAN VIOLET powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
