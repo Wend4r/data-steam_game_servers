@@ -2,7 +2,7 @@
 	"addr": "212.102.62.209:26767",
 	"gameport": 26767,
 	"specport": 26768,
-	"steamid": "90200619049120796",
+	"steamid": "90200645572868124",
 	"name": "Quadrivium CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

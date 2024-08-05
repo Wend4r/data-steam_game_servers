@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26660",
 	"gameport": 26660,
 	"specport": 26661,
-	"steamid": "90200619173653520",
+	"steamid": "90200645487472656",
 	"name": "Homyno powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
