@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "kz_sukblock_v2_fixed",
+	"map": "kz_antigeneric",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
