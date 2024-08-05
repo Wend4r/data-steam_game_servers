@@ -2,18 +2,18 @@
 	"addr": "61.216.146.51:27121",
 	"gameport": 27121,
 	"steamid": "85568392931222141",
-	"name": "【G9】連跳│Bhop│!rtv Rank #8 | Tier: 1",
+	"name": "【G9】連跳│Bhop│!rtv Rank #8 | Tier: 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "bhop_leaf",
+	"map": "bhop_emevaelx3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

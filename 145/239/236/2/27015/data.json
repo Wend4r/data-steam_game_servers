@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "am_must2_kat",
+	"map": "am_aztec2_kat",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tr,1v1,1vs1,arena,en,f2p,ffa,gloves,katujemy,knife,knife"
+	"gametype": "empty,128,128tr,1v1,1vs1,arena,en,f2p,ffa,gloves,katujemy,knife"
 }
