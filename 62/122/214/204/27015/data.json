@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!shop,!ws,*grp:5114777i,128,128tick,adamov,bhop,case,dropcase,ru,skins,vip free,insecure"
+	"gametype": "!gloves,!knife,!shop,!ws,*grp:5114777i,128,128tick,adamov,bhop,case,dropcase,ru,skins,vip free,insecure"
 }
