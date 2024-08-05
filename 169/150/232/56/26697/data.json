@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.232.56:26697",
 	"gameport": 26697,
-	"steamid": "90200643654848528",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26698,
+	"steamid": "90200644979105808",
+	"name": "Famas OP on T-side powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_inferno",
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

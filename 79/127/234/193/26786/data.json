@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.234.193:26786",
 	"gameport": 26786,
-	"specport": 26787,
-	"steamid": "90200624691852301",
+	"steamid": "90200644935290893",
 	"name": "CS2 Squad",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

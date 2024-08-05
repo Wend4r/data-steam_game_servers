@@ -1,0 +1,19 @@
+{
+	"addr": "87.237.52.185:27015",
+	"gameport": 27015,
+	"steamid": "90200644969480223",
+	"name": "Rabis Aim Map Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "first_bluelines",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
