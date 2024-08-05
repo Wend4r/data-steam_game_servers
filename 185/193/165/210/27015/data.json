@@ -1,7 +1,7 @@
 {
 	"addr": "185.193.165.210:27015",
 	"gameport": 27015,
-	"steamid": "90200622065691649",
+	"steamid": "90200646740280321",
 	"name": "IGAPASS Yönetim Ekibi - prooyun.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

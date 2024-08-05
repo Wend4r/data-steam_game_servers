@@ -1,0 +1,20 @@
+{
+	"addr": "92.126.248.38:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "90200646326931456",
+	"name": "Tekken Arena Server #2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
