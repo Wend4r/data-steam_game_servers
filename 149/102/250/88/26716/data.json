@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.88:26716",
 	"gameport": 26716,
-	"steamid": "90200624599776264",
+	"steamid": "90200650285480968",
 	"name": "Unskilled Workers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "79.127.217.197:26295",
 	"gameport": 26295,
 	"specport": 26296,
-	"steamid": "90200624572047365",
+	"steamid": "90200650357094405",
 	"name": "PunsAndBuns Personal",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

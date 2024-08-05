@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26589",
 	"gameport": 26589,
-	"steamid": "90200624655836175",
+	"steamid": "90200650396478479",
 	"name": "www.Twiinplay.com | Match Room",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

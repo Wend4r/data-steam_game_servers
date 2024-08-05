@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26499",
 	"gameport": 26499,
-	"steamid": "90200624581053444",
+	"steamid": "90200650416284676",
 	"name": "private 1v1 server with cupcake <3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

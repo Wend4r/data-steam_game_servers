@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26713",
 	"gameport": 26713,
-	"steamid": "90200624570714117",
+	"steamid": "90200650355952645",
 	"name": "GameBling Deathmatch",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

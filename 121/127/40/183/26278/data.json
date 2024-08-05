@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26278",
 	"gameport": 26278,
-	"steamid": "90200624512374785",
+	"steamid": "90200650351766529",
 	"name": "Hydroworks Dallas",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

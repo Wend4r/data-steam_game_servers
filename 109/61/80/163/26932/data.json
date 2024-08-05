@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26932",
 	"gameport": 26932,
-	"steamid": "90200624611043350",
+	"steamid": "90200650312026134",
 	"name": "Hosue of Murr",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 6,
-	"bots": 2,
-	"map": "remastered_1v1",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

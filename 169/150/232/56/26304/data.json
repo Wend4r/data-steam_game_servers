@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26304",
 	"gameport": 26304,
-	"specport": 27020,
-	"steamid": "90200624576390160",
+	"steamid": "90200650426644496",
 	"name": "Squidski's Playtesting Grounds",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
-	"bots": 0,
-	"map": "de_casco",
+	"bots": 3,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

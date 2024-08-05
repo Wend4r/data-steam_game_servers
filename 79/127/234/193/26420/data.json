@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.234.193:26420",
 	"gameport": 26420,
-	"specport": 26421,
 	"steamid": "85568392931397645",
 	"name": "- Red Rock CS2 -",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26481",
 	"gameport": 26481,
-	"steamid": "90200624575973392",
+	"steamid": "90200650426327056",
 	"name": "Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26758",
 	"gameport": 26758,
-	"steamid": "90200624486278170",
+	"steamid": "90200650270652442",
 	"name": "GenOne PRACTICE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

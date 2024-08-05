@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26533",
 	"gameport": 26533,
-	"steamid": "90200624537573404",
+	"steamid": "90200650441861148",
 	"name": "Private",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_thera",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

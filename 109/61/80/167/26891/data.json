@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26891",
 	"gameport": 26891,
-	"steamid": "90200624486443034",
+	"steamid": "90200650270765082",
 	"name": "HS.ORG | CS.2 Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

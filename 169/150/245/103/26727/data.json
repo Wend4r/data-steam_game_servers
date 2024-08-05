@@ -2,7 +2,7 @@
 	"addr": "169.150.245.103:26727",
 	"gameport": 26727,
 	"specport": 26728,
-	"steamid": "90200624625356811",
+	"steamid": "90200650370973707",
 	"name": "CS2Master.gg",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
