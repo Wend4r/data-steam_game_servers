@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_shortdust2",
+	"map": "de_safehouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Gungame,gg,turbo,secure"
+	"gametype": "128,AntiCheat,Gungame,gg,turbo,secure"
 }
