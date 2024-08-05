@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.198:26537",
 	"gameport": 26537,
+	"specport": 26538,
 	"steamid": "90200650523031570",
 	"name": "EX Infernis",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 6,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
