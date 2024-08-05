@@ -1,0 +1,19 @@
+{
+	"addr": "83.147.40.38:37030",
+	"gameport": 37030,
+	"steamid": "85568392932047556",
+	"name": "House of Climb NA VIP #2 | GOKZ | Tier 1-7",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "kz_beginnerblock_go",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,climb,gokz,hoc,house,jumpstats,kreedz,kz,kzt,kztimer,of,skz,vanilla,vnl,secure"
+}
