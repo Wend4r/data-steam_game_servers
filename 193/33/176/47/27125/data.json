@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.47:27125",
 	"gameport": 27125,
-	"steamid": "90200619566252039",
+	"steamid": "90200645551006727",
 	"name": "SERWER K00W4L@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_shortdust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
