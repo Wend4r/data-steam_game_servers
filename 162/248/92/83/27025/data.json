@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "KZTimer,KZTimer 1.106,Tickrate 128,kz,sneak,snksrv,secure"
+	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,kz,sneak,snksrv,secure"
 }
