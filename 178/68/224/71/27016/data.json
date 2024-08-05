@@ -2,7 +2,7 @@
 	"addr": "178.68.224.71:27016",
 	"gameport": 27016,
 	"specport": 27026,
-	"steamid": "90200667266264082",
+	"steamid": "90200667604366354",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 11,
+	"bots": 10,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,drop,pron"
+	"gametype": "empty,de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,dro"
 }
