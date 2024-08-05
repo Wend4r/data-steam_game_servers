@@ -1,7 +1,7 @@
 {
 	"addr": "193.135.10.79:27320",
 	"gameport": 27320,
-	"steamid": "90200660718683145",
+	"steamid": "90200660720003081",
 	"name": "xXCS2-ServerXx",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
