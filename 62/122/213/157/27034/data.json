@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
 	"map": "seek_winterday",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_winterd"
+	"gametype": "empty,maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_w"
 }
