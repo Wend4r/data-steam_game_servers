@@ -1,0 +1,19 @@
+{
+	"addr": "54.37.129.192:27015",
+	"gameport": 27015,
+	"steamid": "85568392932047580",
+	"name": "██ SkinRave.GG ✰ 5v5 Private ✰",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "5v5,competitive,gloves,knife,pub,skinrave,skinravegg,stickers,w"
+}
