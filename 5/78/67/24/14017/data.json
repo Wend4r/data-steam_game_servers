@@ -1,0 +1,19 @@
+{
+	"addr": "5.78.67.24:14017",
+	"gameport": 14017,
+	"steamid": "85568392924809862",
+	"name": "服务器",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

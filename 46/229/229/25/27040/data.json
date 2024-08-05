@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 32,
-	"bots": 2,
-	"map": "am_banana_gg",
+	"bots": 0,
+	"map": "am_jungle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
+	"gametype": "1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knves,kz,"
 }
