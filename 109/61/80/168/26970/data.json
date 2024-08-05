@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26970",
 	"gameport": 26970,
+	"specport": 26971,
 	"steamid": "90200641056052251",
 	"name": "InternationalAgents",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
