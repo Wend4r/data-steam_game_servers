@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 0,
 	"map": "awp_animepool_AnimeProject",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,anime,animeawp,animeproject,animepub,awp,awponly,no-steam,secure"
+	"gametype": "empty,128tick,anime,animeawp,animeproject,animepub,awp,awponly,no-steam,secure"
 }
