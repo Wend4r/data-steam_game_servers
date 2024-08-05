@@ -1,0 +1,19 @@
+{
+	"addr": "84.232.137.25:27015",
+	"gameport": 27015,
+	"steamid": "90200644744486941",
+	"name": "Counter-Strike: Old Offensive (srcds1.34.8.7)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.34.8.7",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 20,
+	"bots": 9,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "add,here,tags,your,insecure"
+}
