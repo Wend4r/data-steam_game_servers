@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_2pacisalive",
+	"map": "surf_for_all",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
