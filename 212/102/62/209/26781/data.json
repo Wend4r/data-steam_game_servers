@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.209:26781",
 	"gameport": 26781,
+	"specport": 26782,
 	"steamid": "90200661046538268",
 	"name": "tests",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 5,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
