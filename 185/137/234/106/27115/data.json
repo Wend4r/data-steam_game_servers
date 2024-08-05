@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
 	"map": "de_mirage_fps_boost_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
+	"gametype": "!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
 }
