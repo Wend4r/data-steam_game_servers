@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 2,
+	"bots": 0,
 	"map": "/2240379784/kz_cabin_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
+	"gametype": "empty,KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
 }
