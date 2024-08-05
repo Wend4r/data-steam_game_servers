@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26838",
 	"gameport": 26838,
-	"steamid": "90200624656813071",
+	"steamid": "90200650397104143",
 	"name": "Arazez Prac Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26221",
 	"gameport": 26221,
-	"steamid": "90200624606508034",
+	"steamid": "90200650317193218",
 	"name": "PhoenixC6's Chill Dedicated CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 2,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

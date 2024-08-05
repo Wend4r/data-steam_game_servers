@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.198:26454",
 	"gameport": 26454,
-	"steamid": "90200624588429330",
+	"steamid": "90200650523131922",
 	"name": "GGArena esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

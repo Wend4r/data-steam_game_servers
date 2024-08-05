@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.245:26823",
 	"gameport": 26823,
-	"steamid": "90200624636125208",
+	"steamid": "90200650452093976",
 	"name": "chillpotato",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

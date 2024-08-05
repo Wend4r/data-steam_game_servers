@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.130:26837",
 	"gameport": 26837,
-	"steamid": "90200624588144658",
+	"steamid": "90200650522945554",
 	"name": "Gather Central ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

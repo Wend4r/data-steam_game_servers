@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.130:26546",
 	"gameport": 26546,
-	"steamid": "90200624587586578",
+	"steamid": "90200650522571794",
 	"name": "Ninja Dies Skins Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

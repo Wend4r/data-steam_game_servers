@@ -2,7 +2,7 @@
 	"addr": "121.127.41.37:26728",
 	"gameport": 26728,
 	"specport": 26729,
-	"steamid": "90200624656974863",
+	"steamid": "90200650397273103",
 	"name": "Taint Ticklers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 17,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
