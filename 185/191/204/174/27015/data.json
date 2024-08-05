@@ -1,7 +1,7 @@
 {
 	"addr": "185.191.204.174:27015",
 	"gameport": 27015,
-	"steamid": "90200491890712607",
+	"steamid": "90200655844019231",
 	"name": "[Interealms] Community Casual",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
