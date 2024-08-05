@@ -5,15 +5,15 @@
 	"name": "[PlayPark] Jailbreak | !knife, !ws",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.1.5",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "jb_moti2_final",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
+	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
 }

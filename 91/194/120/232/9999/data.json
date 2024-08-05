@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_cache_fps_winky",
+	"map": "de_mirage_fps_winky",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
+	"gametype": "empty,awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
 }
