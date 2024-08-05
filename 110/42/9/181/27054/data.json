@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_Red_and_blue_v1",
+	"map": "mg_fourcorners_v3_immortal",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,mg,multigames,secure"
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
 }

@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 40,
-	"bots": 2,
-	"map": "surf_klue",
+	"bots": 0,
+	"map": "surf_lianfora_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,85,US,_,beginner,challenge,for,games,gfl,gflclan,gloves,knife,lag,life,no,s,skins,stats,style,surf,surf_,tick,timer,weapon,ws"
+	"gametype": "empty,!,85,US,_,beginner,challenge,for,games,gfl,gflclan,gloves,knife,lag,life,no,s,skins,stats,style,surf,surf_,tick,timer,wea"
 }
