@@ -11,9 +11,9 @@
 	"players": 30,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_acrophobia_run_v2",
+	"map": "mg_minecraft_aphixed",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

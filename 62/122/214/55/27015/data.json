@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,rollfix,insecure"
+	"gametype": "empty,hvh,rollfix,insecure"
 }
