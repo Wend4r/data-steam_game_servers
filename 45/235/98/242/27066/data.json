@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "arg,5vs5,1vs1,argentina,aut,automix,bhob,compe,crisisgamer,glove,competivo,crisis,gloves,knife,mix,rangos,ranked,retake,skin,ws"
+	"gametype": "empty,arg,5vs5,1vs1,argentina,aut,automix,bhob,compe,crisisgamer,glove,competivo,crisis,gloves,knife,mix,rangos,ranked,retake,s"
 }
