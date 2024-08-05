@@ -1,8 +1,8 @@
 {
 	"addr": "31.223.83.253:27015",
 	"gameport": 27015,
-	"steamid": "90200663255382019",
-	"name": "Counter-Strike 2",
+	"steamid": "90200663766348803",
+	"name": "your jailbreak server name!",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "yourservertags,insecure"
 }

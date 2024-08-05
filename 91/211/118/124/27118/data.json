@@ -1,19 +1,19 @@
 {
 	"addr": "91.211.118.124:27118",
 	"gameport": 27118,
-	"steamid": "85568392931982431",
-	"name": "[CS2] HLIBCHUK PROJECT | FPS BOOST+ | #2",
+	"steamid": "90200663842392072",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 10,
+	"players": 0,
+	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

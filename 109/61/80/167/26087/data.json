@@ -12,9 +12,9 @@
 	"players": 6,
 	"max_players": 5,
 	"bots": 1,
-	"map": "museum",
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
