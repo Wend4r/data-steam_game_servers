@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_roshan",
+	"map": "aim_map",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
