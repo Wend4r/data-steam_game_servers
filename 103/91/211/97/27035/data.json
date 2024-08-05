@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 2,
 	"max_players": 28,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_simple_sp",
 	"secure": true,
 	"dedicated": true,

@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.210:26206",
+	"gameport": 26206,
+	"steamid": "90200659002180637",
+	"name": "100000215 - Jonta's team VS ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 6,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
