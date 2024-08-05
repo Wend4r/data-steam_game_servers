@@ -1,20 +1,19 @@
 {
 	"addr": "212.102.62.209:26781",
 	"gameport": 26781,
-	"specport": 26782,
-	"steamid": "90200661046538268",
+	"steamid": "90200667248508956",
 	"name": "tests",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
