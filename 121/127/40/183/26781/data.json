@@ -3,7 +3,7 @@
 	"gameport": 26781,
 	"specport": 26782,
 	"steamid": "90200667073189889",
-	"name": "h8r.gg",
+	"name": "2554681f477bb7c367969b58724a46a0",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
