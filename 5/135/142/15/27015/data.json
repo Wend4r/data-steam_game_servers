@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_overgrown_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

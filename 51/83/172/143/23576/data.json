@@ -1,19 +1,19 @@
 {
 	"addr": "51.83.172.143:23576",
 	"gameport": 23576,
-	"steamid": "90200657750881295",
-	"name": "ServerProject.pl | CS 2",
+	"steamid": "90200657935398927",
+	"name": "supermoce",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 6,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "pl,svpj,secure"
+	"gametype": "empty,pl,svpj,secure"
 }
