@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 38,
 	"bots": 7,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,U"
+	"gametype": "!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,Ukraine"
 }
