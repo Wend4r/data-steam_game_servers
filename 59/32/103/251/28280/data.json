@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 60,
 	"bots": 0,
 	"map": "de_cbble",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bbs.93x.net,hide,hideandseek,hidenseek,hn,h,hns,93x,n,prop,prophurt,s,xnet,secure"
+	"gametype": "bbs.93x.net,hide,hideandseek,hidenseek,hn,h,hns,93x,n,prop,prophurt,s,xnet,secure"
 }
