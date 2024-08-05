@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "seek_town_update",
+	"map": "seek_town",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!ws,128tick,AWP,HNS,KZ,Knife choice CORE,MANIAC,Public,anime,cases,dom,hns,lvl,maniac,pa,shop,skins,vip,vips"
+	"gametype": "empty,!gl,!gloves,!knife,!ws,*grp:5114777i,128tick,AWP,HNS,KZ,Knife choice CORE,MANIAC,Public,anime,cases,dom,hns,lvl,maniac,pa"
 }

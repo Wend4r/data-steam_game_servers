@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "cs_backalley_classic",
+	"map": "as_tundra_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
+	"gametype": "!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
 }
