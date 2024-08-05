@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.113.219:27015",
 	"gameport": 27015,
-	"steamid": "85568392932037857",
+	"steamid": "85568392929874111",
 	"name": "[edan.gg] CS2 5v5 AutoHop #1 [Beta]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
