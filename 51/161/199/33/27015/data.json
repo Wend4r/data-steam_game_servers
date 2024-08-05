@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 1,
-	"map": "surf_derpis_ksf",
+	"map": "surf_pantheon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
 }
