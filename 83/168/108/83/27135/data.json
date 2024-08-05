@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27135",
 	"gameport": 27135,
-	"steamid": "90200619141611537",
+	"steamid": "90200645044047889",
 	"name": "SERWER Benny",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 2,
-	"map": "de_vandal",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

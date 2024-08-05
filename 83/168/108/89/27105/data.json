@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27105",
 	"gameport": 27105,
-	"steamid": "90200638466403351",
+	"steamid": "90200645049299991",
 	"name": "SERWER iPiach",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "mini_train",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

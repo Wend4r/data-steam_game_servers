@@ -1,7 +1,7 @@
 {
 	"addr": "45.136.204.24:27077",
 	"gameport": 27077,
-	"steamid": "90200635509427202",
+	"steamid": "90200645002792962",
 	"name": "[CS2] CsLand | AWP | [!skins !knife !ws]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
