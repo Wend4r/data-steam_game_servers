@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 2,
 	"max_players": 28,
 	"bots": 2,
 	"map": "bhop_crutle",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,BHop,Bunnyhopping,Skin,Store,Timer,secure"
+	"gametype": "BHop,Bunnyhopping,Skin,Store,Timer,secure"
 }
