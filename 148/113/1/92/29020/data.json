@@ -1,19 +1,19 @@
 {
 	"addr": "148.113.1.92:29020",
 	"gameport": 29020,
-	"steamid": "90200650206935065",
+	"steamid": "90200651730097177",
 	"name": "Nextwave CS2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_overpass",
+	"bots": 8,
+	"map": "de_biome",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

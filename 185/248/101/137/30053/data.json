@@ -1,6 +1,7 @@
 {
 	"addr": "185.248.101.137:30053",
 	"gameport": 30053,
+	"specport": 27020,
 	"steamid": "85568392932033535",
 	"name": "Shy PracSV",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 13,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
