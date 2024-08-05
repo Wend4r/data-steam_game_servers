@@ -2,18 +2,18 @@
 	"addr": "185.119.91.242:27015",
 	"gameport": 27015,
 	"steamid": "85568392931851823",
-	"name": "BRUTALCI.info ARENA 1v1 [!ws !knife !agents]",
+	"name": "Brutalci.info CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
-	"max_players": 28,
+	"players": 0,
+	"max_players": 26,
 	"bots": 0,
-	"map": "am_must2_gg",
+	"map": "de_dust2_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brutalci,ws,secure"
+	"gametype": "empty,secure"
 }
