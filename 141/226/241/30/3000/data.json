@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_banana_gg",
+	"map": "am_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws"
+	"gametype": "gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws,secur"
 }

@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 8,
+	"players": 12,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_construction",
+	"bots": 1,
+	"map": "awp_milkyway",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
 }
