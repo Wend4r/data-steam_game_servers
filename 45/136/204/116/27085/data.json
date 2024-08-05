@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27085",
 	"gameport": 27085,
 	"steamid": "90200530343919646",
-	"name": "genesis 17426: team_k vs team_Haciuul",
+	"name": "genesis 17443: team_karu vs team_MrBeast",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

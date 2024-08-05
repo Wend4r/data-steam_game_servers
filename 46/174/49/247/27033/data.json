@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_overpass,cybershoke,ffa,cyber,128,128tick,drop,gloves,"
+	"gametype": "de_overpass,cybershoke,ffa,cyber,128,128tick,drop,gloves,instan"
 }
