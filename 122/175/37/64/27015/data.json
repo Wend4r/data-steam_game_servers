@@ -1,6 +1,7 @@
 {
 	"addr": "122.175.37.64:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931810292",
 	"name": "cs2 private server",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 11,
 	"max_players": 15,
-	"bots": 0,
-	"map": "de_overpass",
+	"bots": 1,
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
