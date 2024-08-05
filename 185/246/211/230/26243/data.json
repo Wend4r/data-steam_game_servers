@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 5,
 	"bots": 0,
-	"map": "our1v1v1v1_main",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

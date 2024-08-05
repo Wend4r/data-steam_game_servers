@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_sp1_bloodyljs_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bad,fl0m,gokz,kz,servers,secure"
+	"gametype": "bad,fl0m,gokz,kz,servers,secure"
 }
