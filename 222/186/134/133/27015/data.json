@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "zm_jiqingdilong_b2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gravity,zp,secure"
+	"gametype": "gravity,zp,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26300",
 	"gameport": 26300,
-	"steamid": "90200623811067929",
+	"steamid": "90200649664889881",
 	"name": "Astralis Talent",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

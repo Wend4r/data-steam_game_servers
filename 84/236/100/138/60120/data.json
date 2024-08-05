@@ -1,0 +1,19 @@
+{
+	"addr": "84.236.100.138:60120",
+	"gameport": 60120,
+	"steamid": "85568392931768694",
+	"name": "HF SERVER powered by: MT Store",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 64,
+	"bots": 10,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

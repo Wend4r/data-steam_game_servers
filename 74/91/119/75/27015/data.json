@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.119.75:27015",
 	"gameport": 27015,
-	"steamid": "90200644762021909",
+	"steamid": "90200649605362709",
 	"name": "NFOservers.com: New server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
