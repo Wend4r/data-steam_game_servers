@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.169:27459",
+	"gameport": 27459,
+	"specport": 27460,
+	"steamid": "85568392920050720",
+	"name": "[CSGO] PopFlash.site – host 128 tick matches against your fri",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 4,
+	"max_players": 7,
+	"bots": 1,
+	"map": "de_train",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,popflash.site,secure"
+}
