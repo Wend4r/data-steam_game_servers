@@ -1,19 +1,19 @@
 {
 	"addr": "188.212.100.15:27015",
 	"gameport": 27015,
-	"steamid": "90200651528832015",
+	"steamid": "90200652705467407",
 	"name": "[RO/EN] INFAMOUSHVH",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_assault",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HVH,HVH,insecure"
+	"gametype": "empty,HVH,HVH,insecure"
 }
