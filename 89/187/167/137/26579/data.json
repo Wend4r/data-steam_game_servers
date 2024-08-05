@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 6,
-	"map": "de_shepherd",
+	"map": "de_outferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
