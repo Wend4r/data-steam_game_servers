@@ -2,7 +2,7 @@
 	"addr": "109.61.80.169:26363",
 	"gameport": 26363,
 	"specport": 26364,
-	"steamid": "90200636124061724",
+	"steamid": "90200661868061724",
 	"name": "RoundsU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

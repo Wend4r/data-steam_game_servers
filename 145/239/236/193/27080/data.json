@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 16,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!!,128,128tick,@@@,PL,Play4skill.pl,aim,case,de_mirage,gambit,gosetti.pl:296,knife,mirag,mirage,only_cache,onlymirage,pl,"
+	"gametype": "!!,128,128tick,@@@,PL,Play4skill.pl,aim,case,de_mirage,gambit,gosetti.pl:296,knife,mirag,mirage,only_cache,onlymirage,pl,polska"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1vs1,2v2,2vs2,HvH,Legendary,LegendaryHvH,Legendaryhvh,PT,Portugal,Portuguse,hvh,legenda,legendaryhvh,portugal,portugu"
+	"gametype": "1v1,1vs1,2v2,2vs2,HvH,Legendary,LegendaryHvH,Legendaryhvh,PT,Portugal,Portuguse,hvh,legenda,legendaryhvh,portugal,portuguese,pt"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,bunny,dm,jailbreak,jb,market,mg,mrgaming,proo"
+	"gametype": "128tick,awp,bunny,dm,jailbreak,jb,market,mg,mrgaming,prooyun,pr"
 }

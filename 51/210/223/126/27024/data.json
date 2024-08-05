@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 28,
 	"bots": 0,
-	"map": "aim_ag_texture2",
+	"map": "fun_bounce",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

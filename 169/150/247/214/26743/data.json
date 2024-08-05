@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.214:26743",
 	"gameport": 26743,
-	"steamid": "90200636350672922",
+	"steamid": "90200661747883034",
 	"name": "Deepthroat Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
