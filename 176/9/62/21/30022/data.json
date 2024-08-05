@@ -2,7 +2,7 @@
 	"addr": "176.9.62.21:30022",
 	"gameport": 30022,
 	"specport": 35021,
-	"steamid": "90200625759623171",
+	"steamid": "90200650264397827",
 	"name": "X-perience",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

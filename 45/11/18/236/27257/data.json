@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27257",
 	"gameport": 27257,
 	"specport": 27259,
-	"steamid": "90200625688002590",
+	"steamid": "90200650358396958",
 	"name": "BAGRA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

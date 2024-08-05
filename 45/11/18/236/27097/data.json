@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27097",
 	"gameport": 27097,
 	"specport": 27099,
-	"steamid": "90200625687995422",
+	"steamid": "90200650358387742",
 	"name": "flowac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

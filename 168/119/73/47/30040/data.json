@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:30040",
 	"gameport": 30040,
 	"specport": 35047,
-	"steamid": "90200625658790921",
+	"steamid": "90200650298944521",
 	"name": "Team1mpulse",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "168.119.73.47:30103",
 	"gameport": 30103,
-	"steamid": "90200636480211977",
+	"steamid": "90200650298940425",
 	"name": "windushka",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

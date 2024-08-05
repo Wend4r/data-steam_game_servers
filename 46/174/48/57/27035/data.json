@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "jb_undertale_v1e",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
 }

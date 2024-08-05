@@ -2,7 +2,7 @@
 	"addr": "176.9.62.21:30039",
 	"gameport": 30039,
 	"specport": 35087,
-	"steamid": "90200625759628291",
+	"steamid": "90200650264394755",
 	"name": "4LG Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
