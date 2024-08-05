@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/842652467/bkz_evanstep",
+	"map": "/2545059909/kz_another_climb_ma",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
