@@ -2,7 +2,7 @@
 	"addr": "121.127.45.130:26982",
 	"gameport": 26982,
 	"specport": 26983,
-	"steamid": "90200628101965831",
+	"steamid": "90200653408177159",
 	"name": "Team Julemix ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
