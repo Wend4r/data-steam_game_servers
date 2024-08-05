@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 40,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1TAP,1TAPARENA,ARENA,ARENA1TAP,CS2,CSGO,GO,ROMANIA,secure"
+	"gametype": "1TAP,1TAPARENA,ARENA,ARENA1TAP,CS2,CSGO,GO,ROMANIA,secure"
 }
