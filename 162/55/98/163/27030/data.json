@@ -1,7 +1,7 @@
 {
 	"addr": "162.55.98.163:27030",
 	"gameport": 27030,
-	"steamid": "90200622155274248",
+	"steamid": "90200646758818824",
 	"name": "FruchtLabor - Training 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

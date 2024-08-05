@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26372",
 	"gameport": 26372,
-	"steamid": "90200620237440009",
+	"steamid": "90200647379845129",
 	"name": "OEB Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

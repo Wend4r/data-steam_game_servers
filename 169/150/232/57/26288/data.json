@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26288",
 	"gameport": 26288,
-	"steamid": "90200622107389969",
+	"steamid": "90200647523337233",
 	"name": "Gravity Rangers Money Crew",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_refuse",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
