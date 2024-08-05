@@ -1,0 +1,19 @@
+{
+	"addr": "114.230.158.183:27015",
+	"gameport": 27015,
+	"steamid": "90200659833968662",
+	"name": "yxh",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 4,
+	"players": 1,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
