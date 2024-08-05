@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 25,
-	"bots": 1,
-	"map": "awp_portal_ln",
+	"bots": 0,
+	"map": "prefabs/de_dust2/de_dust2_skybo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,ro,rom"
+	"gametype": "empty,alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,"
 }

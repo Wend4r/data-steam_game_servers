@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10000",
 	"gameport": 10000,
-	"steamid": "90200667166332937",
-	"name": "AL-AKREP - free @ fshost.me",
+	"steamid": "90200667356047369",
+	"name": "abdelmalek - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 4,
+	"players": 3,
+	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
