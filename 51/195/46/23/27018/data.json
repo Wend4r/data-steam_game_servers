@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 5,
-	"map": "awp_woodgarden_fp",
+	"bots": 4,
+	"map": "awp_lego_2_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,awp,drop,free,lego,official,only,skill,sniper,speci"
+	"gametype": "CZ/SK,awp,drop,free,lego,official,only,skill,sniper,special,sta"
 }
