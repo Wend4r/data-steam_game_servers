@@ -1,0 +1,19 @@
+{
+	"addr": "178.232.190.11:27015",
+	"gameport": 27015,
+	"steamid": "90200648463788050",
+	"name": "Local KZ Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "/2471594475/kz_prefix_cliche",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}
