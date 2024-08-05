@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.46.49:27021",
 	"gameport": 27021,
+	"specport": 27022,
 	"steamid": "90200648568582166",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
