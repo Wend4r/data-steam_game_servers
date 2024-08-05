@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 1,
 	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Gandhis GH,secure"
+	"gametype": "Gandhis GH,secure"
 }

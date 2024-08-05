@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 1,
-	"map": "bhop_domi_final",
+	"map": "bhop_dungeon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_domi_fin"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_dungeon,"
 }

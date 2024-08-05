@@ -3,7 +3,7 @@
 	"gameport": 27175,
 	"specport": 27176,
 	"steamid": "90200645253902355",
-	"name": "gampre.pl :: [Eu]geniusz vs Teser18",
+	"name": "gampre.pl :: Teser18 vs MagnobXPompa",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
