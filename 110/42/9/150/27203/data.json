@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "surf_extremex",
+	"map": "surf_forbidden_swag",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,surf,secure"
+	"gametype": "ZED,fastdl,surf,secure"
 }
