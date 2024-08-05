@@ -1,7 +1,6 @@
 {
 	"addr": "45.65.196.212:27012",
 	"gameport": 27012,
-	"specport": 27026,
 	"steamid": "85568392931930532",
 	"name": "[CS:GO] RaisedServer # TESTE",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 15,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
