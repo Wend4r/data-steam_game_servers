@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 32,
-	"bots": 8,
+	"bots": 4,
 	"map": "aim_ag_texture_city_advanced",
 	"secure": true,
 	"dedicated": true,

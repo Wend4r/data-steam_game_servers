@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26923",
 	"gameport": 26923,
+	"specport": 26924,
 	"steamid": "90200648952140816",
 	"name": "fArtprAc",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

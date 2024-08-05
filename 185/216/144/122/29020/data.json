@@ -1,19 +1,19 @@
 {
 	"addr": "185.216.144.122:29020",
 	"gameport": 29020,
-	"steamid": "90200659646965791",
+	"steamid": "90200664199464991",
 	"name": "Mighty Duckz Public",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 8,
-	"map": "cs_estate_cso2",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
