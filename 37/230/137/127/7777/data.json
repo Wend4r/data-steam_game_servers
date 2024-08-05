@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!sho,!ws,128,128tick,awp,fps,fps+,jump,knife,moscow,rank,russia,shop,skins,ukraine,vip,vivaro,ws,secure"
+	"gametype": "empty,!knife,!sho,!ws,*grp:5114777i,128,128tick,awp,fps,fps+,jump,knife,moscow,rank,russia,shop,skins,ukraine,vip,vivaro,ws,sec"
 }
