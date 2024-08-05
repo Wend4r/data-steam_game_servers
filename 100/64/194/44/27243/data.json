@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 5,
 	"max_players": 64,
-	"bots": 6,
-	"map": "de_nuke",
+	"bots": 4,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }
