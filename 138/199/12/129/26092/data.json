@@ -1,19 +1,19 @@
 {
 	"addr": "138.199.12.129:26092",
 	"gameport": 26092,
-	"steamid": "90200569201130511",
-	"name": "Leetify CS2 Match by GammaGamer",
+	"steamid": "85568392925441100",
+	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 4,
-	"max_players": 12,
-	"bots": 1,
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 6,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,insecure"
 }
