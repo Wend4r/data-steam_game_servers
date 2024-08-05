@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp_lego_2,casual,fastmm,fastmm.win,fmm,fmm.gg,gloves,ws,secure"
+	"gametype": "empty,128tick,awp_lego_2,casual,fastmm,fastmm.win,fmm,fmm.gg,gloves,ws,insecure"
 }
