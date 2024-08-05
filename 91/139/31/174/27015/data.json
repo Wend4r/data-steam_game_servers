@@ -1,19 +1,19 @@
 {
 	"addr": "91.139.31.174:27015",
 	"gameport": 27015,
-	"steamid": "90200656415041561",
+	"steamid": "90200656724963353",
 	"name": "Sumcast",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 30,
-	"bots": 0,
+	"players": 1,
+	"max_players": 10,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

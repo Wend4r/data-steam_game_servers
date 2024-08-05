@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "multicfgdm,multicfg,multi,multidm,dm,ffa,deathmatch,se,128,128t"
+	"gametype": "empty,multicfgdm,multicfg,multi,multidm,dm,ffa,deathmatch,se,12"
 }
