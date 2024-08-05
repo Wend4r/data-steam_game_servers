@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "gravity,zp,secure"
+	"gametype": "empty,gravity,zp,secure"
 }

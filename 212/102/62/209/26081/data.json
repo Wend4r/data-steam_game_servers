@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26081",
 	"gameport": 26081,
-	"steamid": "90200621240731676",
+	"steamid": "90200646158622748",
 	"name": "Jochidochis Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

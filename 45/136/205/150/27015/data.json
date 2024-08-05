@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 1,
 	"map": "myghetto/hns_dulo_wip_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!q,!row,!ws,ampr,bluesen,cs:go,csgo,cyber,do,ghetto,hide and seek,hns,man,maniac,my,revold,vip,маньяк,прятки"
+	"gametype": "empty,!knife,!q,!row,!ws,ampr,bluesen,cs:go,csgo,cyber,do,ghetto,hide and seek,hns,man,maniac,my,revold,vip,маньяк,пря"
 }
