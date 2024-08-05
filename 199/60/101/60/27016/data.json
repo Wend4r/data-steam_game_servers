@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
 	"map": "surf_tundra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GLOVES,MED SURF,RANKS,SKILLS,SKINS,STATS,STYLE,SURF SKILLS,SURF T2,SURF T3,SURF TIMER,SURFING,SWOOBLES,T2 SURF,T3 SURF,TI"
+	"gametype": "GLOVES,MED SURF,RANKS,SKILLS,SKINS,STATS,STYLE,SURF SKILLS,SURF T2,SURF T3,SURF TIMER,SURFING,SWOOBLES,T2 SURF,T3 SURF,TIMER,WS"
 }

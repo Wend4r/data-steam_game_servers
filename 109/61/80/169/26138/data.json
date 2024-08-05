@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26138",
 	"gameport": 26138,
-	"steamid": "90200662454472732",
+	"steamid": "90200662455363612",
 	"name": "Tengerimajom mix",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

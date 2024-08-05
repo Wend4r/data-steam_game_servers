@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_battleforce_remake_v3_4a",
+	"map": "ze_ffxiv_reisen_temple",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
+	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
 }
