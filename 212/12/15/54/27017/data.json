@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 4,
+	"players": 0,
 	"max_players": 25,
 	"bots": 1,
 	"map": "rg/awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,128,128tick,24/7,awp,drop,duel,free,gl,lego,pro,ranks,ru,rusgang,russiangang,skins,ua,vip,viptest,secure"
+	"gametype": "empty,!gloves,!knife,!ws,128,128tick,24/7,awp,drop,duel,free,gl,lego,pro,ranks,ru,rusgang,russiangang,skins,ua,vip,viptest,secu"
 }
