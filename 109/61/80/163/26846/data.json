@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26846",
 	"gameport": 26846,
-	"steamid": "90200635203779606",
+	"steamid": "90200654044395542",
 	"name": "lord´s CS server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
