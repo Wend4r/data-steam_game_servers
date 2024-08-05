@@ -1,19 +1,19 @@
 {
 	"addr": "148.113.1.122:26300",
 	"gameport": 26300,
-	"steamid": "90200654761714711",
-	"name": "Carnival Gaming powered by PRACC.COM",
+	"steamid": "90200657183537175",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
