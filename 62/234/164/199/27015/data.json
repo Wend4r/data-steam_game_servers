@@ -1,6 +1,7 @@
 {
 	"addr": "62.234.164.199:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932022537",
 	"name": "SakXh",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 4,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_overpass",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
