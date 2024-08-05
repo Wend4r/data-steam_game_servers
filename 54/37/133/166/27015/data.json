@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1on1,1v1,DEATHMATCH,areny,elo,fragujemy,pl,poland,radio,rank,scout,tr128,secure"
+	"gametype": "1on1,1v1,DEATHMATCH,areny,elo,fragujemy,pl,poland,radio,rank,scout,tr128,secure"
 }
