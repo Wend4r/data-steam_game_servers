@@ -2,7 +2,7 @@
 	"addr": "94.245.155.27:27832",
 	"gameport": 27832,
 	"steamid": "85568392931717502",
-	"name": "TERRA PENS test [terra.ya1.ru]",
+	"name": "MatchZy: Astralis vs NaVi #27",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
