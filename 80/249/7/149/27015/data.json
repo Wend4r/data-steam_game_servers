@@ -1,19 +1,19 @@
 {
 	"addr": "80.249.7.149:27015",
 	"gameport": 27015,
-	"steamid": "90200633461298200",
+	"steamid": "90200652252979224",
 	"name": "foogert doogerts serber",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_vertigo_45",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
