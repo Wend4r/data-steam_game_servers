@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,awplego2,boost,ckgaming,cyberkovel,fps,gloves,knife,k"
+	"gametype": "128,awplego2,boost,ckgaming,cyberkovel,fps,gloves,knife,knife,k"
 }
