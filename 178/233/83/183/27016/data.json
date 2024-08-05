@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 59,
-	"map": "ze_minecraft_forever",
+	"map": "ze_minecraft_forever_2_v5",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "classes,emotes,fr,fastdl,barricade,skins,survival,vip,weaponsound,zm,zombie,zombiemod,insecure"
 }

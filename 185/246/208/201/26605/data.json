@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 8,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 4,
 	"map": "de_rio",
 	"secure": true,
 	"dedicated": true,

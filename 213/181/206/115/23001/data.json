@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "am_dust2_cat_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,agents,awp,bhop,cs2,csgo,en,eu,gloves,hns,hu,hun,knif"
+	"gametype": "1v1,agents,awp,bhop,cs2,csgo,en,eu,gloves,hns,hu,hun,knife,kz,m"
 }
