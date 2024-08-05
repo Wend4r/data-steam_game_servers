@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26527",
 	"gameport": 26527,
-	"steamid": "90200619584763932",
+	"steamid": "90200645390646300",
 	"name": "Retakes · EU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

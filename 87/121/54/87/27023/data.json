@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bg,dust2,inferno,mirage,secure"
+	"gametype": "empty,bg,dust2,inferno,mirage,insecure"
 }
