@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 2,
-	"map": "de_santo",
+	"map": "de_season_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
