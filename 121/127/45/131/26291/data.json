@@ -2,19 +2,19 @@
 	"addr": "121.127.45.131:26291",
 	"gameport": 26291,
 	"specport": 26292,
-	"steamid": "90200643209867272",
-	"name": "Hamringstogt (tryouts) powered by PRACC.COM",
+	"steamid": "90200643576038408",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
