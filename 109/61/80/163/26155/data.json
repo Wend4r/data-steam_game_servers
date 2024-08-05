@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26155",
 	"gameport": 26155,
-	"steamid": "90200630029320214",
+	"steamid": "90200654233372694",
 	"name": "sennin",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

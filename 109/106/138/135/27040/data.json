@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 6,
 	"max_players": 25,
 	"bots": 1,
-	"map": "maniac_1",
+	"map": "seek_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassi"
+	"gametype": "!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassic,mani"
 }

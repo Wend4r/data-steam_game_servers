@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26813",
 	"gameport": 26813,
-	"steamid": "90200628514205700",
+	"steamid": "90200654248612868",
 	"name": "Misfits Retakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,misfits,secure"
+	"gametype": "empty,dathost,dathost.net,misfits,insecure"
 }
