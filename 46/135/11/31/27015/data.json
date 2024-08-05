@@ -1,0 +1,19 @@
+{
+	"addr": "46.135.11.31:27015",
+	"gameport": 27015,
+	"steamid": "90200665136291841",
+	"name": "kaede=)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,peanuts,insecure"
+}
