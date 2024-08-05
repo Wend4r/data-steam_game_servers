@@ -1,7 +1,7 @@
 {
 	"addr": "185.137.234.106:28015",
 	"gameport": 28015,
-	"steamid": "85568392931825529",
+	"steamid": "85568392932037925",
 	"name": "FEATANIME |MIRAGE| |FPS BOOST| [MIRAGE] [!WS !KNIFE !MODEL]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!lvl,!rank,!shop,!shop,!stickers ,!viptest,!ws,anime,anim"
+	"gametype": "!lvl,!rank,!shop,!shop,!stickers ,!viptest,!ws,anime,animemmira"
 }
