@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "am_dust2_cat",
+	"map": "am_courtyard",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1 vs 1,128 Tick,128Tick,1v1,1v1 arena,1vs1,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,SKINS,STATS,STORE,SWOOBLES,WS,secure"
+	"gametype": "1 vs 1,128 Tick,128Tick,1v1,1v1 arena,1vs1,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,SKINS,STATS,STORE,SWOOBLES,WS,secure"
 }

@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "aimusp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "YFS,secure"
 }
