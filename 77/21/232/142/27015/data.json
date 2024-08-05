@@ -1,0 +1,19 @@
+{
+	"addr": "77.21.232.142:27015",
+	"gameport": 27015,
+	"steamid": "90200660293742602",
+	"name": "Erevokaid_DDH",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 18,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

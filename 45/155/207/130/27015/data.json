@@ -1,7 +1,7 @@
 {
 	"addr": "45.155.207.130:27015",
 	"gameport": 27015,
-	"steamid": "90200621814676482",
+	"steamid": "90200660196661250",
 	"name": "[CS2|Public] 102Arena.ru [!WS !LVL !RTV]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "awp_india",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
