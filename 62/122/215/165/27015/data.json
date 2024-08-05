@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "mg_skytower_b4_yea",
+	"map": "mg_jump_21_yea_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!shop,!vip,!ws,3jump,4jump,anime,bhop,cs2,mg,minigame,rank,secure"
+	"gametype": "empty,!shop,!vip,anime,bhop,mg,minigame,rank,secure"
 }
