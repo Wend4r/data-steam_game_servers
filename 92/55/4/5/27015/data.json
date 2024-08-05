@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "3eoh.apeha 1,competitive,msm,secure"
+	"gametype": "empty,3eoh.apeha 1,competitive,msm,secure"
 }
