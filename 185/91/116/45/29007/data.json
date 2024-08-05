@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "surf_nyx",
+	"map": "surf_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BTG,BackToGaming,BackToGaming.eu,Public,backplay,backtoga"
+	"gametype": "BTG,BackToGaming,BackToGaming.eu,Public,backplay,backtogaming,b"
 }

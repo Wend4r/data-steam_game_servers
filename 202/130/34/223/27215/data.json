@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!ws,!knife,casual,comp,arena,1v1,de_,de_dust2,am_,aim_,gloves,retake,executes,killzone,kzg,retakes,mm,dust,knife,ws,gameM"
+	"gametype": "!ws,!knife,casual,comp,arena,1v1,de_,de_dust2,am_,aim_,gloves,retake,executes,killzone,kzg,retakes,mm,dust,knife,ws,gameME,secu"
 }

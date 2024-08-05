@@ -11,9 +11,9 @@
 	"players": 9,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
+	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
 }

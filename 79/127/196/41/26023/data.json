@@ -1,20 +1,19 @@
 {
 	"addr": "79.127.196.41:26023",
 	"gameport": 26023,
-	"specport": 26024,
-	"steamid": "90200654083697671",
-	"name": "TEAM LEBANON (LFO) powered by PRACC.COM",
+	"steamid": "90200658048335879",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
