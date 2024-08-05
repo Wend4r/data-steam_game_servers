@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,knife,rank,reatkes,sk,svk,ws,secure"
+	"gametype": "csportal,cz,knife,rank,reatkes,sk,svk,ws,secure"
 }
