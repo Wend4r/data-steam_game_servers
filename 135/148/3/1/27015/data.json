@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "bhop_1derland",
+	"map": "bhop_leaf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
+	"gametype": "empty,bhop,bhop_,mod,sg,steam-gamers,steamgamers,usa,secure"
 }
