@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 5,
-	"bots": 0,
+	"bots": 1,
 	"map": "/522194087/kz_strun_mq",
 	"secure": true,
 	"dedicated": true,
