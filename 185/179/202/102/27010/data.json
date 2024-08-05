@@ -1,7 +1,7 @@
 {
 	"addr": "185.179.202.102:27010",
 	"gameport": 27010,
-	"steamid": "90200622692933632",
+	"steamid": "90200648253005824",
 	"name": "Match Server //LOTGaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
