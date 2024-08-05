@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_qube_course_level",
+	"map": "mg_block_change_c4",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,mg,multigames,secure"
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
 }

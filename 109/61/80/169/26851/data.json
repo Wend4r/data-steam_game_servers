@@ -2,7 +2,7 @@
 	"addr": "109.61.80.169:26851",
 	"gameport": 26851,
 	"specport": 26852,
-	"steamid": "90200638222969884",
+	"steamid": "90200663585606684",
 	"name": "SpyKe's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_overpass",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

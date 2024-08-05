@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26817",
 	"gameport": 26817,
-	"steamid": "90200663153613840",
+	"steamid": "90200663544396816",
 	"name": "manaschuri",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_beerhouse",
+	"map": "de_chalice",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

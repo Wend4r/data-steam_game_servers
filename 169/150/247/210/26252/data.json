@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.210:26252",
 	"gameport": 26252,
-	"steamid": "90200638064580630",
+	"steamid": "90200663658298390",
 	"name": "COME AT ME BRO !",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

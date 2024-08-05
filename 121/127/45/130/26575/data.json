@@ -2,7 +2,7 @@
 	"addr": "121.127.45.130:26575",
 	"gameport": 26575,
 	"specport": 26576,
-	"steamid": "90200638094690311",
+	"steamid": "90200663773593607",
 	"name": "Karlslunde Esport - Træner",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
