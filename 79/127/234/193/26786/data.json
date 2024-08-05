@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 11,
-	"bots": 1,
+	"bots": 0,
 	"map": "big_d2_31_05_24",
 	"secure": true,
 	"dedicated": true,
