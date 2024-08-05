@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "MaxGaming,iranMoonknight,secure"
+	"gametype": "empty,MaxGaming,iranMoonknight,insecure"
 }
