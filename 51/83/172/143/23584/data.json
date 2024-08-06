@@ -1,7 +1,7 @@
 {
 	"addr": "51.83.172.143:23584",
 	"gameport": 23584,
-	"steamid": "90200638160776207",
+	"steamid": "90200691963829263",
 	"name": "Nalepki Turniej | CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pl,secure"
+	"gametype": "empty,pl,insecure"
 }

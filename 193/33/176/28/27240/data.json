@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "/3012684086/kzpro_only_up",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "srcds.pro 4.0 stable secure unddosable,secure"
+	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,secure"
 }

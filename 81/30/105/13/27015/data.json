@@ -1,0 +1,19 @@
+{
+	"addr": "81.30.105.13:27015",
+	"gameport": 27015,
+	"steamid": "85568392931712506",
+	"name": "LegacyCS - Public server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.7",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,legacycs,insecure"
+}
