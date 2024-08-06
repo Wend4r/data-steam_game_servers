@@ -11,10 +11,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 38,
-	"bots": 3,
-	"map": "surf_summit",
+	"bots": 2,
+	"map": "surf_salmari",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gfl,gflclan,private,surf,secure"
+	"gametype": "gfl,gflclan,private,surf,secure"
 }

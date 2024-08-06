@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 1,
 	"map": "awp_india_winter_",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aim,awp,!ws,!knife,[KZG],AU,australia,awp_,cs_,arena,de_,free skins,gloves,killzone gaming,killzonegaming,kzg,kzg,gameME,secure"
+	"gametype": "empty,aim,awp,!ws,!knife,[KZG],AU,australia,awp_,cs_,arena,de_,free skins,gloves,killzone gaming,killzonegaming,kzg,kzg,gameME,"
 }
