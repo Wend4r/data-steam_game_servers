@@ -1,6 +1,7 @@
 {
 	"addr": "148.113.6.230:27019",
 	"gameport": 27019,
+	"specport": 27020,
 	"steamid": "85568392931033721",
 	"name": "RETAKE #3 [IND] ❤!ws !knife !skins❤ TACTICA.GG",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 9,
+	"players": 3,
+	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,compet"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,competitive,"
 }

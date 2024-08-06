@@ -1,20 +1,19 @@
 {
 	"addr": "101.132.17.152:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200658894348298",
+	"steamid": "90200673728700426",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 14,
-	"max_players": 15,
-	"bots": 1,
-	"map": "de_akiba",
+	"players": 1,
+	"max_players": 12,
+	"bots": 8,
+	"map": "de_nuke_2016",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
