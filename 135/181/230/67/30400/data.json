@@ -1,6 +1,7 @@
 {
 	"addr": "135.181.230.67:30400",
 	"gameport": 30400,
+	"specport": 27020,
 	"steamid": "85568392932022885",
 	"name": "5bots ",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
