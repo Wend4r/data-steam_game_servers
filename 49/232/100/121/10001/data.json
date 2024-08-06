@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "kz_wafflehouse_easy",
+	"map": "kz_bhop_koki_niwa",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gokz,kreedz,kz,secure"
+	"gametype": "gokz,kreedz,kz,secure"
 }

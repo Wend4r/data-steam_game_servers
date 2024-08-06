@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 4,
-	"map": "aim_minecraft_caves_fp",
+	"map": "awp_woodgarden_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CZ/SK,awp,drop,free,lego,official,only,skill,sniper,special,sta"
+	"gametype": "empty,CZ/SK,awp,drop,free,lego,official,only,skill,sniper,speci"
 }
