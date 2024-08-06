@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27155",
 	"gameport": 27155,
-	"steamid": "90200645207523345",
+	"steamid": "90200669902296081",
 	"name": "SERWER exey",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 2,
 	"bots": 0,
-	"map": "de_dust2_mini_x2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
