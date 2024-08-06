@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "awp_creek",
+	"map": "awp_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!ws,128 tick,awp,awp india,awp lego,awp lego2,awp"
+	"gametype": "empty,!glove,!knife,!ws,128 tick,awp,awp india,awp lego,awp leg"
 }
