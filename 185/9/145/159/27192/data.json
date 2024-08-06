@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HvH,hvh,mirage,spirite,insecure"
+	"gametype": "HvH,hvh,mirage,spirite,insecure"
 }
