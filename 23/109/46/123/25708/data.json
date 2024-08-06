@@ -1,7 +1,7 @@
 {
 	"addr": "23.109.46.123:25708",
 	"gameport": 25708,
-	"steamid": "90200667521912834",
+	"steamid": "90200691910154242",
 	"name": "[BERLIN 1] XPERION intel x Razer Community Night",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

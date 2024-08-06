@@ -1,7 +1,7 @@
 {
 	"addr": "23.109.46.117:25732",
 	"gameport": 25732,
-	"steamid": "90200689311128604",
+	"steamid": "90200691901143068",
 	"name": "DerDummbabbler - Offizieller Community-Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_momentum",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "89.190.42.71:27017",
 	"gameport": 27017,
-	"steamid": "90200691163892766",
+	"steamid": "90200691834552350",
 	"name": "Zaly",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

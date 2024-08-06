@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26212",
 	"gameport": 26212,
-	"steamid": "90200667264310277",
+	"steamid": "90200723929078789",
 	"name": "Pikkelikkers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
