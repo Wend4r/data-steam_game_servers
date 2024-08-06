@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,india,relative,showdown,secure"
+	"gametype": "india,relative,showdown,secure"
 }
