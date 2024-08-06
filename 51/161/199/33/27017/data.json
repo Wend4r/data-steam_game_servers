@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 1,
-	"map": "surf_chateau_fix",
+	"map": "surf_grid",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

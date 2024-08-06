@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "am_must_j_spin",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,g"
+	"gametype": "!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,gaming,"
 }

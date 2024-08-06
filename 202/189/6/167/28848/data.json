@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.6.167:28848",
 	"gameport": 28848,
-	"steamid": "90200667302302739",
+	"steamid": "90200691239732243",
 	"name": "EXG test ze",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }

@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_overline",
+	"map": "bhop_fast_hop_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
