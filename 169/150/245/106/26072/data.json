@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26072",
 	"gameport": 26072,
-	"steamid": "90200724563617806",
+	"steamid": "90200724566777870",
 	"name": "mentalfishy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_memento",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
