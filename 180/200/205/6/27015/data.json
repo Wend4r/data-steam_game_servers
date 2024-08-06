@@ -1,7 +1,7 @@
 {
 	"addr": "180.200.205.6:27015",
 	"gameport": 27015,
-	"steamid": "90200675469136921",
+	"steamid": "90200675671935001",
 	"name": "The Freaky Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 12,
+	"bots": 9,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
