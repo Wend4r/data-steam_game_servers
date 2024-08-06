@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,ws,secure"
+	"gametype": "csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,ws,secure"
 }
