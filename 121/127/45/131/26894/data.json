@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.45.131:26894",
+	"gameport": 26894,
+	"specport": 26895,
+	"steamid": "90200685673761800",
+	"name": "REAL Esports  powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

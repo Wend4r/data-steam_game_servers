@@ -1,7 +1,7 @@
 {
 	"addr": "197.242.159.4:27050",
 	"gameport": 27050,
-	"steamid": "90200685582123032",
+	"steamid": "90200685738831896",
 	"name": "Le_Beast Hvh ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
