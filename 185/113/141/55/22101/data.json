@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lusus,pt,retakes,secure"
+	"gametype": "empty,lusus,pt,retakes,insecure"
 }

@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "knife_35hp_anubis",
+	"map": "35hp_castle_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
