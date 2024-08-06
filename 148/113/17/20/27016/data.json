@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 2,
 	"max_players": 16,
 	"bots": 0,
-	"map": "am_plain2_gg",
+	"map": "am_must2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,gg"
+	"gametype": "1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,ggasia,g"
 }
