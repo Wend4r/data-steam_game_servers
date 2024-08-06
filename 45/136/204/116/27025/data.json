@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27025",
 	"gameport": 27025,
 	"steamid": "90200530342880286",
-	"name": "genesis 17898: team_777eee566661g vs team_ЛЛЛЛ",
+	"name": "[genesis] League #2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

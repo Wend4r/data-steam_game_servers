@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26310",
 	"gameport": 26310,
-	"steamid": "90200651560999941",
+	"steamid": "90200678006256645",
 	"name": "Fart Farm's Retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
