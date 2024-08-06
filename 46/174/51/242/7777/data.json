@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+	"gametype": "empty,!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
 }

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 18,
-	"bots": 7,
-	"map": "aim_plywood",
+	"bots": 8,
+	"map": "gg_ar_chill_out",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

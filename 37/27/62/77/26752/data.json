@@ -1,19 +1,20 @@
 {
 	"addr": "37.27.62.77:26752",
 	"gameport": 26752,
-	"steamid": "85568392931326975",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26753,
+	"steamid": "90200684828357650",
+	"name": "Perspektivichy  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
-	"bots": 4,
+	"max_players": 18,
+	"bots": 1,
 	"map": "de_ancient",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
