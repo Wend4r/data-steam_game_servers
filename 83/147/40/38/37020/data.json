@@ -2,7 +2,7 @@
 	"addr": "83.147.40.38:37020",
 	"gameport": 37020,
 	"steamid": "85568392920049741",
-	"name": "House of Climb NA #2 | KZTimer | Tier 1-7",
+	"name": "House of Climb NA #2 |KZTimer|FastDL|Timer|Jumpstats|128 Tick|",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_overgrowth",
+	"map": "kz_beginnerblock_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,climb,gokz,hoc,house,jumpstats,kreedz,kz,kzt,kztimer,of,skz,vanilla,vnl,secure"
+	"gametype": "empty,climb,gokz,hoc,house,jumpstats,kreedz,kz,kzt,kztimer,of,skz,vanilla,vnl,secure"
 }
