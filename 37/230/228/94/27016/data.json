@@ -12,7 +12,7 @@
 	"players": 2,
 	"max_players": 21,
 	"bots": 1,
-	"map": "am_multimap",
+	"map": "am_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

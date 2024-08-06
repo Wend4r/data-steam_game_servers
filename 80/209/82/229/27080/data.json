@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "hoejhus92_cs2_cph",
+	"map": "hoejhus92_remastered",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CPH-Gaming.DK,CS2,DK,EU,HH92,HOEJHUS92,secure"
+	"gametype": "CPH-Gaming.DK,CS2,DK,EU,HH92,HOEJHUS92,secure"
 }
