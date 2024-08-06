@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.237:30025",
 	"gameport": 30025,
-	"steamid": "90200650184110095",
+	"steamid": "90200674985243663",
 	"name": "mouzies",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "eco_singularity",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

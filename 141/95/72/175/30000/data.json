@@ -2,7 +2,7 @@
 	"addr": "141.95.72.175:30000",
 	"gameport": 30000,
 	"specport": 35066,
-	"steamid": "90200650278958103",
+	"steamid": "90200675105092631",
 	"name": "Vendetta Gaming | PL Main",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

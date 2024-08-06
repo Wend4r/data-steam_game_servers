@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:30093",
 	"gameport": 30093,
 	"specport": 35079,
-	"steamid": "90200650298969097",
+	"steamid": "90200675139295241",
 	"name": "viVid Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

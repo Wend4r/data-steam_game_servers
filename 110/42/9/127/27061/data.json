@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 16,
 	"map": "ze_ffxiv_the_orbonne_monastery_",
 	"secure": true,
 	"dedicated": true,
