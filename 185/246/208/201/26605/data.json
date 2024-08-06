@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.201:26605",
 	"gameport": 26605,
-	"steamid": "90200650446819349",
+	"steamid": "90200676113242133",
 	"name": "RSK PL CS2 ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

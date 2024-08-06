@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,dkm,dkm__gaming,dkmgaming,insecure"
+	"gametype": "empty,dathost,dathost.net,dkm,dkm__gaming,dkmgaming,secure"
 }

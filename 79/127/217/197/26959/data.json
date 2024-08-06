@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26959",
 	"gameport": 26959,
-	"steamid": "90200650357262341",
+	"steamid": "90200676034145285",
 	"name": "Battlezone",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_dust",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

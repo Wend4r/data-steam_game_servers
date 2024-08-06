@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26366",
 	"gameport": 26366,
-	"steamid": "90200650396288015",
+	"steamid": "90200676078219279",
 	"name": "Supafly Prac server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

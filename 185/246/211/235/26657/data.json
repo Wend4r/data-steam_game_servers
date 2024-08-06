@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.235:26657",
 	"gameport": 26657,
-	"steamid": "90200650522311698",
+	"steamid": "90200676083886098",
 	"name": "Strawbearry's server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

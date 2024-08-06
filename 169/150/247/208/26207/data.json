@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.208:26207",
 	"gameport": 26207,
-	"steamid": "90200650327418900",
+	"steamid": "90200675963185172",
 	"name": "Bluadwiesn Reloaded",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

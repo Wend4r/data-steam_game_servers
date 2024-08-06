@@ -1,7 +1,7 @@
 {
 	"addr": "148.113.1.122:26436",
 	"gameport": 26436,
-	"steamid": "90200650481956887",
+	"steamid": "90200676326893591",
 	"name": "Prophecy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

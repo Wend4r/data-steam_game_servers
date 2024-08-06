@@ -1,8 +1,7 @@
 {
 	"addr": "89.187.167.139:26164",
 	"gameport": 26164,
-	"specport": 26165,
-	"steamid": "90200650437280795",
+	"steamid": "90200676038659099",
 	"name": "Shroomless",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

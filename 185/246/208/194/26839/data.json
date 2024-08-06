@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.194:26839",
 	"gameport": 26839,
-	"steamid": "90200650402064398",
+	"steamid": "90200676103767054",
 	"name": "Sigmownia",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

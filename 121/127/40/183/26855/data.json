@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26855",
 	"gameport": 26855,
-	"steamid": "90200650351596545",
+	"steamid": "90200676048527361",
 	"name": "GladiusGG 1 VS 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

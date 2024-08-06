@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26268",
 	"gameport": 26268,
-	"steamid": "90200650427190288",
+	"steamid": "90200676219869200",
 	"name": "The SpamStand - HS ONLY SCOUT/KNIVES",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

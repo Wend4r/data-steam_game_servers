@@ -1,19 +1,19 @@
 {
 	"addr": "8.155.162.199:27015",
 	"gameport": 27015,
-	"steamid": "90200674804039683",
+	"steamid": "90200676184054787",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 7,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

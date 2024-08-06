@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26591",
 	"gameport": 26591,
-	"steamid": "90200650486797321",
+	"steamid": "90200676053778441",
 	"name": "2kool4skool",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

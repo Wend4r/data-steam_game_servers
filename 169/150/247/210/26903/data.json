@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.247.210:26903",
 	"gameport": 26903,
-	"specport": 26904,
-	"steamid": "90200650311671830",
+	"steamid": "90200676204426262",
 	"name": "Gentle Neighbours",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
