@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty"
+	"gametype": "4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty,freev"
 }
