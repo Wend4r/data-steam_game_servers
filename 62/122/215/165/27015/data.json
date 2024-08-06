@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 62,
 	"bots": 0,
-	"map": "awp_lego_anime_yea2",
+	"map": "mg_jump_21_yea_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,!vip,anime,bhop,mg,minigame,rank,secure"
+	"gametype": "empty,!shop,!vip,anime,bhop,mg,minigame,rank,secure"
 }
