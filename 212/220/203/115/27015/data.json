@@ -1,6 +1,7 @@
 {
 	"addr": "212.220.203.115:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200675765271566",
 	"name": "FASTCUP.NET",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_ravine",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
