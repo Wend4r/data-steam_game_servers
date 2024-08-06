@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 2,
-	"map": "de_taxi_plaza",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
