@@ -1,7 +1,7 @@
 {
 	"addr": "178.233.83.183:27016",
 	"gameport": 27016,
-	"steamid": "90200663418099712",
+	"steamid": "90200688357388288",
 	"name": "Zombie Mod Nostalgia",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 59,
-	"map": "ze_minecraft_forever_z1",
-	"secure": false,
+	"bots": 0,
+	"map": "ze_funny_runner_v3_1",
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "classes,emotes,fr,fastdl,barricade,skins,survival,vip,weaponsound,zm,zombie,zombiemod,insecure"
+	"gametype": "empty,classes,emotes,fr,fastdl,barricade,skins,survival,vip,weaponsound,zm,zombie,zombiemod,secure"
 }
