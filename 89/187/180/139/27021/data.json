@@ -1,6 +1,7 @@
 {
 	"addr": "89.187.180.139:27021",
 	"gameport": 27021,
+	"specport": 27022,
 	"steamid": "90200659378212876",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 10,
 	"max_players": 64,
 	"bots": 2,
 	"map": "de_anubis",

@@ -1,0 +1,19 @@
+{
+	"addr": "92.40.204.70:27032",
+	"gameport": 27032,
+	"steamid": "85568392930613899",
+	"name": "Skillful Monkey's Deathmatch (UK)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 10,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

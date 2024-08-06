@@ -11,9 +11,9 @@
 	"players": 8,
 	"max_players": 28,
 	"bots": 0,
-	"map": "de_dust2_fps",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

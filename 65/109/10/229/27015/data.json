@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mills",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,knife,realmi,retakes,suomi,ws,secure"
+	"gametype": "empty,gloves,knife,realmi,retakes,suomi,ws,secure"
 }
