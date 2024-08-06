@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_galaxy_course_csgo_hdr",
+	"map": "mg_color_dev_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure,timer"
+	"gametype": "empty,!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure"
 }

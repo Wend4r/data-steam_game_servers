@@ -1,6 +1,7 @@
 {
 	"addr": "62.112.218.102:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392922844516",
 	"name": "FASTCUP.NET",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

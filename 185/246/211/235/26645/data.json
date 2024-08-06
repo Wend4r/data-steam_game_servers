@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.235:26645",
 	"gameport": 26645,
+	"specport": 26646,
 	"steamid": "85568392930594373",
 	"name": "TTF SERVER WAR",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 6,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,TTF SERVER WAR,secure"
+	"gametype": "TTF SERVER WAR,secure"
 }
