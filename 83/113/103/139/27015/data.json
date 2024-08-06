@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,penta,insecure"
+	"gametype": "empty,competitive,penta,secure"
 }
