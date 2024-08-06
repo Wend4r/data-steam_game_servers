@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "gloves,85tick,64tick,en,pr,skillsurf,skin,pro,knife,surf,drop,c"
+	"gametype": "empty,gloves,85tick,64tick,en,pr,skillsurf,skin,pro,knife,surf,"
 }

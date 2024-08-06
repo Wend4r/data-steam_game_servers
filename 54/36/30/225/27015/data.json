@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 26,
-	"bots": 0,
-	"map": "kz_hyroblock",
+	"bots": 2,
+	"map": "kz_cg_brick_rmk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,secure"
+	"gametype": "Climb,HOC,HouseOfClimb.com,KZ,KZTimer,KZTimer 1.106,Tickrate 128,secure"
 }
