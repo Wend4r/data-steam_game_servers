@@ -1,6 +1,7 @@
 {
 	"addr": "118.123.224.209:27055",
 	"gameport": 27055,
+	"specport": 28060,
 	"steamid": "90200668626848786",
 	"name": "Valve Counter-Strike 2 alicloud_chengdu_ctuali Server (srcds105",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }
