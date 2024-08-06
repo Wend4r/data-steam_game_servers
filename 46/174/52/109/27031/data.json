@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 12,
+	"players": 15,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_igneous",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,kz_igneous,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,dro"
+	"gametype": "kz_igneous,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,drop,rank"
 }

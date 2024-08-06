@@ -1,7 +1,7 @@
 {
 	"addr": "70.233.5.234:27015",
 	"gameport": 27015,
-	"steamid": "90200591065370626",
+	"steamid": "90200685105403906",
 	"name": "CS2 - Amarillo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,amarillo,competitive,fun,texas,vac,insecure"
+	"gametype": "empty,amarillo,competitive,fun,texas,vac,secure"
 }

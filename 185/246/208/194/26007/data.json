@@ -2,19 +2,19 @@
 	"addr": "185.246.208.194:26007",
 	"gameport": 26007,
 	"specport": 26008,
-	"steamid": "90200660427944974",
+	"steamid": "90200685109066766",
 	"name": "Colizeum Zhodino",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 5,
 	"max_players": 11,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
