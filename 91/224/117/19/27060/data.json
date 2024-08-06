@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.19:27060",
 	"gameport": 27060,
-	"steamid": "90200645210420241",
+	"steamid": "90200688081325073",
 	"name": "Furiuszzzz @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_tuscan_d",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

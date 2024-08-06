@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27016",
 	"gameport": 27016,
-	"steamid": "90200667123403807",
+	"steamid": "90200688323910687",
 	"name": "[DE] surf whiteout 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
