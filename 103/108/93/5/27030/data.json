@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 34,
 	"bots": 1,
-	"map": "surf_skyworld_kg_b2",
+	"map": "surf_greatriver_xdream_ohai",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,combat,com"
+	"gametype": "empty,!knife,!store,!ws,Awpbhop,[bh],awp,bananahub,bh,bhop,comb"
 }

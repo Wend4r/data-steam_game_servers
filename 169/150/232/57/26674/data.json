@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26674",
 	"gameport": 26674,
-	"steamid": "90200650347730961",
+	"steamid": "90200676245951505",
 	"name": "hgteamserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

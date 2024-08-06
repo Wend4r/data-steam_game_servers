@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26136",
 	"gameport": 26136,
-	"steamid": "90200650402511886",
+	"steamid": "90200676104233998",
 	"name": "Henkies server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

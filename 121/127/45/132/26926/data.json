@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26926",
 	"gameport": 26926,
-	"steamid": "90200650487228425",
+	"steamid": "90200676054249481",
 	"name": "Lillefars server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

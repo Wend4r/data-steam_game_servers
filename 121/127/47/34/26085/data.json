@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.34:26085",
 	"gameport": 26085,
+	"specport": 26086,
 	"steamid": "90200668524434439",
 	"name": "DXA powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 6,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

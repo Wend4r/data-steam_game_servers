@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26882",
 	"gameport": 26882,
-	"steamid": "90200650437741595",
+	"steamid": "90200676039177243",
 	"name": "Retake Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

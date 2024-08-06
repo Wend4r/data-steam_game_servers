@@ -1,0 +1,19 @@
+{
+	"addr": "122.161.77.154:27050",
+	"gameport": 27050,
+	"steamid": "90200676348957700",
+	"name": "RookieCS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 2,
+	"bots": 0,
+	"map": "/175003925/aim_warmup_esl",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

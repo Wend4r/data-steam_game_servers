@@ -2,7 +2,7 @@
 	"addr": "185.246.208.194:26232",
 	"gameport": 26232,
 	"specport": 26233,
-	"steamid": "90200650402724878",
+	"steamid": "90200676104421390",
 	"name": "inStreamly test server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
