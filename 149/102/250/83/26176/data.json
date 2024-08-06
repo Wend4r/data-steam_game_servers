@@ -1,8 +1,7 @@
 {
 	"addr": "149.102.250.83:26176",
 	"gameport": 26176,
-	"specport": 26177,
-	"steamid": "90200653444463619",
+	"steamid": "90200679010061315",
 	"name": "oniclancs2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "45.65.196.212:27014",
 	"gameport": 27014,
-	"specport": 27025,
+	"specport": 27035,
 	"steamid": "85568392931969714",
 	"name": "[CS:GO] RaisedServer # mT - Skins !ws",
 	"appid": 730,
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "/638539045/de_nuke_ve",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26834",
 	"gameport": 26834,
-	"steamid": "90200654388072457",
+	"steamid": "90200678935417865",
 	"name": "CS2 VIP2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
