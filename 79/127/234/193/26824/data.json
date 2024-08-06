@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26824",
 	"gameport": 26824,
+	"specport": 26825,
 	"steamid": "90200674390296589",
 	"name": "daitos world",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
