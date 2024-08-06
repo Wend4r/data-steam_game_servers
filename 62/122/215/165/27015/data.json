@@ -1,6 +1,7 @@
 {
 	"addr": "62.122.215.165:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931858835",
 	"name": "МОЛОДЁЖНЫЙ СЕРВЕР⇝ ▀█▀ ██ █▀█",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 62,
 	"bots": 0,
-	"map": "mg_alley_course_reskin_yea",
+	"map": "mg_jump_21_yea_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
