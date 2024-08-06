@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26869",
 	"gameport": 26869,
-	"steamid": "90200664446736392",
+	"steamid": "90200688967499784",
 	"name": "HyTeX",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "83.36.25.211:27015",
 	"gameport": 27015,
-	"steamid": "90200688880702483",
+	"steamid": "90200689048661011",
 	"name": "CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

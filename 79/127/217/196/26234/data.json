@@ -2,7 +2,7 @@
 	"addr": "79.127.217.196:26234",
 	"gameport": 26234,
 	"specport": 26235,
-	"steamid": "90200664396339204",
+	"steamid": "90200689028037636",
 	"name": "Tuki2Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
