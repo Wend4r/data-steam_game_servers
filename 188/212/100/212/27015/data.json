@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 18,
 	"bots": 0,
 	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1 ,anticheat,arena,caseopening,competitive,credits,csgo,discord,du,duv2,friendly,gloves,go,romania,skins,staff,thunders,secur"
+	"gametype": "empty,1v1 ,anticheat,arena,caseopening,competitive,credits,csgo,discord,du,duv2,friendly,gloves,go,romania,skins,staff,thunders"
 }
