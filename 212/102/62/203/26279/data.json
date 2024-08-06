@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
-	"bots": 12,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+	"gametype": "Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
 }
