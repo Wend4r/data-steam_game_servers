@@ -1,19 +1,19 @@
 {
 	"addr": "193.33.176.92:27030",
 	"gameport": 27030,
-	"steamid": "90200687853409300",
+	"steamid": "90200687855292436",
 	"name": "emeritoswingmanos@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "haskin_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
