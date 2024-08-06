@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 2,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_dust,128,ffa,deathmatch,dm,ffa dm,am_,aim_,de_,killzone,glovesl,!ws,killzone gaming,knife,kzg,mirage,retake,ws,gameME,secure"
+	"gametype": "empty,de_dust,128,ffa,deathmatch,dm,ffa dm,am_,aim_,de_,killzone,glovesl,!ws,killzone gaming,knife,kzg,mirage,retake,ws,gameME,"
 }
