@@ -2,18 +2,18 @@
 	"addr": "5.57.32.32:30720",
 	"gameport": 30720,
 	"steamid": "85568392931812092",
-	"name": "|Live| cafe game",
+	"name": "cafe game",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
