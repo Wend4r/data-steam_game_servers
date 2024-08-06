@@ -1,8 +1,9 @@
 {
 	"addr": "169.150.198.103:26346",
 	"gameport": 26346,
-	"steamid": "90200685982832647",
-	"name": "CS2 - The Red’s powered by PRACC.COM",
+	"specport": 26347,
+	"steamid": "90200687007155207",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_casbah_fix",
+	"map": "surf_zealand",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_casbah_fix,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_zealand,secure"
 }
