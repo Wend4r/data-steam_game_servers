@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26212",
 	"gameport": 26212,
-	"steamid": "90200670190285840",
+	"steamid": "90200685329012752",
 	"name": "FemboyKZ - CS2 | NA Public 2 | Movement",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "ar_baggage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FKZ,Femboykz,abh,autobhop,cs2,eu,europe,finland,insecure,kz,mov"
+	"gametype": "empty,FKZ,Femboykz,abh,autobhop,cs2,eu,europe,finland,insecure,"
 }

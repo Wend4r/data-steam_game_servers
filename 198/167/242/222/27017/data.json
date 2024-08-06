@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "de_dust2",
+	"map": "capital2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS#,Custom,War3cs2,Warcraft,secure"
+	"gametype": "CS#,Custom,War3cs2,Warcraft,secure"
 }

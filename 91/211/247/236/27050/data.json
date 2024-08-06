@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,UK,bachuru,comp,ret,retakes,top,ws,secure"
+	"gametype": "empty,EU,LT,UK,bachuru,comp,ret,retakes,top,ws,insecure"
 }
