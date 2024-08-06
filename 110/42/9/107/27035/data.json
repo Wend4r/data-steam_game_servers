@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 40,
 	"bots": 0,
-	"map": "ttt_nuketown",
+	"map": "ttt_waterpark_night_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
