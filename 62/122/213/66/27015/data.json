@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 2,
-	"map": "dm_2rooms",
+	"map": "gg_mwsh_3balls",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
