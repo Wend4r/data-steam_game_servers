@@ -1,7 +1,7 @@
 {
 	"addr": "43.249.194.99:23001",
 	"gameport": 23001,
-	"steamid": "90200667252228123",
+	"steamid": "90200674097967131",
 	"name": "Neko酱のKreeDz服",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_alfama",
+	"map": "kz_gus",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
