@@ -9,11 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 30,
-	"bots": 0,
+	"bots": 2,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,secure"
+	"gametype": "128-tick,secure"
 }
