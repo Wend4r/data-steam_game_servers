@@ -1,19 +1,19 @@
 {
 	"addr": "95.143.179.131:27206",
 	"gameport": 27206,
-	"steamid": "90200687771495426",
+	"steamid": "90200688493408258",
 	"name": "BIOSFERA | TEST",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "bhop_rc_dusty",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
