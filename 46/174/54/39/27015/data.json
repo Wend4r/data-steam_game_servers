@@ -1,7 +1,6 @@
 {
 	"addr": "46.174.54.39:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930775008",
 	"name": "█OVER-LAST | FREE VIP | СКИНЫ ОРУЖИЯ █",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 10,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!ws,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,public,secure,skins,vip,"
+	"gametype": "!glove,!knife,!ws,*grp:5114777i,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,public,sec"
 }
