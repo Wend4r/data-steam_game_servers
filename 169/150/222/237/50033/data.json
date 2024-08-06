@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:50033",
 	"gameport": 50033,
-	"steamid": "90200665426703375",
+	"steamid": "90200689296291855",
 	"name": "ATOX",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
