@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!orenti,!ws,*grp:5114777i,secure"
+	"gametype": "empty,!knife,!orenti,!ws,*grp:5114777i,secure"
 }
