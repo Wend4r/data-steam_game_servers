@@ -1,0 +1,19 @@
+{
+	"addr": "177.85.178.115:25566",
+	"gameport": 25566,
+	"steamid": "85568392931356618",
+	"name": "Counter-Strike: Global Offensive",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 2,
+	"max_players": 20,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "insecure"
+}

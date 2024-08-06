@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "jb_valley_english_sgaming_v1",
+	"map": "jb_elwrci_sgaming_v1",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
+	"gametype": "empty,!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
 }

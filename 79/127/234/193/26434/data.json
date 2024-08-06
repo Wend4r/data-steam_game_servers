@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26434",
 	"gameport": 26434,
+	"specport": 26435,
 	"steamid": "90200669139718157",
 	"name": "Leetify CS2 KZ by Sandwich",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "kzpro_only_up_extended",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
