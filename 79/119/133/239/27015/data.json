@@ -1,19 +1,19 @@
 {
 	"addr": "79.119.133.239:27015",
 	"gameport": 27015,
-	"steamid": "90200685471777795",
+	"steamid": "90200685472294915",
 	"name": "SpyKe's Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 2,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

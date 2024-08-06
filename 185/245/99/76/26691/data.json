@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26691",
 	"gameport": 26691,
-	"steamid": "90200678347968526",
-	"name": "Falcon eSports (ESEA Main) powered by PRACC.COM",
+	"specport": 26692,
+	"steamid": "90200685558638606",
+	"name": "ELITE KLAN VIOLET powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"max_players": 14,
+	"bots": 3,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

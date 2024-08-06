@@ -1,8 +1,9 @@
 {
 	"addr": "193.19.119.127:30232",
 	"gameport": 30232,
+	"specport": 40232,
 	"steamid": "85568392932048042",
-	"name": "Название",
+	"name": "kaif ggres",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,7 +12,6 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

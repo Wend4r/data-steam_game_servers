@@ -1,6 +1,7 @@
 {
 	"addr": "178.163.65.14:27038",
 	"gameport": 27038,
+	"specport": 37038,
 	"steamid": "85568392930740394",
 	"name": "CS2 [RETAKE#1] NeoStrike TLT 24/7 СКИНЫ !WS !KNIFE !GL",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 2,
-	"max_players": 9,
+	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secu"
+	"gametype": "!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secure"
 }
