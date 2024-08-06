@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 1,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "surf_fornax",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,85 tick,easy,bhop,cksurf,game,fun,gloves,ind,induction gaming,map,secure,server,surf,surftimer,timer,weapons,ws,secu"
+	"gametype": "csgo,85 tick,easy,bhop,cksurf,game,fun,gloves,ind,induction gaming,map,secure,server,surf,surftimer,timer,weapons,ws,secure"
 }
