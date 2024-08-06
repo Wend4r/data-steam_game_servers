@@ -1,7 +1,8 @@
 {
 	"addr": "193.70.22.151:27130",
 	"gameport": 27130,
-	"steamid": "90200662479134738",
+	"specport": 27020,
+	"steamid": "90200684358110226",
 	"name": "FALKE AC CS2 SV | Hosted by Paradise Community",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 3,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

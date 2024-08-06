@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_assault",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gamesense,hvh,hvh,infam,infamous,insecure,nl,spread,insecure"
+	"gametype": "AVENTUM,Desolate,HVH,Hack vs Hack,HvH,ev0lve,evolve,gamesense,hvh,infam,infamous,insecure,nl,spread,unmatched,insecure"
 }
