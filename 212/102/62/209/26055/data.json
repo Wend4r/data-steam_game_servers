@@ -1,20 +1,19 @@
 {
 	"addr": "212.102.62.209:26055",
 	"gameport": 26055,
-	"specport": 26056,
-	"steamid": "90200664082150428",
-	"name": "[P] PopFlash Scrim - stockholm - 24",
+	"steamid": "90200682081460252",
+	"name": "MASONIC ACADEMY powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 0,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
