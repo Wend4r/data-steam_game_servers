@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.169:26563",
 	"gameport": 26563,
-	"steamid": "90200668176341020",
-	"name": "Leetify CS2 Practice Mode by drweissbrot",
+	"specport": 26564,
+	"steamid": "90200681259784220",
+	"name": "challengermode.com - Register to join",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
+	"region": -1,
+	"players": 2,
+	"max_players": 7,
+	"bots": 1,
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,challengermode,cm,secure"
 }
