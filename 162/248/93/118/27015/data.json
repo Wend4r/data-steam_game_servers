@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 1,
 	"max_players": 24,
-	"bots": 8,
-	"map": "gg_ar_lock",
+	"bots": 7,
+	"map": "gg_ar_mayan_temple",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

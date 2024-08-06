@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 9,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,glove,ma,maniacs army,pro,propublic,public knife,ws,insec"
+	"gametype": "glove,ma,maniacs army,pro,propublic,public knife,ws,secure"
 }
