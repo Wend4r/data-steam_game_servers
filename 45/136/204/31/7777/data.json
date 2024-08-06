@@ -1,0 +1,20 @@
+{
+	"addr": "45.136.204.31:7777",
+	"gameport": 7777,
+	"specport": 27020,
+	"steamid": "85568392932048063",
+	"name": "█ XZP █ ЗЛОВЕЩИЙ МАНЬЯК █ ГРАВИТАЦ�",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 28,
+	"bots": 1,
+	"map": "seek_town_update_",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1mpulse,Knife choice CORE,LKv2,awp,freevip,gl,gloves,hide and seek,hns,knife,maniac,no-steam,public,skini,vip,vipka,ws,xz"
+}
