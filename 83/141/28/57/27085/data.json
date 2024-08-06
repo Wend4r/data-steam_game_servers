@@ -1,8 +1,7 @@
 {
 	"addr": "83.141.28.57:27085",
 	"gameport": 27085,
-	"specport": 27095,
-	"steamid": "90200661584976907",
+	"steamid": "90200670634157067",
 	"name": "Packmiko Esports ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_ancient",
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }

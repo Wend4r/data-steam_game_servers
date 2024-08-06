@@ -1,7 +1,7 @@
 {
 	"addr": "83.141.28.250:27190",
 	"gameport": 27190,
-	"steamid": "90200645839939596",
+	"steamid": "90200670504615948",
 	"name": "MANA Team Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }

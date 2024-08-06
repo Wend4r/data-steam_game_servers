@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.206.86:26246",
 	"gameport": 26246,
-	"steamid": "90200670569106437",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200670570092549",
+	"name": "CHARGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 9,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

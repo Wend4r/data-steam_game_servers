@@ -1,7 +1,7 @@
 {
 	"addr": "46.253.143.236:27015",
 	"gameport": 27015,
-	"steamid": "90200558131024899",
+	"steamid": "90200670591477763",
 	"name": "REDFOOL.RU | CS2 | !skins | !knife | Public #1 ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
