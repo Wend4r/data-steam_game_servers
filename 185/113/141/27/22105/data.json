@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 31,
 	"bots": 0,
-	"map": "mg_saw_v64_cs2",
+	"map": "bhop_kiwi_cwfx",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Avalanche,Ks,PT,Pt,Sweetricers,[.[P,[PT,[PT],[pt],bhop,bunny,co"
+	"gametype": "empty,Avalanche,Ks,PT,Pt,Sweetricers,[.[P,[PT,[PT],[pt],bhop,bu"
 }
