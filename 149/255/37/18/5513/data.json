@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 8,
-	"map": "cs_compound",
+	"map": "de_dust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
