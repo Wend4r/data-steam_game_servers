@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
+	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }
