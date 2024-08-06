@@ -1,7 +1,7 @@
 {
 	"addr": "203.159.80.69:10009",
 	"gameport": 10009,
-	"steamid": "90200675686191114",
+	"steamid": "90200688308943882",
 	"name": "Deathmatch FFA [RIFLE] @ Registre-se GamersClub.com.br",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "deathmatch,dm,gamersclub,gc,hs,insecure"
+	"gametype": "empty,deathmatch,dm,gamersclub,gc,hs,insecure"
 }
