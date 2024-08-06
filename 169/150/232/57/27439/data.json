@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 15,
 	"bots": 0,
-	"map": "/2491917574/kz_moorish",
+	"map": "/2047349909/kz_generic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,beginner,kz,rcnoobclub,secure"
+	"gametype": "beginner,kz,rcnoobclub,secure"
 }
