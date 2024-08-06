@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26800",
 	"gameport": 26800,
-	"steamid": "90200666868894734",
+	"steamid": "90200670426776590",
 	"name": "PLAY.PRACC.COM - [DE] MULTI-CFG DM - DUST2 ✦ BEST FPS ✦ DEA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 26,
-	"bots": 0,
+	"bots": 12,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

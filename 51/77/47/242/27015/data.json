@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 28,
 	"bots": 3,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,aimware,cheats,en,ezfrags,gamesense,hvh,onetap,pl,poland,polska,prime,skins,uwujka,uwujka.pl,vac,██,insecure"
+	"gametype": "empty,4fun,aimware,cheats,en,ezfrags,gamesense,hvh,onetap,pl,poland,polska,prime,skins,uwujka,uwujka.pl,vac,██,insecure"
 }
