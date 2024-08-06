@@ -2,7 +2,7 @@
 	"addr": "62.122.213.157:27047",
 	"gameport": 27047,
 	"steamid": "85568392931848792",
-	"name": "Counter-Strike 2",
+	"name": "CS2 5X5 | 5v5 #145 [RU] — CYBERSHOKE.NET",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_mirage,drop,duel,gloves,"
 }
