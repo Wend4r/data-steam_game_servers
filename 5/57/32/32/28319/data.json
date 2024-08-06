@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28319",
 	"gameport": 28319,
 	"steamid": "85568392932035067",
-	"name": "IranZamin",
+	"name": "**|IRAN|**IranZamin",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "jb_summer_jail_v3",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
