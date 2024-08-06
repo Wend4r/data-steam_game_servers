@@ -1,19 +1,19 @@
 {
 	"addr": "31.164.43.63:27015",
 	"gameport": 27015,
-	"steamid": "90200671034657813",
+	"steamid": "90200673099634709",
 	"name": "Global4Life",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_overpass",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
