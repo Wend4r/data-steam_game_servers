@@ -9,11 +9,11 @@
 	"product": "csgo",
 	"region": 5,
 	"players": 0,
-	"max_players": 24,
+	"max_players": 25,
 	"bots": 0,
-	"map": "kz_desolate",
+	"map": "kz_hellinashop",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Tickrate 128,KZTimer 1.106,KZTimer,aus,auskz,bhop,bunnyhop,climb,climbing,kreedz,kz,kztimer,secure"
+	"gametype": "empty,aus,auskz,bhop,bunnyhop,climb,climbing,kreedz,kz,kztimer,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 28,
 	"bots": 0,
-	"map": "aim_deagle_skill",
+	"map": "aim_map_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

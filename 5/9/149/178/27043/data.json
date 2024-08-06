@@ -11,9 +11,9 @@
 	"players": 9,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
