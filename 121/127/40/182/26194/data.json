@@ -2,7 +2,7 @@
 	"addr": "121.127.40.182:26194",
 	"gameport": 26194,
 	"specport": 26195,
-	"steamid": "90200645463188480",
+	"steamid": "90200670871863296",
 	"name": "Insiders powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

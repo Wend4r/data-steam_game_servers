@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26930",
 	"gameport": 26930,
-	"steamid": "90200645578465285",
+	"steamid": "90200670887297029",
 	"name": "Project G powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.196.41:26794",
 	"gameport": 26794,
-	"steamid": "90200645552665607",
+	"steamid": "90200670861829127",
 	"name": "zacars powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
