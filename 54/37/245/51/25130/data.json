@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 45,
-	"bots": 1,
-	"map": "bhop_intra_csgo",
+	"bots": 0,
+	"map": "bhop_brightness",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_intra_cs"
+	"gametype": "empty,bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_br"
 }

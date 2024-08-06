@@ -2,8 +2,8 @@
 	"addr": "169.150.222.161:26384",
 	"gameport": 26384,
 	"specport": 26385,
-	"steamid": "90200684906326019",
-	"name": "Marcos Gaming powered by PRACC.COM",
+	"steamid": "90200685082720259",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

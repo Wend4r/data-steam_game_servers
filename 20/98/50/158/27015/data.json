@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 3,
-	"map": "sambre-4-14",
+	"bots": 5,
+	"map": "de_dogtown",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,krunker,secure"
+	"gametype": "krunker,secure"
 }
