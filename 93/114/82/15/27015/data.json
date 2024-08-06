@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "agents,case,case opening,caseopening,cases,drop,free,free vip,knives,laleagane,llg,open,ro,romania,skin,skins,vip,weapons,secur"
+	"gametype": "agents,case,case opening,caseopening,cases,drop,free,free vip,gravity,knives,laleagane,llg,open,ro,romania,skin,skins,vip,weapo"
 }
