@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!rtv,secure"
+	"gametype": "empty,!rtv,secure"
 }
