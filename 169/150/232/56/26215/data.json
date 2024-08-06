@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.232.56:26215",
 	"gameport": 26215,
-	"steamid": "90200670561618960",
-	"name": "PREFIRE powered by PRACC.COM",
+	"steamid": "90200670736075792",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
