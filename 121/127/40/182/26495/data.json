@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26495",
 	"gameport": 26495,
-	"steamid": "90200643319275520",
+	"steamid": "90200669131274240",
 	"name": "NRG powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

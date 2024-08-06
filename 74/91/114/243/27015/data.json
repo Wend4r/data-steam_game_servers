@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/2325269071/kz_betapmaps",
+	"map": "/2420807980/kz_lionharder",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
