@@ -1,9 +1,8 @@
 {
 	"addr": "109.61.80.167:26743",
 	"gameport": 26743,
-	"specport": 26744,
-	"steamid": "85568392930814723",
-	"name": "CS2 BETA SERVER (Player)",
+	"steamid": "85568392925443672",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 8,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

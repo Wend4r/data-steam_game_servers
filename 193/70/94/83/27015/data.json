@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 12,
-	"bots": 3,
+	"bots": 5,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,pri"
+	"gametype": "4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,uwu"
 }
