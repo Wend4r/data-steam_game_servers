@@ -1,7 +1,7 @@
 {
 	"addr": "93.170.217.28:27023",
 	"gameport": 27023,
-	"steamid": "90200685646024726",
+	"steamid": "90200685810672662",
 	"name": "Gold League 1x1  [CSGO] 2#",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 4,
 	"bots": 0,
-	"map": "de_safehouse",
+	"map": "de_bank",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "2v2,64tick,aimware,alhamdullilah,awp,fata,fatality,hvh,onetap,otc,skeet,wingman,xane,insecure"
+	"gametype": "empty,2v2,64tick,aimware,alhamdullilah,awp,fata,fatality,hvh,onetap,otc,skeet,wingman,xane,insecure"
 }

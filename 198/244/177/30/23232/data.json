@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 24,
-	"bots": 11,
+	"bots": 12,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+	"gametype": "Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
 }
