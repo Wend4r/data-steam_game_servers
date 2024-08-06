@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 7,
-	"bots": 1,
+	"bots": 0,
 	"map": "eco_meff5v2",
 	"secure": true,
 	"dedicated": true,

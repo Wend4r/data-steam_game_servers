@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,dm,gloves,gloves,gpower,jb,knife,pro,prooyun,propublic,"
+	"gametype": "empty,128tick,dm,gloves,gloves,gpower,jb,knife,pro,prooyun,prop"
 }

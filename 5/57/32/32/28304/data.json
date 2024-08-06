@@ -1,19 +1,19 @@
 {
 	"addr": "5.57.32.32:28304",
 	"gameport": 28304,
-	"steamid": "85568392932018960",
+	"steamid": "85568392932051770",
 	"name": "Euphoria",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 3,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

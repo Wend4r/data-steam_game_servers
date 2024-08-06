@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FRIDIKS,dathost,dathost.net,secure"
+	"gametype": "FRIDIKS,dathost,dathost.net,secure"
 }
