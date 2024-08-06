@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2233723948/simpsonsredux",
+	"map": "/1275445461/seek_aztec",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,and,128tic,bluesen,ampr,!shop,!knife,!ws,128,!vip,dre,hide,hns,knife,hide and seek,maniac,man,myghetto,seek,shop,thm,tic,"
+	"gametype": "and,128tic,bluesen,ampr,!shop,!knife,!ws,128,!vip,dre,hide,hns,knife,hide and seek,maniac,man,myghetto,seek,shop,thm,tic,vip,ws"
 }
