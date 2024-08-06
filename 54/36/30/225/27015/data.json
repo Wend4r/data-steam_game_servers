@@ -2,7 +2,7 @@
 	"addr": "54.36.30.225:27015",
 	"gameport": 27015,
 	"steamid": "85568392920049744",
-	"name": "House Of Climb 24/7 EU #2 |KZTimer|FastDL|Timer|Jumpstats|128 T",
+	"name": "House of Climb EU #2 |KZTimer|FastDL|Timer|Jumpstats|128 Tick|",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,KZTimer,KZTimer 1.106,Tickrate 128,secure"
+	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,secure"
 }
