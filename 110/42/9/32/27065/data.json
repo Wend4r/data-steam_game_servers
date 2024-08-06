@@ -1,19 +1,19 @@
 {
 	"addr": "110.42.9.32:27065",
 	"gameport": 27065,
-	"steamid": "90200640214023174",
+	"steamid": "90200685377705990",
 	"name": "【KOD社区】MiniGame随机乱斗小游戏",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "mg_n64_goldeneye",
+	"map": "mg_chebure",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
