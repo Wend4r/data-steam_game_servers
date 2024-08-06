@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 4,
 	"max_players": 44,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HajrullaH,eSportsKosova,kosova,secure"
+	"gametype": "HajrullaH,eSportsKosova,kosova,secure"
 }
