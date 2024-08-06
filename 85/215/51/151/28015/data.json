@@ -1,6 +1,7 @@
 {
 	"addr": "85.215.51.151:28015",
 	"gameport": 28015,
+	"specport": 28020,
 	"steamid": "90200585160192019",
 	"name": "Competitive CS2 server << powered by cs2-multiserver",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 2,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,msm,secure"
+	"gametype": "competitive,msm,secure"
 }

@@ -12,7 +12,7 @@
 	"players": 2,
 	"max_players": 40,
 	"bots": 3,
-	"map": "surf_indecisive",
+	"map": "surf_static",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

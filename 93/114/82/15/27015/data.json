@@ -2,18 +2,18 @@
 	"addr": "93.114.82.15:27015",
 	"gameport": 27015,
 	"steamid": "85568392932049387",
-	"name": "CSGO.LALEAGANE.RO - CASE OPENING / VIP FREE",
+	"name": "[CSGO] - ROMANIAGO.LALEAGANE.RO | CASE OPENING / VIP FREE",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,case,case opening,caseopening,cases,drop,free,free vip,gravity,knives,laleagane,llg,open,ro,romania,skin,skins,vip"
+	"gametype": "agents,case,case opening,caseopening,cases,drop,free,free vip,gravity,knives,laleagane,llg,open,ro,romania,skin,skins,vip,weapo"
 }
