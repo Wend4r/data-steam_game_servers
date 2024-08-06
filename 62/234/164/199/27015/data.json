@@ -1,6 +1,7 @@
 {
 	"addr": "62.234.164.199:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932022537",
 	"name": "SakXh",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
