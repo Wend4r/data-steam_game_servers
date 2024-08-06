@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 6,
-	"map": "de_overpass",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }
