@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.34:26641",
 	"gameport": 26641,
+	"specport": 26642,
 	"steamid": "90200677452743687",
 	"name": "CE",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }

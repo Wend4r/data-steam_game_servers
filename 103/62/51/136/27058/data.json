@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_cyka_ksf",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aus,bhop,casual,oce,surf,secure"
+	"gametype": "aus,bhop,casual,oce,surf,secure"
 }
