@@ -1,0 +1,19 @@
+{
+	"addr": "35.180.192.167:27015",
+	"gameport": 27015,
+	"steamid": "85568392932051818",
+	"name": "Gabro Games Variety Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 3,
+	"max_players": 12,
+	"bots": 3,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

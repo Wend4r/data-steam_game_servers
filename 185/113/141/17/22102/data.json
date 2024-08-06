@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,128tick,Avalanche,PT,Pt,[PT],[pt],avalanche,comp,compet"
+	"gametype": "empty,128tick,128tick,Avalanche,PT,Pt,[PT],[pt],avalanche,comp,"
 }

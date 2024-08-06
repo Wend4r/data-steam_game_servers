@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26909",
 	"gameport": 26909,
-	"steamid": "90200689520215068",
+	"steamid": "90200689777520668",
 	"name": "boof",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 5,
-	"bots": 8,
+	"bots": 0,
 	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mix,rocky,rockyclan,rockymix,secure"
+	"gametype": "empty,mix,rocky,rockyclan,rockymix,insecure"
 }
