@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,Russian,aim,awp,bhop,cs,csland,secure"
+	"gametype": "empty,128,128tick,Russian,aim,awp,bhop,cs,csland,secure"
 }

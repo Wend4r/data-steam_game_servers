@@ -3,18 +3,18 @@
 	"gameport": 26666,
 	"specport": 26667,
 	"steamid": "90200668492480525",
-	"name": "1e071a7cec66fe1872c09fa9730bbc05",
+	"name": "7d22067ef995f6b216545f232fc5d2e5",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 8,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
