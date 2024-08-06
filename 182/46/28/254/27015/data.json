@@ -11,9 +11,9 @@
 	"players": 13,
 	"max_players": 15,
 	"bots": 0,
-	"map": "kz_alfama",
+	"map": "kz_bhop_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
