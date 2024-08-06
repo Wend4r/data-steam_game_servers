@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
-	"max_players": 32,
+	"players": 0,
+	"max_players": 20,
 	"bots": 0,
-	"map": "vertigonight",
+	"map": "de_nuke_cyberpunk",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

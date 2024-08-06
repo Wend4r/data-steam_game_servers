@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26124",
 	"gameport": 26124,
-	"steamid": "90200651644916765",
+	"steamid": "90200677201328157",
 	"name": "Leetify CS2 Match Server v2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

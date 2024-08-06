@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*grp:5114777i,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws"
+	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
 }
