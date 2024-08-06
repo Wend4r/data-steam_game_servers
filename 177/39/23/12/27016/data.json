@@ -1,7 +1,7 @@
 {
 	"addr": "177.39.23.12:27016",
 	"gameport": 27016,
-	"steamid": "90200686560683036",
+	"steamid": "90200686856338460",
 	"name": "SPOT-X eSports Arena - Retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
