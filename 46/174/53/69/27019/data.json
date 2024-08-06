@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 65,
 	"bots": 0,
-	"map": "ze_voodoo_islands_p",
+	"map": "ze_hypernova_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ek"
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russ"
 }

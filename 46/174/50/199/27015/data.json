@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 52,
 	"bots": 0,
-	"map": "wcs_execute_xhdr_f",
+	"map": "35hp_2go_sweet_v2_xhdr",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,anime,cybershoke,dota2,emotes,fortnite,fun,knife,no-steam,rev=78393462,rpg,shop,skins,steam,valorant,war3ft,war3s"
+	"gametype": "anime,cybershoke,dota2,emotes,fortnite,fun,knife,no-steam,rev=78393462,rpg,shop,skins,steam,valorant,war3ft,war3source,warcraft"
 }
