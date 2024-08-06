@@ -1,7 +1,7 @@
 {
 	"addr": "91.190.156.52:27016",
 	"gameport": 27016,
-	"steamid": "85568392931334605",
+	"steamid": "85568392932051824",
 	"name": "SANDERS [CS2] | ONLY DUST2 | BOOST +300 FPS | !SKINS !WS !KNIFE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
