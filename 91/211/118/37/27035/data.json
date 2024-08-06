@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128,128tic,casual,drop,gloves,kh,kiev,knife,mirage,pub,ranks,secu,steam,ua,vip,viptest,ws,x-clusive,xc"
+	"gametype": "!gloves,!knife,!ws,128,128tic,casual,drop,gloves,kh,kiev,knife,mirage,pub,ranks,secu,steam,ua,vip,viptest,ws,x-clusive,xclusive"
 }

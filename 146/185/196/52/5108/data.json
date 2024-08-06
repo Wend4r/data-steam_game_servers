@@ -11,9 +11,9 @@
 	"players": 28,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_cache",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
