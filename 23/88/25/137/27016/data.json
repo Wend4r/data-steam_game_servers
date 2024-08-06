@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_nyx",
+	"map": "surf_not_so_hentai",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

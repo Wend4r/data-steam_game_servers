@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 4,
-	"map": "awp_india_cs2",
+	"map": "awp_lego_2011",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavrop"
+	"gametype": "23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavropol,cla"
 }
