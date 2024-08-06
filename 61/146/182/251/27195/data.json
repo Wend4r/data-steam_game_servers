@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 3,
-	"map": "surf_anything",
+	"bots": 0,
+	"map": "surf_hurrr1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "bbs.93x.net,s,surf,xnet,secure"
+	"gametype": "empty,bbs.93x.net,s,surf,xnet,secure"
 }
