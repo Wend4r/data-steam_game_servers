@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.245.105:26818",
 	"gameport": 26818,
-	"steamid": "85568392927627274",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26819,
+	"steamid": "90200676729721869",
+	"name": "Leetify CS2 KZ by Pestmeester",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kz_niche",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
