@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 24,
-	"bots": 0,
-	"map": "jb_waterworks",
+	"bots": 22,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

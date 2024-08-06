@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 25,
 	"bots": 2,
-	"map": "de_toscan_d_prefab",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,fb.com/bombateam,secure"
+	"gametype": "fb.com/bombateam,secure"
 }
