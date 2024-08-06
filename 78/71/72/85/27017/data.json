@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 12,
-	"bots": 0,
-	"map": "aim_map_carton",
+	"bots": 2,
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
