@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26430",
 	"gameport": 26430,
-	"steamid": "90200680006244366",
+	"steamid": "90200687837527054",
 	"name": "CPH Wolves powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

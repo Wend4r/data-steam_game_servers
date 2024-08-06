@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.130:26742",
 	"gameport": 26742,
-	"steamid": "90200687750479890",
+	"steamid": "90200687752226834",
 	"name": "-=[dMw]=- Counter Strike 2 FFA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 5,
 	"bots": 8,
-	"map": "ar_baggage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
