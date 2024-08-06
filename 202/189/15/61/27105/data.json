@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.15.61:27105",
 	"gameport": 27105,
-	"steamid": "90200667468854303",
+	"steamid": "90200691819861023",
 	"name": "EXG社区 满十竞技 Ｑ群553237396 满十 #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MatchZy,exg,secure"
+	"gametype": "empty,MatchZy,exg,insecure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "80.248.18.188:27015",
 	"gameport": 27015,
-	"steamid": "90200318841473050",
-	"name": "[zoRf]  Scrim #1",
+	"steamid": "90200723925503002",
+	"name": "[zoRf]  10manna",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
-	"max_players": 15,
-	"bots": 1,
-	"map": "de_nuke",
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "competitive,msm,zorf,secure"
+	"gametype": "empty,competitive,msm,zorf,secure"
 }

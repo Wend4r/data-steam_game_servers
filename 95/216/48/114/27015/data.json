@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 1,
-	"map": "aim_redline_fp",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,aim,cs2,minimal,secure"
+	"gametype": "empty,128,AntiCheat,aim,cs2,minimal,secure"
 }
