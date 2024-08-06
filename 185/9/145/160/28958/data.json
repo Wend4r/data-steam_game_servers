@@ -2,19 +2,19 @@
 	"addr": "185.9.145.160:28958",
 	"gameport": 28958,
 	"specport": 38958,
-	"steamid": "90200675019502595",
+	"steamid": "90200675200272387",
 	"name": "NEZERLOR PROJECT ● MIRAGE",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 5,
+	"players": 1,
 	"max_players": 30,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,insecure"
+	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,insecure"
 }
