@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_wew",
+	"map": "surf_pantheon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_wew,secure"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_pantheon,secure"
 }
