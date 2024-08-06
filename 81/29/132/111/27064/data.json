@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,deathmatch,dm,fastmm,fastmm.win,fmm,fmm.gg,insecu"
+	"gametype": "empty,128tick,deathmatch,dm,fastmm,fastmm.win,fmm,fmm.gg,secure"
 }

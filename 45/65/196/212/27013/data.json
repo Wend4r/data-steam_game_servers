@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "128 TICK,RETAKE PISTOL,SKINS,secure"
 }
