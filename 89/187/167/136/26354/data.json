@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.136:26354",
 	"gameport": 26354,
-	"steamid": "90200724067351576",
+	"steamid": "90200724240607256",
 	"name": "tbcuk",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 6,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
