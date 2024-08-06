@@ -1,7 +1,7 @@
 {
 	"addr": "216.167.186.197:27015",
 	"gameport": 27015,
-	"steamid": "90200628940700693",
+	"steamid": "90200670765839381",
 	"name": "underTHEinfluence practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
