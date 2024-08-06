@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
 	"map": "surf_bigloop_x",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,wcs,ws"
+	"gametype": "empty,1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,"
 }
