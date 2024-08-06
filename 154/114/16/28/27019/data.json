@@ -1,7 +1,7 @@
 {
 	"addr": "154.114.16.28:27019",
 	"gameport": 27019,
-	"steamid": "90200674863552541",
+	"steamid": "90200676213243933",
 	"name": "Lab 228 Baseline Server \"(Row\" \"1)\"",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 1,
-	"map": "/738254705/storehouse",
+	"map": "/280544066/am_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,1v1,arena,asia(sg my ph th id),competitive,csgo,multi1v1,rank,singapore,splewis,starters,stats,secure"
+	"gametype": "128-tick,1v1,arena,asia(sg my ph th id),competitive,csgo,multi1v1,rank,singapore,splewis,starters,stats,secure"
 }
