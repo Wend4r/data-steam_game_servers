@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "awp_india",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,? ?,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,mg"
+	"gametype": "empty,128,128tick,? ?,awp,bhop,crazypub,cybershoke,dm,hsdm,idle"
 }
