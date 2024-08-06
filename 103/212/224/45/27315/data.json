@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 5,
-	"players": 0,
+	"players": 3,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_grass2_gg",
+	"map": "am_redline_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1"
+	"gametype": "gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1v1,are"
 }

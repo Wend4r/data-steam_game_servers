@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 16,
-	"bots": 2,
-	"map": "aim_all_pistols2",
+	"bots": 0,
+	"map": "awp_neon",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
