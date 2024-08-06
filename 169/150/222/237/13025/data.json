@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:13025",
 	"gameport": 13025,
-	"steamid": "90200664938816527",
+	"steamid": "90200689120482319",
 	"name": "TYLOO Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
