@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "am_ramps_gg",
+	"map": "am_redline_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AIM,CPH-Gaming.DK,CS2,DK,EU,REDLINE,secure"
+	"gametype": "empty,AIM,CPH-Gaming.DK,CS2,DK,EU,REDLINE,secure"
 }
