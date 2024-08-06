@@ -11,9 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 1,
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,incsgo.ru,public,insecure"
+	"gametype": "incsgo.ru,public,insecure"
 }
