@@ -1,7 +1,7 @@
 {
 	"addr": "178.232.190.11:27016",
 	"gameport": 27016,
-	"steamid": "90200677251584018",
+	"steamid": "90200689329338386",
 	"name": "Local KZ Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "/2118830049/kz_bounce",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
