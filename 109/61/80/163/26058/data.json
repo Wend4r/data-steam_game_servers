@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26058",
 	"gameport": 26058,
-	"specport": 26059,
-	"steamid": "90200663369698326",
+	"steamid": "90200687980821526",
 	"name": "Token Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

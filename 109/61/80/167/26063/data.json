@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26063",
 	"gameport": 26063,
-	"steamid": "90200662707932186",
+	"steamid": "90200687846414362",
 	"name": "MollitiemAC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
