@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26830",
 	"gameport": 26830,
-	"steamid": "90200643304140813",
+	"steamid": "90200668489115661",
 	"name": "BE 5v5 pracc server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

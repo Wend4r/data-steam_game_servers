@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26808",
 	"gameport": 26808,
-	"steamid": "90200643269497861",
+	"steamid": "90200668405734405",
 	"name": "PoMo's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

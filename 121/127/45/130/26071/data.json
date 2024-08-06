@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26071",
 	"gameport": 26071,
-	"steamid": "90200643214735367",
+	"steamid": "90200668524533767",
 	"name": "mithRTV powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
