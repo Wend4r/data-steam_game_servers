@@ -1,0 +1,19 @@
+{
+	"addr": "210.6.56.97:27015",
+	"gameport": 27015,
+	"steamid": "85568392931838866",
+	"name": "Trollin.",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}
