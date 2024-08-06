@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26359",
 	"gameport": 26359,
-	"steamid": "85568392925438941",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"steamid": "90200683592717318",
+	"name": "MYTH e-Sports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 1,
-	"max_players": 16,
-	"bots": 3,
+	"region": 255,
+	"players": 2,
+	"max_players": 13,
+	"bots": 0,
 	"map": "de_inferno",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
