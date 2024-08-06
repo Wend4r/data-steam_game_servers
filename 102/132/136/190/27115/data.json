@@ -1,6 +1,7 @@
 {
 	"addr": "102.132.136.190:27115",
 	"gameport": 27115,
+	"specport": 27120,
 	"steamid": "85568392932049326",
 	"name": "LinuxGSM",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 6,
 	"max_players": 6,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

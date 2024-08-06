@@ -2,8 +2,8 @@
 	"addr": "46.174.55.73:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200687567932416",
-	"name": "New server by MyArena.ru",
+	"steamid": "90200688068092928",
+	"name": ".::[СКИНЫ | НОЖИ]14+OMEGA AWP #1|НАКЛЕЙКИ|128t",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_office",
-	"secure": true,
+	"map": "awp_lego_2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:5114777i,secure"
+	"gametype": "empty,!gloves,!knife,!lvl,!shop,!top10,!vip,Stikers,free-vip,no prime,non prime!ws,rank,insecure"
 }

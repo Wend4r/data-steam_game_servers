@@ -1,7 +1,7 @@
 {
 	"addr": "185.113.141.9:22102",
 	"gameport": 22102,
-	"steamid": "90200687365153805",
+	"steamid": "90200688256598029",
 	"name": "Waaclive.com - Teste",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
