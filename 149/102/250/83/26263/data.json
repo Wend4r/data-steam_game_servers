@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 7,
-	"bots": 1,
+	"bots": 0,
 	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
