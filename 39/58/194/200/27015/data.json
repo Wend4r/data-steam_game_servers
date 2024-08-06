@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 33,
 	"bots": 1,
-	"map": "fy_pool_day",
+	"map": "de_safehouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,DM,Deathmatch,FFA,secure"
+	"gametype": "128,AntiCheat,DM,Deathmatch,FFA,secure"
 }

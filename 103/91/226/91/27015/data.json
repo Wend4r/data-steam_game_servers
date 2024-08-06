@@ -1,19 +1,19 @@
 {
 	"addr": "103.91.226.91:27015",
 	"gameport": 27015,
-	"steamid": "90200636456905743",
+	"steamid": "90200685848733711",
 	"name": "HeadsHoT Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 16,
 	"bots": 0,
-	"map": "fy_iceworld_remake",
+	"map": "de_nache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
