@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
 	"map": "mg_metro_course_v4_yea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!shop,!viptest,!ws,4jump,anime,bhop,bunny,clan,cs2,fun,mg,soft,secure"
+	"gametype": "empty,!gloves,!knife,!shop,!viptest,!ws,4jump,anime,bhop,bunny,clan,cs2,fun,mg,soft,secure"
 }

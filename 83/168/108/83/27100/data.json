@@ -1,19 +1,19 @@
 {
 	"addr": "83.168.108.83:27100",
 	"gameport": 27100,
-	"steamid": "90200689527026705",
+	"steamid": "90200689528346641",
 	"name": "SERWER Alfonso",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 6,
 	"bots": 2,
-	"map": "de_brotherhood_d_prefab",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
