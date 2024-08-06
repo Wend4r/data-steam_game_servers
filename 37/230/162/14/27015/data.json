@@ -1,6 +1,7 @@
 {
 	"addr": "37.230.162.14:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931777052",
 	"name": "НА ЧИЛЕ 2.0 | ONLY MIRAGE | NA4ILE.RU",
 	"appid": 730,
@@ -9,8 +10,8 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 32,
-	"bots": 0,
+	"max_players": 33,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
