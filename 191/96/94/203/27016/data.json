@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "knife_arena_combat",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ks,alltalk,community,knife,only,ro,romania,usp,secure"
+	"gametype": "empty,!gloves,!knife,!ks,alltalk,community,knife,only,ro,romania,usp,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26845",
 	"gameport": 26845,
-	"steamid": "90200660438038541",
+	"steamid": "90200687173399565",
 	"name": "CritPush powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
