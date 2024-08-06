@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.183:26728",
 	"gameport": 26728,
+	"specport": 26729,
 	"steamid": "90200724450057217",
 	"name": "Mindset Diff Scrim",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

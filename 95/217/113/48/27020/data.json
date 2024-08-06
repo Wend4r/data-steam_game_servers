@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 2,
-	"map": "surf_elements_beta3",
+	"map": "surf_holiday_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,cksurf,easy,finland,kitsune,mesa,skill,skillsurf,suomi,surf,surftimer,"
+	"gametype": "!gloves,!knife,!ws,100tick,Lumilinna,Teehuone,bhop,cksurf,easy,finland,kitsune,mesa,skill,skillsurf,suomi,surf,surftimer,timer,"
 }
