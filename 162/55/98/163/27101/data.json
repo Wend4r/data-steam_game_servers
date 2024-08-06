@@ -1,8 +1,7 @@
 {
 	"addr": "162.55.98.163:27101",
 	"gameport": 27101,
-	"specport": 37101,
-	"steamid": "90200646758687752",
+	"steamid": "90200671258584072",
 	"name": "FruchtLabor - Academy Team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
