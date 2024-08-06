@@ -1,7 +1,7 @@
 {
 	"addr": "168.75.99.81:27475",
 	"gameport": 27475,
-	"steamid": "90200587776294921",
+	"steamid": "90200684177971209",
 	"name": "servidor do ciel",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

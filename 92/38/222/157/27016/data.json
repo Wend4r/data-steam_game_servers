@@ -1,0 +1,19 @@
+{
+	"addr": "92.38.222.157:27016",
+	"gameport": 27016,
+	"steamid": "85568392931037574",
+	"name": "Убойный Паблик 18+",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:0i,admin,csgo,onlimirage,public,vip,secure"
+}
