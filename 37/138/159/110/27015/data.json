@@ -1,7 +1,7 @@
 {
 	"addr": "37.138.159.110:27015",
 	"gameport": 27015,
-	"steamid": "90200676791724054",
+	"steamid": "90200676989680662",
 	"name": "TvServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
