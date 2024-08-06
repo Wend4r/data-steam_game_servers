@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "csdm",
+	"bots": 9,
+	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,msm,secure"
+	"gametype": "competitive,msm,secure"
 }
