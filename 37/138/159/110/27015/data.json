@@ -1,7 +1,7 @@
 {
 	"addr": "37.138.159.110:27015",
 	"gameport": 27015,
-	"steamid": "90200676537953302",
+	"steamid": "90200676539114518",
 	"name": "TvServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
