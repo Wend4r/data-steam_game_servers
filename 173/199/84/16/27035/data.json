@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 7,
 	"max_players": 29,
-	"bots": 4,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Ashley,Engineering,Grombous,Vance,secure"
+	"gametype": "Ashley,Engineering,Grombous,Vance,secure"
 }
