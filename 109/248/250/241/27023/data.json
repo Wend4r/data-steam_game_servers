@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,cybershoke,cyber,128,128tick,drop,execute,ffa,g"
+	"gametype": "de_mirage,cybershoke,cyber,128,128tick,drop,execute,ffa,gloves,"
 }

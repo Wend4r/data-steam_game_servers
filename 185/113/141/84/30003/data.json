@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_air_arena",
+	"map": "surf_4fun_2016",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,combat,portugal,pt,pts,ptskills,surf,surfcombat,surfskill"
+	"gametype": "combat,portugal,pt,pts,ptskills,surf,surfcombat,surfskill,secur"
 }
