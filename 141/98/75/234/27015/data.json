@@ -1,19 +1,19 @@
 {
 	"addr": "141.98.75.234:27015",
 	"gameport": 27015,
-	"steamid": "90199927875799060",
-	"name": "Counter-Strike 2",
+	"steamid": "90200675460841492",
+	"name": "【God】#2899 单挑 枣庄 测试",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.1",
+	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_cell_indicator_",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
