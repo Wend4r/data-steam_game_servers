@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26854",
 	"gameport": 26854,
-	"steamid": "90200650426104848",
+	"steamid": "90200675211158544",
 	"name": "inLo Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
