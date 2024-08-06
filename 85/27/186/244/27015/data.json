@@ -1,0 +1,19 @@
+{
+	"addr": "85.27.186.244:27015",
+	"gameport": 27015,
+	"steamid": "85568392930474616",
+	"name": "[DK] ★ ★ ★ hoejhus9_mini_cs2 24/7 ★ ★ ★",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 0,
+	"map": "hoejhus9_mini_cs2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "128,DK,EU,afk,dansk,full,secure"
+}

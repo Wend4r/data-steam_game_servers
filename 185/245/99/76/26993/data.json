@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26993",
 	"gameport": 26993,
 	"specport": 26994,
-	"steamid": "90200683632754702",
+	"steamid": "90200689305263118",
 	"name": "AOAS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
