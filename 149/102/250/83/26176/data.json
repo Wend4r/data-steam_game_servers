@@ -1,6 +1,7 @@
 {
 	"addr": "149.102.250.83:26176",
 	"gameport": 26176,
+	"specport": 26177,
 	"steamid": "90200653444463619",
 	"name": "oniclancs2",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 4,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
