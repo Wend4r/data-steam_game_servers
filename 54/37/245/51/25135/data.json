@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 3,
-	"map": "surf_santorini",
+	"map": "surf_artois",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_santorini,secure"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_artois,secure"
 }
