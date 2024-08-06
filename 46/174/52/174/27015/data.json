@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,big,bighead,funny,funnypublic,gl,gloves,idl,knife,merryproject,nosteam,shop,stattrak,stattrak boost,stb,testvip,ws,s"
+	"gametype": "bhop,big,bighead,funny,funnypublic,gl,gloves,idl,knife,merryproject,nosteam,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
 }
