@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27025",
 	"gameport": 27025,
 	"steamid": "90200530428366860",
-	"name": "genesis 18055: team_gmail vs team_deko-gamesens",
+	"name": "genesis 18062: team_!「ES」furryf//ˢʸⁿᵈᶦᶜᵃᵗᵉ ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 6,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

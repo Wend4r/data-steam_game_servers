@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26286",
 	"gameport": 26286,
-	"steamid": "90200660639011853",
+	"steamid": "90200686055555085",
 	"name": "KONKOLE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

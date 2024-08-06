@@ -1,6 +1,7 @@
 {
 	"addr": "217.24.177.36:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931477849",
 	"name": "Kontur Tourney",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 11,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
