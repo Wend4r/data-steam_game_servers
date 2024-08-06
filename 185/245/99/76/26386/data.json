@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26386",
 	"gameport": 26386,
-	"steamid": "90200673347505166",
+	"steamid": "90200684021061646",
 	"name": "Team Falcons CS2 (write for 2xmaps) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 12,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
