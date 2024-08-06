@@ -2,18 +2,18 @@
 	"addr": "24.134.64.249:5015",
 	"gameport": 5015,
 	"steamid": "85568392932047984",
-	"name": "A Pterodactyl hosted CS2 Server",
+	"name": "JFF_Sebastian",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
