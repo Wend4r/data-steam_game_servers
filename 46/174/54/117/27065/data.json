@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27065",
 	"gameport": 27065,
 	"steamid": "90200537024240652",
-	"name": "genesis 18100: team_intel-core vs team_.asm888",
+	"name": "[genesis] League #14",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

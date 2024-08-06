@@ -1,0 +1,19 @@
+{
+	"addr": "125.114.97.142:36000",
+	"gameport": 36000,
+	"steamid": "85568392932037236",
+	"name": "kennyZ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}
