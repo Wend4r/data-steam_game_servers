@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.105:26420",
 	"gameport": 26420,
-	"steamid": "90200727942695945",
-	"name": "NITRO.gg powered by PRACC.COM",
+	"steamid": "90200727943349257",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
