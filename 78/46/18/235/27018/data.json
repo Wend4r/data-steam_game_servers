@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 38,
 	"bots": 0,
-	"map": "de_library_d",
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FOE CS2 PW server COMPETETIVE CFG,secure"
+	"gametype": "empty,FOE CS2 PW server COMPETETIVE CFG,secure"
 }
