@@ -3,7 +3,7 @@
 	"gameport": 27019,
 	"specport": 27020,
 	"steamid": "90200744277216278",
-	"name": "006ad44e33979192bb02e0669c91b4fb",
+	"name": "19d0fc7e515a0f6dcf9c636d116fcd25",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

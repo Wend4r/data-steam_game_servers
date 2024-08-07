@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 2,
+	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "/252769284/aim_travesty",
+	"map": "/451100372/am_cbridge",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128-tick,1v1,arena,asia(sg my ph th id),competitive,csgo,multi1v1,rank,singapore,splewis,starters,stats,secure"
+	"gametype": "empty,128-tick,1v1,arena,asia(sg my ph th id),competitive,csgo,multi1v1,rank,singapore,splewis,starters,stats,secure"
 }
