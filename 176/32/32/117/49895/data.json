@@ -11,9 +11,9 @@
 	"players": 30,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_colors_cube",
+	"map": "mg_metro_course_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

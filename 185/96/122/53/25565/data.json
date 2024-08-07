@@ -1,19 +1,19 @@
 {
 	"addr": "185.96.122.53:25565",
 	"gameport": 25565,
-	"steamid": "90200532396361731",
+	"steamid": "90200747167732739",
 	"name": "LinuxGSM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 8,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
