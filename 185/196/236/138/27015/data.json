@@ -1,7 +1,7 @@
 {
 	"addr": "185.196.236.138:27015",
 	"gameport": 27015,
-	"steamid": "90200734480689158",
+	"steamid": "90200734808604678",
 	"name": "RUSCHEM Counter-Strike 1.6 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
