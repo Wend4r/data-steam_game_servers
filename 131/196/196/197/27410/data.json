@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 0,
 	"map": "jb_lost_planet_redux_v1b1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "autobhop,bhop,br,brasil,faca,idk,jail,jailbreak,jb,kniv,loja,majes,putinha,savage,savage,servidor,servidores,skins,spaceclub,ws"
+	"gametype": "empty,autobhop,bhop,br,brasil,faca,idk,jail,jailbreak,jb,kniv,loja,majes,putinha,savage,savage,servidor,servidores,skins,spacec"
 }
