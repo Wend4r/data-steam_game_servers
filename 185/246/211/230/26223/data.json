@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.230:26223",
 	"gameport": 26223,
-	"steamid": "90200689713838093",
+	"steamid": "90200748670485517",
 	"name": "Onyx Ravens  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

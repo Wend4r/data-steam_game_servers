@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26922",
 	"gameport": 26922,
-	"steamid": "90200688988149782",
+	"steamid": "90200748665502742",
 	"name": "Arrax Team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

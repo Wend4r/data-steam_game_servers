@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26451",
 	"gameport": 26451,
-	"steamid": "90200748662328342",
+	"steamid": "90200748664759318",
 	"name": "Server Ansuz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

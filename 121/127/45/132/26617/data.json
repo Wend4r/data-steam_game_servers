@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.132:26617",
 	"gameport": 26617,
-	"specport": 26618,
-	"steamid": "90200689638653961",
+	"steamid": "90200748605579273",
 	"name": "NORDIX powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

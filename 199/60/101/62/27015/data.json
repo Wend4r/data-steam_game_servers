@@ -12,7 +12,7 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 2,
-	"map": "mg_htz_unreal_world_beta",
+	"map": "mg_circle_course",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
