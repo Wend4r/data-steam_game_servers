@@ -1,7 +1,7 @@
 {
 	"addr": "170.64.161.44:27015",
 	"gameport": 27015,
-	"steamid": "90200733508987931",
+	"steamid": "90200734156330011",
 	"name": "PewPew2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 64,
 	"bots": 2,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
