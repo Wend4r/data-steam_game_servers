@@ -1,7 +1,7 @@
 {
 	"addr": "94.188.100.111:27015",
 	"gameport": 27015,
-	"steamid": "90200742686156824",
+	"steamid": "90200743316641816",
 	"name": "Practise",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 3,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,

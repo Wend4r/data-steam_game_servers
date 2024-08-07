@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,compet"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,competitive,"
 }
