@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26210",
 	"gameport": 26210,
-	"specport": 26211,
-	"steamid": "90200678912943118",
-	"name": "KaFFa (ESEA MAIN) powered by PRACC.COM",
+	"steamid": "90200744976859150",
+	"name": "Diamant Esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
-	"bots": 3,
-	"map": "de_vertigo",
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

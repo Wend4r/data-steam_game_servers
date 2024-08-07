@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,insecure"
+	"gametype": "dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,insecure"
 }

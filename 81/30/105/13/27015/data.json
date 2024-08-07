@@ -1,6 +1,7 @@
 {
 	"addr": "81.30.105.13:27015",
 	"gameport": 27015,
+	"specport": 27025,
 	"steamid": "85568392931712506",
 	"name": "LegacyCS - Public server",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
