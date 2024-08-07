@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26617",
 	"gameport": 26617,
+	"specport": 26618,
 	"steamid": "90200748605579273",
 	"name": "NORDIX powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

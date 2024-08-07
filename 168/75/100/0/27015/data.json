@@ -1,7 +1,7 @@
 {
 	"addr": "168.75.100.0:27015",
 	"gameport": 27015,
-	"steamid": "90200748890070035",
+	"steamid": "90200748891502611",
 	"name": "\"[BR]\" heartless \"|\" NS \"&\" RapidFire \"fix|Mirage|\" \"[CS2]\"",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,7 +9,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 32,
 	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
