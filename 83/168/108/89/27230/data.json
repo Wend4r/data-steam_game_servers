@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27230",
 	"gameport": 27230,
-	"steamid": "90200683176987671",
+	"steamid": "90200728715005975",
 	"name": "SERWER BonkuBay",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 6,
+	"max_players": 8,
 	"bots": 0,
-	"map": "de_safehouse",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
