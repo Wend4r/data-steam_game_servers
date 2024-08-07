@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 20,
-	"bots": 3,
+	"bots": 2,
 	"map": "awp_minecraft",
 	"secure": true,
 	"dedicated": true,

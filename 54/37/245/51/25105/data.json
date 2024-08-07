@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 45,
-	"bots": 0,
+	"bots": 2,
 	"map": "surf_kitsune_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,102,102tick,easysurf,gf,gofree,kitsune,rank,stats,store,styles,surf,surf_12,surf_kitsune,surfing,surftimer,vip,wrcp,surf_"
+	"gametype": "102,102tick,easysurf,gf,gofree,kitsune,rank,stats,store,styles,surf,surf_12,surf_kitsune,surfing,surftimer,vip,wrcp,surf_kitsun"
 }
