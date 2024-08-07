@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 5,
 	"max_players": 33,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
+	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
 }
