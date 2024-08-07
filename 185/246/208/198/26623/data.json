@@ -1,8 +1,8 @@
 {
 	"addr": "185.246.208.198:26623",
 	"gameport": 26623,
-	"steamid": "90200733541420050",
-	"name": "Paper Plane Gaming powered by PRACC.COM",
+	"steamid": "90200734025826322",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
