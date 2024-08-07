@@ -11,8 +11,8 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "jb_oasisv07",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
 	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
