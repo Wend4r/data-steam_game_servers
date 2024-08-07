@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_metrorun",
+	"map": "surf_n_bhop_d",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

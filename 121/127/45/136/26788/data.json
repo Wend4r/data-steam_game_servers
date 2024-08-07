@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.136:26788",
 	"gameport": 26788,
+	"specport": 27020,
 	"steamid": "85568392931325105",
 	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 10,
 	"max_players": 16,
 	"bots": 1,
 	"map": "de_anubis",
