@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1v1arena,arena,multi1v1,insecure"
+	"gametype": "empty,1v1,1v1arena,arena,multi1v1,secure"
 }
