@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 1,
-	"map": "cs_office",
+	"map": "de_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskills,secu"
+	"gametype": "empty,cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskill"
 }

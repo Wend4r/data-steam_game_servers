@@ -1,7 +1,6 @@
 {
 	"addr": "187.19.88.77:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392932023647",
 	"name": "Server Fantasma",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
