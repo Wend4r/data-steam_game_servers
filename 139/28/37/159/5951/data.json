@@ -11,9 +11,9 @@
 	"players": 48,
 	"max_players": 255,
 	"bots": 0,
-	"map": "awp_arena",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

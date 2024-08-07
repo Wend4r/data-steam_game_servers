@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 3,
 	"max_players": 36,
-	"bots": 1,
+	"bots": 0,
 	"map": "mg_cell_course_v1_fixed",
 	"secure": true,
 	"dedicated": true,
