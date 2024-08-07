@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.247.208:26125",
 	"gameport": 26125,
+	"specport": 26126,
 	"steamid": "90200744989425684",
 	"name": "mariuserfurry",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

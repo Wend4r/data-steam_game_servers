@@ -1,0 +1,19 @@
+{
+	"addr": "110.40.71.111:27026",
+	"gameport": 27026,
+	"steamid": "85568392932053901",
+	"name": "--#四川成都临时4服#--",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}
