@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 28,
-	"bots": 1,
+	"bots": 0,
 	"map": "surf_sylvan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "csgo,server,gloves,easy,bhop,kz,climb,free,stat,sneak,fun,store,skin,map,server,anticheat,game,knife,surf,surftimer,timer,vip,w"
+	"gametype": "empty,csgo,server,gloves,easy,bhop,kz,climb,free,stat,sneak,fun,store,skin,map,server,anticheat,game,knife,surf,surftimer,timer"
 }
