@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "wcs_dust2_2022",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:5114777i,1.6,apocalypse,classic,cs 1.6,l4d,l4d2,re,resident evil,rev=763939,survival,survive,war3source,zombie,zombi"
+	"gametype": "*grp:5114777i,1.6,apocalypse,classic,cs 1.6,l4d,l4d2,re,resident evil,rev=763939,survival,survive,war3source,zombie,zombie mod,"
 }

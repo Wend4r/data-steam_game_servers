@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.245.103:26679",
 	"gameport": 26679,
-	"steamid": "90200582939654155",
-	"name": "Leetify CS2 Retakes by gD | coldbloodedarcher",
+	"specport": 26680,
+	"steamid": "90200747242895371",
+	"name": "BudyńToTwardaZupa powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_anubis",
+	"players": 10,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
