@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "seek_violetto",
+	"map": "krevetka04",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,hide and seek,hns,maniac,ragetime,vip,ws,secure"
+	"gametype": "empty,gloves,hide and seek,hns,maniac,ragetime,vip,ws,secure"
 }
