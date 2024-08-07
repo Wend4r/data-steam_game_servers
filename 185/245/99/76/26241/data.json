@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26241",
 	"gameport": 26241,
 	"specport": 26242,
-	"steamid": "90200730134322190",
+	"steamid": "90200737380799502",
 	"name": "VanirGG powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

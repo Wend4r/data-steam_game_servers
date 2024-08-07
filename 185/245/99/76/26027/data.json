@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26027",
 	"gameport": 26027,
-	"steamid": "90200730134407182",
+	"steamid": "90200737380836366",
 	"name": "Alliance CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
