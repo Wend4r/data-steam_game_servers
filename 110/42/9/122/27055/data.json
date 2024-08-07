@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_tylers_course",
+	"map": "mg_simple_course_2_v1_fixed",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
+	"gametype": "ZED,fastdl,mg,multigames,secure"
 }
