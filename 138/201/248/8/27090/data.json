@@ -1,7 +1,7 @@
 {
 	"addr": "138.201.248.8:27090",
 	"gameport": 27090,
-	"steamid": "90200670115752982",
+	"steamid": "90200728316928022",
 	"name": "Pandaric ADB #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

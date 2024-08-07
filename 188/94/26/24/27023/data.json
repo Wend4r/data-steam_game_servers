@@ -1,8 +1,7 @@
 {
 	"addr": "188.94.26.24:27023",
 	"gameport": 27023,
-	"specport": 27020,
-	"steamid": "90200670170511379",
+	"steamid": "90200728377296915",
 	"name": "NYXIA Ikarus",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

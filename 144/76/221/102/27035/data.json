@@ -1,7 +1,6 @@
 {
 	"addr": "144.76.221.102:27035",
 	"gameport": 27035,
-	"specport": 27020,
 	"steamid": "85568392931889581",
 	"name": "Counterstrike.party Wettkampf",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "community,kandru,secure"
+	"gametype": "empty,community,kandru,insecure"
 }

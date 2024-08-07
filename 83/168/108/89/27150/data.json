@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27150",
 	"gameport": 27150,
-	"steamid": "90200670265768983",
+	"steamid": "90200728258465815",
 	"name": "SERWER Rozbójnik",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

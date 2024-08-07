@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4vs5,ZZK,aim,community,csgo,retake,zzk,secure"
+	"gametype": "empty,4vs5,ZZK,aim,community,csgo,retake,zzk,insecure"
 }

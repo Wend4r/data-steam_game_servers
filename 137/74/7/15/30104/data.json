@@ -1,7 +1,7 @@
 {
 	"addr": "137.74.7.15:30104",
 	"gameport": 30104,
-	"steamid": "90200670250513419",
+	"steamid": "90200728227429387",
 	"name": "[PL] ArenaSkilla.pl #JAILBREAK# MODELE SKINY KOSY",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "jail_west_v2_cs2",
+	"map": "jb_improved_alpha",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "JB;JAIL;JAILBREAK;SKINY;KOSY;MODELE,secure"
+	"gametype": "empty,JB;JAIL;JAILBREAK;SKINY;KOSY;MODELE,secure"
 }
