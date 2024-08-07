@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Argentina,Retake,arg,buenos aires,discord,dust,dust2,inst"
+	"gametype": "Argentina,Retake,arg,buenos aires,discord,dust,dust2,instant de"
 }
