@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "bkz_aztec_global",
+	"map": "kz_choka_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,crack,den,kz,secure"
+	"gametype": "crack,den,kz,secure"
 }
