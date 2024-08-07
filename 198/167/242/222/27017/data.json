@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_sakura",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CS#,Custom,War3cs2,Warcraft,secure"
+	"gametype": "empty,CS#,Custom,War3cs2,Warcraft,secure"
 }
