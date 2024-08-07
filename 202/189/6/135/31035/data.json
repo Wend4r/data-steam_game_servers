@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 48,
 	"bots": 0,
-	"map": "zm_eastern_night_v4_p",
+	"map": "zm_hardzm",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }
