@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 12,
+	"players": 5,
+	"max_players": 13,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "de_sunburn",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
