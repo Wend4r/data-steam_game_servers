@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 0,
-	"map": "duels_mirage_xplaygg",
+	"map": "duels_dust2_xplaygg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

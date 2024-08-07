@@ -1,7 +1,7 @@
 {
 	"addr": "8.155.160.255:27015",
 	"gameport": 27015,
-	"steamid": "90200739035394048",
+	"steamid": "90200739370826752",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_assembly",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

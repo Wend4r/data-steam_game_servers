@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 2,
-	"max_players": 6,
-	"bots": 0,
-	"map": "de_dust2",
+	"max_players": 25,
+	"bots": 2,
+	"map": "csgo_aim_full_training",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
