@@ -1,19 +1,19 @@
 {
 	"addr": "59.56.84.39:27015",
 	"gameport": 27015,
-	"steamid": "90200632771275791",
-	"name": "mimiu的个人服务器",
+	"steamid": "90200735669102607",
+	"name": "你的电脑",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "4_player_ffa",
+	"map": "5e_prefire_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "5EPLAY,insecure"
 }
