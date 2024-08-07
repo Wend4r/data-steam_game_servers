@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
+	"gametype": "empty,128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
 }

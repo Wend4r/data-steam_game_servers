@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26888",
 	"gameport": 26888,
-	"steamid": "90200745911733257",
+	"steamid": "90200747897949193",
 	"name": "MGI OMEGA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

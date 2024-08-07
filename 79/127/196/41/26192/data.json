@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.196.41:26192",
+	"gameport": 26192,
+	"steamid": "90200747948662791",
+	"name": "[CS2] PopFlash Retakes Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
