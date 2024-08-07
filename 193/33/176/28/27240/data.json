@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,insecure"
+	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,secure"
 }
