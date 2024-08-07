@@ -1,6 +1,7 @@
 {
 	"addr": "62.234.164.199:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932022537",
 	"name": "【全皮肤】【满十】Sakxh服务器 q群:768996050",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 4,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

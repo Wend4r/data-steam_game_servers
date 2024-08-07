@@ -2,7 +2,7 @@
 	"addr": "94.79.55.242:27251",
 	"gameport": 27251,
 	"specport": 28251,
-	"steamid": "85568392924772105",
+	"steamid": "85568392924772007",
 	"name": "Онлайн турниры FASTMM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,competitive,fastmm,fastmm.win,fmm,fmm.gg,insecure"
+	"gametype": "empty,128tick,duel,fastmm,fastmm.win,fmm,fmm.gg,insecure"
 }
