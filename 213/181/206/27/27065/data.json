@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 1,
 	"max_players": 25,
 	"bots": 3,
-	"map": "2000_classics",
+	"map": "de_toscan_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hun,secure"
+	"gametype": "empty,hun,secure"
 }
