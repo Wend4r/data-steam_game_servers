@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26303",
 	"gameport": 26303,
 	"specport": 26304,
-	"steamid": "90200688010431502",
+	"steamid": "90200727580268558",
 	"name": "Emerge Main powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
