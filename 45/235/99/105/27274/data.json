@@ -1,8 +1,8 @@
 {
 	"addr": "45.235.99.105:27274",
 	"gameport": 27274,
-	"steamid": "90200735440285726",
-	"name": "Psicoticos [MultiMod]>[Zombie]",
+	"steamid": "90200735607998494",
+	"name": "Servidor de CS2 | histeriaservers.com.ar",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "ze_minecraft_forever",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
