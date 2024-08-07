@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 1,
 	"map": "de_dust2_old_cs16",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,counterstrike,cs,cs1.6,cz,dust,games-to,games-town.eu,gloves,knife,nametag,oldmaps,oldschool,sk,stattrak,tick128,vip,ws"
+	"gametype": "empty,128tick,counterstrike,cs,cs1.6,cz,dust,games-to,games-town.eu,gloves,knife,nametag,oldmaps,oldschool,sk,stattrak,tick128,"
 }
