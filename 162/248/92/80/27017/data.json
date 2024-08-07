@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "bhop_chen_rg1",
+	"map": "bhop_grid",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
