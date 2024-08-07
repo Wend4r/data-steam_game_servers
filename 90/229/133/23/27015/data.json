@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 32,
-	"bots": 3,
-	"map": "de_guard_s2",
+	"bots": 9,
+	"map": "de_dust",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }
