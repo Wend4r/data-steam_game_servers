@@ -12,8 +12,8 @@
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_anubis",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
