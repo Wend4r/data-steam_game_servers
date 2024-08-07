@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 23,
 	"bots": 1,
-	"map": "de_dust2_d_prefab",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskill"
+	"gametype": "cheats,cheaty,csowicze,losowecheaty,pl,poland,randomskills,secu"
 }
