@@ -2,7 +2,7 @@
 	"addr": "146.185.198.39:49091",
 	"gameport": 49091,
 	"steamid": "85568392931622582",
-	"name": "Freezing-Blood CS:2 | AWP ONLY #2 |",
+	"name": "Freez-Blood CS:2 | AWP ONLY #2 |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
