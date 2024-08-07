@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
 	"map": "de_dust2_old",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64Tick,AW,AWC,Aimbot,AntiAim,AntiVac,Hack,HvH,NL,NVL,Nix,OP,OPC,OT,OTC,Pri,Prim,SK,Server,Shit,Skee,hacker,hacker vs hacker,hvh"
+	"gametype": "empty,64Tick,AW,AWC,Aimbot,AntiAim,AntiVac,Hack,HvH,NL,NVL,Nix,OP,OPC,OT,OTC,Pri,Prim,SK,Server,Shit,Skee,hacker,hacker vs hack"
 }
