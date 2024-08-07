@@ -1,0 +1,19 @@
+{
+	"addr": "178.122.137.53:27015",
+	"gameport": 27015,
+	"steamid": "85568392930609591",
+	"name": "Lets Play 1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 3,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}
