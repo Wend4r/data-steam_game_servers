@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10035",
 	"gameport": 10035,
-	"steamid": "90200744919122953",
-	"name": "mhmdd - free @ fshost.me",
+	"steamid": "90200746959507465",
+	"name": "js - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
-	"max_players": 2,
+	"players": 4,
+	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

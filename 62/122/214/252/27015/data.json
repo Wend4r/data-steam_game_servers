@@ -1,8 +1,8 @@
 {
 	"addr": "62.122.214.252:27015",
 	"gameport": 27015,
-	"steamid": "90200674806798337",
-	"name": "&#128081;CS2&#128081;  ЖЕНСКАЯ ВЛАСТЬ",
+	"steamid": "85568392932055406",
+	"name": "|CS2|ЖЕНСКАЯ ВЛАСТЬ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
