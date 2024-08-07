@@ -2,18 +2,18 @@
 	"addr": "169.150.246.131:26416",
 	"gameport": 26416,
 	"steamid": "85568392923980520",
-	"name": "XPLAY.GG • CS2 PISTOL RETAKE #44 • [ZA]",
+	"name": "CS2 PRetake #44 ZA",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
