@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 4,
 	"max_players": 45,
-	"bots": 1,
-	"map": "surf_flow",
+	"bots": 2,
+	"map": "surf_kloakk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_flow,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_kloakk,secure"
 }

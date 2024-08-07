@@ -1,7 +1,7 @@
 {
 	"addr": "162.55.98.163:27020",
 	"gameport": 27020,
-	"steamid": "90200729008634888",
+	"steamid": "90200749145985032",
 	"name": "FruchtLabor - Retake NoAWP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
