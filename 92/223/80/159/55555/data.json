@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 5,
 	"max_players": 33,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
+	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
 }

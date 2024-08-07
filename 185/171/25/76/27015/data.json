@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_mom",
+	"map": "surf_tranquil",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,nametag"
+	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,n"
 }

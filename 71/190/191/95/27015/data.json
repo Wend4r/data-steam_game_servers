@@ -1,7 +1,7 @@
 {
 	"addr": "71.190.191.95:27015",
 	"gameport": 27015,
-	"steamid": "90200727912817682",
+	"steamid": "90200728082350098",
 	"name": "DanML's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
