@@ -1,7 +1,7 @@
 {
 	"addr": "177.39.23.12:27015",
 	"gameport": 27015,
-	"steamid": "90200728000474140",
+	"steamid": "90200728001113116",
 	"name": "SPOT-X Competitivo 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
