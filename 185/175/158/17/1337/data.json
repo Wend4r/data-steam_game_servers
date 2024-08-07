@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "[GalaxyTaps]cs_office",
+	"map": "[GalaxyTaps]de_dust2old",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Cheat,HVH,Hack,hvh,insecure"
+	"gametype": "empty,Cheat,HVH,Hack,hvh,insecure"
 }
