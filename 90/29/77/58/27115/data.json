@@ -1,7 +1,6 @@
 {
 	"addr": "90.29.77.58:27115",
 	"gameport": 27115,
-	"specport": 27120,
 	"steamid": "85568392922663276",
 	"name": "[RPR] Competitive CS2 server << powered by cs2-multiserver",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "competitive,msm,rpr,secure"
+	"gametype": "empty,competitive,msm,rpr,secure"
 }

@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_christmas2023",
+	"map": "aim_fake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,asia(sg my ph th id),competitive,csgo,fightyard,"
+	"gametype": "128-tick,asia(sg my ph th id),competitive,csgo,fightyard,fun,fy"
 }
