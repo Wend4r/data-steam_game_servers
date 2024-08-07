@@ -3,7 +3,7 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "90200736184130562",
-	"name": "Counter-Strike 2",
+	"name": "noobster's GunGame +Deathmatch +Turbo",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,128,AntiCheat,Gungame,gg,turbo,secure"
 }
