@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,boty,rangi,ranking,insecure"
+	"gametype": "empty,!shop,boty,rangi,ranking,insecure"
 }

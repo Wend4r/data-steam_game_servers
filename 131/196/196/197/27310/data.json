@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 4,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_dust2_old",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,arena,bhop,brasil,compet,crianaocai,gloves,hack,hackvshack,hvh,jail,jailbreak,knife,kz,luckhvh,luckzera,mix,retake,surf,ws"
+	"gametype": "empty,4fun,arena,bhop,brasil,compet,crianaocai,gloves,hack,hackvshack,hvh,jail,jailbreak,knife,kz,luckhvh,luckzera,mix,retake,s"
 }
