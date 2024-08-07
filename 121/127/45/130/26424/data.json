@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.130:26424",
 	"gameport": 26424,
+	"specport": 26425,
 	"steamid": "90200748057702407",
 	"name": "Ex Curlews LFO powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
