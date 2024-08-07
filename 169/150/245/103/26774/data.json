@@ -1,7 +1,8 @@
 {
 	"addr": "169.150.245.103:26774",
 	"gameport": 26774,
-	"steamid": "90200738898767883",
+	"specport": 26775,
+	"steamid": "90200740911889419",
 	"name": "Constrict Gaming (ESEA Inter) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
