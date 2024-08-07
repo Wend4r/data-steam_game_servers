@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26599",
 	"gameport": 26599,
-	"steamid": "90200677201970205",
+	"steamid": "90200736314360861",
 	"name": "KPs Retake Warmup",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

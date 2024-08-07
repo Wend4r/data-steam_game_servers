@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.35:26846",
 	"gameport": 26846,
-	"specport": 26847,
-	"steamid": "90200677151001608",
+	"steamid": "90200736324020232",
 	"name": "FEMBOY Lovers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
