@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26424",
 	"gameport": 26424,
-	"steamid": "90200673622787100",
+	"steamid": "90200729953448988",
 	"name": "Lapiru Retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lapiru,pracc,secure"
+	"gametype": "empty,lapiru,pracc,insecure"
 }
