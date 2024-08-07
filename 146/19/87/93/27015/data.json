@@ -1,0 +1,20 @@
+{
+	"addr": "146.19.87.93:27015",
+	"gameport": 27015,
+	"specport": 37015,
+	"steamid": "90200734905436174",
+	"name": "Новый PUBLIC CS:GO от CW-SERV.RU",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "$2000$csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
