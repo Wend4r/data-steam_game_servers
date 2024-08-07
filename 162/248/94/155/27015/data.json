@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 3,
-	"bots": 0,
+	"bots": 1,
 	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,

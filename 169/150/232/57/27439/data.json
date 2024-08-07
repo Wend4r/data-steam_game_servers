@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 15,
 	"bots": 0,
-	"map": "/633854360/kz_pollution",
+	"map": "/2884130812/kz_igneous",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,beginner,kz,rcnoobclub,secure"
+	"gametype": "beginner,kz,rcnoobclub,secure"
 }
