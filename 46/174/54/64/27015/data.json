@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.54.64:27015",
 	"gameport": 27015,
-	"steamid": "90200726119238679",
+	"steamid": "90200727794462743",
 	"name": "[15][CS2] M9SNOI SERVER | 5X5 | !knife !ws !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws !lvl !knife !gloves !vip\r,insecure"
+	"gametype": "empty,!ws !lvl !knife !gloves !vip\r,secure"
 }
