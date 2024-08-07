@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.198.103:26348",
 	"gameport": 26348,
-	"specport": 26349,
 	"steamid": "85568392931369250",
 	"name": "K-Nalhas Server | CS2 ",
 	"appid": 730,
@@ -11,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 11,
-	"bots": 9,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

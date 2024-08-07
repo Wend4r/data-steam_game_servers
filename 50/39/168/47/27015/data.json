@@ -1,8 +1,8 @@
 {
 	"addr": "50.39.168.47:27015",
 	"gameport": 27015,
-	"steamid": "90200730119757852",
-	"name": "FireInTheHole",
+	"steamid": "90200730120716316",
+	"name": "PDX Fire in the Hole",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
