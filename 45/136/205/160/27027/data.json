@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_inferno,drop,duel,gloves"
+	"gametype": "5x5,5vs5,5v5,cybershoke,cyber,de_inferno,drop,duel,gloves,knife"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "62.183.22.115:11111",
 	"gameport": 11111,
+	"specport": 27020,
 	"steamid": "85568392930343621",
 	"name": "Краснодар |28| Dust2 [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 32,
+	"max_players": 33,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
+	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
 }
