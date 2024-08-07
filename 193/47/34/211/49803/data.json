@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_jiequ",
+	"map": "zm_minecraftvillage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
+	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
 }

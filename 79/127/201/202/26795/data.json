@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.201.202:26795",
 	"gameport": 26795,
-	"steamid": "90200728956837918",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "85568392932053812",
+	"name": "Landoruim",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 14,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
