@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27225",
 	"gameport": 27225,
-	"steamid": "90200727797921815",
+	"steamid": "90200749554578455",
 	"name": "SERWER NoLove",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mirror_de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
