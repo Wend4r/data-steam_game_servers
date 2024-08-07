@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_communityjump3",
+	"map": "kz_sxb2_poi",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

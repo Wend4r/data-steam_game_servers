@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 2,
+	"bots": 0,
 	"map": "surf_elysium",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
