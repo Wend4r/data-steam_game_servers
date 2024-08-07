@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 19,
 	"bots": 0,
-	"map": "de_train",
+	"map": "de_sauna3_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

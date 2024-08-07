@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.198:26068",
 	"gameport": 26068,
-	"steamid": "85568392931287011",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200749259914258",
+	"name": "TACTICS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
-	"bots": 4,
-	"map": "de_nuke",
-	"secure": false,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

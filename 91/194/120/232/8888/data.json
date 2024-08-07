@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
+	"gametype": "empty,awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
 }
