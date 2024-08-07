@@ -2,7 +2,7 @@
 	"addr": "45.136.205.131:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200688428034061",
+	"steamid": "90200731807432717",
 	"name": "{PA1} БЕЗЖАЛОСТНЫЙ PUBLIK | 128tik|!ws|!viptest|no-",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,no-steam,secure"
+	"gametype": "empty,*grp:5114777i,no-steam,secure"
 }
