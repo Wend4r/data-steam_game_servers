@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 10,
 	"max_players": 23,
 	"bots": 1,
 	"map": "de_dust2_artex",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,cs2,de_dust2,fps,secure,skins,ua,ws,secure"
+	"gametype": "empty,awp,cs2,de_dust2,fps,secure,skins,ua,ws,secure"
 }

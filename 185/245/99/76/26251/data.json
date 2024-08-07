@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 16,
-	"bots": 2,
+	"bots": 10,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
