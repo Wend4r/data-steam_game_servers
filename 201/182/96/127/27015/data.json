@@ -1,19 +1,19 @@
 {
 	"addr": "201.182.96.127:27015",
 	"gameport": 27015,
-	"steamid": "90200724458607616",
-	"name": "Counter-Strike 2",
+	"steamid": "90200727350131712",
+	"name": "Guaxi",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
-	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
