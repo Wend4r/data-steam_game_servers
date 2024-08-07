@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,secure"
+	"gametype": "empty,!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,"
 }

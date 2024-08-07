@@ -1,19 +1,19 @@
 {
 	"addr": "128.127.117.192:27015",
 	"gameport": 27015,
-	"steamid": "90200737317463041",
+	"steamid": "90200737646315521",
 	"name": "[CS:GO] ZE.OLDBUTGOLD.RO [Zombie Escape] (WS / KNIFE / VIPTEST)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
-	"bots": 9,
-	"map": "de_train",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
