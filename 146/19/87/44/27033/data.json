@@ -2,18 +2,18 @@
 	"addr": "146.19.87.44:27033",
 	"gameport": 27033,
 	"steamid": "85568392932051709",
-	"name": "[uwupolice/#3] 2x2/5x5 server [LIVE 5-7]",
+	"name": "75$ TOURNAMENT",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
