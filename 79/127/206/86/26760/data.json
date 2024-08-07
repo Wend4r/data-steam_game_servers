@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.206.86:26760",
 	"gameport": 26760,
-	"steamid": "90200591293533189",
-	"name": "Leetify CS2 Retakes by allthingsruined",
+	"steamid": "85568392931325064",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 6,
+	"region": -1,
+	"players": 1,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
-	"secure": true,
+	"bots": 4,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

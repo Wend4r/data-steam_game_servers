@@ -2,7 +2,7 @@
 	"addr": "173.27.208.8:27015",
 	"gameport": 27015,
 	"steamid": "85568392932034254",
-	"name": "LinuxGSM",
+	"name": "Your server at chris operated by csgosl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": true,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "w",
+	"gametype": "empty,insecure"
 }
