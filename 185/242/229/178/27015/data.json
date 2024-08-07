@@ -1,7 +1,7 @@
 {
 	"addr": "185.242.229.178:27015",
 	"gameport": 27015,
-	"steamid": "90200728628536328",
+	"steamid": "90200728629356552",
 	"name": "eehs_cs2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
