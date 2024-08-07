@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.198.102:26733",
+	"gameport": 26733,
+	"steamid": "90200727337248774",
+	"name": "CAPS powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
