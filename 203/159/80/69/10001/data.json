@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 2,
-	"players": 9,
+	"players": 7,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gamersclub,gc,retake,rtk,insecure"
+	"gametype": "empty,gamersclub,gc,retake,rtk,insecure"
 }
