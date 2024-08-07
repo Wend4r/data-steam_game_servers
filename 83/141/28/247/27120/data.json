@@ -1,7 +1,6 @@
 {
 	"addr": "83.141.28.247:27120",
 	"gameport": 27120,
-	"specport": 27130,
 	"steamid": "85568392926391295",
 	"name": "Team TwentyR#20R Roadblock by CKRAS.COM",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Welcome to the TEAM 20R PRACC Server by CKRAS,ckras.com,esl cer"
+	"gametype": "empty,Welcome to the TEAM 20R PRACC Server by CKRAS,ckras.com,e"
 }

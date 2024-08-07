@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 0,
 	"map": "surf_lax_fix",
 	"secure": true,
 	"dedicated": true,
