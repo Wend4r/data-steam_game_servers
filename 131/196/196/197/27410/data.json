@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 14,
 	"bots": 0,
 	"map": "jb_electric_revamp_f2_myth1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,autobhop,bhop,br,brasil,faca,idk,jail,jailbreak,jb,kniv,loja,majes,putinha,savage,savage,servidor,servidores,skins,spacec"
+	"gametype": "autobhop,bhop,br,brasil,faca,idk,jail,jailbreak,jb,kniv,loja,majes,putinha,savage,savage,servidor,servidores,skins,spaceclub,ws"
 }
