@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!eldiven,!ws,Phoenix,[TR],aim,hs,pro,retake,secure"
+	"gametype": "empty,!eldiven,!ws,Phoenix,[TR],aim,hs,pro,retake,secure"
 }
