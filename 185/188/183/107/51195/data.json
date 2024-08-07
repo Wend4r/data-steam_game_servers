@@ -2,18 +2,18 @@
 	"addr": "185.188.183.107:51195",
 	"gameport": 51195,
 	"steamid": "85568392932055447",
-	"name": "Counter-Strike 2",
+	"name": "[RussianGang] -CS2- MIRAGE Only [!ws !knife !gl !viptest]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 32,
+	"players": 10,
+	"max_players": 24,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "24/7,cs2,knife,mirage,rusgang,russiangang,vip,ws,secure"
 }

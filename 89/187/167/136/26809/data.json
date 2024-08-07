@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 7,
 	"bots": 1,
-	"map": "eco_sewer",
+	"map": "eco_singularity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
