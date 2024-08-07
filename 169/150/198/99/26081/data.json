@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 12,
-	"bots": 4,
+	"bots": 6,
 	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,

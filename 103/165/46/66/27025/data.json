@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS2,LANN,LANN Gaming,Mongolia,secure"
+	"gametype": "CS2,LANN,LANN Gaming,Mongolia,secure"
 }

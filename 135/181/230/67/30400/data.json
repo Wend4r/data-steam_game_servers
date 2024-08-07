@@ -1,7 +1,6 @@
 {
 	"addr": "135.181.230.67:30400",
 	"gameport": 30400,
-	"specport": 27020,
 	"steamid": "85568392932022885",
 	"name": "5bots ",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
-	"bots": 1,
-	"map": "de_anubis",
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

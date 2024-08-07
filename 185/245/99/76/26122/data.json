@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26122",
 	"gameport": 26122,
-	"specport": 26123,
-	"steamid": "90200744290804750",
-	"name": "ANDROMEDA GAMING Academy (INT) powered by PRACC.COM",
+	"steamid": "90200746518317070",
+	"name": "Edel eSport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
-	"bots": 1,
+	"max_players": 12,
+	"bots": 2,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
