@@ -1,0 +1,19 @@
+{
+	"addr": "100.65.160.32:27202",
+	"gameport": 27202,
+	"steamid": "90200744915303433",
+	"name": "Valve Counter-Strike 2 poland Server (srcds2012-waw1.190.188)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 28,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "graphics_settings",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "hidden,empty,secure"
+}
