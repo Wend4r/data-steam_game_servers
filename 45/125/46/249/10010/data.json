@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 2,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_splifff",
 	"secure": true,
 	"dedicated": true,
