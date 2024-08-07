@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_studio",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_studio,1vs1,1v1,arena,128,128tick,cyber,cybershoke,due"
+	"gametype": "am_studio,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel,drop"
 }

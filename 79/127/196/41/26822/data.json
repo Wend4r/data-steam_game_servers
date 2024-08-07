@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:26822",
 	"gameport": 26822,
+	"specport": 26823,
 	"steamid": "90200749475079175",
 	"name": "TheLastResort (ex-K10) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 4,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
