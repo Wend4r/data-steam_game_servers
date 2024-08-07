@@ -2,18 +2,18 @@
 	"addr": "37.19.215.244:26749",
 	"gameport": 26749,
 	"steamid": "85568392923979310",
-	"name": "CS2 ARENA #5 ES",
+	"name": "XPLAY.GG • CS2 ARENA #5 • [ES]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
-	"bots": 0,
-	"map": "am_warehouse2_gg",
+	"bots": 8,
+	"map": "am_poolday_in_dust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
