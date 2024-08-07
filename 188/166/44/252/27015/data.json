@@ -1,6 +1,7 @@
 {
 	"addr": "188.166.44.252:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932049219",
 	"name": "test-server",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 2,
-	"max_players": 10,
+	"max_players": 11,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
