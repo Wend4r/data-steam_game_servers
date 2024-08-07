@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 25,
-	"bots": 0,
-	"map": "aim_map_3g2",
+	"bots": 6,
+	"map": "dal_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

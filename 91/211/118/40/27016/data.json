@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 3,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agent,!gloves,!knife,!ws,agent,awp,awponly,desperate,dsp"
+	"gametype": "!agent,!gloves,!knife,!ws,agent,awp,awponly,desperate,dsprt,dus"
 }

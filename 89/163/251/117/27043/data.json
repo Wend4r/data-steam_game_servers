@@ -1,19 +1,20 @@
 {
 	"addr": "89.163.251.117:27043",
 	"gameport": 27043,
+	"specport": 27044,
 	"steamid": "90200739114120201",
-	"name": "PelaajatCom",
+	"name": "9c271d4a26716c725178fe6816b6b71a",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 11,
 	"max_players": 64,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
