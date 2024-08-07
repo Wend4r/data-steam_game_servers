@@ -1,19 +1,20 @@
 {
 	"addr": "65.109.66.59:26776",
 	"gameport": 26776,
-	"steamid": "90200735023403021",
-	"name": "Elistor (Main) powered by PRACC.COM",
+	"specport": 26777,
+	"steamid": "90200735027003405",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
