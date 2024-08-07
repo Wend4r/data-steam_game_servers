@@ -9,11 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1mpulse,LKv2,no-steam,secure"
+	"gametype": "empty,*grp:5114777i,no-steam,secure"
 }

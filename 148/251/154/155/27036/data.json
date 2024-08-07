@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "am_basement_kg",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
