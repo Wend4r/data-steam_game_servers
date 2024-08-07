@@ -1,7 +1,6 @@
 {
 	"addr": "46.187.6.128:27031",
 	"gameport": 27031,
-	"specport": 27020,
 	"steamid": "85568392932021066",
 	"name": "Amile | Public | 128tick | Skins",
 	"appid": 730,
@@ -10,8 +9,8 @@
 	"product": "csgo",
 	"region": 3,
 	"players": 0,
-	"max_players": 20,
-	"bots": 1,
+	"max_players": 25,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

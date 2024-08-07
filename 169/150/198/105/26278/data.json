@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.105:26278",
 	"gameport": 26278,
-	"steamid": "90200743008227337",
-	"name": "HAWKS powered by PRACC.COM",
+	"steamid": "90200744079139849",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
