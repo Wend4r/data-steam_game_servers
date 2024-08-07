@@ -1,7 +1,6 @@
 {
 	"addr": "51.83.149.218:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931971798",
 	"name": "[PL] Mirage |FuryFrags.eu |SKINY KOSY RĘKAWICZKI",
 	"appid": 730,
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 18,
+	"max_players": 17,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,

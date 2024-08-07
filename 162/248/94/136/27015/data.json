@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
 	"map": "kz_kzinga_fixed",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!ws,anticheat,bhop,climb,csgo,knife,free,easy,knives,kz,gokz,gloves,loagurt,secure,skz,surf,usa,vanilla,vnl,ws,secure"
+	"gametype": "!ws,anticheat,bhop,climb,csgo,knife,free,easy,knives,kz,gokz,gloves,loagurt,secure,skz,surf,usa,vanilla,vnl,ws,secure"
 }
