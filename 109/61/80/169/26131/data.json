@@ -1,8 +1,8 @@
 {
 	"addr": "109.61.80.169:26131",
 	"gameport": 26131,
-	"steamid": "90200734639406108",
-	"name": "Vildekatte",
+	"steamid": "90200734639934492",
+	"name": "Vildekattemain",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

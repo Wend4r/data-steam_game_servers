@@ -1,6 +1,7 @@
 {
 	"addr": "62.122.127.240:27140",
 	"gameport": 27140,
+	"specport": 27141,
 	"steamid": "90200728899081219",
 	"name": "arrmy.gg",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 3,
 	"max_players": 41,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "fast_aim",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
