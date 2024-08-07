@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26612",
 	"gameport": 26612,
-	"steamid": "90200676145307661",
+	"steamid": "90200735389385741",
 	"name": "LANthrax",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

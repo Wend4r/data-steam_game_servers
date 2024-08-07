@@ -1,8 +1,7 @@
 {
 	"addr": "185.246.208.198:26537",
 	"gameport": 26537,
-	"specport": 26538,
-	"steamid": "90200676084634642",
+	"steamid": "90200735364135954",
 	"name": "EX Infernis",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26513",
 	"gameport": 26513,
-	"steamid": "90200676220653584",
+	"steamid": "90200735428274192",
 	"name": "Jandoland",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

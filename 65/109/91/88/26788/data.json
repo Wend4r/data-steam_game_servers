@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26788",
 	"gameport": 26788,
-	"steamid": "90200676189969420",
+	"steamid": "90200735353554956",
 	"name": "Beer cellar of RR",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

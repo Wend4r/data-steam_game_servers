@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26903",
 	"gameport": 26903,
-	"steamid": "90200676093453314",
+	"steamid": "90200735297622018",
 	"name": "Doinkley's Den",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

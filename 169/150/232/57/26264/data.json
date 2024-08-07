@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26264",
 	"gameport": 26264,
-	"steamid": "90200676246064145",
+	"steamid": "90200735344286737",
 	"name": "Nick's KZ Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "kz_grotto",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26346",
 	"gameport": 26346,
-	"steamid": "90200675835321350",
+	"steamid": "90200735312358406",
 	"name": "NoExcuses",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

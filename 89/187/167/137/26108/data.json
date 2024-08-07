@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.137:26108",
 	"gameport": 26108,
-	"steamid": "90200676214945817",
+	"steamid": "90200735303295001",
 	"name": "Kyyse CS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

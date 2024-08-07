@@ -2,7 +2,7 @@
 	"addr": "185.246.208.194:26242",
 	"gameport": 26242,
 	"specport": 26243,
-	"steamid": "90200676103830542",
+	"steamid": "90200735417628686",
 	"name": "Fryczewo.PL",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

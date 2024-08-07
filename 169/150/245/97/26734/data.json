@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.245.97:26734",
 	"gameport": 26734,
-	"specport": 26735,
 	"steamid": "85568392931838715",
 	"name": "Viseria Server",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

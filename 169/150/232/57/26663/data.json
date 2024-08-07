@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26663",
 	"gameport": 26663,
+	"specport": 26664,
 	"steamid": "90200735342224401",
 	"name": "OZLOGITEK",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

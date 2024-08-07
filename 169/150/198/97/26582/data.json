@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.97:26582",
 	"gameport": 26582,
-	"steamid": "90200676049736705",
+	"steamid": "90200735399740417",
 	"name": "Lost Treino",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "aim_rush",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

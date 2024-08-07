@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.161:26699",
 	"gameport": 26699,
-	"steamid": "90200675963018260",
+	"steamid": "90200735422226452",
 	"name": "M3MZ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
