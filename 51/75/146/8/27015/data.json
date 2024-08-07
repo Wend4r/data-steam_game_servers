@@ -1,7 +1,7 @@
 {
 	"addr": "51.75.146.8:27015",
 	"gameport": 27015,
-	"specport": 27040,
+	"specport": 27044,
 	"steamid": "85568392931296962",
 	"name": "EU | ClassicCounter | PUG | 128 Tick",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_season",
+	"map": "de_cache_2014_og",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

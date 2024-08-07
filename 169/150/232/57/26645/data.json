@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.57:26645",
 	"gameport": 26645,
-	"specport": 26646,
-	"steamid": "90200667846965265",
+	"steamid": "90200726682489873",
 	"name": "Gremlins Gaming powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

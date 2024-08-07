@@ -1,7 +1,7 @@
 {
 	"addr": "156.146.52.209:26006",
 	"gameport": 26006,
-	"steamid": "90200667906774042",
+	"steamid": "90200726616047642",
 	"name": "Kürt vs Anti-Kürt",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

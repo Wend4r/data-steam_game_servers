@@ -1,7 +1,7 @@
 {
 	"addr": "51.75.146.8:27023",
 	"gameport": 27023,
-	"specport": 27043,
+	"specport": 27040,
 	"steamid": "85568392931890520",
 	"name": "EU | ClassicCounter | RETAKES | 64 Tick",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_contra_b3",
+	"map": "de_mirage_2015_og",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
