@@ -1,7 +1,7 @@
 {
 	"addr": "15.228.0.15:27015",
 	"gameport": 27015,
-	"steamid": "90200728330596381",
+	"steamid": "90200728786471965",
 	"name": "Waltercito's server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 16,
 	"bots": 8,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:3969910i,TtK,ar,armsrace,deathmatch,dm,fastDL,fightyard,fy,gameME,gg,gungame,stats,timetokill.net,insecure"
+	"gametype": "empty,*grp:3969910i,TtK,ar,armsrace,deathmatch,dm,fastDL,fightyard,fy,gameME,gg,gungame,stats,timetokill.net,secure"
 }
