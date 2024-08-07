@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 32,
-	"bots": 2,
+	"bots": 0,
 	"map": "surf_exland",
 	"secure": true,
 	"dedicated": true,

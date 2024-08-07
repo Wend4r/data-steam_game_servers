@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 1,
-	"map": "de_biome",
+	"bots": 2,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cabrestos,secure"
+	"gametype": "empty,cabrestos,secure"
 }
