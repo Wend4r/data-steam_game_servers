@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 3,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "/2451914307/kz_slidemap_fix",
 	"secure": true,
 	"dedicated": true,

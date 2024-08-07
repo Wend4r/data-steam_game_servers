@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_destruction_fix",
+	"bots": 3,
+	"map": "surf_slobs",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_destruction_fix,secur"
+	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_slobs,secure"
 }

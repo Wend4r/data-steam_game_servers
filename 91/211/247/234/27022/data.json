@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 10,
 	"max_players": 15,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,gg arena,glov"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,gg arena,gloves,kni"
 }

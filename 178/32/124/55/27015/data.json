@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 21,
-	"bots": 4,
-	"map": "de_vertigo",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
