@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_100traps_v4_1_hdr",
+	"map": "mg_basement_course_final_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!!!!!,!knife,!ws,*grp:5114777i,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,onl"
+	"gametype": "empty,!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure"
 }

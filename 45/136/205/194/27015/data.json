@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lotus,public,insecure"
+	"gametype": "empty,cs2,flower,lotus,public,secure"
 }
