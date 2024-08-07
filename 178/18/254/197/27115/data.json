@@ -1,7 +1,7 @@
 {
 	"addr": "178.18.254.197:27115",
 	"gameport": 27115,
-	"steamid": "90200728854414358",
+	"steamid": "90200744095209494",
 	"name": "dat-noobs.online @ counter-strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
