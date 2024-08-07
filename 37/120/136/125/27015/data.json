@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "ar_shoots",
+	"map": "gg_simpsons_vs_flanders_v2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
