@@ -1,19 +1,20 @@
 {
 	"addr": "37.19.215.244:26537",
 	"gameport": 26537,
-	"steamid": "90200747986503703",
-	"name": "S.C. Maria da Fonte eSports powered by PRACC.COM",
+	"specport": 26538,
+	"steamid": "90200748515574807",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
