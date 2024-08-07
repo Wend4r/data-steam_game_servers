@@ -2,7 +2,7 @@
 	"addr": "141.95.72.175:30010",
 	"gameport": 30010,
 	"specport": 35088,
-	"steamid": "90200675105100823",
+	"steamid": "90200733570292759",
 	"name": "Vendetta Gaming | PL Talent",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

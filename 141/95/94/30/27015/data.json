@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 60,
-	"bots": 1,
+	"bots": 4,
 	"map": "surf_aircontrol_ksf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
 }
