@@ -3,18 +3,18 @@
 	"gameport": 27017,
 	"specport": 27018,
 	"steamid": "90200736713275413",
-	"name": "eBot :: Seight vs NightRaid",
+	"name": "eBot :: NightRaid vs Gameinside",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 12,
+	"players": 9,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

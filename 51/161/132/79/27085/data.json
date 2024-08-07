@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_aser",
+	"map": "surf_how2surf",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
+	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
 }
