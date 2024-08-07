@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 5,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_twist",
 	"secure": true,
 	"dedicated": true,
