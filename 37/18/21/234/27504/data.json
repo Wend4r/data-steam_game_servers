@@ -1,7 +1,7 @@
 {
 	"addr": "37.18.21.234:27504",
 	"gameport": 27504,
-	"steamid": "90200745727192081",
+	"steamid": "90200746122575889",
 	"name": "Шизафрения",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
