@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 6,
-	"bots": 0,
+	"bots": 3,
 	"map": "gd_rialto",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,2v2,64tick,cnzehvhnoob,cutehook,aimware,awp,alhamdullilah,devlegenden,fatality,hvh,peterhook,skeet,wingman,insecure"
+	"gametype": "2v2,64tick,cnzehvhnoob,cutehook,aimware,awp,alhamdullilah,devlegenden,fatality,hvh,peterhook,skeet,wingman,insecure"
 }
