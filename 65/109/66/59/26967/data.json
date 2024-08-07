@@ -2,8 +2,8 @@
 	"addr": "65.109.66.59:26967",
 	"gameport": 26967,
 	"specport": 26968,
-	"steamid": "90200737108719629",
-	"name": "VINO powered by PRACC.COM",
+	"steamid": "90200738513516557",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
