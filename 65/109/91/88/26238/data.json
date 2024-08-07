@@ -1,8 +1,7 @@
 {
 	"addr": "65.109.91.88:26238",
 	"gameport": 26238,
-	"specport": 26239,
-	"steamid": "90200668439062540",
+	"steamid": "90200727614107660",
 	"name": "DTL",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

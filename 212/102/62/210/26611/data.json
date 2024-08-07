@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26611",
 	"gameport": 26611,
-	"steamid": "90200668503967773",
+	"steamid": "90200727558906909",
 	"name": "Frca",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

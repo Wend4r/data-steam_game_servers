@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26589",
 	"gameport": 26589,
-	"steamid": "90200668288363536",
+	"steamid": "90200727569158160",
 	"name": "GGv2 Chicago",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,

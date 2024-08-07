@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26092",
 	"gameport": 26092,
-	"steamid": "90200669258006545",
+	"steamid": "90200727480108049",
 	"name": "Aether (Ex-Victorum) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

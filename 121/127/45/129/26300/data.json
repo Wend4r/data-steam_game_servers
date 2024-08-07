@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26300",
 	"gameport": 26300,
-	"steamid": "90200669085223942",
+	"steamid": "90200727519134726",
 	"name": "KILLBOX",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
