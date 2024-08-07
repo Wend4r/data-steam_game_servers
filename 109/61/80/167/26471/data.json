@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.167:26471",
 	"gameport": 26471,
-	"specport": 26472,
-	"steamid": "90200684443070490",
+	"steamid": "90200744378600474",
 	"name": "keagles",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
