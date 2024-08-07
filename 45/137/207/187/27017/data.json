@@ -2,18 +2,18 @@
 	"addr": "45.137.207.187:27017",
 	"gameport": 27017,
 	"steamid": "85568392931243478",
-	"name": "[EU | NL] Cotoax 2V2 [LIVE 0-0]",
+	"name": "[EU | NL] Cotoax 2V2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 5,
 	"bots": 0,
 	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

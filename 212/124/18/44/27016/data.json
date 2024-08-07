@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "2000_classics",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim,awp,fy,mg,plugins,public,volk,volk_rus,insecure"
+	"gametype": "aim,awp,fy,mg,plugins,public,volk,volk_rus,insecure"
 }
