@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.66.59:26481",
 	"gameport": 26481,
+	"specport": 26482,
 	"steamid": "90200727584412685",
 	"name": "RAGE x 362 powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
