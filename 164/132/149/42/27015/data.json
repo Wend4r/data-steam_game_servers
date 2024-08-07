@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 3,
 	"max_players": 20,
-	"bots": 4,
-	"map": "de_inferno",
+	"bots": 5,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128_tick,comp,friendlyfire,rank,vip,ws,secure"
+	"gametype": "empty,128_tick,comp,friendlyfire,rank,vip,ws,secure"
 }

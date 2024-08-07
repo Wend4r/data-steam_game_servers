@@ -1,8 +1,8 @@
 {
 	"addr": "79.127.209.193:26313",
 	"gameport": 26313,
-	"steamid": "90200689346243595",
-	"name": "[MYF] Servidor Combi",
+	"steamid": "90200743777416203",
+	"name": "[MYF] Servidor TEAM [RECLUTANDO]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
