@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "surf_amplitude_light",
+	"bots": 2,
+	"map": "surf_kitsune_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,alltalk,community,ro,romania,surf,secure"
+	"gametype": "alltalk,community,ro,romania,surf,secure"
 }
