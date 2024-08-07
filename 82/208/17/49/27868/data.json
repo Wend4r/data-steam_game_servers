@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 11,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage only,only,only mirage,ping,pl,public,sk,slovak,warmup,ws,se"
+	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage only,only,only mirage,ping,pl,public,sk,slovak,warmup,ws,secure"
 }
