@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 3,
 	"map": "surf_eryr2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,64tick,Bhop,CIalle,KZ,Surf,secure"
+	"gametype": "64tick,Bhop,CIalle,KZ,Surf,secure"
 }

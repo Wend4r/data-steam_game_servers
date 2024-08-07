@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "bhop_eblanki",
+	"map": "bhop_ambient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,csgo,free,anticheat,easy,bhop,fun,climb,gloves,server,knife,kz,game,server,map,skin,sneak,stat,store,surf,timer,vip,secur"
+	"gametype": "empty,*grp:10536493i,csgo,free,anticheat,easy,bhop,fun,climb,gloves,game,knife,kz,server,server,map,skin,sneak,stat,store,surf,"
 }
