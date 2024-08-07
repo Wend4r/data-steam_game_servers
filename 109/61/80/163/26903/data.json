@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!ws,secure"
+	"gametype": "empty,!agents,!gloves,!knife,!ws,insecure"
 }

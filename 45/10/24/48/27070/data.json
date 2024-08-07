@@ -1,7 +1,7 @@
 {
 	"addr": "45.10.24.48:27070",
 	"gameport": 27070,
-	"specport": 27199,
+	"specport": 27200,
 	"steamid": "85568392931929695",
 	"name": "Ollum's Servers | TESTING SERVER",
 	"appid": 730,
@@ -9,7 +9,7 @@
 	"version": "1.35.3.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 4,
 	"bots": 1,
 	"map": "de_nuketown",
