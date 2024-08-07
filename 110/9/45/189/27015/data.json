@@ -1,0 +1,19 @@
+{
+	"addr": "110.9.45.189:27015",
+	"gameport": 27015,
+	"steamid": "85568392932053766",
+	"name": "你的电脑",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 2,
+	"max_players": 64,
+	"bots": 5,
+	"map": "5e_aimhub",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "5EPLAY,secure"
+}

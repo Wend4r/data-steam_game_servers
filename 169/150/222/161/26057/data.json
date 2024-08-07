@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.222.161:26057",
 	"gameport": 26057,
+	"specport": 26058,
 	"steamid": "90200738834902019",
 	"name": "Marcos Gaming powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 10,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
