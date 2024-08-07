@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 2,
-	"map": "zm_vents_remake_m",
+	"bots": 0,
+	"map": "zm_mutation_prison_v0_3_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "85.106.146.23:27015",
 	"gameport": 27015,
-	"steamid": "90200560685920268",
+	"steamid": "90200744444338188",
 	"name": "Kanat Medya",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
