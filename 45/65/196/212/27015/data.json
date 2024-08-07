@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_cbble",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128 TICK,RETAKE,SKINS,secure"
+	"gametype": "128 TICK,RETAKE,SKINS,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2_infam_old",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AVENTUM,Desolate,HVH,Hack vs Hack,HvH,ev0lve,evolve,gamesense,hvh,infam,infamous,insecure,nl,spread,unmatched,insecure"
+	"gametype": "empty,AVENTUM,Desolate,HVH,Hack vs Hack,HvH,ev0lve,evolve,gamesense,hvh,infam,infamous,insecure,nl,spread,unmatched,insecure"
 }
