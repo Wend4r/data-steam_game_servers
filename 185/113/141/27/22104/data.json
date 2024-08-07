@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 33,
-	"bots": 1,
-	"map": "surf_beginner",
+	"bots": 0,
+	"map": "surf_mesa_revo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Avalanche,Ks,PT,Pt,Sweetricers,[.[P,[PT,[PT],[pt],bhop,bu"
+	"gametype": "Avalanche,Ks,PT,Pt,Sweetricers,[.[P,[PT,[PT],[pt],bhop,bunny,co"
 }
