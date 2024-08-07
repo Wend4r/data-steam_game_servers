@@ -1,7 +1,7 @@
 {
 	"addr": "138.201.248.8:27075",
 	"gameport": 27075,
-	"steamid": "90200744431051798",
+	"steamid": "85568392922685617",
 	"name": "Pandaric Aces Praccserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -8,13 +8,13 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
+	"region": 255,
+	"players": 7,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de,de_mirage,en,eu,ger,germany,valve_ds,secure"
+	"gametype": "empty,de,de_mirage,en,eu,ger,germany,valve_ds,secure"
 }

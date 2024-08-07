@@ -1,0 +1,19 @@
+{
+	"addr": "84.56.91.229:27015",
+	"gameport": 27015,
+	"steamid": "85568392931484509",
+	"name": "nore.xyz | warmup | aim_map | multiCFG",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 10,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
