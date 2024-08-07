@@ -2,7 +2,7 @@
 	"addr": "104.234.224.92:27015",
 	"gameport": 27015,
 	"steamid": "85568392932054926",
-	"name": "Thiago CS2 Server",
+	"name": "CS2 Bee Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,128 tick,comp,dust2,insecure"
 }

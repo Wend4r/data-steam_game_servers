@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26430",
 	"gameport": 26430,
+	"specport": 26431,
 	"steamid": "90200749285228570",
 	"name": "FAMELJA ESPORTS OFFICIAL MAJOR SERVER",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 9,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }
