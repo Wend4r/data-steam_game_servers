@@ -1,7 +1,8 @@
 {
 	"addr": "169.150.232.56:26660",
 	"gameport": 26660,
-	"steamid": "90200729428603920",
+	"specport": 26661,
+	"steamid": "90200729428675600",
 	"name": "Homyno powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
