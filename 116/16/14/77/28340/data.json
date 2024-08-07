@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 26,
 	"bots": 0,
-	"map": "35hp_antique_d",
+	"map": "35hp_dust_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
