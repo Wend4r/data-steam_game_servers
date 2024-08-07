@@ -3,18 +3,18 @@
 	"gameport": 29029,
 	"specport": 29020,
 	"steamid": "85568392931155484",
-	"name": "[WARMT] CLASSIC PUBLIC |0+|[128tick]",
+	"name": "█ [WARMT.Ru] ТУРНИР [Екб]0+",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": 3,
-	"players": 1,
+	"region": 255,
+	"players": 2,
 	"max_players": 23,
 	"bots": 1,
 	"map": "dz_Vineyard",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!lvl,!ws,128,128tick,admin,free vip,gloves,knife,lvl,mm,publick,tick,vip,warmt,ws,secure"
+	"gametype": "!knife,!lvl,!ws,128,128tick,admin,battle_pass,bp,case,free vip,gloves,knife,lvl,mansion,mirage,mm,publick,tick,vip,warmt,ws,sec"
 }
