@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26834",
 	"gameport": 26834,
+	"specport": 26835,
 	"steamid": "90200736266152969",
 	"name": "CS2 VIP2",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

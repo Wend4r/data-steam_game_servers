@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.251.35:26771",
+	"gameport": 26771,
+	"steamid": "90200745864849410",
+	"name": "Leetify CS2 Practice Mode by $ALTINED.",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
