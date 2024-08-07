@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 25,
 	"bots": 1,
-	"map": "jb_peanut_ego",
+	"map": "jb_minecraftparty_v8",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
+	"gametype": "empty,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
 }

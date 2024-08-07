@@ -2,18 +2,18 @@
 	"addr": "92.112.178.22:27015",
 	"gameport": 27015,
 	"steamid": "85568392931930595",
-	"name": "AMP Powered Counter-Strike 2 Server",
+	"name": "NPx Server MIX",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 32,
+	"max_players": 12,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

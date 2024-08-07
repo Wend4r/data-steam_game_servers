@@ -1,7 +1,7 @@
 {
 	"addr": "155.133.238.51:27035",
 	"gameport": 27035,
-	"steamid": "90200736216412166",
+	"steamid": "90200736218412038",
 	"name": "Valve Counter-Strike 2 south_africa Server (srcds2002-jnb1.214.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,empty,insecure"
 }
