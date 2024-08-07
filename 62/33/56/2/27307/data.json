@@ -1,0 +1,19 @@
+{
+	"addr": "62.33.56.2:27307",
+	"gameport": 27307,
+	"steamid": "85568392932055058",
+	"name": "[CS2] Block World [!skins, rank]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 29,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes,nout"
+}
