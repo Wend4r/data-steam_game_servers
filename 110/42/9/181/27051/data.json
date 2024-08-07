@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_4matan",
+	"map": "bhop_aportal",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
+	"gametype": "ZED,bhop,bunnyhop,fastdl,timer,secure"
 }
