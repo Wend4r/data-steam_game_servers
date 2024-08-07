@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:50015",
 	"gameport": 50015,
-	"steamid": "90200689120986127",
+	"steamid": "90200748237798415",
 	"name": "E9esports Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

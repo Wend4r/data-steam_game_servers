@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:1106",
 	"gameport": 1106,
-	"steamid": "90200689120703503",
+	"steamid": "90200748237500431",
 	"name": "GenG Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
