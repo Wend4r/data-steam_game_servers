@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 0,
-	"map": "surf_me",
+	"map": "surf_waterworks",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
