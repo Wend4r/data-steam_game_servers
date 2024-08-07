@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 12,
-	"bots": 6,
+	"bots": 5,
 	"map": "aim_redline_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!wase,!ws,1000TICK,DEATHMATCH,FFA,FFADM,GUNS,MULTICFG,WAR"
+	"gametype": "!wase,!ws,1000TICK,DEATHMATCH,FFA,FFADM,GUNS,MULTICFG,WARMUPSER"
 }
