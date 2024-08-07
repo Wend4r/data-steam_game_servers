@@ -1,19 +1,19 @@
 {
 	"addr": "185.113.141.33:60012",
 	"gameport": 60012,
-	"steamid": "90200737453484037",
+	"steamid": "90200738860929029",
 	"name": "[PT] Tuga Army • Retakes #5",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 2,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,8 +1,8 @@
 {
 	"addr": "45.235.99.105:27274",
 	"gameport": 27274,
-	"steamid": "90200738701919262",
-	"name": "Psicoticos [MultiMod]>[Competitivo]",
+	"steamid": "90200738863376414",
+	"name": "Psicoticos [MultiMod]>[MiniGames]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "mg_skeet_multigames_v7",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

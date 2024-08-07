@@ -3,7 +3,7 @@
 	"gameport": 27021,
 	"specport": 29021,
 	"steamid": "85568392931882981",
-	"name": "[PL]|ıllıllıGramyPLıllıllı|✦RANKING✦RANGI✦SKLEP (1/",
+	"name": "[PL]|ıllıllıGramyPLıllıllı|✦RANKING✦RANGI✦SKLEP (12",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!shop,boty,rangi,ranking,insecure"
+	"gametype": "!shop,boty,rangi,ranking,insecure"
 }
