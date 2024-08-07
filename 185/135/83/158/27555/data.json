@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 23,
-	"bots": 2,
+	"bots": 1,
 	"map": "awp_lego_2_pve_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!arena,1,128,1mpulse,90,A,LKv2,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm,secure"
+	"gametype": "empty,!,!arena,1,128,1mpulse,90,A,LKv2,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm,se"
 }
