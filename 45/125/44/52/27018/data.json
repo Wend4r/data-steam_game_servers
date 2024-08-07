@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
 	"bots": 0,
 	"map": "mg_n64_goldeneye_goqfq2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "93x,bbs.93x.net,game,mg,multigames,xnet,secure"
+	"gametype": "empty,93x,bbs.93x.net,game,mg,multigames,xnet,secure"
 }
