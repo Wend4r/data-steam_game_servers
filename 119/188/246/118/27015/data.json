@@ -1,7 +1,7 @@
 {
 	"addr": "119.188.246.118:27015",
 	"gameport": 27015,
-	"steamid": "90200688632155165",
+	"steamid": "90200747786239005",
 	"name": "PreAim训练服 山东高频 #83 [VIP]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

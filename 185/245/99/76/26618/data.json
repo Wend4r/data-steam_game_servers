@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26618",
 	"gameport": 26618,
-	"steamid": "90200668201594894",
-	"name": "INFINITE Gaming CS2 powered by PRACC.COM",
+	"steamid": "90200747545819150",
+	"name": " Faerie Fire powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 12,
+	"max_players": 14,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
