@@ -12,7 +12,7 @@
 	"players": 5,
 	"max_players": 40,
 	"bots": 1,
-	"map": "hns_BlockStreet",
+	"map": "hns_jail",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
