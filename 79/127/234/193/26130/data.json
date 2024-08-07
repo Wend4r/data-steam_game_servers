@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26130",
 	"gameport": 26130,
-	"steamid": "90200673179171853",
+	"steamid": "90200730186717197",
 	"name": "KAOZ Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

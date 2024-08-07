@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.206.85:26012",
 	"gameport": 26012,
-	"specport": 26013,
-	"steamid": "90200673199478788",
+	"steamid": "90200730177171460",
 	"name": "Guys bein dudes powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26380",
 	"gameport": 26380,
-	"steamid": "90200673016858649",
+	"steamid": "90200730181641241",
 	"name": "BiloKoji",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

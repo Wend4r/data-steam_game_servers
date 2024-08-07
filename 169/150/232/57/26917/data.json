@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26917",
 	"gameport": 26917,
-	"steamid": "90200673042446353",
+	"steamid": "90200730086838289",
 	"name": "Yahtzeeee Prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

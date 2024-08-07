@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26879",
 	"gameport": 26879,
-	"steamid": "90200673209214981",
+	"steamid": "90200730192195589",
 	"name": "ErasmusOmenCSGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
