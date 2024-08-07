@@ -1,0 +1,19 @@
+{
+	"addr": "178.66.95.83:27021",
+	"gameport": 27021,
+	"steamid": "90200739981163538",
+	"name": "TEST",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 64,
+	"bots": 9,
+	"map": "aim_map_carton",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,aim_map_carton,aimdm,aim,128tick,128,drop,cybershoke,deat"
+}

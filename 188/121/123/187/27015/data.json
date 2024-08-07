@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 64,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_mutiny",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,Wingman,secure"
+	"gametype": "empty,128,AntiCheat,Wingman,secure"
 }
