@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kz_innit",
+	"map": "kz_cabin_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_innit,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_cabin_fix,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
 }

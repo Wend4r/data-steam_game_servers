@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_arcturus",
+	"map": "bhop_clarity",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
+	"gametype": "ZED,bhop,bunnyhop,fastdl,timer,secure"
 }
