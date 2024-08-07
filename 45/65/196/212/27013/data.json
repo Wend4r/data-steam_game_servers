@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128 TICK,RETAKE PISTOL,SKINS,secure"
+	"gametype": "empty,128 TICK,RETAKE PISTOL,SKINS,secure"
 }
