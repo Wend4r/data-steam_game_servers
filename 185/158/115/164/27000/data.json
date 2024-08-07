@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 17,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ALTR,BH awp,StrikerServer,altr,awp_lego2,banyhop,bh,bhop,bhop,drop,fps,freevip,glo,gw,lego,lego2,only,public,vac,vip,vipt"
+	"gametype": "ALTR,BH awp,StrikerServer,altr,awp_lego2,banyhop,bh,bhop,bhop,drop,fps,freevip,glo,gw,lego,lego2,only,public,vac,vip,viptest,ws"
 }
