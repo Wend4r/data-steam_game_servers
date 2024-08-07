@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 10,
-	"bots": 5,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,24/7,cache,download,drop,dust2,eu,europa,europe,fast,fastdl,fastdrop,frag,fragujemy,fragujemy.com,mirage,pl,poland,polska"
+	"gametype": "24/7,cache,download,drop,dust2,eu,europa,europe,fast,fastdl,fastdrop,frag,fragujemy,fragujemy.com,mirage,pl,poland,polska,rank,"
 }
