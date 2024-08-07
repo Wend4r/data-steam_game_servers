@@ -1,8 +1,8 @@
 {
 	"addr": "45.235.99.105:27274",
 	"gameport": 27274,
-	"steamid": "90200735782741022",
-	"name": "Psicoticos [MultiMod]>[Deathmatch]",
+	"steamid": "90200735785325598",
+	"name": "Psicoticos [MultiMod]>[Competitivo]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_assembly",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
