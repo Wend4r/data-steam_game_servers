@@ -1,6 +1,7 @@
 {
 	"addr": "193.33.176.92:27070",
 	"gameport": 27070,
+	"specport": 25112,
 	"steamid": "85568392931721503",
 	"name": "AUUu server CS2@pukawka.pl",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }

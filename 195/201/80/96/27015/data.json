@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
 	"map": "/125663769/cs_siege",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gen,!gloves,!skins,!ws,csgo,gen,inspect,skins,secure"
+	"gametype": "!gen,!gloves,!skins,!ws,csgo,gen,inspect,skins,secure"
 }
