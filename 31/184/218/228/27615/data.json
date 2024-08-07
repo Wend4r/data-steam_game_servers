@@ -12,7 +12,7 @@
 	"players": 2,
 	"max_players": 30,
 	"bots": 1,
-	"map": "myrun/seek_island_resort",
+	"map": "myrun/winterday[hideandseek]_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
