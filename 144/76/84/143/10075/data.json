@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10075",
 	"gameport": 10075,
-	"steamid": "90200745911816201",
-	"name": "PrololWS - free @ fshost.me",
+	"steamid": "90200747316271113",
+	"name": "RAGNARZZ - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 12,
+	"players": 11,
+	"max_players": 14,
 	"bots": 0,
-	"map": "de_overpass",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
