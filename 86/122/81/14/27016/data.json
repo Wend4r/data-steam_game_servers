@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
-	"bots": 3,
-	"map": "fy_snow",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!agents,!knife !gloves,!mwp [RO],!ws,VIP Free,[EN],secure"
+	"gametype": "empty,!agents,!knife !gloves,!mwp [RO],!ws,VIP Free,[EN],secure"
 }
