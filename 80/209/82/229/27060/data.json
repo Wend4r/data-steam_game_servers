@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_beginner",
+	"map": "surf_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CPH-Gaming.DK,CS2,DK,EU,Surf,secure"
+	"gametype": "CPH-Gaming.DK,CS2,DK,EU,Surf,secure"
 }

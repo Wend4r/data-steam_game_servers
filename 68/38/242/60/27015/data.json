@@ -1,0 +1,20 @@
+{
+	"addr": "68.38.242.60:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392931209965",
+	"name": "5Stack",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_overpass_night",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

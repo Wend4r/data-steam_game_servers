@@ -9,11 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
+	"map": "awp_lego_2_mg_v3",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,insecure"
+	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,insecure"
 }
