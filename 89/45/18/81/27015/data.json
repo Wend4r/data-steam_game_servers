@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anticheat,competitive,europe,fun,gloves,knifes,ro,romania,skins"
+	"gametype": "empty,anticheat,competitive,europe,fun,gloves,knifes,ro,romania"
 }

@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 31,
 	"bots": 3,
-	"map": "aim_nuke_hall",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }

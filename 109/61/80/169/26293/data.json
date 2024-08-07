@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26293",
 	"gameport": 26293,
-	"steamid": "90200738171314204",
+	"steamid": "90200738349427740",
 	"name": "DMarket Inspect Skins - Try in Action",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
