@@ -1,7 +1,7 @@
 {
 	"addr": "209.126.8.155:27315",
 	"gameport": 27315,
-	"steamid": "90200729282233374",
+	"steamid": "90200749461812254",
 	"name": "CS2 Server Hosted by g-portal.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
