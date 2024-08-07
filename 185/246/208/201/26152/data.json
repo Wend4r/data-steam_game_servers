@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.201:26152",
 	"gameport": 26152,
-	"steamid": "85568392927627274",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200747495196693",
+	"name": "Legion Esport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
+	"max_players": 13,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
