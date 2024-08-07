@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26446",
 	"gameport": 26446,
-	"steamid": "90200675845208080",
+	"steamid": "90200735262416912",
 	"name": "Storm's Bait Shop",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

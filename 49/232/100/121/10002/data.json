@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_shell",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,secure"
+	"gametype": "hidden,secure"
 }

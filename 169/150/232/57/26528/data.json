@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26528",
 	"gameport": 26528,
-	"steamid": "90200675880844305",
+	"steamid": "90200735342234641",
 	"name": "M0js Prac Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

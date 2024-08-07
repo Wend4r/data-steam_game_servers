@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.202:26258",
 	"gameport": 26258,
-	"steamid": "90200676178561054",
+	"steamid": "90200735267361822",
 	"name": "Sons of Satan Guatemala Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

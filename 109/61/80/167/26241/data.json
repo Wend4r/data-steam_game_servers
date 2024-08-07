@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26241",
 	"gameport": 26241,
-	"steamid": "90200675890290714",
+	"steamid": "90200735336890394",
 	"name": "nikkas",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

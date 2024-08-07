@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.202:26174",
 	"gameport": 26174,
-	"steamid": "90200676178615326",
+	"steamid": "90200735267423262",
 	"name": "CS Panama",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

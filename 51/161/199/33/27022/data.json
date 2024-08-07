@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
-	"bots": 1,
-	"map": "surf_this_njv",
+	"bots": 7,
+	"map": "surf_not_so_disaster",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
 }
