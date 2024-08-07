@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "fight,rcs,recess,retake,retakes,warmup,secure"
+	"gametype": "empty,fight,rcs,recess,retake,retakes,warmup,secure"
 }
