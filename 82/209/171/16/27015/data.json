@@ -1,13 +1,13 @@
 {
 	"addr": "82.209.171.16:27015",
 	"gameport": 27015,
-	"steamid": "90200671159492615",
-	"name": "TG ESPORT\r",
+	"steamid": "90199208113921031",
+	"name": "TG Retakes\r",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.1.5",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
 	"max_players": 64,
 	"bots": 2,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "108.62.103.140:27017",
 	"gameport": 27017,
-	"steamid": "90200409445565443",
+	"steamid": "90200729055605763",
 	"name": "[rc.noob.club] CS2 Bhop [Chicago]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "bhop_hilton",
+	"map": "bhop_rc_nuclear",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

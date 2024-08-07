@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 8,
-	"map": "de_mirage",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,\r,PT,tuga,secure"
+	"gametype": "\r,PT,tuga,secure"
 }

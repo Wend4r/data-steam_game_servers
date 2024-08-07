@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "seek_mansion_snowy",
+	"map": "seek_district",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
+	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }
