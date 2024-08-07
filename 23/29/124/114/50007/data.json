@@ -10,10 +10,10 @@
 	"region": 1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 9,
+	"bots": 10,
 	"map": "fy_snow_y0",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "420,casual,chill,deathmatch,dm,fight,freedom,fun,fy,house,icewo"
+	"gametype": "empty,420,casual,chill,deathmatch,dm,fight,freedom,fun,fy,house"
 }
