@@ -1,0 +1,19 @@
+{
+	"addr": "92.40.204.171:27031",
+	"gameport": 27031,
+	"steamid": "85568392930610821",
+	"name": "Skillful Monkey's Casual (UK)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 40,
+	"bots": 20,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
