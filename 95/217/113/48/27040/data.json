@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 20,
-	"bots": 3,
-	"map": "surf_race",
+	"bots": 2,
+	"map": "surf_ny_superhappiest_b3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "lumilinna,surf,teehuone,top,secure"
+	"gametype": "empty,lumilinna,surf,teehuone,top,secure"
 }
