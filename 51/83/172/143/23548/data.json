@@ -1,7 +1,7 @@
 {
 	"addr": "51.83.172.143:23548",
 	"gameport": 23548,
-	"steamid": "90200727326614543",
+	"steamid": "90200752965337103",
 	"name": "TN CS2 | ServerProject.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pl,svpj,insecure"
+	"gametype": "empty,pl,svpj,secure"
 }

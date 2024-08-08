@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.203:26091",
 	"gameport": 26091,
-	"steamid": "90200752238683158",
+	"steamid": "90200752898442262",
 	"name": "XPLAY.GG • CS2 PUBLIC #5 • [SE]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
