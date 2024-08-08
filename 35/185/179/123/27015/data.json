@@ -1,8 +1,7 @@
 {
 	"addr": "35.185.179.123:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200747345785859",
+	"steamid": "90200764018782211",
 	"name": "FIRE's CS2 Server by ConneQt.xyz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

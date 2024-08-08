@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "spin_and_go",
+	"bots": 2,
+	"map": "csdm",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "competitive,msm,secure"
+	"gametype": "empty,competitive,msm,secure"
 }

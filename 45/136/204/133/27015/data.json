@@ -1,7 +1,7 @@
 {
 	"addr": "45.136.204.133:27015",
 	"gameport": 27015,
-	"steamid": "90200760862339087",
+	"steamid": "90200763863051279",
 	"name": "Ed's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "cs_italy",
+	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
