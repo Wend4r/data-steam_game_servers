@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 2,
-	"map": "kz_depot",
+	"map": "kz_bhop_mosaic_od2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
