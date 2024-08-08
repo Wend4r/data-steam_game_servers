@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.103:26888",
 	"gameport": 26888,
-	"steamid": "90200765981553671",
-	"name": "Projeto PD  powered by PRACC.COM",
+	"steamid": "90200766462093319",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26337",
 	"gameport": 26337,
-	"steamid": "90200761097411598",
-	"name": "FURIA  powered by PRACC.COM",
+	"specport": 26338,
+	"steamid": "90200766488338446",
+	"name": "Dino gang powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
-	"max_players": 12,
+	"players": 0,
+	"max_players": 14,
 	"bots": 3,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
