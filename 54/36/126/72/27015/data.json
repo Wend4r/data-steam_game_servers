@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 31,
-	"bots": 4,
-	"map": "aim_nuke_hall",
+	"bots": 5,
+	"map": "de_rainfall",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
