@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 21,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_salvation",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,sneak,snksrv,secure"
+	"gametype": "sneak,snksrv,secure"
 }
