@@ -1,7 +1,7 @@
 {
 	"addr": "45.10.25.2:27045",
 	"gameport": 27045,
-	"steamid": "90200774966458388",
+	"steamid": "90200775287967764",
 	"name": "CS2 MTL Server GamerzHost.de",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 9,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble_csgo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

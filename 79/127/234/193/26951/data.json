@@ -2,7 +2,7 @@
 	"addr": "79.127.234.193:26951",
 	"gameport": 26951,
 	"steamid": "85568392923977616",
-	"name": "XPLAY.GG • CS2 HSDM FFA #16 • [US]",
+	"name": "CS2 HSDM#16 US CH",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

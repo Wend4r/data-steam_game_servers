@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26674",
 	"gameport": 26674,
+	"specport": 26675,
 	"steamid": "90200774924464150",
 	"name": "Flaming north academy",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
