@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 62,
 	"bots": 0,
 	"map": "ze_sandstorm_v7_1_e4",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZombieReloaded,93x,bbs.93x.net,ZM,escape,xnet,z,ze,zombie,secure"
+	"gametype": "ZombieReloaded,93x,bbs.93x.net,ZM,escape,xnet,z,ze,zombie,secure"
 }
