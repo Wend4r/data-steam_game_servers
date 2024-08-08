@@ -1,7 +1,6 @@
 {
 	"addr": "62.234.164.199:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392932022537",
 	"name": "【全皮肤】【满十】Sakxh服务器 q群:768996050",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
