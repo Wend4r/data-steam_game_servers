@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Deathmatch,secure"
+	"gametype": "Deathmatch,secure"
 }
