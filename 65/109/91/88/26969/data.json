@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.91.88:26969",
 	"gameport": 26969,
+	"specport": 26970,
 	"steamid": "90200758739117068",
 	"name": "Rakkauden kanaali",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

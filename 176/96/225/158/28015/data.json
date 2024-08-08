@@ -2,7 +2,7 @@
 	"addr": "176.96.225.158:28015",
 	"gameport": 28015,
 	"specport": 27020,
-	"steamid": "90200773604748295",
+	"steamid": "90200773767954439",
 	"name": "CYBER SET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
