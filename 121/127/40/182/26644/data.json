@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26644",
 	"gameport": 26644,
-	"steamid": "90200739928357888",
+	"steamid": "90200766271406080",
 	"name": "6foot Scrims",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
