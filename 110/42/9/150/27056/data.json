@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 40,
 	"bots": 0,
 	"map": "ttt_ffvii_mako_reactor_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,ttt,secure"
+	"gametype": "empty,ZED,fastdl,ttt,secure"
 }

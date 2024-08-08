@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 18,
-	"map": "de_nuke",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Bernd,dathost,dathost.net,secure"
+	"gametype": "Bernd,dathost,dathost.net,secure"
 }
