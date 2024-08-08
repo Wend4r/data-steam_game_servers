@@ -2,19 +2,19 @@
 	"addr": "185.245.99.76:26811",
 	"gameport": 26811,
 	"specport": 26812,
-	"steamid": "90200763594622990",
+	"steamid": "90200773665165326",
 	"name": "187 NoobBande powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

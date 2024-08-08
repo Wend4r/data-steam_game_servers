@@ -2,7 +2,7 @@
 	"addr": "109.61.80.163:26155",
 	"gameport": 26155,
 	"specport": 26156,
-	"steamid": "90200663022270486",
+	"steamid": "90200773629303830",
 	"name": "sennin",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
