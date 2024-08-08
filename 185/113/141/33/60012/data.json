@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 2,
-	"bots": 8,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "prefabs/de_ancient/de_ancient_3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
