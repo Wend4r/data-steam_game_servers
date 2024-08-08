@@ -1,0 +1,19 @@
+{
+	"addr": "14.10.122.161:27568",
+	"gameport": 27568,
+	"steamid": "85568392930982476",
+	"name": "[JP]❖まめいろさーばー❖(Custom Co-op Missions)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 0,
+	"max_players": 40,
+	"bots": 21,
+	"map": "de_train",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,bot,co-op,ume,secure"
+}
