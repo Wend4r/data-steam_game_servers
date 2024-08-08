@@ -1,19 +1,19 @@
 {
 	"addr": "194.93.2.111:1111",
 	"gameport": 1111,
-	"steamid": "85568392931838707",
+	"steamid": "85568392932057171",
 	"name": "RAZE CLUB | ARENA HVH",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "am_razeclub_aztec2015",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
