@@ -1,19 +1,19 @@
 {
 	"addr": "42.48.249.100:27015",
 	"gameport": 27015,
-	"steamid": "85568392931760687",
-	"name": "R0对战平台天梯服务器",
+	"steamid": "85568392930474650",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.38.8.1",
-	"product": "csgo",
-	"region": 255,
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
 	"players": 0,
 	"max_players": 11,
 	"bots": 2,
-	"map": "cs_italy",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,R0对战平台,insecure"
+	"gametype": "empty,insecure"
 }

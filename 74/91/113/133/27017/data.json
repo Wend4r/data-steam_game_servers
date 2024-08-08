@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 21,
-	"bots": 0,
-	"map": "surf_salmari",
+	"bots": 1,
+	"map": "surf_salvador",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,sneak,snksrv,secure"
+	"gametype": "sneak,snksrv,secure"
 }
