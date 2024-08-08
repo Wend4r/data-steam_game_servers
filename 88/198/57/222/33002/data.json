@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.57.222:33002",
 	"gameport": 33002,
-	"steamid": "90200663946370055",
-	"name": "wadwa by \"FreeGameHosting.eu\"",
+	"steamid": "90200758111185927",
+	"name": "ANNA by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "awp_lego_cs2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

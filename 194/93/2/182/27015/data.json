@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "mg_skytower_b2",
+	"map": "mg_minecraft_jb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
