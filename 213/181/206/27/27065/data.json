@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 25,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 3,
+	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hun,secure"
+	"gametype": "hun,secure"
 }
