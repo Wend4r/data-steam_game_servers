@@ -1,7 +1,7 @@
 {
 	"addr": "47.99.165.188:27015",
 	"gameport": 27015,
-	"steamid": "90200756266461184",
+	"steamid": "90200756457211904",
 	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
