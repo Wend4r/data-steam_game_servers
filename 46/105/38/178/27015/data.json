@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 11,
-	"bots": 1,
+	"bots": 0,
 	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Gandhis GH,secure"
+	"gametype": "empty,Gandhis GH,secure"
 }
