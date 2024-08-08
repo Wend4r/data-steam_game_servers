@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 21,
 	"bots": 1,
 	"map": "surf_dust2_2018_fix_dangerous",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!WCS,DM,GG,RPG,SHOP,WCS,alltalk,bhop,compspec,gl,gloves,gungame,jail,ncrpg,newrpg,newsurf,public,sta,surf,wa3,war3,wcrpg,wcs,zm"
+	"gametype": "empty,!WCS,DM,GG,RPG,SHOP,WCS,alltalk,bhop,compspec,gl,gloves,gungame,jail,ncrpg,newrpg,newsurf,public,sta,surf,wa3,war3,wcrpg,"
 }
