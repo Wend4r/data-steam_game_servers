@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "aim_map",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "anticheat,no-steam,secure,insecure"
+	"gametype": "empty,anticheat,no-steam,secure,insecure"
 }
