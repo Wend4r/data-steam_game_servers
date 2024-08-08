@@ -1,7 +1,7 @@
 {
 	"addr": "144.76.84.143:10000",
 	"gameport": 10000,
-	"steamid": "90200760653143049",
+	"steamid": "90200760978382857",
 	"name": "Anderson Talisca - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
