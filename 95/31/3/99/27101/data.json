@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 3,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxp"
+	"gametype": "!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,"
 }

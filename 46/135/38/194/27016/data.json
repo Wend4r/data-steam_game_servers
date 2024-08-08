@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 128,
 	"bots": 2,
-	"map": "kz_baxter",
+	"map": "kz_bhop_lj",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "increased_maxplayers,insecure"
+	"gametype": "insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "176.57.168.101:27215",
 	"gameport": 27215,
-	"steamid": "90200377867764744",
+	"steamid": "90200762250608648",
 	"name": "AinzOoalGown",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

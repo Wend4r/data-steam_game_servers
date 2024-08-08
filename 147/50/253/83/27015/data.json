@@ -1,19 +1,19 @@
 {
 	"addr": "147.50.253.83:27015",
 	"gameport": 27015,
-	"steamid": "90200762313506840",
+	"steamid": "90200762315102232",
 	"name": "[TH][Custom Game] AutKung game store !ws !knife !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
+	"region": 4,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,game store with my friend 128tick,insecure"
+	"gametype": "empty,game store with my friend 128tick,secure"
 }

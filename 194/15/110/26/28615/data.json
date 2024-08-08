@@ -1,7 +1,7 @@
 {
 	"addr": "194.15.110.26:28615",
 	"gameport": 28615,
-	"steamid": "90200377828241435",
+	"steamid": "90200762375403547",
 	"name": "CS2 Server Hosted by g-portal.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
