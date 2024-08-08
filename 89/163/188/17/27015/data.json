@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,www.just1life-gaming.de,secure"
+	"gametype": "www.just1life-gaming.de,secure"
 }

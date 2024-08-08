@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
 	"bots": 0,
 	"map": "fy_pool_day_16",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!,csdm,cs,dm,fast,bhop,escape,64,fastdl,ekb,msk,fun,moscow,mos,n4a,net4all.ru,net4all,ru,rus,russia,secure,skin,skins,spb,vip,z"
+	"gametype": "empty,!,csdm,cs,dm,fast,bhop,escape,64,fastdl,ekb,msk,fun,moscow,mos,n4a,net4all.ru,net4all,ru,rus,russia,secure,skin,skins,spb"
 }

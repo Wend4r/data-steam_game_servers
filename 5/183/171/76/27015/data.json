@@ -1,7 +1,6 @@
 {
 	"addr": "5.183.171.76:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392924646006",
 	"name": "[CS2] - RETAKE.DEATHROMANIA.RO - Retake Server - Mirage Only",
 	"appid": 730,
@@ -10,8 +9,8 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 19,
-	"bots": 1,
+	"max_players": 18,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
