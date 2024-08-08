@@ -9,11 +9,11 @@
 	"product": "csgo",
 	"region": 4,
 	"players": 0,
-	"max_players": 40,
-	"bots": 21,
+	"max_players": 127,
+	"bots": 0,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bot,co-op,ume,secure"
+	"gametype": "empty,bot,co-op,increased_maxplayers,ume,insecure"
 }

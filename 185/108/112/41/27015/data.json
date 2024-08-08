@@ -1,7 +1,6 @@
 {
 	"addr": "185.108.112.41:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931739661",
 	"name": "csgo.transip.love",
 	"appid": 730,
@@ -11,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 30,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
