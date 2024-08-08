@@ -9,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 9,
-	"max_players": 13,
+	"players": 5,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plant,lann"
+	"gametype": "empty,!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plan"
 }
