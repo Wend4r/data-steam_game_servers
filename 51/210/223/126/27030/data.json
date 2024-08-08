@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 28,
 	"bots": 0,
-	"map": "ba_jail_razor_lnz_2023",
+	"map": "jb_lego_jail_2k24",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
