@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "am_warehouse2",
+	"map": "am_grass2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,ARENA 1V1,secure"
+	"gametype": "!agents,!skins,!sky,!ws,128 TICK,ARENA 1V1,secure"
 }
