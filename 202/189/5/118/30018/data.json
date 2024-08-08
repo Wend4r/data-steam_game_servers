@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.5.118:30018",
 	"gameport": 30018,
-	"steamid": "90200744970618882",
+	"steamid": "90200753466191874",
 	"name": "EXG社区 test 生化追击 Ｑ群553237396 test #3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_steyliff_grove",
+	"map": "ze_aztecnoob_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,insecure"
+	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
 }

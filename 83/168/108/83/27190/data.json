@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27190",
 	"gameport": 27190,
-	"steamid": "90200749442449425",
+	"steamid": "90200753448155153",
 	"name": "SERWER S-K",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 4,
 	"bots": 0,
-	"map": "mirror_de_dust2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
