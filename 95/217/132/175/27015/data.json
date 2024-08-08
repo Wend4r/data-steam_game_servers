@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 3,
-	"map": "csdm",
+	"bots": 1,
+	"map": "spin_and_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,msm,secure"
+	"gametype": "competitive,msm,secure"
 }

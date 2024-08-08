@@ -1,6 +1,7 @@
 {
 	"addr": "188.166.44.252:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932049219",
 	"name": "test-server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
