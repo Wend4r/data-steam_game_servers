@@ -1,19 +1,19 @@
 {
 	"addr": "95.173.175.47:27015",
 	"gameport": 27015,
-	"steamid": "85568392922614954",
+	"steamid": "85568392922615388",
 	"name": "Har CLAN",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 10,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HAR CLAN CS 2 SERVERINE HOSGELDINIZ,secure"
+	"gametype": "empty,HAR CLAN CS 2 SERVERINE HOSGELDINIZ,secure"
 }

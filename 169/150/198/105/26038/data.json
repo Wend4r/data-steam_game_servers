@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26038",
 	"gameport": 26038,
-	"steamid": "90200777175885833",
+	"steamid": "90200777177048073",
 	"name": "PLAY.PRACC.COM - [BR] MULTI-CFG DM - MIRAGE ✦ SKINS ✦ BEST ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
+	"gametype": "empty,DM,Deathmatch,PRACC,Warmup,insecure"
 }
