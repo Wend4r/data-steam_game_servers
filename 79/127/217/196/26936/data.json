@@ -2,18 +2,18 @@
 	"addr": "79.127.217.196:26936",
 	"gameport": 26936,
 	"steamid": "85568392923923668",
-	"name": "XPLAY.GG • CS2 BHOP #12 • [US]",
+	"name": "CS2 Bhop#12 US CA",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "bhop_omnitopia",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
