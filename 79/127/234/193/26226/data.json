@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.234.193:26226",
 	"gameport": 26226,
-	"specport": 26227,
 	"steamid": "85568392930977656",
 	"name": "CheeseBurgerServer",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_artemis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

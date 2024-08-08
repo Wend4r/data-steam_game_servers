@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 3,
-	"map": "awp_india",
+	"map": "awp_lego_2023_xmas",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,k"
+	"gametype": "aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,kz,kzg,"
 }

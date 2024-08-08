@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 8,
-	"map": "usp_refrag",
+	"map": "mst_pistolmap_ver2.0",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,argentina,garryshost,latam,secure"
+	"gametype": "argentina,garryshost,latam,secure"
 }
