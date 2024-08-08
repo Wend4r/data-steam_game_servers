@@ -1,0 +1,19 @@
+{
+	"addr": "212.102.62.210:26318",
+	"gameport": 26318,
+	"steamid": "90200760672603165",
+	"name": "gogogirls powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
