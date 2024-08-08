@@ -1,0 +1,19 @@
+{
+	"addr": "1.164.112.148:27015",
+	"gameport": 27015,
+	"steamid": "85568392930380601",
+	"name": "CS2 Server by GTBooster",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

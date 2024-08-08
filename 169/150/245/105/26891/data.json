@@ -12,9 +12,9 @@
 	"players": 10,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_tatry",
+	"map": "de_remppasauna",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,insecure"
+	"gametype": "hidden,insecure"
 }
