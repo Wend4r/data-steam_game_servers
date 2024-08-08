@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:30025",
 	"gameport": 30025,
 	"specport": 35043,
-	"steamid": "90200733624960009",
+	"steamid": "90200760072545289",
 	"name": "R1s1ng-Stars",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
