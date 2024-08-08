@@ -1,0 +1,20 @@
+{
+	"addr": "212.102.62.209:27756",
+	"gameport": 27756,
+	"specport": 27757,
+	"steamid": "85568392930499573",
+	"name": "friendly 2v2 server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 2,
+	"max_players": 5,
+	"bots": 1,
+	"map": "de_train",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}
