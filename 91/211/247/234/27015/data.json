@@ -1,7 +1,6 @@
 {
 	"addr": "91.211.247.234:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930297498",
 	"name": "Vimo.lt [PUBLIC]",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg arena,glo"
+	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg are"
 }
