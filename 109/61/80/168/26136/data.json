@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26136",
 	"gameport": 26136,
-	"steamid": "90200753162828827",
+	"steamid": "90200753165340699",
 	"name": "Khalti_Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
