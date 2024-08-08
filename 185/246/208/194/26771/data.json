@@ -1,19 +1,20 @@
 {
 	"addr": "185.246.208.194:26771",
 	"gameport": 26771,
-	"steamid": "90200608119762958",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26772,
+	"steamid": "90200770995818510",
+	"name": "challengermode.com - Register to join",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_mirage",
+	"region": -1,
+	"players": 4,
+	"max_players": 9,
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,challengermode,cm,secure"
 }
