@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26155",
 	"gameport": 26155,
-	"steamid": "90200735402833925",
+	"steamid": "90200761801478149",
 	"name": "Counter Strike for Old People",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

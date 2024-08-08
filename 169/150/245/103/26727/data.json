@@ -2,7 +2,7 @@
 	"addr": "169.150.245.103:26727",
 	"gameport": 26727,
 	"specport": 26728,
-	"steamid": "90200735392670731",
+	"steamid": "90200761701669899",
 	"name": "CS2Master.gg",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

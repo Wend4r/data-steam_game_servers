@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_thera",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5v5,England,Ireland,N. Ireland,Scotland,UK,Wales,competitive,se"
+	"gametype": "empty,5v5,England,Ireland,N. Ireland,Scotland,UK,Wales,competit"
 }

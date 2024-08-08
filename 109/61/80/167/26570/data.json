@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26570",
 	"gameport": 26570,
-	"steamid": "90200735336922138",
+	"steamid": "90200761771003930",
 	"name": "runz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
