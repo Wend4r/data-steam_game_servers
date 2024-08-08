@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "winterday_hideandseek_remake_fi",
+	"map": "seek_district",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1mpulse,LKv2,insecure"
+	"gametype": "empty,1mpulse,LKv2,insecure"
 }

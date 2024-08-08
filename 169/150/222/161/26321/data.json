@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.222.161:26321",
+	"gameport": 26321,
+	"specport": 26322,
+	"steamid": "90200763469813763",
+	"name": "Marcos Gaming powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 22,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "surf_ezpz_syntax",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
