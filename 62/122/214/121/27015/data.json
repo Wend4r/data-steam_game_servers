@@ -2,18 +2,18 @@
 	"addr": "62.122.214.121:27015",
 	"gameport": 27015,
 	"steamid": "85568392931738638",
-	"name": "#1 [CS-ELO.RU] [PUBLIC] | RED | SKINS |",
+	"name": "gm.link/u79473 #1 [CS-ELO.RU] [PUBLIC] | RED | SKINS |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 3,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,? ?,awp,bhop,crazypub,cybershoke,dm,hsdm,idle"
+	"gametype": "128,128tick,? ?,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,mg"
 }

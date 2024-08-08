@@ -1,7 +1,7 @@
 {
 	"addr": "168.75.100.0:27015",
 	"gameport": 27015,
-	"steamid": "90200765034530835",
+	"steamid": "90200765378043923",
 	"name": "[BR] heartless HvH | NS & RapidFire fix | Mirage | [CS2]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,128tick,hsonly,hvh,nospread,unknowncheats,insecure"
 }
