@@ -1,7 +1,7 @@
 {
 	"addr": "177.54.145.59:27020",
 	"gameport": 27020,
-	"steamid": "90200729983162382",
+	"steamid": "90200766309059598",
 	"name": "SERVIDOR PRIVADO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
