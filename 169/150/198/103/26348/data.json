@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 11,
-	"bots": 9,
+	"bots": 1,
 	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
