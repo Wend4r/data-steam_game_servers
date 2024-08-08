@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "bhop_emevaelx3",
+	"map": "bhop_purpleglow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
