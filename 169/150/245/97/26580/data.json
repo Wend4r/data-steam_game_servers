@@ -2,8 +2,8 @@
 	"addr": "169.150.245.97:26580",
 	"gameport": 26580,
 	"specport": 26581,
-	"steamid": "90200772083104773",
-	"name": "YUME powered by PRACC.COM",
+	"steamid": "90200774297621509",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

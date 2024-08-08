@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Awesome,US,hvh,rapidfirefix,rapidfix,spread,insecure"
+	"gametype": "Awesome,US,hvh,rapidfirefix,rapidfix,spread,insecure"
 }
