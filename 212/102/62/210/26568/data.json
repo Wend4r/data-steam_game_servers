@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.210:26568",
 	"gameport": 26568,
+	"specport": 26569,
 	"steamid": "90200758679138333",
 	"name": "4eku4e powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
