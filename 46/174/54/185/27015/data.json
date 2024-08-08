@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 30,
 	"bots": 0,
-	"map": "surf_ski_2",
+	"map": "surf_aero_violence",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,gloves,knife,pacanoff.ru,rpg,surf,ws,secure"
+	"gametype": "agents,gloves,knife,pacanoff.ru,rpg,surf,ws,secure"
 }

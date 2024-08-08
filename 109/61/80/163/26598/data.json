@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26598",
 	"gameport": 26598,
-	"steamid": "90200744278832150",
+	"steamid": "90200772909759510",
 	"name": "baeisis CS2 Server(li) ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
