@@ -1,19 +1,19 @@
 {
 	"addr": "177.125.253.204:27015",
 	"gameport": 27015,
-	"steamid": "90200743533227020",
+	"steamid": "90200770691342348",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mapas/fy_iceworld_ttpk_classic",
+	"map": "mapas/ar_park_rush",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

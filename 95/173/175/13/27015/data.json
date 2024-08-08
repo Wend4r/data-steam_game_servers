@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,7/24 Admin,DROP,FUN,PRO,insecure"
+	"gametype": "!knife,!ws,7/24 Admin,DROP,FUN,PRO,insecure"
 }
