@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_surf_saltfish",
+	"map": "ze_ffvii_mako_reactor_v6_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
