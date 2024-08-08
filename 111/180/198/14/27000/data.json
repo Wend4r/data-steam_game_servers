@@ -1,19 +1,19 @@
 {
 	"addr": "111.180.198.14:27000",
 	"gameport": 27000,
-	"steamid": "90200759649062925",
+	"steamid": "90200763856674829",
 	"name": "World HvH 1155 6服 无扩散-解除空速-服务器 QQ群 5801",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_Mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
