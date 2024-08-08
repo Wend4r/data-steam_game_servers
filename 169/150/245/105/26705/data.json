@@ -1,7 +1,8 @@
 {
 	"addr": "169.150.245.105:26705",
 	"gameport": 26705,
-	"steamid": "90200765544400909",
+	"specport": 26706,
+	"steamid": "90200765547285517",
 	"name": "K10 Ashes powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
