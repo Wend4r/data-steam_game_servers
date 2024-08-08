@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.129:26780",
 	"gameport": 26780,
-	"steamid": "90200767663018001",
+	"steamid": "90200768854370321",
 	"name": "Gentlemen's Lounge",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo_45",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
