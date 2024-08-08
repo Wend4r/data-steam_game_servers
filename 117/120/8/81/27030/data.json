@@ -12,9 +12,9 @@
 	"players": 9,
 	"max_players": 29,
 	"bots": 1,
-	"map": "de_nipperhouse",
+	"map": "de_ash",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

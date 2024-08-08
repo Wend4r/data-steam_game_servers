@@ -1,7 +1,7 @@
 {
 	"addr": "119.138.206.7:27015",
 	"gameport": 27015,
-	"steamid": "90200760612311059",
+	"steamid": "90200760616176659",
 	"name": "测试",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_lego_multigames",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
