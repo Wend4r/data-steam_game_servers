@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 7,
-	"map": "cs_compound",
+	"map": "aim_ag_texture_jungle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
