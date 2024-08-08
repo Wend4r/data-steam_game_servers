@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.198:26895",
 	"gameport": 26895,
+	"specport": 26896,
 	"steamid": "90200771275271186",
 	"name": "challengermode.com - Register to join",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,insecure"
+	"gametype": "empty,challengermode,cm,secure"
 }
