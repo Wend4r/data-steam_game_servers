@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:26708",
 	"gameport": 26708,
+	"specport": 26709,
 	"steamid": "90200766443179026",
 	"name": "T&G powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 6,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
