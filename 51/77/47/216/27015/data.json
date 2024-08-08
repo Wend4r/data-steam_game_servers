@@ -8,12 +8,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 9,
 	"max_players": 40,
-	"bots": 0,
+	"bots": 1,
 	"map": "am_desert2_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,pri"
+	"gametype": "4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,uwu"
 }

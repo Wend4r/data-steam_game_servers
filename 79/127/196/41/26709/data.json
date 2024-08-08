@@ -12,9 +12,9 @@
 	"players": 11,
 	"max_players": 12,
 	"bots": 1,
-	"map": "cs_assult_classic",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
