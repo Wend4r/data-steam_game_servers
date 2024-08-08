@@ -1,7 +1,7 @@
 {
 	"addr": "31.17.230.104:27017",
 	"gameport": 27017,
-	"steamid": "90200677587763209",
+	"steamid": "90200775940702217",
 	"name": "Lock and Load Server 3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -14,5 +14,6 @@
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
-	"os": "w"
+	"os": "w",
+	"gametype": "empty,insecure"
 }
