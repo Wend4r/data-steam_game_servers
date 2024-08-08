@@ -5,15 +5,15 @@
 	"name": "[ARG - CS2] ⚡ CrisisGamer ⚡ [RETAKE #3] ❤️ By Garryshos",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 2,
-	"players": 6,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,crisis"
+	"gametype": "empty,1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,"
 }

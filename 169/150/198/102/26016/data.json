@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26016",
 	"gameport": 26016,
-	"steamid": "90200775323465734",
+	"steamid": "90200776922420230",
 	"name": "★ CS2 RETAKES MILIONÁRIOS ★",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 3,
 	"max_players": 7,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
