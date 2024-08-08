@@ -1,19 +1,19 @@
 {
 	"addr": "80.248.18.188:27045",
 	"gameport": 27045,
-	"steamid": "90200777493168154",
-	"name": "[zoRf]  Deathmatch",
+	"steamid": "90200778068172826",
+	"name": "challengermode.com - Register to join",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 18,
-	"bots": 0,
-	"map": "aim_redline_cs2",
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,custom,msm,zorf,secure"
+	"gametype": "empty,challengermode,cm,secure"
 }

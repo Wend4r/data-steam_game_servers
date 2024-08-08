@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26024",
 	"gameport": 26024,
-	"steamid": "90200777899624453",
+	"steamid": "90200777901369349",
 	"name": "PLAY.PRACC.COM - [LA] MULTI-CFG DM - MIRAGE ✦ BEST FPS ✦ DE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PRACC,Warmup,insecure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }
