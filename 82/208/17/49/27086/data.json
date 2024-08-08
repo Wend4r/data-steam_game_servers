@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 3,
 	"map": "surf_cyberwave",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,102.4,3,85,agents,beginner,casual,cz,easy,epiczone,eu,fastdl,lag,ping,pl,sk,slovak,surf,surf_,tick,tier,warmup,ws,secur"
+	"gametype": "1,102.4,3,85,agents,beginner,casual,cz,easy,epiczone,eu,fastdl,lag,ping,pl,sk,slovak,surf,surf_,tick,tier,warmup,ws,secure"
 }
