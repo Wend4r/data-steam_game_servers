@@ -1,0 +1,19 @@
+{
+	"addr": "82.67.96.64:27015",
+	"gameport": 27015,
+	"steamid": "90200762819979268",
+	"name": "Counter-Strike: Global Offensive Dedicated LAN-Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.8.2",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

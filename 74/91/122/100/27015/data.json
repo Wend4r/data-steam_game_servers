@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_dust2_old2",
+	"map": "cs_office_night",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,15v15,cheat,gravity,hack,hvh,legacy,insecure"
+	"gametype": "15v15,cheat,hack,hvh,legacy,insecure"
 }
