@@ -1,7 +1,7 @@
 {
 	"addr": "104.223.101.70:26955",
 	"gameport": 26955,
-	"steamid": "90200755968640021",
+	"steamid": "90200756154674197",
 	"name": "Brainrot HvH",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 22,
 	"bots": 0,
-	"map": "cs_italy",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
