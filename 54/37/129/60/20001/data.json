@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.129.60:20001",
 	"gameport": 20001,
-	"specport": 27020,
-	"steamid": "90200762814027807",
+	"steamid": "90200763476291615",
 	"name": "Developer | !ws !knife !stickers | HSMANIA.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsownia.pl,h"
+	"gametype": "empty,hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsowni"
 }
