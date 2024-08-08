@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "am_blackline",
+	"map": "am_redline_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,dual,duel,fight,multi1v1,warmup,secure"
+	"gametype": "empty,1v1,arena,dual,duel,fight,multi1v1,warmup,secure"
 }

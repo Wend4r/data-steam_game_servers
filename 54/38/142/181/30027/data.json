@@ -1,19 +1,19 @@
 {
 	"addr": "54.38.142.181:30027",
 	"gameport": 30027,
-	"steamid": "90200754360507423",
+	"steamid": "90200777268513823",
 	"name": "[PL] ArenaSkilla.pl #HIDE AND SEEK# MODELE SKINY KOSY",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "seek_town_minecraft",
+	"map": "seek_summervillage_rp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
+	"gametype": "empty,HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
 }
