@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 1,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,casual,csgo,ggbattle,ggbattlecom,gr,greece,greek,hellenic"
+	"gametype": "casual,csgo,ggbattle,ggbattlecom,gr,greece,greek,hellenic,secur"
 }

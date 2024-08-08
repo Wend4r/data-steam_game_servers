@@ -1,7 +1,7 @@
 {
 	"addr": "141.145.209.107:27015",
 	"gameport": 27015,
-	"steamid": "90200761824518161",
+	"steamid": "85568392932056183",
 	"name": "\"[EU]\" elusive hvh",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
-	"bots": 2,
-	"map": "de_dust2",
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
