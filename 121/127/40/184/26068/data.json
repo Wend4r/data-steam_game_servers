@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.40.184:26068",
 	"gameport": 26068,
-	"steamid": "90200622170781698",
+	"steamid": "90200755171251202",
 	"name": "cupcake",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
