@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
 	"bots": 0,
-	"map": "cs_mansion_pve",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf"
+	"gametype": "!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm"
 }

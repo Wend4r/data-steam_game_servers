@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,castle,clarity,desta,kaworu,kumori,kz,movement,vnl,insecure"
+	"gametype": "castle,clarity,desta,kaworu,kumori,kz,movement,vnl,insecure"
 }
