@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
 	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1v1 arenas,CZ/SK,arena,defuse,drop,fast,free,official"
+	"gametype": "1v1,1v1 arenas,CZ/SK,arena,defuse,drop,fast,free,official,skill"
 }
