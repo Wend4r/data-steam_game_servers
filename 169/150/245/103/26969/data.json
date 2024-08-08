@@ -1,8 +1,9 @@
 {
 	"addr": "169.150.245.103:26969",
 	"gameport": 26969,
-	"steamid": "90200767755328523",
-	"name": "YUME powered by PRACC.COM",
+	"specport": 26970,
+	"steamid": "90200767757873163",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

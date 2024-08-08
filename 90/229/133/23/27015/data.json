@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 32,
-	"bots": 3,
-	"map": "monarch",
+	"bots": 9,
+	"map": "de_castle_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }
