@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26041",
 	"gameport": 26041,
 	"specport": 26042,
-	"steamid": "90200730111437840",
+	"steamid": "90200758611684368",
 	"name": "SilverCast",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

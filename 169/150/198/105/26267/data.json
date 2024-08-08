@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26267",
 	"gameport": 26267,
-	"steamid": "90200730171923465",
+	"steamid": "90200758154523657",
 	"name": "Red Canids powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

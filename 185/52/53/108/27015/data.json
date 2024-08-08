@@ -1,7 +1,7 @@
 {
 	"addr": "185.52.53.108:27015",
 	"gameport": 27015,
-	"steamid": "90200731756334096",
+	"steamid": "90200758611590160",
 	"name": "Epidemic \"CS2inspects.com\"",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

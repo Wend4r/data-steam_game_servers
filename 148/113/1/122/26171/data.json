@@ -2,7 +2,7 @@
 	"addr": "148.113.1.122:26171",
 	"gameport": 26171,
 	"specport": 26172,
-	"steamid": "90200757208946711",
+	"steamid": "90200759086867479",
 	"name": "[v2] Showdown-PPlfL",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
