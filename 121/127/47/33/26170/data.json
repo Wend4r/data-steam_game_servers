@@ -2,7 +2,7 @@
 	"addr": "121.127.47.33:26170",
 	"gameport": 26170,
 	"steamid": "85568392923980466",
-	"name": "XPLAY.GG • CS2 SURF #45 • [AU] ",
+	"name": "CS2 Surf#45 AU",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_mesa_revo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
