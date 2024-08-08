@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 1,
 	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!glove,!knife,!res,!ws,public,паблик,secure"
+	"gametype": "!glove,!knife,!res,!ws,public,паблик,secure"
 }
