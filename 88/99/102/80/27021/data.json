@@ -9,12 +9,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "ar_baggage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Germany,PROTON,de,secure"
+	"gametype": "Germany,PROTON,de,secure"
 }
