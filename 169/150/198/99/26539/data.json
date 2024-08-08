@@ -2,7 +2,7 @@
 	"addr": "169.150.198.99:26539",
 	"gameport": 26539,
 	"specport": 26540,
-	"steamid": "90200765012870147",
+	"steamid": "90200765498882051",
 	"name": "lr2 agency powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

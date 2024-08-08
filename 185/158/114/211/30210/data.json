@@ -1,19 +1,19 @@
 {
 	"addr": "185.158.114.211:30210",
 	"gameport": 30210,
-	"steamid": "85568392931823123",
-	"name": "SPACY[СКИНЫ][APW LEGO][VIP][КОНКУРСЫ]",
+	"steamid": "85568392932056307",
+	"name": "|CS2| LEERHUB Public #1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 30,
+	"players": 1,
+	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "insecure"
 }

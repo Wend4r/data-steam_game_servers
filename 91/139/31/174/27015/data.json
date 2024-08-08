@@ -1,7 +1,7 @@
 {
 	"addr": "91.139.31.174:27015",
 	"gameport": 27015,
-	"steamid": "90200762594847769",
+	"steamid": "90200765484115993",
 	"name": "Sumcast",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

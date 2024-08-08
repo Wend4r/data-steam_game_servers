@@ -1,19 +1,19 @@
 {
 	"addr": "124.131.172.209:27015",
 	"gameport": 27015,
-	"steamid": "85568392930202903",
-	"name": "囝囝的私人服务器",
+	"steamid": "90200765528706063",
+	"name": "Counter-Strike: Global Offensive",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 24,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "mg_nz_nachtderuntoten_cource_v5",
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
