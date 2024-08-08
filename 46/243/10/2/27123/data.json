@@ -5,15 +5,15 @@
 	"name": " [CS2]**Ставропольский**|ONLY AWP|",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "awp_india_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavropol,cla"
+	"gametype": "empty,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavrop"
 }

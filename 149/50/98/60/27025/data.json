@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "mg_Minecraft_Otherworld",
+	"map": "mg_lego_course_2_csgo_v2_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ncs_shop,bhop,bp,knife,mg,ru,shop,ua,ws,secure"
+	"gametype": "empty,ncs_shop,bhop,bp,knife,mg,ru,shop,ua,ws,secure"
 }
