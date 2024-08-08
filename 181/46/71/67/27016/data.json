@@ -1,19 +1,19 @@
 {
 	"addr": "181.46.71.67:27016",
 	"gameport": 27016,
-	"steamid": "90200760332213264",
+	"steamid": "90200760334732304",
 	"name": "Tortuga Maritima KZT By Garryshost",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "kz_gc_jumpstats_v3",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "GarrysHost,KZTimer,KZTimer 1.106,Tickrate 128,gravity,kz,kzt,insecure"
+	"gametype": "empty,GarrysHost,gravity,kz,kzt,insecure"
 }

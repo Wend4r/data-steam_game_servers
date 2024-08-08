@@ -1,8 +1,8 @@
 {
 	"addr": "212.102.62.209:26577",
 	"gameport": 26577,
-	"steamid": "90200760311805980",
-	"name": "DrainBead powered by PRACC.COM",
+	"steamid": "90200760313526300",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_fire",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "csgo,himeneko,neko,god,kod,practice,aug,run,bot,hime,tg"
+	"gametype": "csgo,himeneko,neko,god,kod,practice,aug,hime,bot,run,tg"
 }
