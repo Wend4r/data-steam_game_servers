@@ -1,7 +1,7 @@
 {
 	"addr": "144.76.84.143:10020",
 	"gameport": 10020,
-	"steamid": "90200776325471241",
+	"steamid": "90200776493269001",
 	"name": "POLSKIE GRANIE - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 4,
 	"bots": 0,
 	"map": "de_nuke",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
