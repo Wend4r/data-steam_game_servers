@@ -1,7 +1,6 @@
 {
 	"addr": "80.136.209.170:27021",
 	"gameport": 27021,
-	"specport": 27020,
 	"steamid": "85568392932025193",
 	"name": "CS2 Server by ecliPze",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 15,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
