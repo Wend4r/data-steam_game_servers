@@ -1,19 +1,19 @@
 {
 	"addr": "138.199.12.138:26514",
 	"gameport": 26514,
-	"steamid": "90200587168566296",
+	"steamid": "90200754133786648",
 	"name": "CS2 WORLD CHAMPIONSHIPS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

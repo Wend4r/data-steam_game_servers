@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,barobax,casual,iran,public,secure"
+	"gametype": "empty,barobax,casual,iran,public,insecure"
 }
