@@ -1,7 +1,7 @@
 {
 	"addr": "149.255.37.82:50823",
 	"gameport": 50823,
-	"steamid": "90200734883279880",
+	"steamid": "90200755828055048",
 	"name": "testServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 8,
-	"map": "de_sakura",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

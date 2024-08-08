@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lot,lotgaming,insecure"
+	"gametype": "empty,lot,lotgaming,secure"
 }

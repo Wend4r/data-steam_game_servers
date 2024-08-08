@@ -1,7 +1,7 @@
 {
 	"addr": "84.112.8.190:27015",
 	"gameport": 27015,
-	"steamid": "90200729277215767",
+	"steamid": "90200755847417879",
 	"name": "Popeyes Public Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "aim_map_s2r",
 	"secure": true,
 	"dedicated": true,
