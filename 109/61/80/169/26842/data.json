@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26842",
 	"gameport": 26842,
-	"steamid": "90200761795310620",
+	"steamid": "90200764087880732",
 	"name": "BNE RETAKE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

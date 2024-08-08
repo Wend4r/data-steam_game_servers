@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 5,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
