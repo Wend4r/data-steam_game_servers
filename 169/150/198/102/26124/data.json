@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26124",
 	"gameport": 26124,
-	"steamid": "90200771042547718",
-	"name": "Bounty Hunters CS2 powered by PRACC.COM",
+	"steamid": "90200772271766534",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

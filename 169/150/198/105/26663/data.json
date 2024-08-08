@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.105:26663",
 	"gameport": 26663,
-	"steamid": "90200770799135753",
-	"name": "MYTH e-Sports powered by PRACC.COM",
+	"steamid": "90200772347693065",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

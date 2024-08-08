@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26815",
 	"gameport": 26815,
-	"steamid": "90200771823523854",
+	"steamid": "90200772251031566",
 	"name": "ADEPTS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 11,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,

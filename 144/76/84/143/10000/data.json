@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10000",
 	"gameport": 10000,
-	"steamid": "90200771294555145",
-	"name": "pero mas male - free @ fshost.me",
+	"steamid": "90200772347365385",
+	"name": "DE28 2,053,255 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 12,
+	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mills",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
