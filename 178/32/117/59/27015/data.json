@@ -1,8 +1,7 @@
 {
 	"addr": "178.32.117.59:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200728625738755",
+	"steamid": "90200755073542147",
 	"name": "Shocked Arena Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 14,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Shocked Arena Gaming,secure"
+	"gametype": "empty,Shocked Arena Gaming,secure"
 }

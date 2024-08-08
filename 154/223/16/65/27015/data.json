@@ -1,19 +1,19 @@
 {
 	"addr": "154.223.16.65:27015",
 	"gameport": 27015,
-	"steamid": "90200754269202449",
+	"steamid": "90200755038145553",
 	"name": "Competitivo 5V5 [COL] coderekt.xyz",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
