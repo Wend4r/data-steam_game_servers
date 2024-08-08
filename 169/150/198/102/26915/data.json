@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.198.102:26915",
 	"gameport": 26915,
-	"steamid": "90200752958281734",
-	"name": "x7 Team powered by PRACC.COM",
+	"specport": 26916,
+	"steamid": "90200752962861062",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
