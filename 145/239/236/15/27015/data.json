@@ -1,19 +1,19 @@
 {
 	"addr": "145.239.236.15:27015",
 	"gameport": 27015,
-	"steamid": "90200753672003608",
+	"steamid": "90200776736890904",
 	"name": "SERWER Chickenen",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_westwood",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

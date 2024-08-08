@@ -1,7 +1,7 @@
 {
 	"addr": "46.205.199.185:27015",
 	"gameport": 27015,
-	"steamid": "90200776323849225",
+	"steamid": "90200776649965577",
 	"name": "CS:GO Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 64,
 	"bots": 0,
-	"map": "infernohideandseek",
-	"secure": false,
+	"map": "seek_town_bs",
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "secure"
 }

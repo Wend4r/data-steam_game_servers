@@ -1,8 +1,7 @@
 {
 	"addr": "188.165.19.26:27470",
 	"gameport": 27470,
-	"specport": 27020,
-	"steamid": "90200382288139288",
+	"steamid": "90200776564469784",
 	"name": "mixownia@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "aim_map",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "srcds.pro 4.0 stable secure unddosable,secure"
+	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,secure"
 }
