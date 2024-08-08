@@ -8,12 +8,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,fu"
+	"gametype": "!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,full,fun"
 }

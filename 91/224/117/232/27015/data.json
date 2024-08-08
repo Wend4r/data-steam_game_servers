@@ -1,12 +1,11 @@
 {
 	"addr": "91.224.117.232:27015",
 	"gameport": 27015,
-	"specport": 27016,
 	"steamid": "85568392925744724",
 	"name": "★ [FFA :: CS2 ONLY MIRAGE] ★ CSKatowice.com",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

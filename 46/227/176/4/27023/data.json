@@ -8,12 +8,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 3,
 	"max_players": 14,
 	"bots": 0,
-	"map": "surf_nyx",
+	"map": "surf_beginner",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,drops,sk,surf,svk,secure"
+	"gametype": "csportal,cz,drops,sk,surf,svk,secure"
 }
