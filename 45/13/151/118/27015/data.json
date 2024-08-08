@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 6,
 	"max_players": 13,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plant,lann"
+	"gametype": "empty,!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plan"
 }
