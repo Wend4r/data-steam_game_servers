@@ -1,6 +1,7 @@
 {
 	"addr": "145.239.239.225:27180",
 	"gameport": 27180,
+	"specport": 25148,
 	"steamid": "85568392931625721",
 	"name": "░▒▓█ Katujemy.eu ★ [5vs5] [ONLY MIRAGE] ★ [SKINY] [",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 5,
 	"max_players": 11,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!rank,!ws,128,128tick,128tr,4maps,5v5,5vs5"
+	"gametype": "!gloves,!knife,!rank,!ws,128,128tick,128tr,4maps,5v5,5vs5,ONLY "
 }

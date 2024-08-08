@@ -2,7 +2,7 @@
 	"addr": "185.246.208.194:26721",
 	"gameport": 26721,
 	"specport": 26722,
-	"steamid": "90200771188497422",
+	"steamid": "90200771379226638",
 	"name": "challengermode.com - Register to join",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,secure"
+	"gametype": "empty,challengermode,cm,insecure"
 }
