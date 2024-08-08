@@ -5,15 +5,15 @@
 	"name": "[PT] NoWay Gamer's 🐉 Retakes #1 [Only Mirage]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 11,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mirage,noway,noway gamers,retakes,insecure"
+	"gametype": "empty,mirage,noway,noway gamers,retakes,secure"
 }

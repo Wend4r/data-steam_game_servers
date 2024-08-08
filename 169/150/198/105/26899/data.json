@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.198.105:26899",
 	"gameport": 26899,
-	"specport": 26900,
-	"steamid": "90200775378489353",
+	"steamid": "90200776991184905",
 	"name": "heibai",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

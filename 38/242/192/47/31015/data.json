@@ -1,7 +1,7 @@
 {
 	"addr": "38.242.192.47:31015",
 	"gameport": 31015,
-	"steamid": "90200749100602394",
+	"steamid": "90200776941680666",
 	"name": "TheEggserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

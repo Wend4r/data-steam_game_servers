@@ -5,15 +5,15 @@
 	"name": "[CS2] - ROMANIA.LALEAGANE.RO | CASE OPENING | VIP FREE PERMANEN",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 0,
 	"max_players": 48,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
