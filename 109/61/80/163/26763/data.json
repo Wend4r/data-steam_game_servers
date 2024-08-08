@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26763",
 	"gameport": 26763,
-	"steamid": "90200735322934294",
+	"steamid": "90200762590745622",
 	"name": "floppa prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26836",
 	"gameport": 26836,
-	"steamid": "90200735343498257",
+	"steamid": "90200762601978897",
 	"name": "Erick's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

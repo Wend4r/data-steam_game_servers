@@ -2,7 +2,7 @@
 	"addr": "121.127.45.132:26273",
 	"gameport": 26273,
 	"specport": 26274,
-	"steamid": "90200735372906505",
+	"steamid": "90200762651218953",
 	"name": "GyllingesportCS2Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

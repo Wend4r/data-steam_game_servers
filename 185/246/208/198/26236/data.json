@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.198:26236",
 	"gameport": 26236,
-	"steamid": "90200735363905554",
+	"steamid": "90200762706860050",
 	"name": "666",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "bhop_emevaelx3",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

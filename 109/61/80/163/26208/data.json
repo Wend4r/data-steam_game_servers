@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26208",
 	"gameport": 26208,
-	"steamid": "90200735323872278",
+	"steamid": "90200762591988758",
 	"name": "Bloody Claw Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

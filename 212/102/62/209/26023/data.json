@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26023",
 	"gameport": 26023,
-	"steamid": "90200735357568028",
+	"steamid": "90200762556619804",
 	"name": "Tisdags gibb",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 2,
-	"map": "fy_iceworld",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26372",
 	"gameport": 26372,
-	"steamid": "90200735388854285",
+	"steamid": "90200762606914573",
 	"name": "arnetakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
