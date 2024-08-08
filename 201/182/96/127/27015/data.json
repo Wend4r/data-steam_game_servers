@@ -1,7 +1,7 @@
 {
 	"addr": "201.182.96.127:27015",
 	"gameport": 27015,
-	"steamid": "90200748895092736",
+	"steamid": "90200755738318848",
 	"name": "Guaxi",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
