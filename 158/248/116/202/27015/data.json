@@ -1,7 +1,7 @@
 {
 	"addr": "158.248.116.202:27015",
 	"gameport": 27015,
-	"steamid": "90200746312792086",
+	"steamid": "90200765807781910",
 	"name": "EDAY Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
