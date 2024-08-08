@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26987",
 	"gameport": 26987,
-	"steamid": "90200749133236238",
+	"steamid": "90200755395177486",
 	"name": "NIP Svea powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
