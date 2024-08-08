@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26062",
 	"gameport": 26062,
-	"steamid": "90200733754492957",
+	"steamid": "90200760975507485",
 	"name": "GIE MAIN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

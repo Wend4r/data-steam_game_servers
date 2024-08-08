@@ -1,7 +1,7 @@
 {
 	"addr": "141.226.241.30:2002",
 	"gameport": 2002,
-	"steamid": "90200747962205211",
+	"steamid": "90200760949500955",
 	"name": "  ▲▼ ➜ Retakes 2 | Next-il | ★ ISRAEL - ▼▲",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble_csgo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws,secur"
+	"gametype": "empty,gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws"
 }

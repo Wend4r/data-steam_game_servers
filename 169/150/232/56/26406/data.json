@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26406",
 	"gameport": 26406,
-	"steamid": "90200733719595024",
+	"steamid": "90200761029334032",
 	"name": "OVOXO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
