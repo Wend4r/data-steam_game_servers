@@ -1,6 +1,7 @@
 {
 	"addr": "162.55.98.163:27040",
 	"gameport": 27040,
+	"specport": 37040,
 	"steamid": "90200777184630792",
 	"name": "FruchtLabor - Pug 1",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 8,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_inferno_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

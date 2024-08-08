@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 1,
 	"map": "am_fg_grass2_fl",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1on1,1v1,DEATHMATCH,areny,elo,fragujemy,pl,poland,radio,rank,scout,tr128,secure"
+	"gametype": "empty,1on1,1v1,DEATHMATCH,areny,elo,fragujemy,pl,poland,radio,rank,scout,tr128,secure"
 }

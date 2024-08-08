@@ -2,7 +2,7 @@
 	"addr": "78.107.114.43:27015",
 	"gameport": 27015,
 	"steamid": "90200777530451976",
-	"name": "shipREKT Prefire practice",
+	"name": "shipREKT Competitive",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.4",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "cs_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,practice,prefire,secure"
+	"gametype": "128,AntiCheat,secure"
 }
