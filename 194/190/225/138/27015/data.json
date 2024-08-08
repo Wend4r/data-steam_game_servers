@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 64,
-	"bots": 4,
-	"map": "cs_mansion",
+	"bots": 7,
+	"map": "de_lake",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

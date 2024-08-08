@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "he_glass_bb",
+	"map": "glass_war",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
+	"gametype": "!lvl,!mapvote,!rank,!rtv,hun,magyar,negateam,secure"
 }

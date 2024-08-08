@@ -2,18 +2,18 @@
 	"addr": "194.147.90.206:27040",
 	"gameport": 27040,
 	"steamid": "85568392931721046",
-	"name": "Strike League | team_hustler vs team_BEBRA ┌∩┐(◣_◢)�",
+	"name": "Strike League | team_fanco vs team_walking",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 6,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

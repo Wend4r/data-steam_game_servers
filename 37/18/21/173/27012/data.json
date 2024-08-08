@@ -1,0 +1,20 @@
+{
+	"addr": "37.18.21.173:27012",
+	"gameport": 27012,
+	"specport": 47012,
+	"steamid": "85568392931906736",
+	"name": "[РС] УЮТНЫЙ AWP [!SKINS, !VIP, !LVL]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 25,
+	"bots": 1,
+	"map": "awp_lego_2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!gloves,!knife,!ws,awp,awp_lego,cybershoke,fps,fun,public,rank,"
+}
