@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 15,
-	"bots": 1,
-	"map": "cs_italy",
+	"bots": 2,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,hvh,insecure"
+	"gametype": "empty,dathost,dathost.net,hvh,insecure"
 }
