@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!lvl,!shop,!top10,!vip,Stikers,free-vip,no prime,non prime!ws,rank,insecure"
+	"gametype": "empty,!gloves,!knife,!lvl,!shop,!top10,!vip,Stikers,free-vip,no prime,non prime!ws,rank,insecure"
 }
