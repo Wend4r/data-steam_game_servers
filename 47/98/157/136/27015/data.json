@@ -11,7 +11,7 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 10,
+	"bots": 1,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
