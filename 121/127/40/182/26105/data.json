@@ -2,7 +2,7 @@
 	"addr": "121.127.40.182:26105",
 	"gameport": 26105,
 	"specport": 26106,
-	"steamid": "90200727170253824",
+	"steamid": "90200752936588288",
 	"name": "Turkish Server Public",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "aim_redline_carton",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
