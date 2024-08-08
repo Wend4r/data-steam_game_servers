@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MIRAGE,gosetti.pl:43258,secure"
+	"gametype": "MIRAGE,gosetti.pl:43258,secure"
 }
