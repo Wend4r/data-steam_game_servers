@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 26,
 	"bots": 0,
-	"map": "kz_chloroplast",
+	"map": "kz_cliffhanger_go_global",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,secure"
+	"gametype": "Climb,HOC,HouseOfClimb.com,KZ,secure"
 }
