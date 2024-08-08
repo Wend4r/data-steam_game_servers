@@ -1,13 +1,13 @@
 {
 	"addr": "91.224.117.19:27175",
 	"gameport": 27175,
-	"steamid": "90200741839676433",
-	"name": "Twoj serwer @ 1shot1kill.pl",
+	"steamid": "85568392932053683",
+	"name": "jebac cs2@ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.7.9",
 	"product": "csgo",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,srcds.pro 4.0 stable secure unddosable,secure"
 }
