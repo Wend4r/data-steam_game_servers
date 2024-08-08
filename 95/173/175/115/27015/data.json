@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 32,
 	"bots": 0,
-	"map": "fy_iceworld",
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

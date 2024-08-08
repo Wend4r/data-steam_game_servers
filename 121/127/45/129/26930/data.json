@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.129:26930",
+	"gameport": 26930,
+	"steamid": "90200773877220358",
+	"name": "CSLOBBY.GG",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

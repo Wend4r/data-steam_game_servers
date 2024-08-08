@@ -1,7 +1,7 @@
 {
 	"addr": "100.64.192.39:27256",
 	"gameport": 27256,
-	"steamid": "90200773808082957",
+	"steamid": "90200773971617805",
 	"name": "Valve Counter-Strike 2 eu_west Server (srcds129-fra2.271.242)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
