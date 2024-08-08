@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.245.106:26889",
 	"gameport": 26889,
-	"specport": 26890,
 	"steamid": "85568392931929724",
 	"name": "Cardiff Pirates",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
