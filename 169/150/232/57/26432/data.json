@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26432",
 	"gameport": 26432,
-	"steamid": "90200777485597713",
+	"steamid": "90200777682424849",
 	"name": "TACTICS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 36,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "aim_nuke_hall",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,insecure"
+	"gametype": "AstraMania,secure"
 }

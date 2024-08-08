@@ -5,15 +5,15 @@
 	"name": "BGAMER-CS2.RU - PUBLIC 2 | !KNIFE !SKINS",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,secure"
+	"gametype": "empty,!knife,!ws,cs2,de_dust2,de_mirage,dust2,knife,mirage,ws,s"
 }
