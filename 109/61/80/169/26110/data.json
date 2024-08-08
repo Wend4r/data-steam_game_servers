@@ -1,19 +1,19 @@
 {
 	"addr": "109.61.80.169:26110",
 	"gameport": 26110,
-	"steamid": "90200773847152668",
+	"steamid": "90200777038616604",
 	"name": "Baitíme Sa",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
