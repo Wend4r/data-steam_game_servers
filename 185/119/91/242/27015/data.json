@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 28,
-	"bots": 1,
-	"map": "am_water_j_spin",
+	"bots": 2,
+	"map": "am_must2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brutalci,ws,secure"
+	"gametype": "empty,br,brutalci,ws,secure"
 }
