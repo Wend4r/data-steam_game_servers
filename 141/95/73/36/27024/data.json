@@ -3,7 +3,7 @@
 	"gameport": 27024,
 	"specport": 27020,
 	"steamid": "85568392924098543",
-	"name": "Counter-Strike 2",
+	"name": "[HU] Taylor'sense | Multi1v1 | Ládarendszer",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 29,
 	"bots": 1,
-	"map": "am_onetapz_alpha04",
+	"map": "am_winterbound",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

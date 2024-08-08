@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.201:26456",
 	"gameport": 26456,
+	"specport": 26457,
 	"steamid": "90200771038922773",
 	"name": "challengermode.com - Register to join",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,insecure"
+	"gametype": "empty,challengermode,cm,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "121.127.45.131:26772",
 	"gameport": 26772,
-	"specport": 26773,
 	"steamid": "85568392931156681",
 	"name": "avalanche.gg",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
