@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.103:26326",
 	"gameport": 26326,
-	"steamid": "90200756701679627",
+	"steamid": "90200757155104779",
 	"name": "My Counterstrike Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_nipperhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
