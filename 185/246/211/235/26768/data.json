@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 12,
-	"bots": 9,
-	"map": "de_dust2_night",
+	"bots": 10,
+	"map": "de_inferno_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

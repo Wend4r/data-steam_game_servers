@@ -1,7 +1,7 @@
 {
 	"addr": "93.191.11.211:27218",
 	"gameport": 27218,
-	"steamid": "90200433906032669",
+	"steamid": "90200777538017309",
 	"name": "p1vo practice m0de",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
