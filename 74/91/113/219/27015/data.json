@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,autoho"
+	"gametype": "empty,!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,"
 }
