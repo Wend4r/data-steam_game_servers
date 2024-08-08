@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.196.41:26709",
 	"gameport": 26709,
-	"steamid": "90200753197350919",
+	"steamid": "90200753197715463",
 	"name": "Khalti_Esports",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
