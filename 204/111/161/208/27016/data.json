@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
-	"bots": 0,
-	"map": "kz_bhop_algetic_v2",
+	"bots": 1,
+	"map": "kz_citadel",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "KZTimer,KZTimer 1.105_3,Tickrate 128,insecure"
 }
