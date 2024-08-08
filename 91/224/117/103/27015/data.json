@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 17,
-	"bots": 1,
-	"map": "am_grass2_1s2k",
+	"bots": 0,
+	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only,dance"
+	"gametype": "empty,!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only"
 }

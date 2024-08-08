@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "awp_india",
+	"map": "aim_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

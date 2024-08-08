@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "aim_afghanistan",
+	"map": "awp_lego_2_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,secure"
+	"gametype": "empty,24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,se"
 }
