@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.169:26584",
 	"gameport": 26584,
+	"specport": 26585,
 	"steamid": "90200775219729436",
 	"name": "[P] PopFlash Scrim - dusseldorf - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_iris",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "popflash,secure"
 }
