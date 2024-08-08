@@ -1,0 +1,19 @@
+{
+	"addr": "185.84.163.98:10389",
+	"gameport": 10389,
+	"steamid": "85568392931590766",
+	"name": "Freezing-Blood CS:2 | DUST #2 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "freezblood,ws,gloves,freez-blood,freezingblood"
+}

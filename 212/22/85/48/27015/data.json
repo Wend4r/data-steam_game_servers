@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "mg_01minecraftminigame",
+	"map": "mg_acrophobia_run_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,mg,min"
+	"gametype": "empty,128,128tick,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,"
 }

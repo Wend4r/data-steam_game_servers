@@ -1,0 +1,19 @@
+{
+	"addr": "5.189.201.18:48857",
+	"gameport": 48857,
+	"steamid": "85568392931624189",
+	"name": "Freez-Blood CS:2 | SANDSTONE #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 21,
+	"max_players": 26,
+	"bots": 0,
+	"map": "sandstone_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.198.105:26782",
 	"gameport": 26782,
-	"specport": 26783,
-	"steamid": "90200730172258313",
+	"steamid": "90200754489057289",
 	"name": "PDC Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
