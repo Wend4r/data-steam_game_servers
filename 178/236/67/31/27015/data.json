@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_checkmate",
 	"secure": true,
 	"dedicated": true,
