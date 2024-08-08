@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cs2,dm,ffa,kr,secure"
+	"gametype": "empty,cs2,dm,ffa,kr,secure"
 }
