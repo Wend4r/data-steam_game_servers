@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26881",
 	"gameport": 26881,
-	"steamid": "90200770757627932",
+	"steamid": "90200774542898204",
 	"name": "MaffinsCS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
