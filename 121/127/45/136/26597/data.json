@@ -1,20 +1,19 @@
 {
 	"addr": "121.127.45.136:26597",
 	"gameport": 26597,
-	"specport": 26598,
-	"steamid": "85568392932049271",
-	"name": "[7320] de_nuke: Næstved Esport - Academy vs. pz_test_cs",
+	"steamid": "85568392931325060",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 255,
-	"players": 1,
+	"region": -1,
+	"players": 0,
 	"max_players": 11,
-	"bots": 1,
-	"map": "de_nuke",
-	"secure": true,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "82.208.17.109:27562",
 	"gameport": 27562,
+	"specport": 26562,
 	"steamid": "85568392931650566",
 	"name": "PLAYzone #10 by FakaHeda.eu",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 4,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PLAYzone,secure"
+	"gametype": "PLAYzone,secure"
 }
