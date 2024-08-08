@@ -11,10 +11,9 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 20,
-	"bots": 1,
-	"map": "awp_lego_2019_texas4pt",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tickrate,ANTICAMP,AWP,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,NODEAGLE,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,mm,"
+	"gametype": "empty,128tickrate,ANTICAMP,AWP,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,NODEAGLE,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,V"
 }
