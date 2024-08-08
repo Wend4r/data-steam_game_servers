@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26643",
 	"gameport": 26643,
+	"specport": 26644,
 	"steamid": "90200762899201038",
 	"name": "bezpressa(ESEA MAIN) powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
