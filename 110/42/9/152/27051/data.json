@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
+	"gametype": "ZED,escape,fastdl,ze,zm,zombie,secure"
 }
