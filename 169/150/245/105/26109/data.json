@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.245.105:26109",
 	"gameport": 26109,
-	"specport": 26110,
-	"steamid": "90200763521568781",
-	"name": "BudyńToTwardaZupa powered by PRACC.COM",
+	"steamid": "90200764867403789",
+	"name": "Verdant powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_nuke",
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

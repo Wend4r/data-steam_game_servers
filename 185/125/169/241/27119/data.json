@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 128,
-	"bots": 0,
-	"map": "surf_zoomboys_csgo",
+	"bots": 4,
+	"map": "surf_refraxis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,increased_maxplayers,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,se"
+	"gametype": "1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,secure"
 }
