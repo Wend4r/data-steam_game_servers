@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 62,
 	"bots": 0,
 	"map": "mg_nimafa_2_final_fix_yea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!shop,!vip,anime,bhop,mg,minigame,rank,secure"
+	"gametype": "!shop,!vip,anime,bhop,mg,minigame,rank,secure"
 }

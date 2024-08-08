@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 20,
 	"bots": 0,
 	"map": "awp_cannons_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,awp,bhop,boost,bunnyhop,cannon,eldiven,fun,he"
+	"gametype": "OyunTECH,TR,awp,bhop,boost,bunnyhop,cannon,eldiven,fun,hediye,j"
 }
