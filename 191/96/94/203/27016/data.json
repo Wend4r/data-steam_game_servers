@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ks,alltalk,community,knife,only,ro,romania,usp,secure"
+	"gametype": "!gloves,!knife,!ks,alltalk,community,knife,only,ro,romania,usp,secure"
 }
