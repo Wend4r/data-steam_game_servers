@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
 	"bots": 1,
 	"map": "ttt_nipperhouse2_sg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Items,Store,TTT,fys,secure"
+	"gametype": "empty,Items,Store,TTT,fys,secure"
 }

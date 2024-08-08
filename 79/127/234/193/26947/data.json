@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26947",
 	"gameport": 26947,
-	"steamid": "90200775025204237",
+	"steamid": "90200775028782093",
 	"name": "Take Flyte powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
