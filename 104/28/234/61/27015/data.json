@@ -1,0 +1,19 @@
+{
+	"addr": "104.28.234.61:27015",
+	"gameport": 27015,
+	"steamid": "85568392932048051",
+	"name": "teste Deathmatch FFA",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_assembly",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128,AntiCheat,DM,Deathmatch,FFA,secure"
+}

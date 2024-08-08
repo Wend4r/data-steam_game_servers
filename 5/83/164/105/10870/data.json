@@ -1,0 +1,19 @@
+{
+	"addr": "5.83.164.105:10870",
+	"gameport": 10870,
+	"steamid": "85568392932055962",
+	"name": "Nitrado.net Counter Strike: Global Offensive Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "dz_ember",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
