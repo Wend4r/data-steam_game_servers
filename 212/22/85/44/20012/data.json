@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,russian"
+	"gametype": "empty,!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,r"
 }

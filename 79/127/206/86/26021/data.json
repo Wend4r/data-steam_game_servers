@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26021",
 	"gameport": 26021,
-	"steamid": "90200737453111301",
+	"steamid": "90200763703376901",
 	"name": "jake's practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

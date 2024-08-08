@@ -1,7 +1,6 @@
 {
 	"addr": "65.109.91.88:26506",
 	"gameport": 26506,
-	"specport": 26507,
 	"steamid": "85568392926398025",
 	"name": "Elisa Esports CS2 FIN",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
