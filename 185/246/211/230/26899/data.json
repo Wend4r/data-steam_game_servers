@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.230:26899",
 	"gameport": 26899,
-	"steamid": "90200776794671117",
+	"steamid": "90200777328061453",
 	"name": "s l p z | host",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
