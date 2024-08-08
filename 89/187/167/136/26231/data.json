@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.136:26231",
 	"gameport": 26231,
-	"steamid": "90200762646952984",
+	"steamid": "90200776738958360",
 	"name": "ferretosaurus' maptest server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_parish",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

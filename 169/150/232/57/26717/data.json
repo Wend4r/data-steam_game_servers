@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.232.57:26717",
 	"gameport": 26717,
-	"steamid": "90200762601143313",
+	"steamid": "90200776828881937",
 	"name": "Toledo Practice",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

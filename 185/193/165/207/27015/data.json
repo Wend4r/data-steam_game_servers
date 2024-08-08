@@ -1,19 +1,19 @@
 {
 	"addr": "185.193.165.207:27015",
 	"gameport": 27015,
-	"steamid": "90200755204811806",
+	"steamid": "90200776858213406",
 	"name": "[ PROOYUN.NET ]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

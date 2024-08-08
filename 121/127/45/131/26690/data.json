@@ -2,19 +2,19 @@
 	"addr": "121.127.45.131:26690",
 	"gameport": 26690,
 	"specport": 26691,
-	"steamid": "90200761721203720",
+	"steamid": "90200776823557128",
 	"name": "NoKevlarRequired | Scrim & Practice Server | Subtick | Stockhol",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -5,15 +5,15 @@
 	"name": "🟢~|Zatchi|-DZ FFA 24/7 🔔🎖️LowPing 📶 !skins 🚀",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 15,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
