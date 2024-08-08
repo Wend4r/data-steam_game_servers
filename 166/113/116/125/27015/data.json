@@ -1,8 +1,8 @@
 {
 	"addr": "166.113.116.125:27015",
 	"gameport": 27015,
-	"steamid": "90200725057769482",
-	"name": "MasterPing's Casual Server - Active Maps",
+	"steamid": "90200752482267146",
+	"name": "MasterPing's Casual Server - Hostage Maps",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

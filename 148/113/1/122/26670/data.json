@@ -2,7 +2,7 @@
 	"addr": "148.113.1.122:26670",
 	"gameport": 26670,
 	"specport": 26671,
-	"steamid": "90200754095162391",
+	"steamid": "90200755518374935",
 	"name": "Showdown FFADM IN #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,india,relative,showdown,insecure"
+	"gametype": "empty,india,relative,showdown,secure"
 }
