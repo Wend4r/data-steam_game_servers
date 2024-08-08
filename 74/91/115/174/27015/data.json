@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 1,
 	"map": "hns_kitty_docg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,5v5,HNS,HNS,HidenSeek,autoho,chasemod,de_oldnuke,dplexstah,edan,edan,edan.gg,edans,knife,nuke,oldnuke,ws,x-la"
+	"gametype": "128,128tick,5v5,HNS,HNS,HidenSeek,autoho,chasemod,de_oldnuke,dplexstah,edan,edan,edan.gg,edans,knife,nuke,oldnuke,ws,x-law,xlaw"
 }
