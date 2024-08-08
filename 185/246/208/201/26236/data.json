@@ -2,7 +2,7 @@
 	"addr": "185.246.208.201:26236",
 	"gameport": 26236,
 	"steamid": "85568392924046159",
-	"name": "CS2 Surf#44 PL",
+	"name": "XPLAY.GG • CS2 SURF #44 • [PL] ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "surf_beginner",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
