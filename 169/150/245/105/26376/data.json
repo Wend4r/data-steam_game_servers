@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.105:26376",
 	"gameport": 26376,
-	"steamid": "90200741103697933",
-	"name": "Leetify CS2 Retakes by Düfus Paelli",
+	"steamid": "90200766048714765",
+	"name": "TÖR powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
+	"players": 9,
+	"max_players": 13,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

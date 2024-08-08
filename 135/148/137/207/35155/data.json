@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 1,
-	"map": "surf_island",
+	"map": "surf_gradient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_island,secu"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_gradient,se"
 }
