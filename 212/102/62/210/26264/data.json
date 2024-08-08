@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.210:26264",
 	"gameport": 26264,
+	"specport": 26265,
 	"steamid": "90200762682248221",
 	"name": "Ligan | Wingman",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
