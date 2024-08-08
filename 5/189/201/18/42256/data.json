@@ -1,0 +1,19 @@
+{
+	"addr": "5.189.201.18:42256",
+	"gameport": 42256,
+	"steamid": "85568392931582684",
+	"name": "Freez-Blood CS:2 | AIM #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 20,
+	"bots": 0,
+	"map": "aim_deagle_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
