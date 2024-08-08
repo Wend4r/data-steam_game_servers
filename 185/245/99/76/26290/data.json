@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26290",
 	"gameport": 26290,
-	"steamid": "90200775011333134",
-	"name": "Soul's Heart powered by PRACC.COM",
+	"steamid": "90200776416902158",
+	"name": "BWC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 12,
-	"bots": 2,
-	"map": "de_mirage",
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
