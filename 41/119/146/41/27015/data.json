@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 4,
+	"bots": 0,
 	"map": "zm_dust2_hb",
 	"secure": true,
 	"dedicated": true,
