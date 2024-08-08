@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mirage,noway,noway gamers,retakes,secure"
+	"gametype": "empty,mirage,noway,noway gamers,retakes,insecure"
 }
