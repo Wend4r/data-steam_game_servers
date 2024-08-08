@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
-	"bots": 1,
-	"map": "awp_india_winter",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,csgo,secure"
+	"gametype": "empty,awp,csgo,secure"
 }

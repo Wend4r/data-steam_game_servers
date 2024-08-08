@@ -1,19 +1,19 @@
 {
 	"addr": "62.182.159.105:27115",
 	"gameport": 27115,
-	"steamid": "90200767572413452",
-	"name": "CS 2 Server hosted by Nova-Host.ru",
+	"steamid": "85568392932056574",
+	"name": "[ONLY MIRAGE] SAINTPROJECT 2 [!VIPTEST !WS !REPORT]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 32,
+	"max_players": 20,
 	"bots": 2,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
