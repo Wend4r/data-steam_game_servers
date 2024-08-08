@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 25,
-	"bots": 1,
-	"map": "surf_summit",
+	"bots": 0,
+	"map": "surf_beyond",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mills",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,absynthium,awp,awp lego2,awp_lego2,awplego2,beta,cs2,deag"
+	"gametype": "absynthium,awp,awp lego2,awp_lego2,awplego2,beta,cs2,deagle,dea"
 }
