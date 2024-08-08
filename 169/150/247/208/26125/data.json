@@ -2,7 +2,7 @@
 	"addr": "169.150.247.208:26125",
 	"gameport": 26125,
 	"specport": 26126,
-	"steamid": "90200744989425684",
+	"steamid": "90200772412071956",
 	"name": "mariuserfurry",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

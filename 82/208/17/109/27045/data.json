@@ -2,7 +2,7 @@
 	"addr": "82.208.17.109:27045",
 	"gameport": 27045,
 	"steamid": "85568392931785647",
-	"name": "test server",
+	"name": "WIP - Games-Town.eu | Surf Combat",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
