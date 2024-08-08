@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 45,
-	"bots": 1,
-	"map": "bhop_dark_memores",
+	"bots": 2,
+	"map": "bhop_blossom",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_dark_mem"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_blossom,"
 }

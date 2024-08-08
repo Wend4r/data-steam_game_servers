@@ -1,7 +1,7 @@
 {
 	"addr": "89.238.11.62:27015",
 	"gameport": 27015,
-	"steamid": "90200772460852254",
+	"steamid": "90200772464239646",
 	"name": "Plugins \"&\" Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

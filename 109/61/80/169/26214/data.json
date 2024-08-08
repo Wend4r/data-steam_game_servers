@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26214",
 	"gameport": 26214,
-	"steamid": "90200745075322908",
+	"steamid": "90200772382996508",
 	"name": "3rsat Retaks**",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

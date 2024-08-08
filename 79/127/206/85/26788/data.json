@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.206.85:26788",
 	"gameport": 26788,
-	"specport": 26789,
 	"steamid": "85568392931812046",
 	"name": "EVIL Defuse [visit cs2.casa]",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "de_train",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

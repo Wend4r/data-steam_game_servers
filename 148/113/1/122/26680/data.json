@@ -2,7 +2,7 @@
 	"addr": "148.113.1.122:26680",
 	"gameport": 26680,
 	"specport": 26681,
-	"steamid": "90200744726073367",
+	"steamid": "90200772716736535",
 	"name": "[v2] Showdown-xvcTN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
