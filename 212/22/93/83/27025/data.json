@@ -2,7 +2,7 @@
 	"addr": "212.22.93.83:27025",
 	"gameport": 27025,
 	"specport": 27032,
-	"steamid": "90200727751286797",
+	"steamid": "90200753716226061",
 	"name": "[CS2] EXTREME SHOT AWP | #1 [ONLY][LEGO2] !ws, !knife, !glove",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128 tick,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europe,fun,"
+	"gametype": "empty,128 tick,1v1,aim,awp,csgo1v1,csgo1vs1,deathmatch,dm,europ"
 }

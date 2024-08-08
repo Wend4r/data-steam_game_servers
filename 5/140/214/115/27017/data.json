@@ -8,12 +8,12 @@
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "admin,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,vip,ws,"
+	"gametype": "empty,admin,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,v"
 }

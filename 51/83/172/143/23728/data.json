@@ -1,7 +1,7 @@
 {
 	"addr": "51.83.172.143:23728",
 	"gameport": 23728,
-	"steamid": "90200746473409551",
+	"steamid": "90200753741437967",
 	"name": "ServerProject.pl | CS 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "aim_map_pro_cs2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
