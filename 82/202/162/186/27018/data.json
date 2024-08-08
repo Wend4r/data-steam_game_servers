@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 7,
-	"map": "cs_mansion_classic",
+	"bots": 6,
+	"map": "cs_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

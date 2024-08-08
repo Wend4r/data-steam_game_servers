@@ -2,18 +2,18 @@
 	"addr": "169.150.222.161:26945",
 	"gameport": 26945,
 	"steamid": "85568392924046432",
-	"name": "CS2 Retake #96 CN",
+	"name": "XPLAY.GG • CS2 RETAKE #96 • [CN]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
