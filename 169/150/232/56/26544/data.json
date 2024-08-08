@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26544",
 	"gameport": 26544,
-	"steamid": "90200735258533904",
+	"steamid": "90200761592392720",
 	"name": "Upsetti on top",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

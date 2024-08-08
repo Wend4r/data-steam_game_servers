@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_skyscraper",
+	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf,serve"
+	"gametype": "empty,awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf"
 }
