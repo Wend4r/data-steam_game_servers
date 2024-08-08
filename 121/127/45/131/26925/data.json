@@ -2,19 +2,19 @@
 	"addr": "121.127.45.131:26925",
 	"gameport": 26925,
 	"specport": 26926,
-	"steamid": "90200773705818120",
-	"name": "Vendettagaming powered by PRACC.COM",
+	"steamid": "90200775390270472",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

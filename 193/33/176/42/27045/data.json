@@ -1,19 +1,19 @@
 {
 	"addr": "193.33.176.42:27045",
 	"gameport": 27045,
-	"steamid": "90200775114711042",
+	"steamid": "90200775351114754",
 	"name": "tegotypu@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
