@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.33:26408",
 	"gameport": 26408,
+	"specport": 26409,
 	"steamid": "90200761697253382",
 	"name": "Fresh Food People powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
