@@ -2,7 +2,7 @@
 	"addr": "188.225.11.9:11863",
 	"gameport": 11863,
 	"steamid": "85568392931554424",
-	"name": "Freezing-Blood CS:2 | MIRAGE #2 |",
+	"name": "Freez-Blood CS:2 | MIRAGE #2 |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
