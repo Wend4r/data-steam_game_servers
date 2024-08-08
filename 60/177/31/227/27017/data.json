@@ -1,0 +1,19 @@
+{
+	"addr": "60.177.31.227:27017",
+	"gameport": 27017,
+	"steamid": "85568392931849341",
+	"name": "AUG满十湛卢 [还差 10]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,!guns,aug,retake,runpro,tg,secure"
+}
