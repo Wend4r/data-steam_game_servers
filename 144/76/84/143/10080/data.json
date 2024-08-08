@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10080",
 	"gameport": 10080,
-	"steamid": "90200765785776137",
-	"name": "salamaleikum - free @ fshost.me",
+	"steamid": "90200771294820361",
+	"name": "White - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
-	"max_players": 12,
+	"players": 0,
+	"max_players": 14,
 	"bots": 0,
-	"map": "de_ancient",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.245.105:26109",
 	"gameport": 26109,
-	"steamid": "90200764870398989",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26110,
+	"steamid": "90200771285004301",
+	"name": "Leetify CS2 KZ by FiPSy",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_anubis",
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kzpro_only_up_extended",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
