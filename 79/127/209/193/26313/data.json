@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.209.193:26313",
 	"gameport": 26313,
-	"steamid": "90200747917583371",
+	"steamid": "90200776266863627",
 	"name": "[MYF] Servidor TEAM [RECLUTANDO]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

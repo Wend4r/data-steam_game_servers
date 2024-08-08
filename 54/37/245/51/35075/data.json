@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_boreas",
+	"map": "surf_lovetunnel",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_boreas,secure"
+	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_lovetunnel,secu"
 }
