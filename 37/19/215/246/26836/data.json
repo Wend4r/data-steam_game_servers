@@ -1,11 +1,11 @@
 {
 	"addr": "37.19.215.246:26836",
 	"gameport": 26836,
-	"steamid": "90200775455344665",
+	"steamid": "90200776782115865",
 	"name": "csmix 2024",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

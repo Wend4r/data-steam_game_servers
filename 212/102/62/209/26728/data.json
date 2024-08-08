@@ -1,11 +1,11 @@
 {
 	"addr": "212.102.62.209:26728",
 	"gameport": 26728,
-	"steamid": "90200762721779740",
+	"steamid": "90200776666539036",
 	"name": "gagga",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

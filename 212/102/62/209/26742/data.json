@@ -1,11 +1,11 @@
 {
 	"addr": "212.102.62.209:26742",
 	"gameport": 26742,
-	"steamid": "90200761069518876",
+	"steamid": "90200776666550300",
 	"name": "Thescrubs",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

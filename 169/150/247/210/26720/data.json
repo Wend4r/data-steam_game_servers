@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.247.210:26720",
 	"gameport": 26720,
-	"steamid": "90200772431908886",
+	"steamid": "90200776697811990",
 	"name": "meniKs AIM Map Server ",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

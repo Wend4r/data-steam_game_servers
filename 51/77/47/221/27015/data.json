@@ -5,15 +5,15 @@
 	"name": "██ ★ uwujka.pl ★ [CS2 MIRAGE #2] ⚫",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 18,
+	"players": 0,
 	"max_players": 28,
-	"bots": 1,
+	"bots": 4,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,uwu"
+	"gametype": "empty,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,pri"
 }

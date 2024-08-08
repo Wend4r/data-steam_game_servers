@@ -5,15 +5,15 @@
 	"name": "[7-Mau] RETAKES 22 | By WAVY",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 26,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wavy,wp,w"
+	"gametype": "empty,7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wav"
 }

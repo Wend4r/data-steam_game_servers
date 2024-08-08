@@ -1,11 +1,11 @@
 {
 	"addr": "79.127.206.86:26021",
 	"gameport": 26021,
-	"steamid": "90200763703376901",
+	"steamid": "90200776723093509",
 	"name": "jake's practice server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
