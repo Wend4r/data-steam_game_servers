@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 33,
-	"bots": 3,
-	"map": "awp_india",
+	"bots": 1,
+	"map": "awp_summer_surf_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,g"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,awp,awp only,cyberx,gg arena,ggarena"
 }

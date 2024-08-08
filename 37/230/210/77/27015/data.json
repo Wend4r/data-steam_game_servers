@@ -2,7 +2,7 @@
 	"addr": "37.230.210.77:27015",
 	"gameport": 27015,
 	"steamid": "85568392931397502",
-	"name": "Freezing-Blood CS:2 | ARENA #1 |",
+	"name": "Freez-Blood CS:2 | ARENA #1 |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "am_nuke_fb",
+	"map": "am_ramps_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

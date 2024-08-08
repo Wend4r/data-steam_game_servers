@@ -1,0 +1,19 @@
+{
+	"addr": "80.85.158.69:41414",
+	"gameport": 41414,
+	"steamid": "85568392931580559",
+	"name": "Freezing-Blood CS:2 | ONLY HS |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 8,
+	"max_players": 20,
+	"bots": 0,
+	"map": "aim_scout_fb",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
