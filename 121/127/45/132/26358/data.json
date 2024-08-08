@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.132:26358",
 	"gameport": 26358,
-	"steamid": "90200662406994953",
-	"name": "CSLOBBY.GG",
+	"steamid": "90200771083584521",
+	"name": "Leetify CS2 Retakes by qN2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 0,
 	"max_players": 11,
-	"bots": 1,
-	"map": "de_overpass",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
