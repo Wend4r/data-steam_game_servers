@@ -1,7 +1,6 @@
 {
 	"addr": "82.208.17.105:27664",
 	"gameport": 27664,
-	"specport": 26664,
 	"steamid": "85568392930482361",
 	"name": "▰ StayFragged.cz | Only Mirage #1 • [CZ,SK,EU,WS,KNIFE,GLOV",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 25,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
