@@ -1,20 +1,19 @@
 {
 	"addr": "79.127.234.193:26384",
 	"gameport": 26384,
-	"specport": 26385,
-	"steamid": "90200688930115597",
-	"name": "[P] PopFlash Scrim - chicago - 16",
+	"steamid": "90200775912345613",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
-	"max_players": 7,
-	"bots": 1,
-	"map": "de_inferno",
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

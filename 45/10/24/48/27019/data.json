@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 20,
-	"bots": 3,
+	"bots": 0,
 	"map": "kz_souljaboy",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "KZTimer,KZTimer 1.85_1 Global,Tickrate 128,insecure"
+	"gametype": "empty,KZTimer,KZTimer 1.85_1 Global,Tickrate 128,insecure"
 }
