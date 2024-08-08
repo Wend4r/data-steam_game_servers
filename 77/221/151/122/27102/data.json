@@ -1,0 +1,20 @@
+{
+	"addr": "77.221.151.122:27102",
+	"gameport": 27102,
+	"specport": 27702,
+	"steamid": "85568392931605813",
+	"name": "[iDGAME.NET] CSGO AWP SHOP | 128tic",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 24,
+	"bots": 1,
+	"map": "idgame/awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!,!awp,1mpulse,HLstatsX:CE,Knife choice CORE,LKv2,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,idgame,insecure"
+}
