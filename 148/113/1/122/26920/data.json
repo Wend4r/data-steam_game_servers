@@ -1,7 +1,7 @@
 {
 	"addr": "148.113.1.122:26920",
 	"gameport": 26920,
-	"steamid": "90200738848783383",
+	"steamid": "90200766286552087",
 	"name": "MatchZy | COUNTER-TERRORISTS vs TERRORISTS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

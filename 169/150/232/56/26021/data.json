@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26021",
 	"gameport": 26021,
-	"steamid": "90200738819656720",
+	"steamid": "90200766232635408",
 	"name": "PLAY.PRACC.COM - [CHI] MULTI-CFG DM - POOLDAY ✦ SKINS ✦ DEA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26489",
 	"gameport": 26489,
-	"steamid": "90200738868654094",
+	"steamid": "90200766305954830",
 	"name": "Next Level Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
 	"bots": 9,
 	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "! csdm,128tick,awp,csgo,deathmatch,dm,ffa,fnatic,hs,hsdm,hsdm,hsdmru,hsmod,moscow,myarena,navi,public,rus,russia ,virtuspro,sec"
+	"gametype": "empty,! csdm,128tick,awp,csgo,deathmatch,dm,ffa,fnatic,hs,hsdm,hsdm,hsdmru,hsmod,moscow,myarena,navi,public,rus,russia ,virtusp"
 }
