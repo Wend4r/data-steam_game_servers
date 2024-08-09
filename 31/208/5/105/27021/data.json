@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_brewery",
+	"map": "cs_lagos",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+	"gametype": "Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
 }

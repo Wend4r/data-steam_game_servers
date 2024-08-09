@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.196:27016",
 	"gameport": 27016,
-	"steamid": "85568392932057442",
+	"steamid": "90200795149961226",
 	"name": "(USKORO)[DE] DEATHRUN [BRUTALCI.info]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 32,
-	"bots": 2,
+	"max_players": 22,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,balkan,br,brutalci,srb,ws,secure"
+	"gametype": "balkan,br,brutalci,srb,ws,secure"
 }
