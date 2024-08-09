@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_cbble",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,conneqt,conneqtgaming,delhi,executes,secure"
+	"gametype": "conneqt,conneqtgaming,delhi,executes,secure"
 }
