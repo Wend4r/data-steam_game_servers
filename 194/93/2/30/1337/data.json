@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 5,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,EU,HVH,RU,War3ft Project,all,arena,dm,eu,hack,hvh,only mirage,public,rockci,ru,war3ft project,wh,сheat,insecure"
+	"gametype": "16k,EU,HVH,RU,War3ft Project,all,arena,dm,eu,hack,hvh,only mirage,public,rockci,ru,war3ft project,wh,сheat,insecure"
 }

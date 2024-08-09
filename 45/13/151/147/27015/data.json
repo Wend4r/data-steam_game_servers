@@ -1,6 +1,7 @@
 {
 	"addr": "45.13.151.147:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931785416",
 	"name": "[CS2] - AWP.LANNIGHT.RO | CUSTOM MVPS | VIP NIGHT | FREE SKINS ",
 	"appid": 730,
@@ -9,8 +10,8 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 24,
-	"bots": 0,
+	"max_players": 25,
+	"bots": 1,
 	"map": "awp_portal_ln",
 	"secure": true,
 	"dedicated": true,
