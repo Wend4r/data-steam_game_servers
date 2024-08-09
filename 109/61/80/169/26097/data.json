@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,midnight,midnight shooters,secure"
+	"gametype": "dathost,dathost.net,midnight,midnight shooters,secure"
 }
