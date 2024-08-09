@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.102:26252",
 	"gameport": 26252,
+	"specport": 26253,
 	"steamid": "90200781851242502",
 	"name": "tropa do pataco powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
