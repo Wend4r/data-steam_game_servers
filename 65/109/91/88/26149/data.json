@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.91.88:26149",
 	"gameport": 26149,
+	"specport": 26150,
 	"steamid": "85568392931619270",
 	"name": "Official Printcom CS2 Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

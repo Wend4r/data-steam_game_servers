@@ -1,7 +1,7 @@
 {
 	"addr": "212.92.101.38:27015",
 	"gameport": 27015,
-	"steamid": "90200799494491161",
+	"steamid": "90200799824209945",
 	"name": "gameserver31507 CS2 hosted by Overhosting.ru",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 7,
 	"max_players": 20,
-	"bots": 2,
+	"bots": 4,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
