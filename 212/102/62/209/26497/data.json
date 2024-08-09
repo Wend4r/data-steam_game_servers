@@ -1,11 +1,11 @@
 {
 	"addr": "212.102.62.209:26497",
 	"gameport": 26497,
-	"steamid": "90200780870533148",
+	"steamid": "90200786395014172",
 	"name": "EgoistoClan",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

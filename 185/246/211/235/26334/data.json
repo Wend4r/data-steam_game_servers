@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.235:26334",
 	"gameport": 26334,
+	"specport": 26335,
 	"steamid": "90200781553366034",
 	"name": "Oui",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
