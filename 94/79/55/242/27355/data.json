@@ -1,20 +1,19 @@
 {
 	"addr": "94.79.55.242:27355",
 	"gameport": 27355,
-	"specport": 28355,
-	"steamid": "85568392931370314",
+	"steamid": "85568392924771851",
 	"name": "Онлайн турниры FASTMM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "aim_map",
-	"secure": false,
+	"bots": 3,
+	"map": "de_nuke",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,duel,fastmm,fastmm.win,fmm,fmm.gg,insecure"
+	"gametype": "empty,128tick,competitive,fastmm,fastmm.win,fmm,fmm.gg,secure"
 }
