@@ -1,6 +1,7 @@
 {
 	"addr": "168.119.73.47:30093",
 	"gameport": 30093,
+	"specport": 35079,
 	"steamid": "90200785662771209",
 	"name": "viVid Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 3,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_lego_rnm_r",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_lego_rnm_r,gloves,cybershoke,cyber,drop,knife,p"
+	"gametype": "bhop,bhop_lego_rnm_r,gloves,cybershoke,cyber,drop,knife,pro,msk"
 }
