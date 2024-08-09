@@ -2,7 +2,7 @@
 	"addr": "62.122.213.157:27032",
 	"gameport": 27032,
 	"steamid": "85568392931848542",
-	"name": "CS2 MANIAC #3 [RU] — CYBERSHOKE.NET",
+	"name": "CS2 MANIAC #3 [RU] — CYBERSHOKE.NET (CLASSIC)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_t"
+	"gametype": "maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,msk,seek_town,kn"
 }

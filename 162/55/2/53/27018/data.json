@@ -2,18 +2,18 @@
 	"addr": "162.55.2.53:27018",
 	"gameport": 27018,
 	"steamid": "85568392931848524",
-	"name": "CS2 MANIAC #5 [DE] — CYBERSHOKE.NET",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "krevetka04",
+	"map": "seek_winterday",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,knife,hide,eu,en,CS,14 ,!mn,128,128tick,germany,ger,kreve"
+	"gametype": "knife,hide,eu,en,CS,14 ,!mn,128,128tick,germany,ger,maniac,glov"
 }

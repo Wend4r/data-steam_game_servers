@@ -2,19 +2,19 @@
 	"addr": "46.174.50.174:27024",
 	"gameport": 27024,
 	"specport": 28024,
-	"steamid": "90200781627107338",
+	"steamid": "90200790701446154",
 	"name": "︻デ═一 KPУTOЙ AWP CEPBEP SGaming.RU CKИHЫ OPУЖИЯ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 14,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,am,am_,awp,awp_,bhop,bhop_,cs_,cybershoke,de_dust2,de_mirage,dust2,mg,mg_,mirage,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,in"
+	"gametype": "empty,!,$,am,am_,awp,awp_,bhop,bhop_,cs_,cybershoke,de_dust2,de_mirage,dust2,mg,mg_,mirage,secure,sgaming,surf,surf_,ze,ze_,zm,"
 }

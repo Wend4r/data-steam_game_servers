@@ -1,7 +1,6 @@
 {
 	"addr": "37.18.21.173:27016",
 	"gameport": 27016,
-	"specport": 47016,
 	"steamid": "85568392931590099",
 	"name": "[РС] СЛАДКИЙ MIRAGE [!SKINS, !VIP, !LVL]",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 13,
-	"max_players": 37,
+	"players": 15,
+	"max_players": 36,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public,rank,"
+	"gametype": "empty,!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public"
 }

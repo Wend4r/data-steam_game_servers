@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 3,
 	"map": "awp_fg_deluxe_beta02",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128TR,AWP,DM,DROP,ONLY,aim,fastdl,fragujemy,only awp,secure"
+	"gametype": "128TR,AWP,DM,DROP,ONLY,aim,fastdl,fragujemy,only awp,secure"
 }
