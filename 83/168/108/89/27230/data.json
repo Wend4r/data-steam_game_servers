@@ -1,19 +1,19 @@
 {
 	"addr": "83.168.108.89:27230",
 	"gameport": 27230,
-	"steamid": "90200800997953559",
+	"steamid": "90200802034623511",
 	"name": "SERWER Pusty",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 0,
 	"max_players": 4,
 	"bots": 0,
-	"map": "de_short_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

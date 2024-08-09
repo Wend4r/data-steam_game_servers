@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.182:26722",
 	"gameport": 26722,
+	"specport": 26723,
 	"steamid": "90200790727470080",
 	"name": "Midnight Fox powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
