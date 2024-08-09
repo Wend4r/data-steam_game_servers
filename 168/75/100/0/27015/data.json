@@ -1,8 +1,8 @@
 {
 	"addr": "168.75.100.0:27015",
 	"gameport": 27015,
-	"steamid": "90200801948669971",
-	"name": "Counter-Strike 2",
+	"steamid": "90200802112794643",
+	"name": "[BR] heartless HvH | NS & RapidFire fix | Mirage | [CS2]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,128tick,hsonly,hvh,nospread,unknowncheats,insecure"
 }

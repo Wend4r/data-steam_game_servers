@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

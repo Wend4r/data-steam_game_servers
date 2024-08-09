@@ -11,9 +11,9 @@
 	"players": 7,
 	"max_players": 24,
 	"bots": 0,
-	"map": "jb_peanut_ego",
+	"map": "jb_clouds",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
