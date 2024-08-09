@@ -2,7 +2,7 @@
 	"addr": "109.61.80.167:26692",
 	"gameport": 26692,
 	"specport": 26693,
-	"steamid": "90200781636675610",
+	"steamid": "90200794738872346",
 	"name": "adad",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 13,
 	"max_players": 32,
 	"bots": 0,
-	"map": "scoutzknivez_pure_cs2",
+	"map": "minus_denhet",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,Hide,HnS,Seek,secure"
+	"gametype": "empty,128,AntiCheat,Hide,HnS,Seek,secure"
 }

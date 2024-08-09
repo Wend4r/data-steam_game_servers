@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 1,
 	"max_players": 26,
 	"bots": 0,
-	"map": "am_nevermore_wf",
+	"map": "am_water_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage o"
+	"gametype": "empty,128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mi"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.232.57:26797",
 	"gameport": 26797,
-	"specport": 26798,
 	"steamid": "85568392930616178",
 	"name": "Phase3 Practice Server",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

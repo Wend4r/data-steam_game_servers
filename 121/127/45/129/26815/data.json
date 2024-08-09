@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.129:26815",
 	"gameport": 26815,
+	"specport": 26816,
 	"steamid": "90200781441274886",
 	"name": "Fortress Prac server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.102:26213",
 	"gameport": 26213,
-	"steamid": "90200794747489286",
-	"name": "x7 Team powered by PRACC.COM",
+	"steamid": "90200794750367750",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
