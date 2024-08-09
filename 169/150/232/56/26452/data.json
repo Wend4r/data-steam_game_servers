@@ -5,15 +5,15 @@
 	"name": "[PureGN.com] Retake #1 Chicago ",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 7,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,chicago,puregn,retake,skins,secure"
+	"gametype": "chicago,puregn,retake,skins,secure"
 }
