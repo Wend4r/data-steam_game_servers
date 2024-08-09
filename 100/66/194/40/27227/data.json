@@ -1,7 +1,7 @@
 {
 	"addr": "100.66.194.40:27227",
 	"gameport": 27227,
-	"steamid": "90200801257415706",
+	"steamid": "90200801258457114",
 	"name": "Valve Counter-Strike 2 spain Server (srcds2021-mad1.196.213)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 2,
-	"map": "lobby_mapveto",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

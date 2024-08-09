@@ -1,8 +1,8 @@
 {
 	"addr": "79.127.196.41:26533",
 	"gameport": 26533,
-	"steamid": "90200801298286599",
-	"name": "TEAM LEBANON (LFO) powered by PRACC.COM",
+	"steamid": "90200801300140039",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

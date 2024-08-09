@@ -2,7 +2,7 @@
 	"addr": "51.77.20.18:27515",
 	"gameport": 27515,
 	"specport": 27520,
-	"steamid": "90200795770528775",
+	"steamid": "90200801300529159",
 	"name": "edgeb.ug | HNS ChaseMod [NOPRE | JumpStats]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "hns_devblocks",
+	"map": "hns_backyard_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
