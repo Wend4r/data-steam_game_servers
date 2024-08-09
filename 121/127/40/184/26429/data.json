@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_benevolent",
+	"map": "surf_volvic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

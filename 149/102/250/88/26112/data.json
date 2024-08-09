@@ -2,18 +2,18 @@
 	"addr": "149.102.250.88:26112",
 	"gameport": 26112,
 	"steamid": "85568392923980519",
-	"name": "XPLAY.GG • CS2 RETAKE #137 • [SG]",
+	"name": "CS2 Retake#137 SG",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
