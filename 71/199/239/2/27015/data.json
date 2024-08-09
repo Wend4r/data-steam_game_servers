@@ -2,18 +2,18 @@
 	"addr": "71.199.239.2:27015",
 	"gameport": 27015,
 	"steamid": "85568392932056042",
-	"name": "Counter-Strike 2",
+	"name": "eboyfriends",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
+	"region": 255,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 4,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
