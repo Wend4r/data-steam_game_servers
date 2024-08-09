@@ -12,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_ramps",
+	"map": "aim_awp_row",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

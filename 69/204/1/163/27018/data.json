@@ -1,0 +1,19 @@
+{
+	"addr": "69.204.1.163:27018",
+	"gameport": 27018,
+	"steamid": "85568392931758244",
+	"name": "[OSF] LAN Party CSGO",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 0,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "cs_italy",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,no awp/autosniper,secure"
+}
