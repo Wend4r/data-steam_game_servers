@@ -1,20 +1,19 @@
 {
 	"addr": "45.11.18.236:27267",
 	"gameport": 27267,
-	"specport": 27269,
-	"steamid": "90200760012450846",
+	"steamid": "90200785834699806",
 	"name": "CKA XABAROVSK",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

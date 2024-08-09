@@ -1,20 +1,19 @@
 {
 	"addr": "168.119.73.47:30128",
 	"gameport": 30128,
-	"specport": 35085,
-	"steamid": "90200767550407689",
+	"steamid": "90200785662765065",
 	"name": "INSANE RIDERS Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

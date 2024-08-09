@@ -1,20 +1,19 @@
 {
 	"addr": "51.195.61.237:30000",
 	"gameport": 30000,
-	"specport": 35057,
-	"steamid": "90200760052257807",
+	"steamid": "90200785571802127",
 	"name": "CS2LINE SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 7,
 	"bots": 1,
-	"map": "de_memento",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
