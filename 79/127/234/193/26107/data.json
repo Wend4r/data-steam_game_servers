@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.234.193:26107",
 	"gameport": 26107,
-	"steamid": "90200648259513357",
-	"name": "Leetify CS2 Retakes by bees make honey",
+	"steamid": "85568392930814735",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
-	"region": 255,
-	"players": 2,
+	"region": -1,
+	"players": 1,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
-	"secure": true,
+	"bots": 7,
+	"map": "de_vertigo",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

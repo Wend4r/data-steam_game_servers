@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_rookie",
+	"map": "surf_artois",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,85tick,csgo,surf,surfsup,surfsupcs,secure"
+	"gametype": "85tick,csgo,surf,surfsup,surfsupcs,secure"
 }
