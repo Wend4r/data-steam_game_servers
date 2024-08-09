@@ -1,0 +1,19 @@
+{
+	"addr": "176.140.191.225:27015",
+	"gameport": 27015,
+	"steamid": "90200802944671771",
+	"name": "test",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 225,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Clanname,Homepage,secure"
+}
