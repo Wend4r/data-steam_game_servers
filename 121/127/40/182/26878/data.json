@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.182:26878",
 	"gameport": 26878,
+	"specport": 26879,
 	"steamid": "90200781593819136",
 	"name": "Prism powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

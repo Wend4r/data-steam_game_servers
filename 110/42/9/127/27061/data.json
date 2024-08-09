@@ -5,15 +5,15 @@
 	"name": "UB社区 CS2 僵尸逃跑 #06 Q群 647885103",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 29,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_hypernova_p",
+	"map": "ze_atix_panic_2017_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

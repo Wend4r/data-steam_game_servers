@@ -1,6 +1,7 @@
 {
 	"addr": "177.54.144.181:27001",
 	"gameport": 27001,
+	"specport": 27101,
 	"steamid": "85568392930574418",
 	"name": "-=★ FIREGAMES ★ MIX #01 ★ SKINS ★ FACAS ★=-",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 11,
+	"players": 8,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
+	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
 }
