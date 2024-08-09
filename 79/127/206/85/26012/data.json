@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26012",
 	"gameport": 26012,
-	"steamid": "90200790722630660",
+	"steamid": "90200802991106052",
 	"name": "Guys bein dudes powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

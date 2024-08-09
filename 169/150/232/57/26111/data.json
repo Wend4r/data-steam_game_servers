@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26111",
 	"gameport": 26111,
-	"steamid": "90200790802539537",
+	"steamid": "90200802851685393",
 	"name": "The Nomads powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

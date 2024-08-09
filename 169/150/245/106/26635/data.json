@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26635",
 	"gameport": 26635,
-	"steamid": "90200790851789838",
+	"steamid": "90200802862236686",
 	"name": "Metizport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

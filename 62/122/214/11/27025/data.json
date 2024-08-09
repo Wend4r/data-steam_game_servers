@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "agents,csfrag,gloves,knife,music,udoit,ws,secure"
+	"gametype": "empty,agents,csfrag,gloves,knife,music,udoit,ws,secure"
 }

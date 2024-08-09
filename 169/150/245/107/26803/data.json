@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.107:26803",
 	"gameport": 26803,
-	"specport": 26804,
-	"steamid": "90200795555324943",
+	"steamid": "90200802896067599",
 	"name": "ex-Diverse powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

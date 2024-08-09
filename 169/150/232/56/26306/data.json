@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26306",
 	"gameport": 26306,
-	"steamid": "90200790792642576",
+	"steamid": "90200802916068368",
 	"name": "Kunai powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

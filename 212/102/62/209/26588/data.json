@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26588",
 	"gameport": 26588,
-	"steamid": "90200790736705564",
+	"steamid": "90200802877212700",
 	"name": "Hypewrld | ADVANCED powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

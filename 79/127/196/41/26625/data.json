@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.196.41:26625",
 	"gameport": 26625,
-	"specport": 26626,
-	"steamid": "90200790742358023",
+	"steamid": "90200802856886279",
 	"name": "PERCEPTIONS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

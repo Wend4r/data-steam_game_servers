@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.97:26889",
 	"gameport": 26889,
-	"steamid": "90200790767687681",
+	"steamid": "90200802891692033",
 	"name": "ODDIK ACADEMY powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

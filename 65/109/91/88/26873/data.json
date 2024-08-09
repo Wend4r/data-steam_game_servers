@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26873",
 	"gameport": 26873,
-	"steamid": "90200790752248844",
+	"steamid": "90200802900811788",
 	"name": "dreamcatchers powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

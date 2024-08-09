@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26959",
 	"gameport": 26959,
-	"steamid": "90200801439586332",
+	"steamid": "90200802877218844",
 	"name": "ProthX Esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
