@@ -1,0 +1,19 @@
+{
+	"addr": "65.109.66.59:26798",
+	"gameport": 26798,
+	"steamid": "90200790346949645",
+	"name": "pukumiehet",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 5,
+	"bots": 0,
+	"map": "onevonemap",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
