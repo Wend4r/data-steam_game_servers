@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
-	"bots": 4,
+	"bots": 3,
 	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,k"
+	"gametype": "aus,awp,awp_,!ws,arena,1v1,de_,aim,knife,killzone,india,kz,kzg,"
 }
