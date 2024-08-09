@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 10,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,competitive,fastmm,fastmm.win,fmm,fmm.gg,insecure"
+	"gametype": "empty,128tick,competitive,fastmm,fastmm.win,fmm,fmm.gg,secure"
 }
