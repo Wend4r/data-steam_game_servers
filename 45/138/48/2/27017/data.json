@@ -1,20 +1,19 @@
 {
 	"addr": "45.138.48.2:27017",
 	"gameport": 27017,
-	"specport": 27020,
 	"steamid": "85568392930495048",
 	"name": "HUSK.GG PRACC - INTMA",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

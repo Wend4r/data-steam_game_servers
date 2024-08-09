@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 64,
 	"bots": 11,
-	"map": "cs_italy",
+	"map": "cs_assault_1337_old",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
