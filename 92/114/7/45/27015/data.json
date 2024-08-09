@@ -1,7 +1,7 @@
 {
 	"addr": "92.114.7.45:27015",
 	"gameport": 27015,
-	"steamid": "85568392922844320",
+	"steamid": "85568392922844732",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

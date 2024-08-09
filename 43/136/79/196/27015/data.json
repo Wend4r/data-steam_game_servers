@@ -1,7 +1,7 @@
 {
 	"addr": "43.136.79.196:27015",
 	"gameport": 27015,
-	"steamid": "90200799480529921",
+	"steamid": "90200799653393409",
 	"name": "CS2 Delicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

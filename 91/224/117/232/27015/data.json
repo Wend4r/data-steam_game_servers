@@ -1,6 +1,7 @@
 {
 	"addr": "91.224.117.232:27015",
 	"gameport": 27015,
+	"specport": 27016,
 	"steamid": "85568392925744724",
 	"name": "★ [FFA :: CS2 ONLY MIRAGE] ★ CSKatowice.com",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }

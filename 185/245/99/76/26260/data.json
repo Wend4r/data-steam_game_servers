@@ -1,8 +1,7 @@
 {
 	"addr": "185.245.99.76:26260",
 	"gameport": 26260,
-	"specport": 26261,
-	"steamid": "90200791195843598",
+	"steamid": "90200799649780750",
 	"name": "HAVENs powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 3,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

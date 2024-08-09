@@ -1,6 +1,7 @@
 {
 	"addr": "51.195.61.237:30150",
 	"gameport": 30150,
+	"specport": 35044,
 	"steamid": "90200799400527887",
 	"name": "VoidGuardians.Pro",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
