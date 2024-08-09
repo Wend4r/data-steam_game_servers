@@ -1,19 +1,19 @@
 {
 	"addr": "160.226.202.29:27015",
 	"gameport": 27015,
-	"steamid": "90200794751118342",
+	"steamid": "90200794909307910",
 	"name": "eBot :: Dustmites vs Unblinded",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 10,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

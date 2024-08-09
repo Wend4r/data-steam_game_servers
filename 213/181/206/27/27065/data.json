@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 5,
 	"max_players": 25,
-	"bots": 1,
-	"map": "de_mills",
+	"bots": 2,
+	"map": "fy_snow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hun,secure"
+	"gametype": "hun,secure"
 }

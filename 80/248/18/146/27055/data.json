@@ -1,0 +1,19 @@
+{
+	"addr": "80.248.18.146:27055",
+	"gameport": 27055,
+	"steamid": "90200794898199568",
+	"name": "[zoRf]  KZ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "kzpro_only_up_extended",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,kz,msm,zorf,secure"
+}

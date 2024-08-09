@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
 	"map": "mg_bifled_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,du,duv2,escape. freevip,free,gl,gloves,jail,lr,lvl,maniac,mg,minigames,vip,weapons,ws,zm,s"
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,du,duv2,escape. freevip,free,gl,gloves,jail,lr,lvl,maniac,mg,minigames,vip,weapons,w"
 }
