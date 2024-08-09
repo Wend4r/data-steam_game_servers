@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ar_baggage",
+	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,? ?,awp,bhop,cselo,cybershoke,dm,hsdm,idle,kz"
+	"gametype": "128,128tick,? ?,awp,bhop,cselo,cybershoke,dm,hsdm,idle,kz,mg,mi"
 }

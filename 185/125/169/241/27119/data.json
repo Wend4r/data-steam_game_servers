@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 128,
 	"bots": 0,
-	"map": "surf_zoomboys_csgo",
+	"map": "surf_minigolf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,increased_maxplayers,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,se"
+	"gametype": "1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,secure"
 }
