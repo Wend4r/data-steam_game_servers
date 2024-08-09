@@ -1,6 +1,7 @@
 {
 	"addr": "37.18.21.238:27053",
 	"gameport": 27053,
+	"specport": 47053,
 	"steamid": "85568392931025792",
 	"name": "[РС] СВЯТОЙ MIRAGE [!SKINS, !VIP, !LVL]",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 12,
-	"max_players": 36,
+	"players": 8,
+	"max_players": 37,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public"
+	"gametype": "!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public,rank,"
 }

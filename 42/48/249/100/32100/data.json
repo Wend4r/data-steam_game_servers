@@ -10,11 +10,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 2,
-	"max_players": 24,
+	"max_players": 25,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,R0对战平台,insecure"
+	"gametype": "R0对战平台,insecure"
 }
