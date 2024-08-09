@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "am_aztec2_gg",
+	"map": "am_blackline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,gg"
+	"gametype": "1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,ggasia,g"
 }

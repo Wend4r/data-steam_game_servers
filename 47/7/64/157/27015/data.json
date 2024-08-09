@@ -2,7 +2,7 @@
 	"addr": "47.7.64.157:27015",
 	"gameport": 27015,
 	"steamid": "85568392932037931",
-	"name": "Element One Gaming | Coming Soon | elementonegaming.net",
+	"name": "Element One Gaming | Multi-1v1s| elementonegaming.net",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
