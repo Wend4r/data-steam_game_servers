@@ -1,0 +1,19 @@
+{
+	"addr": "65.109.91.88:26233",
+	"gameport": 26233,
+	"steamid": "90200793917795340",
+	"name": "Leetify CS2 Match by Smak",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
