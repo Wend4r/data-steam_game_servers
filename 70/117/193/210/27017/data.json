@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "surf_banocanyon_swgfix",
+	"bots": 9,
+	"map": "surf_dust2_2015_csgo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,combat,combat surf,combatsurf,surf,surf combat,surf_greatriver_xdre4m,surfcombat,xdre4m,xdream,HLstatsX:CE,insecure"
+	"gametype": "combat,combat surf,combatsurf,surf,surf combat,surf_greatriver_xdre4m,surfcombat,xdre4m,xdream,HLstatsX:CE,insecure"
 }
