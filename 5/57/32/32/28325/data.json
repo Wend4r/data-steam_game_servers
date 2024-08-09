@@ -2,10 +2,10 @@
 	"addr": "5.57.32.32:28325",
 	"gameport": 28325,
 	"steamid": "85568392932057194",
-	"name": "oskolpalashtserver Mix/Match Server",
+	"name": "oskolpalashtserver",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,iranoskolpalashtserver,insecure"
+	"gametype": "empty,insecure"
 }

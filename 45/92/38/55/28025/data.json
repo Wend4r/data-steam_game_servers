@@ -5,15 +5,15 @@
 	"name": "CS2 RETAKE CARDS #286 [SE] — CYBERSHOKE.NET (7 SLOTS)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cyber,cybershoke,de_dust2,128tick,128,ffa,eu,en,drop,gloves,fi,"
+	"gametype": "empty,cyber,cybershoke,de_dust2,128tick,128,ffa,eu,en,drop,glov"
 }

@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "hns_devblocks_cybertraining_bet",
+	"map": "hns_greencity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_devblocks_cybertraining_beta,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_greencity,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
