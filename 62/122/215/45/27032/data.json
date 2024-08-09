@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_circle_course_v3",
+	"map": "mg_lego_multigames",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
 }
