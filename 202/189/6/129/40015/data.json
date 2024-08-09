@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 14,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_lawrence",
+	"map": "de_foroglio",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
