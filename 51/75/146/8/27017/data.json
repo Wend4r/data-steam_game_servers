@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "hns_avenue_docg",
+	"map": "hns_zen_v1",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
