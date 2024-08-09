@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26890",
 	"gameport": 26890,
-	"steamid": "90200781449915408",
+	"steamid": "90200785222593552",
 	"name": "Party Astronauts powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

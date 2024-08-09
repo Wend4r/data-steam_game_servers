@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26652",
 	"gameport": 26652,
-	"steamid": "90200781610230792",
+	"steamid": "90200785297196040",
 	"name": "CHIPPI CHIPPI CHAPPA powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

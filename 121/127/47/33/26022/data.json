@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.47.33:26022",
+	"gameport": 26022,
+	"steamid": "90200785232663558",
+	"name": "Leetify CS2 Match by ClO0ps",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

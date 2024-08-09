@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26871",
 	"gameport": 26871,
-	"specport": 26872,
-	"steamid": "90200781449939984",
+	"steamid": "90200785222575120",
 	"name": "Victory Royale powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

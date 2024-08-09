@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26245",
 	"gameport": 26245,
-	"steamid": "90200781449937936",
+	"steamid": "90200785222586384",
 	"name": "eNsKy esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

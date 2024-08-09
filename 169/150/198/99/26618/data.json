@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.99:26618",
 	"gameport": 26618,
-	"steamid": "90200781606029315",
+	"steamid": "90200785217746947",
 	"name": "FURIA FE  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

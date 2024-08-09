@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26188",
 	"gameport": 26188,
-	"steamid": "90200781565565961",
+	"steamid": "90200785282774025",
 	"name": "Batatas Taico eSport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26846",
 	"gameport": 26846,
-	"steamid": "90200781651102727",
+	"steamid": "90200785238208519",
 	"name": "Formula 1 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
