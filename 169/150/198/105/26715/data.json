@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.105:26715",
 	"gameport": 26715,
-	"steamid": "90200802957330441",
-	"name": "9z Academy CS2 powered by PRACC.COM",
+	"steamid": "90200802959407113",
+	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

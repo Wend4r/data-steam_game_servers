@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.102:26263",
 	"gameport": 26263,
-	"steamid": "90200802751413254",
+	"steamid": "90200803134212102",
 	"name": "NOORG powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 13,
-	"bots": 0,
+	"max_players": 14,
+	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
