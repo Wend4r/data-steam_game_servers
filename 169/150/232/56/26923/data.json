@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26923",
 	"gameport": 26923,
-	"specport": 26924,
-	"steamid": "90200782034226192",
+	"steamid": "90200783993169936",
 	"name": "fArtprAc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
