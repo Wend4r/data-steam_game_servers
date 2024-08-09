@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.105:26843",
 	"gameport": 26843,
+	"specport": 26844,
 	"steamid": "90200790697141261",
 	"name": "NAVI Javelins  powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
