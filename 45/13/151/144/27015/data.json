@@ -2,18 +2,18 @@
 	"addr": "45.13.151.144:27015",
 	"gameport": 27015,
 	"steamid": "85568392930491147",
-	"name": "[CS2]PRO.LALEAGANE.RO [!ws!Gloves][no Vip] ",
+	"name": "[CS2]PRO.LALEAGANE.RO [!skins!agents!Gloves]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray,!stag"
+	"gametype": "empty,!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray"
 }

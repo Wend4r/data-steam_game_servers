@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_nyx",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csportal,cz,drops,sk,surf,svk,secure"
+	"gametype": "empty,csportal,cz,drops,sk,surf,svk,secure"
 }
