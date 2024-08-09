@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26675",
 	"gameport": 26675,
+	"specport": 26676,
 	"steamid": "90200800985383950",
 	"name": "FXNation (Open/inter) powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

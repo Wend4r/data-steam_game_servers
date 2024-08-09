@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 25,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "awp_india_ln",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,"
+	"gametype": "alltalk,awp,awponly,bots,buy,eu,glove,knife,lannight,mvp,ro,rom"
 }
