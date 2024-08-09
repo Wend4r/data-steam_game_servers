@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 8,
-	"map": "gg_simpsons_house_x2",
+	"map": "gg_mini_dust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
+	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
 }

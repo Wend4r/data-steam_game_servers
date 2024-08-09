@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 14,
 	"bots": 0,
-	"map": "fy_iceworld",
+	"map": "aim_map_s2r",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
