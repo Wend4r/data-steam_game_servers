@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 1,
 	"max_players": 16,
-	"bots": 8,
-	"map": "usp_refrag",
+	"bots": 14,
+	"map": "skinclub_aim_challenge",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,argentina,garryshost,latam,secure"
+	"gametype": "argentina,garryshost,latam,secure"
 }
