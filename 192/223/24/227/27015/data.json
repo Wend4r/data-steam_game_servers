@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 3,
 	"max_players": 40,
 	"bots": 0,
 	"map": "trade_theglobalparadise_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

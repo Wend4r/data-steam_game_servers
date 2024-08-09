@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 4,
+	"players": 28,
 	"max_players": 28,
 	"bots": 0,
-	"map": "surf_beginner",
+	"map": "surf_tranquil",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
 }

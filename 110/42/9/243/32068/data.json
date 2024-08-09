@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,secure"
+	"gametype": "dm,god,pug,wolf,secure"
 }
