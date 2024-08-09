@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.83:26846",
 	"gameport": 26846,
-	"steamid": "90200796447281155",
+	"steamid": "90200796450385923",
 	"name": "ritec",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "168.119.73.47:30040",
 	"gameport": 30040,
+	"specport": 35047,
 	"steamid": "90200785662742537",
 	"name": "Team1mpulse",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
