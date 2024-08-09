@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.209:26689",
 	"gameport": 26689,
+	"specport": 26690,
 	"steamid": "90200799035379740",
 	"name": "CENTER GAMING powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
