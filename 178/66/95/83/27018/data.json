@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_classicrainbowaux_fix",
+	"map": "bhop_quack",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_classicrainbowaux_fix,drop,cyber,cybershoke,glo"
+	"gametype": "bhop,bhop_classicrainbowaux_fix,drop,cyber,cybershoke,gloves,kn"
 }

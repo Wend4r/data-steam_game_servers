@@ -1,19 +1,19 @@
 {
 	"addr": "178.214.245.2:27015",
 	"gameport": 27015,
-	"steamid": "85568392925020965",
+	"steamid": "90200796036198430",
 	"name": "2015 classic",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.35.1.6",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "2015,csgo,public,insecure"
+	"gametype": "empty,2015,csgo,public,insecure"
 }

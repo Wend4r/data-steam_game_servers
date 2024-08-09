@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 6,
+	"bots": 2,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
