@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 0,
-	"map": "surf_rookie",
+	"map": "surf_me",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,drops,sk,surf,svk,secure"
+	"gametype": "csportal,cz,drops,sk,surf,svk,secure"
 }

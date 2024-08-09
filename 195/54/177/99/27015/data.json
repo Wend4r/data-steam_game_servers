@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
-	"bots": 5,
-	"map": "de_cbble",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,! csdm,128tick,awp,csgo,deathmatch,dm,ffa,fnatic,hs,hsdm,hsdmru,hsmod,moscow,navi,pistol,public,rus,russia,virtuspro,secu"
+	"gametype": "! csdm,128tick,awp,csgo,deathmatch,dm,ffa,fnatic,hs,hsdm,hsdmru,hsmod,moscow,navi,pistol,public,rus,russia,virtuspro,secure"
 }
