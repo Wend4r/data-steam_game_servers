@@ -1,6 +1,7 @@
 {
 	"addr": "213.181.206.25:27050",
 	"gameport": 27050,
+	"specport": 27051,
 	"steamid": "85568392931333937",
 	"name": "[EU/HU] UNBREAKABLE - PUB/FUN • ADMIN TGF",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 19,
+	"players": 18,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
+	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
 }
