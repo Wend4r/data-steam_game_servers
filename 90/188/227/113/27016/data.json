@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "/544557258/awp_palace",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csgoirk.ru,cyberarena.pro,dm,ffa,steam,zubat,secure"
+	"gametype": "csgoirk.ru,cyberarena.pro,dm,ffa,steam,zubat,secure"
 }

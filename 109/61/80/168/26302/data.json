@@ -2,7 +2,7 @@
 	"addr": "109.61.80.168:26302",
 	"gameport": 26302,
 	"specport": 26303,
-	"steamid": "90200791109402651",
+	"steamid": "90200791850466331",
 	"name": "CS2 VFT DM PLUGIN TEST 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
