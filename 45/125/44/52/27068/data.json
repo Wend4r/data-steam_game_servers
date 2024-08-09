@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bbs.93x.net,xnet,secure"
+	"gametype": "empty,bbs.93x.net,xnet,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 32,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,allah,hvh,mafia,insecure"
+	"gametype": "allah,hvh,mafia,insecure"
 }
