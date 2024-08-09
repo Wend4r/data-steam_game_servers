@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26667",
 	"gameport": 26667,
-	"steamid": "90200781078848526",
+	"steamid": "90200781560130574",
 	"name": "PLAY.PRACC.COM - [DE] PISTOL FFA DM - MIRAGE ✦ BEST FPS ✦ D",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.4",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 12,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
 }

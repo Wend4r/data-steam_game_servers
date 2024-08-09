@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.182:26105",
 	"gameport": 26105,
+	"specport": 26106,
 	"steamid": "90200781388340224",
 	"name": "Turkish Server Public",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

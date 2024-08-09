@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.232.57:26060",
 	"gameport": 26060,
-	"steamid": "90200781185955857",
+	"steamid": "90200781358310417",
 	"name": "PLAY.PRACC.COM - [CHI] MULTI-CFG DM - DUST2 ✦ BEST FPS ✦ DE",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 12,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PRACC,Warmup,insecure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
 }

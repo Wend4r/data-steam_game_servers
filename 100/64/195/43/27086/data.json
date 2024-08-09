@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 11,
+	"players": 12,
 	"max_players": 64,
-	"bots": 2,
-	"map": "ar_pool_day",
+	"bots": 0,
+	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }
