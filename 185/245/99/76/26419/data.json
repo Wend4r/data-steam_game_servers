@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26419",
 	"gameport": 26419,
+	"specport": 26420,
 	"steamid": "90200791573956622",
 	"name": "Back2TheGame  powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

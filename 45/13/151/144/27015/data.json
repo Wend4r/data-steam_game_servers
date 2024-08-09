@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 32,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray"
+	"gametype": "!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray,!stag"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "42.234.59.149:27015",
 	"gameport": 27015,
-	"steamid": "90200792245547013",
+	"steamid": "90200792246684677",
 	"name": "weiduan",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

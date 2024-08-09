@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 2,
 	"max_players": 33,
 	"bots": 0,
-	"map": "jb_summer_jail",
+	"map": "ba_jail_razor_lnz_2023",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ba,danish,dansk,hjemezez,jail,jb,secure"
+	"gametype": "empty,ba,danish,dansk,hjemezez,jail,jb,secure"
 }
