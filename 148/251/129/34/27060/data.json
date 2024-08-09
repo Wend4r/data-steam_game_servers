@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "am_hotel",
+	"map": "am_mirage_mid_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
+	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
 }

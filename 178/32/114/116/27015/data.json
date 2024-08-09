@@ -1,7 +1,7 @@
 {
 	"addr": "178.32.114.116:27015",
 	"gameport": 27015,
-	"steamid": "90200776821116929",
+	"steamid": "90200781995024385",
 	"name": "VeryGames Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,VeryGames VG,secure"
+	"gametype": "empty,VeryGames VG,insecure"
 }

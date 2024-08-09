@@ -1,7 +1,6 @@
 {
 	"addr": "93.114.82.128:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930569079",
 	"name": "★ [CS2] GO.ALPHACS.RO ★ MVP CUSTOM ★ VIP MAP FREE ★ KIL",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 7,
+	"players": 2,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "KILOWAT,alphacs,counter-strike 2,cs2,csgo,gloves,gloves,knifes,"
+	"gametype": "empty,KILOWAT,alphacs,counter-strike 2,cs2,csgo,gloves,gloves,k"
 }
