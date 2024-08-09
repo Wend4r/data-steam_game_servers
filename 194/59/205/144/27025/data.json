@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 16,
-	"bots": 0,
-	"map": "twyxe_map_v15",
+	"bots": 13,
+	"map": "prefire_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
