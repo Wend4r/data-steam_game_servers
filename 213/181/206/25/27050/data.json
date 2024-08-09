@@ -3,18 +3,18 @@
 	"gameport": 27050,
 	"specport": 27051,
 	"steamid": "85568392931333937",
-	"name": "[EU/HU] UNBREAKABLE - PUB/FUN • ADMIN TGF",
+	"name": "[EU/HU] UNBREAKABLE - PUB/FUN • !ws • !knife",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 7,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
+	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
 }
