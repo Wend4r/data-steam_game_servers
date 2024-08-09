@@ -1,0 +1,20 @@
+{
+	"addr": "212.102.62.210:28437",
+	"gameport": 28437,
+	"specport": 28438,
+	"steamid": "85568392922501821",
+	"name": "BrutalCS.nu GRATIS BOKNING by Dathost.net",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,brutalcs,brutalcs.nu,dathost,dathost.net,insecure"
+}
