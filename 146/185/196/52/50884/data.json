@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_minecraftvillage",
+	"map": "ze_silent_hill_2_illusion",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
+	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
 }
