@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.222.161:26734",
+	"gameport": 26734,
+	"steamid": "90200791512219651",
+	"name": "Dewa United powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 6,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
