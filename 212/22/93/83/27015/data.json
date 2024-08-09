@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_cache",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
+	"gametype": "empty,!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,ar"
 }

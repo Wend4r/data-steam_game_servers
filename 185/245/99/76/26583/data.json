@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26583",
 	"gameport": 26583,
-	"specport": 26584,
-	"steamid": "90200773664880654",
+	"steamid": "90200780879821838",
 	"name": "3K ESPORT (9-5 MAIN) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.232.56:26923",
 	"gameport": 26923,
-	"specport": 26924,
-	"steamid": "90200776714217488",
+	"steamid": "90200780908564496",
 	"name": "fArtprAc",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 3,
 	"max_players": 11,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
