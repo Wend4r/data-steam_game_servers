@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 0,
 	"max_players": 32,
-	"bots": 7,
-	"map": "de_bank",
+	"bots": 0,
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CM2.Network,Tournament,pcw,war,secure"
+	"gametype": "empty,CM2.Network,Tournament,pcw,war,secure"
 }

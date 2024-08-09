@@ -1,6 +1,7 @@
 {
 	"addr": "138.75.72.19:27128",
 	"gameport": 27128,
+	"specport": 27020,
 	"steamid": "85568392930490306",
 	"name": ": : Starters : : Counter-Strike 2",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

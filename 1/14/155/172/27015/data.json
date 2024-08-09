@@ -2,7 +2,7 @@
 	"addr": "1.14.155.172:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200749337047045",
+	"steamid": "90200777138828293",
 	"name": "Raceit CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
