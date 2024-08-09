@@ -1,8 +1,8 @@
 {
 	"addr": "93.115.101.23:27015",
 	"gameport": 27015,
-	"steamid": "90200773583560706",
-	"name": "Gazduit de www.five-host.com",
+	"steamid": "90200773583564802",
+	"name": "ZOUT.TRIED.RO | Zombie Outstanding",
 	"appid": 10,
 	"gamedir": "cstrike",
 	"version": "1.1.2.7/Stdio",
@@ -10,8 +10,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_train",
+	"bots": 3,
+	"map": "zm_deko2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l"
