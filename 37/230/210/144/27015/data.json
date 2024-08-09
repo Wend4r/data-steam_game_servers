@@ -1,7 +1,6 @@
 {
 	"addr": "37.230.210.144:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931941148",
 	"name": "WARFAL: DUST2 #1 [!VIP, !WS, !SKINS, !LVL]",
 	"appid": 730,
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 33,
+	"max_players": 32,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
