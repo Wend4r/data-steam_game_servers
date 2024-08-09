@@ -1,7 +1,7 @@
 {
 	"addr": "42.186.112.245:30004",
 	"gameport": 30004,
-	"steamid": "90200786172419075",
+	"steamid": "90200801111326723",
 	"name": "BUFF inspect server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

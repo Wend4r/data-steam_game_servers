@@ -1,7 +1,6 @@
 {
 	"addr": "62.122.213.66:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930591081",
 	"name": "GunGame No 1",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
-	"max_players": 21,
-	"bots": 1,
-	"map": "ar_freeze",
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
