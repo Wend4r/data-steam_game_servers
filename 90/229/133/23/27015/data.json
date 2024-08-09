@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 32,
+	"players": 31,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_amalia",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }

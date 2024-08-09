@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.196.41:26261",
+	"gameport": 26261,
+	"steamid": "85568392930475109",
+	"name": "GustavFun",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_gracia_d",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

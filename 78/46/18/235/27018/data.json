@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 38,
 	"bots": 8,
-	"map": "de_beerhouse",
+	"map": "cs_crackhouse_remake_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FOE CS2 PW server COMPETETIVE CFG,secure"
+	"gametype": "FOE CS2 PW server COMPETETIVE CFG,secure"
 }
