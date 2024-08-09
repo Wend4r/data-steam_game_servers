@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26593",
 	"gameport": 26593,
-	"steamid": "90200781357135889",
+	"steamid": "90200803086818321",
 	"name": "Horizon Scrim Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

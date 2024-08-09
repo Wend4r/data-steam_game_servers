@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.12.129:26497",
 	"gameport": 26497,
-	"steamid": "90200781430536207",
+	"steamid": "90200803105467407",
 	"name": "Fi_sh",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

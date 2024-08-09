@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26094",
 	"gameport": 26094,
-	"steamid": "90200781477366791",
+	"steamid": "90200803077107719",
 	"name": "Retake the 72 virgins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 8,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

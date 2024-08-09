@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26084",
 	"gameport": 26084,
-	"steamid": "90200802941148173",
+	"steamid": "90200803160221709",
 	"name": "Sera Ascent powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

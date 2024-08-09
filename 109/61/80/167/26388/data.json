@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.167:26388",
 	"gameport": 26388,
-	"specport": 26389,
 	"steamid": "85568392925766081",
 	"name": "FarAway",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

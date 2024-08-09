@@ -1,7 +1,6 @@
 {
 	"addr": "65.109.91.88:26149",
 	"gameport": 26149,
-	"specport": 26150,
 	"steamid": "85568392931619270",
 	"name": "Official Printcom CS2 Server",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

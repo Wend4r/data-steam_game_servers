@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 2,
 	"max_players": 20,
-	"bots": 1,
-	"map": "awp_lego_2_w",
+	"bots": 4,
+	"map": "awp_india_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,awp,en,f2p,knife,pl,poland,polska,prime,skins,uwujka,uwujk"
+	"gametype": "empty,4fun,awp,en,f2p,knife,pl,poland,polska,prime,skins,uwujka"
 }

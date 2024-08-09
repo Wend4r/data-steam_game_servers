@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26694",
 	"gameport": 26694,
-	"steamid": "90200781331618825",
+	"steamid": "90200803175803913",
 	"name": "abuf",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

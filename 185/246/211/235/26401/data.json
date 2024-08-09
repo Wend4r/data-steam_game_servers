@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.235:26401",
 	"gameport": 26401,
-	"steamid": "90200781322522642",
+	"steamid": "90200803150640146",
 	"name": "Krupt",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

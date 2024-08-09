@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26966",
 	"gameport": 26966,
-	"steamid": "90200794048083990",
+	"steamid": "90200803041219606",
 	"name": "Uzee bnu",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 2,
-	"map": "de_thera",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26342",
 	"gameport": 26342,
-	"steamid": "90200781442651142",
+	"steamid": "90200803135257606",
 	"name": "Vegasbois CS2 2023",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

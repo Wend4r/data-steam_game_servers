@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26366",
 	"gameport": 26366,
-	"steamid": "90200781312439302",
+	"steamid": "90200803135950854",
 	"name": "MF CSGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

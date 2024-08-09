@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26246",
 	"gameport": 26246,
-	"steamid": "90200799462700046",
+	"steamid": "90200803206115342",
 	"name": "Dusty Coolbet CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

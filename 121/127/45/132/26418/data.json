@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.132:26418",
 	"gameport": 26418,
-	"specport": 26419,
-	"steamid": "90200781331946505",
+	"steamid": "90200803175041033",
 	"name": "Fredericia Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

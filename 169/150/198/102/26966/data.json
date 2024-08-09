@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26966",
 	"gameport": 26966,
-	"steamid": "90200781444364294",
+	"steamid": "90200803135320070",
 	"name": "PLAY.PRACC.COM - [BR] MULTI-CFG DM - POOLDAY ✦ SKINS ✦ DEAT",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 15,
-	"bots": 3,
+	"bots": 4,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }

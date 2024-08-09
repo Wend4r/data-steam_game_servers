@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.9.207:27105",
 	"gameport": 27105,
-	"steamid": "90200788808164374",
+	"steamid": "90200803041557526",
 	"name": "TG回防服 Retakes [全皮肤 VIP预留位: 2]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

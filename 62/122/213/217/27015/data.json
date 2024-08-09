@@ -1,7 +1,7 @@
 {
 	"addr": "62.122.213.217:27015",
 	"gameport": 27015,
-	"steamid": "90200788637490206",
+	"steamid": "90200803190523934",
 	"name": "HEADSHOT CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "81.21.4.252:27015",
 	"gameport": 27015,
-	"steamid": "90200781646663695",
+	"steamid": "90200803104877583",
 	"name": "OsiedleRP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

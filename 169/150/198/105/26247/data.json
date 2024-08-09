@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26247",
 	"gameport": 26247,
-	"steamid": "90200781566615561",
+	"steamid": "90200803175220233",
 	"name": "semXorah Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

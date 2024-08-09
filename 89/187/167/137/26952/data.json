@@ -2,7 +2,7 @@
 	"addr": "89.187.167.137:26952",
 	"gameport": 26952,
 	"specport": 26953,
-	"steamid": "90200781462274073",
+	"steamid": "90200803046424601",
 	"name": "Sinuous-eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

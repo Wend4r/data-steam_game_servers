@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26374",
 	"gameport": 26374,
-	"steamid": "90200781577012253",
+	"steamid": "90200803165586461",
 	"name": "Ligan | Arms Race",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26202",
 	"gameport": 26202,
-	"steamid": "90200781566638089",
+	"steamid": "90200803175116809",
 	"name": "CS2 VIP4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

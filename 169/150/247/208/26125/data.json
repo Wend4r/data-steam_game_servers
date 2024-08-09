@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.247.208:26125",
 	"gameport": 26125,
-	"specport": 26126,
-	"steamid": "90200781455733780",
+	"steamid": "90200803126183956",
 	"name": "mariuserfurry",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

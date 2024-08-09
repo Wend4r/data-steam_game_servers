@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.209:26015",
 	"gameport": 26015,
-	"steamid": "90200781397083157",
+	"steamid": "90200803180009493",
 	"name": "Der Wilde Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
