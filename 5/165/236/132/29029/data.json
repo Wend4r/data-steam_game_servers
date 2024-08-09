@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
 	"map": "dz_Vineyard",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!lvl,!ws,128,128tick,admin,free vip,gloves,knife,lvl,mm,publick,tick,vip,warmt,ws,secure"
+	"gametype": "!knife,!lvl,!ws,128,128tick,admin,free vip,gloves,knife,lvl,mm,publick,tick,vip,warmt,ws,secure"
 }
