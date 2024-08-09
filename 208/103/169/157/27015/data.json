@@ -5,15 +5,15 @@
 	"name": "[FN] 24/7 Surf Rookie [BETA]  discord.gg/fallen",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 6,
 	"max_players": 32,
 	"bots": 0,
 	"map": "surf_rookie",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

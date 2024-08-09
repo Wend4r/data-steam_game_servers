@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.232.56:26298",
 	"gameport": 26298,
-	"steamid": "90200776713542672",
+	"steamid": "90200781686813712",
 	"name": "Sam's Wonderland",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

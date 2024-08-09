@@ -1,11 +1,11 @@
 {
 	"addr": "51.83.172.143:23572",
 	"gameport": 23572,
-	"steamid": "90200776866915343",
+	"steamid": "90200781647621135",
 	"name": "ServerProject.pl | FragZone",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pl,svpj,insecure"
+	"gametype": "empty,pl,svpj,secure"
 }

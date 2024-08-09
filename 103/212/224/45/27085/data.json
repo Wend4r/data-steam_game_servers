@@ -5,15 +5,15 @@
 	"name": "♚ KZG | Easy Surf | Timer | Skins ♚",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_race",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
+	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
 }

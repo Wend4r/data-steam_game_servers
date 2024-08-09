@@ -1,11 +1,11 @@
 {
 	"addr": "121.127.40.183:26011",
 	"gameport": 26011,
-	"steamid": "90200776818407425",
+	"steamid": "90200781682280449",
 	"name": "Nushow LAN Center",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lan night,lannight,nushow,nushow lan,nushow lan center,se"
+	"gametype": "empty,lan night,lannight,nushow,nushow lan,nushow lan center,in"
 }

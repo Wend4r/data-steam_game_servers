@@ -2,11 +2,11 @@
 	"addr": "212.102.62.209:26942",
 	"gameport": 26942,
 	"specport": 26943,
-	"steamid": "90200776668079132",
+	"steamid": "90200781470257180",
 	"name": "FRID IKS - CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FRIDIKS,dathost,dathost.net,secure"
+	"gametype": "empty,FRIDIKS,dathost,dathost.net,insecure"
 }
