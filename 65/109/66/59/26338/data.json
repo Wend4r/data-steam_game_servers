@@ -1,19 +1,19 @@
 {
 	"addr": "65.109.66.59:26338",
 	"gameport": 26338,
-	"steamid": "90200799618544653",
+	"steamid": "90200800193499149",
 	"name": "Cssquad",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 9,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cache",
+	"map": "acs2_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

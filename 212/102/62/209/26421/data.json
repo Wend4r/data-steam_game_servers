@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.209:26421",
 	"gameport": 26421,
+	"specport": 26422,
 	"steamid": "90200800147907612",
 	"name": "[P] PopFlash Scrim - stockholm - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }

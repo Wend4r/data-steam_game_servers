@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.169:26881",
 	"gameport": 26881,
-	"specport": 26882,
-	"steamid": "90200799902473244",
+	"steamid": "90200800148027420",
 	"name": "MaffinsCS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +10,7 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
