@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 15,
-	"max_players": 20,
+	"players": 16,
+	"max_players": 21,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tr,1v1,1vs1,en,f2p,ffa,gloves,katujemy,knife,knife"
+	"gametype": "128,128tr,1v1,1vs1,en,f2p,ffa,gloves,katujemy,knife,knife,mirag"
 }
