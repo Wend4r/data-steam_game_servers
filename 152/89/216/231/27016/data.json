@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 6,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_lego_2_suntago",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gl,!gloves,!knife,!ws,dust,inferno,mirage,public,suntago"
+	"gametype": "!gl,!gloves,!knife,!ws,dust,inferno,mirage,public,suntago,insec"
 }
