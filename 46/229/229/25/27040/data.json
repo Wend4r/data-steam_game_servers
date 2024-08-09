@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_banana_gg",
+	"map": "am_anubis_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knves,kz,"
+	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
 }

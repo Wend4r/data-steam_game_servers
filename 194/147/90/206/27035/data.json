@@ -2,18 +2,18 @@
 	"addr": "194.147.90.206:27035",
 	"gameport": 27035,
 	"steamid": "85568392931721045",
-	"name": "Strike League | team_whoami vs team_hustler",
+	"name": "Strike League | team_aist cheat vs team_tyler",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 10,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_dust",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

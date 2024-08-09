@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 1,
-	"map": "jb_ba_jail_dust2_final2",
+	"map": "jb_ba_jail_minecraftparty_v7",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!lastrequest,!lr,!ws,ba,ba_,bdp,jail,jail_,jailbreak,jailbreak_,jb,jb_,prison,warden,insecure"
+	"gametype": "!knife,!lastrequest,!lr,!ws,ba,ba_,bdp,jail,jail_,jailbreak,jailbreak_,jb,jb_,prison,warden,insecure"
 }

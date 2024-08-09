@@ -1,19 +1,19 @@
 {
 	"addr": "153.92.1.4:27017",
 	"gameport": 27017,
-	"steamid": "90200793522708483",
-	"name": "AMP Powered Counter-Strike 2 Server",
+	"steamid": "85568392932045254",
+	"name": "[LT] WWW.SADEGO.LT MIX/STADIUM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 32,
-	"bots": 0,
+	"max_players": 15,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,5x5,GLOVES,LT,MIX,SADEGO,SKINS,secure"
 }

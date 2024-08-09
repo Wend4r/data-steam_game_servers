@@ -1,7 +1,7 @@
 {
 	"addr": "176.9.101.67:27015",
 	"gameport": 27015,
-	"steamid": "90200795107837983",
+	"steamid": "85568392932057804",
 	"name": "CS2 Server by Crazy Clan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +12,7 @@
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
 	"gametype": "empty,insecure"

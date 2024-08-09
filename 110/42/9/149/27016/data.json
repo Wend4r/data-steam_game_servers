@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 19,
+	"players": 46,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_aztecnoob_p",
+	"map": "ze_gtasa_police_station_remix_m",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

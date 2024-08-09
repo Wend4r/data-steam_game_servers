@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,7/24 Admin,Dust2,FUN,PRO,secure"
+	"gametype": "!knife,!ws,7/24 Admin,Dust2,FUN,PRO,secure"
 }
