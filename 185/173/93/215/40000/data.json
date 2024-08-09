@@ -2,18 +2,18 @@
 	"addr": "185.173.93.215:40000",
 	"gameport": 40000,
 	"steamid": "85568392931881468",
-	"name": "➥ ███ INTERIAL.SU | ★ STAR | MIRAGE FPS+ [!KNIFE]",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage_fps_interial",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cybershoke,fps,fpsboost,interial,mirage,public,shop,ws,secure"
+	"gametype": "empty,secure"
 }
