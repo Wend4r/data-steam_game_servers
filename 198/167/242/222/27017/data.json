@@ -5,15 +5,15 @@
 	"name": "War3CS2 | Warcraft Mod | 100+ races | Weekend XP Boost",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 6,
 	"max_players": 32,
-	"bots": 3,
+	"bots": 4,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS#,Custom,War3cs2,Warcraft,secure"
+	"gametype": "empty,CS#,Custom,War3cs2,Warcraft,insecure"
 }

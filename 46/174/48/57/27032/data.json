@@ -5,15 +5,15 @@
 	"name": "███ ➥ yooma.su (CS2) / тюремные разборк�",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "jb_summer_jail_v3",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
 }
