@@ -1,6 +1,7 @@
 {
 	"addr": "173.199.84.16:27035",
 	"gameport": 27035,
+	"specport": 27020,
 	"steamid": "85568392924459647",
 	"name": "AV Breaktime Server 2",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 12,
-	"max_players": 28,
+	"players": 0,
+	"max_players": 29,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Ashley,Engineering,Grombous,Vance,insecure"
+	"gametype": "empty,Ashley,Engineering,Grombous,Vance,secure"
 }
