@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:26625",
 	"gameport": 26625,
+	"specport": 26626,
 	"steamid": "90200803076471815",
 	"name": "PERCEPTIONS powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

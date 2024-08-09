@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26699",
 	"gameport": 26699,
-	"steamid": "90200781355570193",
+	"steamid": "90200803087368209",
 	"name": "FroZy's Frag Fest",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "ar_pool_day",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

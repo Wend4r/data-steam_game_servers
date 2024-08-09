@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.69:27120",
 	"gameport": 27120,
-	"steamid": "90200790815746077",
+	"steamid": "90200803166834717",
 	"name": "mrtest@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

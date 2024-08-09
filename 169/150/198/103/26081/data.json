@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26081",
 	"gameport": 26081,
-	"steamid": "90200781477341191",
+	"steamid": "90200803236409351",
 	"name": "WeLoveAnubis",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

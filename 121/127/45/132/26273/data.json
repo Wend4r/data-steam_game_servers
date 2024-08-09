@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26273",
 	"gameport": 26273,
+	"specport": 26274,
 	"steamid": "90200803175973897",
 	"name": "GyllingesportCS2Server",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

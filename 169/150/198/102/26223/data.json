@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.102:26223",
 	"gameport": 26223,
-	"specport": 26224,
-	"steamid": "90200782036275206",
+	"steamid": "90200803136408582",
 	"name": "CLTeam",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

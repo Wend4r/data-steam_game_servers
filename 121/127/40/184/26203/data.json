@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26203",
 	"gameport": 26203,
-	"steamid": "90200781402564610",
+	"steamid": "90200803131692034",
 	"name": "goblinaim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

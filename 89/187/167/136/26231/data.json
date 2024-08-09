@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.136:26231",
 	"gameport": 26231,
-	"steamid": "90200781481673752",
+	"steamid": "90200803116054552",
 	"name": "ferretosaurus' maptest server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

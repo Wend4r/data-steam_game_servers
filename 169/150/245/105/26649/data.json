@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26649",
 	"gameport": 26649,
-	"steamid": "90200802941162509",
+	"steamid": "90200803161685005",
 	"name": "Annex Esports (Main) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26859",
 	"gameport": 26859,
-	"steamid": "90200781325700118",
+	"steamid": "90200803211440150",
 	"name": "OLOFMEISTER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

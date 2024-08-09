@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26158",
 	"gameport": 26158,
-	"steamid": "90200802862249998",
+	"steamid": "90200803206279182",
 	"name": "Heimo powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

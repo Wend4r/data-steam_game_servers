@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.251.47:26073",
 	"gameport": 26073,
-	"steamid": "90200781373134862",
+	"steamid": "90200803206587406",
 	"name": "junsup you're lagging you fucking bitch",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

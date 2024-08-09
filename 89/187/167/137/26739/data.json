@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.137:26739",
 	"gameport": 26739,
-	"steamid": "90200781461659673",
+	"steamid": "90200803216153625",
 	"name": "Ed's Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

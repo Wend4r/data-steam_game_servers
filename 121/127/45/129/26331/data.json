@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26331",
 	"gameport": 26331,
-	"steamid": "90200781443009542",
+	"steamid": "90200803136025606",
 	"name": "CS2 Wingman",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

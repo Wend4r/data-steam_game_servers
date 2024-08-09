@@ -1,7 +1,7 @@
 {
 	"addr": "37.230.137.70:27015",
 	"gameport": 27015,
-	"steamid": "90200788693279756",
+	"steamid": "90200803120904204",
 	"name": "New server by MyArena.ru",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

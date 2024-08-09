@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26920",
 	"gameport": 26920,
-	"steamid": "90200802941133837",
+	"steamid": "90200803161728013",
 	"name": "LEON powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

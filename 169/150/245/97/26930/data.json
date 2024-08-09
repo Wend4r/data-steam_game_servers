@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26930",
 	"gameport": 26930,
-	"steamid": "90200802936628229",
+	"steamid": "90200803102045189",
 	"name": "Project G powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

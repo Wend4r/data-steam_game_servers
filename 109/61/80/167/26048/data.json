@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26048",
 	"gameport": 26048,
-	"steamid": "90200781336098842",
+	"steamid": "90200803072221210",
 	"name": "Chillout Oasis (Boys are praccing here)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

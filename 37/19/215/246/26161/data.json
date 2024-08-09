@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dogo,doso.es,secure"
+	"gametype": "empty,dogo,doso.es,insecure"
 }

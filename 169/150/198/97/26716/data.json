@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.97:26716",
 	"gameport": 26716,
-	"specport": 26717,
-	"steamid": "90200790767691777",
+	"steamid": "90200803096866817",
 	"name": "BOSKIANS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

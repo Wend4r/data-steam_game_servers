@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26666",
 	"gameport": 26666,
-	"steamid": "90200781437230081",
+	"steamid": "90200803096545281",
 	"name": "Deagle Only Headshot Only",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
