@@ -1,7 +1,7 @@
 {
 	"addr": "85.147.227.111:27015",
 	"gameport": 27015,
-	"steamid": "90200801655811096",
+	"steamid": "90200801966175256",
 	"name": "NL spons server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

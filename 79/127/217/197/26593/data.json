@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.217.197:26593",
 	"gameport": 26593,
-	"steamid": "85568392925450913",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200802094685189",
+	"name": "Moneytalks",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 1,
-	"max_players": 11,
+	"region": 255,
+	"players": 2,
+	"max_players": 6,
 	"bots": 0,
-	"map": "de_anubis",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
