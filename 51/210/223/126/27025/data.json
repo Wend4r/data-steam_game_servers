@@ -1,7 +1,6 @@
 {
 	"addr": "51.210.223.126:27025",
 	"gameport": 27025,
-	"specport": 27020,
 	"steamid": "85568392930538355",
 	"name": "[EU] Ekip 667 ~ CS2 MULTIGAMES MG | !SHOP !RANK BHOP",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 29,
-	"bots": 1,
-	"map": "mg_skeet_multigames_v7",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
