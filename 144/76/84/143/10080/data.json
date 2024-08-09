@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10080",
 	"gameport": 10080,
-	"steamid": "90200796224550921",
-	"name": "GrzejnikMrozi - free @ fshost.me",
+	"steamid": "90200799711008777",
+	"name": "Brzeziny - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 12,
+	"players": 0,
+	"max_players": 4,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

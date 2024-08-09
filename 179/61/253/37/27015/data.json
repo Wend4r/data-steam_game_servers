@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_mlcastle",
+	"map": "jb_clouds",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Jailbreak,secure"
+	"gametype": "empty,Jailbreak,secure"
 }

@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 25,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
