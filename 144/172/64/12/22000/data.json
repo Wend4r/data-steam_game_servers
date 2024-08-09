@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
 	"map": "surf_rookie",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,AntiCheat,CS2,Surf,alltalk,best,bhop,bots,bunnyhoppin"
+	"gametype": "128,AntiCheat,CS2,Surf,alltalk,best,bhop,bots,bunnyhopping,cust"
 }
