@@ -1,7 +1,7 @@
 {
 	"addr": "189.4.11.151:27015",
 	"gameport": 27015,
-	"steamid": "90200678765043718",
+	"steamid": "90200791099876358",
 	"name": "MindIsTech CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

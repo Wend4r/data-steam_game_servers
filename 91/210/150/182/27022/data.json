@@ -1,7 +1,7 @@
 {
 	"addr": "91.210.150.182:27022",
 	"gameport": 27022,
-	"steamid": "90200800468400159",
+	"steamid": "90200800979767327",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "g-strafe,cybershoke,cyber,drop,hns,gloves,hns_bbcity_cybershoke"
+	"gametype": "empty,g-strafe,cybershoke,cyber,drop,hns,gloves,hns_bbcity_cybe"
 }
