@@ -6,7 +6,7 @@
 	"name": "██★ UtopiaFPS.pl ★ [MIRAGE #2] ⚫ SKINY/KOSY/RĘKAWICZ",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,polsk,"
+	"gametype": "empty,!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,"
 }

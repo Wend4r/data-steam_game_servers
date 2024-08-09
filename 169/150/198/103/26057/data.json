@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26057",
 	"gameport": 26057,
-	"steamid": "90200778175703047",
+	"steamid": "90200778601937927",
 	"name": "PLAY.PRACC.COM - [BR] FFA DM - MIRAGE ✦ SKINS ✦ BEST FPS �",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PRACC,Warmup,insecure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }
