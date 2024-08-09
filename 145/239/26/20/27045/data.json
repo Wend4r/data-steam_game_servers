@@ -1,7 +1,6 @@
 {
 	"addr": "145.239.26.20:27045",
 	"gameport": 27045,
-	"specport": 25105,
 	"steamid": "85568392930706590",
 	"name": "Server [PRACC] [PCW] @pukawka.pl",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 1,
 	"max_players": 19,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
