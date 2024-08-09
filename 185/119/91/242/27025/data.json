@@ -1,7 +1,7 @@
 {
 	"addr": "185.119.91.242:27025",
 	"gameport": 27025,
-	"steamid": "90200785081061376",
+	"steamid": "90200785085097984",
 	"name": "[BALKAN ] ★ TURBO OGC | Free Gloves, Knife, Skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
