@@ -1,6 +1,7 @@
 {
 	"addr": "122.175.37.64:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931810292",
 	"name": "cs2 private server",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 14,
-	"bots": 2,
-	"map": "de_mirage",
+	"max_players": 15,
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
