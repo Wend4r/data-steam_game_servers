@@ -1,11 +1,11 @@
 {
 	"addr": "89.187.167.130:26657",
 	"gameport": 26657,
-	"steamid": "90200776772686866",
+	"steamid": "90200781553598482",
 	"name": "The Brotherhood",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

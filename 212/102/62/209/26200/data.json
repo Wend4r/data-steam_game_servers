@@ -1,11 +1,11 @@
 {
 	"addr": "212.102.62.209:26200",
 	"gameport": 26200,
-	"steamid": "90200776667986972",
+	"steamid": "90200781466683420",
 	"name": "NordenGamingFun",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

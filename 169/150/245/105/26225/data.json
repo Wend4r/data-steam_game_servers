@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.245.105:26225",
 	"gameport": 26225,
-	"steamid": "90200776792992781",
+	"steamid": "90200781363091469",
 	"name": "JANOTTAAKO",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

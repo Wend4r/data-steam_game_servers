@@ -1,19 +1,19 @@
 {
 	"addr": "37.19.215.246:26125",
 	"gameport": 26125,
-	"steamid": "90200776783162393",
+	"steamid": "90200781261056025",
 	"name": "kHORG ELLAGI",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
 	"bots": 2,
-	"map": "cs_italy",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

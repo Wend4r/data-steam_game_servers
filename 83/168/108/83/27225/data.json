@@ -1,19 +1,19 @@
 {
 	"addr": "83.168.108.83:27225",
 	"gameport": 27225,
-	"steamid": "90200753447358481",
+	"steamid": "90200781356947473",
 	"name": "SERWER EXITERON",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_boyard",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

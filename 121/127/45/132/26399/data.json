@@ -1,11 +1,11 @@
 {
 	"addr": "121.127.45.132:26399",
 	"gameport": 26399,
-	"steamid": "90200776812545033",
+	"steamid": "90200781332659209",
 	"name": "MountainMonkey Prac/Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

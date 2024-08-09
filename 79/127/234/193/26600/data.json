@@ -1,11 +1,11 @@
 {
 	"addr": "79.127.234.193:26600",
 	"gameport": 26600,
-	"steamid": "90200776954980365",
+	"steamid": "90200781362926605",
 	"name": "doofosia nade practice",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

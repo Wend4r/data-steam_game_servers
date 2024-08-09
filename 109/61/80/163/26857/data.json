@@ -1,11 +1,11 @@
 {
 	"addr": "109.61.80.163:26857",
 	"gameport": 26857,
-	"steamid": "90200776698394646",
+	"steamid": "90200781326339094",
 	"name": "Laundry Day",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

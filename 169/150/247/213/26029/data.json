@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.247.213:26029",
 	"gameport": 26029,
-	"steamid": "90200776784321561",
+	"steamid": "90200781461251097",
 	"name": "bessererretake",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

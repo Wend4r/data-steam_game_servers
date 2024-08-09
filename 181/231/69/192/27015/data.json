@@ -1,19 +1,19 @@
 {
 	"addr": "181.231.69.192:27015",
 	"gameport": 27015,
-	"steamid": "90200754454248461",
+	"steamid": "90200781363388429",
 	"name": "Coster-Enritakes 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "cs2,mauro,retakes,insecure"
+	"gametype": "empty,cs2,mauro,retakes,insecure"
 }

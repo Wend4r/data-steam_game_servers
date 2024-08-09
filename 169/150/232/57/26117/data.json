@@ -2,11 +2,11 @@
 	"addr": "169.150.232.57:26117",
 	"gameport": 26117,
 	"specport": 26118,
-	"steamid": "90200776642783249",
+	"steamid": "90200781355868177",
 	"name": "Conscious Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
