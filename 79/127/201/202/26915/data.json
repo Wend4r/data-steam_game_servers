@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.201.202:26915",
+	"gameport": 26915,
+	"specport": 26916,
+	"steamid": "90200782058359838",
+	"name": "[P] PopFlash Scrim - miami - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 9,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}
