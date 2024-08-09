@@ -1,6 +1,7 @@
 {
 	"addr": "185.166.234.21:27135",
 	"gameport": 27135,
+	"specport": 27140,
 	"steamid": "90200801375849493",
 	"name": "ES 13",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
