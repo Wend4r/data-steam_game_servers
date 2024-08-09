@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_safehouse",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,*grp:563685i,Hyper-Strike,csgo deathmatch,dm,fastdl,rank,insecure"
+	"gametype": "empty,Hyper-Strike,csgo deathmatch,dm,fastdl,rank,insecure"
 }

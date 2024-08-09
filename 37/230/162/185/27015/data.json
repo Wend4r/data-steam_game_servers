@@ -1,19 +1,19 @@
 {
 	"addr": "37.230.162.185:27015",
 	"gameport": 27015,
-	"steamid": "90200401226981404",
+	"steamid": "90200785042432028",
 	"name": "[RU|EU] - AREA-51 | HVH | ROLLFIX",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,51,52,HVH,agent,agents,area,arena,bh,bhop,cs,cs2,csgo,dm,glove,gloves,hvh,knife,kz,pub,public,insecure"
+	"gametype": "*grp:5114777i,51,52,HVH,agent,agents,area,arena,bh,bhop,cs,cs2,csgo,dm,glove,gloves,hvh,knife,kz,pub,public,insecure"
 }

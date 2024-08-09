@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!,1vs1,ARENA,DM,deathmatch,dm,drop,dust2,fast,fragujemy,gloves,idle,knifes,m4a1,mirage,multi,skins,secure"
+	"gametype": "empty,!,!,1vs1,ARENA,DM,deathmatch,dm,drop,dust2,fast,fragujemy,gloves,idle,knifes,m4a1,mirage,multi,skins,secure"
 }

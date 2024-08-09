@@ -1,19 +1,19 @@
 {
 	"addr": "85.10.200.222:27016",
 	"gameport": 27016,
-	"steamid": "85568392924272368",
-	"name": "MnM cs2 warserver 128 tick",
+	"steamid": "90200785086947339",
+	"name": "AMP Powered Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.0.8",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 16,
+	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -6,15 +6,15 @@
 	"name": "JonneKahvila.fi - CS2 Retake [Suomi]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,fi,jonnekahvila,jonnekahvila.fi,rank,ranked,retake,rtv,suom"
+	"gametype": "empty,cs2,fi,jonnekahvila,jonnekahvila.fi,rank,ranked,retake,rt"
 }
