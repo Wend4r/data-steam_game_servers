@@ -1,6 +1,7 @@
 {
 	"addr": "91.211.247.236:27035",
 	"gameport": 27035,
+	"specport": 28035,
 	"steamid": "85568392926396322",
 	"name": "BACHURU SERVAS|www.bachuruservas.lt",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 24,
+	"players": 20,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,insecure"
+	"gametype": "EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 9,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
+	"gametype": "dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
 }

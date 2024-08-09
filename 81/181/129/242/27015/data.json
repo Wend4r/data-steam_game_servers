@@ -2,18 +2,18 @@
 	"addr": "81.181.129.242:27015",
 	"gameport": 27015,
 	"steamid": "85568392932057524",
-	"name": "[CS:GO] ★ DEAGLE.OLDBUTGOLD.RO ★ [DEAGLE] 64 TICK",
+	"name": "deagle.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "obg_deagle_xfire",
+	"map": "obg_deagle_desert",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
