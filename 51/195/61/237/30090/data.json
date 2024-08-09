@@ -1,6 +1,7 @@
 {
 	"addr": "51.195.61.237:30090",
 	"gameport": 30090,
+	"specport": 35026,
 	"steamid": "90200785571801103",
 	"name": "Rashidun Caliphate",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 19,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

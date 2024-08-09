@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
 	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,? ?,awp,bhop,cselo,cybershoke,dm,hsdm,idle,kz,mg,mi"
+	"gametype": "empty,128,128tick,? ?,awp,bhop,cselo,cybershoke,dm,hsdm,idle,kz"
 }

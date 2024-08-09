@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 18,
-	"bots": 1,
-	"map": "aim_awp_hd",
+	"bots": 0,
+	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cases,cla"
+	"gametype": "empty,!,!agents,!glove,!knife,!skins,!ws,$,128,128tick,case,cas"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "37.230.137.71:27015",
 	"gameport": 27015,
-	"steamid": "90200790010959885",
+	"steamid": "90200790174288909",
 	"name": "[11][CS2] M9SNOI SERVER | PUBLIC | !knife !ws !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws !lvl !knife !gloves !vip\r,secure"
+	"gametype": "empty,!ws !lvl !knife !gloves !vip\r,insecure"
 }
