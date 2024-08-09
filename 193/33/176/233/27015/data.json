@@ -2,7 +2,7 @@
 	"addr": "193.33.176.233:27015",
 	"gameport": 27015,
 	"specport": 25102,
-	"steamid": "90200801747165185",
+	"steamid": "90200802551451649",
 	"name": "Only AWP CS-4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "awp_india_cs2",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
