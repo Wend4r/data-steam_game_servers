@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 10,
+	"players": 12,
 	"max_players": 20,
 	"bots": 1,
-	"map": "hns_rayish_bakgard_fix",
+	"map": "hns_rayish_brick-world_ported",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_rayish_bakgard_fix,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_rayish_brick-world_ported,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,se"
 }
