@@ -11,7 +11,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 21,
-	"bots": 1,
+	"bots": 3,
 	"map": "cs_max_3",
 	"secure": true,
 	"dedicated": true,
