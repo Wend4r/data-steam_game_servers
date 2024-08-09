@@ -1,7 +1,6 @@
 {
 	"addr": "109.106.138.135:27215",
 	"gameport": 27215,
-	"specport": 27006,
 	"steamid": "85568392924293932",
 	"name": "[CS2] JC | PUBLIC de_dust2[!ws!knife]",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 25,
-	"bots": 1,
-	"map": "de_inferno",
+	"max_players": 24,
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,pub,pu"
+	"gametype": "empty,!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,"
 }

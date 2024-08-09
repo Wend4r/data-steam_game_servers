@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "am_nuke,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel,drop,g"
+	"gametype": "empty,am_nuke,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel,"
 }
