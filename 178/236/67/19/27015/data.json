@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_sp1_xmas2021",
 	"secure": true,
 	"dedicated": true,

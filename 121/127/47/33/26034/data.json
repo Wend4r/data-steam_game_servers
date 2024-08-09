@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26034",
 	"gameport": 26034,
-	"steamid": "90200782795264006",
+	"steamid": "90200783165423622",
 	"name": "Le-Lux",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
