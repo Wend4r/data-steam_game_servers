@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26442",
 	"gameport": 26442,
-	"steamid": "90200789824690190",
-	"name": "Allet Overdrivn (Have Server) powered by PRACC.COM",
+	"steamid": "90200791766838286",
+	"name": "Hexagons(inter) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
