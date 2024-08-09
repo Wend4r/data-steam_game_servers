@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_sippysip",
+	"bots": 3,
+	"map": "surf_hades2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_sippys"
+	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_hades2"
 }
