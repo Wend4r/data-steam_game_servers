@@ -1,7 +1,8 @@
 {
 	"addr": "45.11.18.236:27132",
 	"gameport": 27132,
-	"steamid": "90200789173912606",
+	"specport": 27134,
+	"steamid": "90200795858013214",
 	"name": "LA-QUOI-PARTIES-PERSOS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

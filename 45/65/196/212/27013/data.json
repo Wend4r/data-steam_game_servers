@@ -1,7 +1,7 @@
 {
 	"addr": "45.65.196.212:27013",
 	"gameport": 27013,
-	"specport": 27024,
+	"specport": 27023,
 	"steamid": "85568392931758945",
 	"name": "[CS:GO] RaisedServer # RETAKE PISTOL - !skins !ws !agents !sky",
 	"appid": 730,
@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
+	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
 }
