@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10000",
 	"gameport": 10000,
-	"steamid": "90200802498190340",
-	"name": "sofcik - free @ fshost.me",
+	"steamid": "90200802670405636",
+	"name": "sexserver - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
-	"max_players": 6,
+	"players": 0,
+	"max_players": 2,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "de_nuke",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
