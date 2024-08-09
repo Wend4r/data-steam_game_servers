@@ -1,20 +1,19 @@
 {
 	"addr": "109.61.80.163:26270",
 	"gameport": 26270,
-	"specport": 26271,
-	"steamid": "85568392931435166",
-	"name": "ANOMEME INTERNE 3",
+	"steamid": "85568392930290213",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
+	"region": -1,
+	"players": 1,
 	"max_players": 11,
-	"bots": 2,
-	"map": "fy_pool_day",
-	"secure": true,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "empty,insecure"
 }
