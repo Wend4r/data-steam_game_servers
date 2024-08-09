@@ -10,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plant,lann"
+	"gametype": "empty,!glove,!knife,!rank,!skins,!ws,alltalk,dust2,eu,fast plan"
 }
