@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_mesa_revo",
+	"map": "surf_2pacisalive",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
