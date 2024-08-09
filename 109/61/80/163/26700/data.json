@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.163:26700",
 	"gameport": 26700,
-	"steamid": "90200793196226582",
+	"specport": 26701,
+	"steamid": "90200793374829590",
 	"name": "P1-K4 GOLD",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_gongji_reborn_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
