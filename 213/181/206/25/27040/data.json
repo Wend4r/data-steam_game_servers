@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 13,
+	"players": 16,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_japan",
+	"map": "awp_milkyway",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
 }
