@@ -1,7 +1,6 @@
 {
 	"addr": "46.174.55.93:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930893001",
 	"name": "[CS:GO] ★SURF+RPG #1★ Bce для пaцaнoв [PACANOFF.RU]",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1mpuls,bonus,cases,drop,emotes,gift,gl,gloves,grab,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest,"
+	"gametype": "empty,bonus,cases,drop,emotes,gift,gl,gloves,grab,gravity,hook,knife,knive,lk,lk,lvl,no-steam,nosteam,rpg,shop,surf,vip,viptest"
 }

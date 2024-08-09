@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 7,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_cascade_v4",
 	"secure": true,
 	"dedicated": true,
