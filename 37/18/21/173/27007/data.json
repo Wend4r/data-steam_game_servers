@@ -1,7 +1,6 @@
 {
 	"addr": "37.18.21.173:27007",
 	"gameport": 27007,
-	"specport": 47007,
 	"steamid": "85568392931327702",
 	"name": "[РС] ПРИЯТНЫЙ MIRAGE [!SKINS, !VIP, !LVL]",
 	"appid": 730,
@@ -9,8 +8,8 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
-	"max_players": 37,
+	"players": 5,
+	"max_players": 36,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,

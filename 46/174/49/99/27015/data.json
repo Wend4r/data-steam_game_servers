@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.49.99:27015",
 	"gameport": 27015,
-	"steamid": "90200780814677023",
+	"steamid": "90200781005775903",
 	"name": "Case-Battle Alpha",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
