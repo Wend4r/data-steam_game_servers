@@ -1,6 +1,7 @@
 {
 	"addr": "62.122.213.241:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931941145",
 	"name": "WARFAL: MIRAGE #1 [!VIP, !WS, !SKINS, !LVL]",
 	"appid": 730,
@@ -9,7 +10,7 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 36,
+	"max_players": 37,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,

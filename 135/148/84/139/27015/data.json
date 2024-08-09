@@ -5,15 +5,15 @@
 	"name": "[IG] 24/7 Surf | Easy Surf T1-2 | ImperfectGamers.org",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 1,
+	"players": 4,
 	"max_players": 28,
 	"bots": 0,
-	"map": "surf_lux",
+	"map": "surf_palm",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+	"gametype": "empty,!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
 }
