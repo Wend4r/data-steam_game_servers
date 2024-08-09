@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 5,
-	"map": "aim_minecraft_caves_fp",
+	"map": "awp_roost_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CZ/SK,awp,drop,free,lego,official,only,skill,sniper,special,sta"
+	"gametype": "empty,CZ/SK,awp,drop,free,lego,official,only,skill,sniper,speci"
 }
