@@ -1,7 +1,7 @@
 {
 	"addr": "45.15.85.240:57337",
 	"gameport": 57337,
-	"steamid": "90200781626339338",
+	"steamid": "90200800221207562",
 	"name": "Lazy Chiller Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 1,
 	"map": "drawbridge",
 	"secure": true,
 	"dedicated": true,
