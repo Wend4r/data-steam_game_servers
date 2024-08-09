@@ -3,18 +3,18 @@
 	"gameport": 27012,
 	"specport": 27020,
 	"steamid": "85568392930494612",
-	"name": "【HIME】菜鸟 AI挑战 CSGO-1服[1/5]",
+	"name": "【HIME】菜鸟 AI挑战 CSGO-1服[0/5]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "csgo,himeneko,neko,god,kod,practice,aug,hime,bot,run,tg,insecure"
+	"gametype": "empty,csgo,himeneko,neko,god,kod,practice,aug,hime,bot,run,tg,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 14,
 	"max_players": 64,
 	"bots": 0,
 	"map": "krevetka04",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,d"
+	"gametype": "krevetka04,hide,cybershoke,cyber,CS,14 ,!mn,128,128tick,drop,ma"
 }
