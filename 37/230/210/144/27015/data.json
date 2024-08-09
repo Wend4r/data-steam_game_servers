@@ -1,6 +1,7 @@
 {
 	"addr": "37.230.210.144:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931941148",
 	"name": "WARFAL: DUST2 #1 [!VIP, !WS, !SKINS, !LVL]",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
-	"max_players": 32,
+	"players": 3,
+	"max_players": 33,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battle"
+	"gametype": "!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battlepass,b"
 }
