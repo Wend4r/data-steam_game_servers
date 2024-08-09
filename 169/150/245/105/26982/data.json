@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.105:26982",
 	"gameport": 26982,
+	"specport": 26983,
 	"steamid": "90200781363563533",
 	"name": "Farsa Clan Pracc Server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
