@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,public,awp,aim,fy,events,skins,knives,gloves,vip,stats,tr"
+	"gametype": "public,awp,aim,fy,events,skins,knives,gloves,vip,stats,training"
 }
