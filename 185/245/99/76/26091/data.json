@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26091",
 	"gameport": 26091,
+	"specport": 26092,
 	"steamid": "90200799781451790",
 	"name": "The Witchers CS2 powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

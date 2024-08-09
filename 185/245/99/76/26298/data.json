@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26298",
 	"gameport": 26298,
-	"specport": 26299,
-	"steamid": "90200774165279758",
-	"name": "The Book Club powered by PRACC.COM",
+	"steamid": "90200800820940814",
+	"name": "BARRAGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 14,
-	"bots": 3,
-	"map": "de_vertigo",
+	"max_players": 12,
+	"bots": 4,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26101",
 	"gameport": 26101,
-	"steamid": "90200794418985987",
+	"steamid": "90200800785983491",
 	"name": "THE pracc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,albania,esports,kosovo,shqip,secure"
+	"gametype": "!knife,!ws,albania,esports,kosovo,shqip,secure"
 }
