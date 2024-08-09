@@ -1,7 +1,7 @@
 {
 	"addr": "144.76.84.143:10005",
 	"gameport": 10005,
-	"steamid": "90200778572906505",
+	"steamid": "90200778573251593",
 	"name": "EFEVSAHMET - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 2,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

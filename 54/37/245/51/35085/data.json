@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 1,
-	"map": "surf_grassland",
+	"map": "surf_palais",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_grassland,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_palais,secure"
 }
