@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26323",
 	"gameport": 26323,
-	"steamid": "90200785242827781",
+	"steamid": "90200790832483333",
 	"name": "Keep Peeking powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

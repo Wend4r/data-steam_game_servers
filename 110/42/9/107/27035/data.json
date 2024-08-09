@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 38,
+	"players": 33,
 	"max_players": 40,
 	"bots": 0,
-	"map": "ttt_nuketown",
+	"map": "ttt_stadium_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
