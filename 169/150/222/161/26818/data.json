@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26818",
 	"gameport": 26818,
-	"steamid": "90200782488630275",
+	"steamid": "90200782625312771",
 	"name": "TW hvh(no spread) test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +12,7 @@
 	"max_players": 18,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
 	"gametype": "empty,dathost,dathost.net,insecure"

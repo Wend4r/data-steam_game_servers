@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 18,
 	"bots": 0,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "www.gameserver.gamed.de,secure"
+	"gametype": "empty,www.gameserver.gamed.de,secure"
 }

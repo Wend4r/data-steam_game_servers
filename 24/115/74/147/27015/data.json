@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 10,
+	"bots": 11,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,casual,cs2,fun,secure"
+	"gametype": "casual,cs2,fun,secure"
 }
