@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26092",
 	"gameport": 26092,
+	"specport": 26093,
 	"steamid": "90200784960709645",
 	"name": "[P] PopFlash Scrim - chicago - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 7,
 	"bots": 1,
 	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }
