@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "awp_dream",
+	"map": "awp_neon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awp lego,awp only,awplego,awponly,deathmatch,secure"
+	"gametype": "awp,awp lego,awp only,awplego,awponly,deathmatch,secure"
 }
