@@ -2,18 +2,18 @@
 	"addr": "194.147.90.206:27040",
 	"gameport": 27040,
 	"steamid": "85568392931721046",
-	"name": "Strike League | team_@enemydiefrom!myhand vs team_scarface",
+	"name": "Strike League | team_april vs team_whoami",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 8,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_assault",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

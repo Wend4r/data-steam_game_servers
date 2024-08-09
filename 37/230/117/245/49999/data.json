@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,2,chill,counter,cs2,de_dust2,de_mirage,dust2,knife,m"
+	"gametype": "empty,!knife,!ws,2,chill,counter,cs2,de_dust2,de_mirage,dust2,k"
 }
