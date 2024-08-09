@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 1,
-	"map": "mg_fun2_multigames_csgo",
+	"map": "mg_50arenas_v2_3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
+	"gametype": "ZED,fastdl,mg,multigames,secure"
 }

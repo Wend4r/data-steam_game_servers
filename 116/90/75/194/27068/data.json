@@ -1,8 +1,7 @@
 {
 	"addr": "116.90.75.194:27068",
 	"gameport": 27068,
-	"specport": 27020,
-	"steamid": "90200571245269014",
+	"steamid": "90200782854301718",
 	"name": "Auckland University Esports Club 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 5,
 	"players": 0,
-	"max_players": 12,
-	"bots": 0,
+	"max_players": 11,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
