@@ -1,11 +1,11 @@
 {
 	"addr": "169.150.245.106:26545",
 	"gameport": 26545,
-	"steamid": "90200753962908686",
+	"steamid": "90200781562785806",
 	"name": "FH.esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

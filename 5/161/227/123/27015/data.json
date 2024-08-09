@@ -5,15 +5,15 @@
 	"name": "[SnC] CS2 Surf Easy [T1-3] [Ramp Fix] [Styles] [US]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 3,
 	"max_players": 16,
 	"bots": 0,
-	"map": "surf_newbie",
+	"map": "surf_ing",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

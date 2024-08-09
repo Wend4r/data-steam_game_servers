@@ -1,12 +1,11 @@
 {
 	"addr": "89.187.167.129:26877",
 	"gameport": 26877,
-	"specport": 26878,
-	"steamid": "90200748730362897",
+	"steamid": "90200781585170449",
 	"name": "Flow State Gaming powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
