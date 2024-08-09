@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_train",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,case,case opening,caseopening,cases,drop,free,free vip,gravity,knives,laleagane,llg,open,ro,romania,skin,skins,vip"
+	"gametype": "agents,case,case opening,caseopening,cases,drop,free,free vip,knives,laleagane,llg,open,ro,romania,skin,skins,vip,weapons,insec"
 }
