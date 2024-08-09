@@ -1,7 +1,7 @@
 {
 	"addr": "212.22.93.74:27060",
 	"gameport": 27060,
-	"steamid": "90200370318066692",
+	"steamid": "90200794108467204",
 	"name": "Barserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

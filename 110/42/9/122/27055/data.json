@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_je_course_short",
+	"map": "mg_touchdev_course_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
