@@ -6,15 +6,15 @@
 	"name": "[CS2] ARTEX | +FPS MIRAGE [STATS|VIP|SKINS]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 28,
 	"bots": 1,
 	"map": "de_mirage_artex",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,cs2,fps,mirage,secure,skins,ua,ws,secure"
+	"gametype": "awp,cs2,fps,mirage,secure,skins,ua,ws,secure"
 }

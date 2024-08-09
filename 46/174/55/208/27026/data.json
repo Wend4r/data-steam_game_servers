@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_mirage,1vs1,1v1,arena,128,128tick,cyber,cybershoke,due"
+	"gametype": "am_mirage,1vs1,1v1,arena,128,128tick,cyber,cybershoke,duel,drop"
 }
