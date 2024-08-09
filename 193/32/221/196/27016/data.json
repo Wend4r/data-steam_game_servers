@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
 	"map": "bhop_dreamworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "balkan,br,brutalci,srb,ws,secure"
+	"gametype": "empty,balkan,br,brutalci,srb,ws,secure"
 }
