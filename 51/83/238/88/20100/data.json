@@ -1,19 +1,19 @@
 {
 	"addr": "51.83.238.88:20100",
 	"gameport": 20100,
-	"steamid": "90200779813272579",
+	"steamid": "90200782626938883",
 	"name": "4Netplayers Counter-Strike 2 Prosiaczki",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "hide_hospital",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,4Netplayers,Germany,de,secure"
+	"gametype": "empty,4Netplayers,Germany,de,insecure"
 }
