@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
-	"bots": 11,
+	"bots": 1,
 	"map": "zm_rooftops",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,insecure"
+	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,insecure"
 }
