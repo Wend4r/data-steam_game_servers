@@ -5,15 +5,15 @@
 	"name": "[NEKO]#4 起源2 多人混战服务器",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_season_d_prefab",
+	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
