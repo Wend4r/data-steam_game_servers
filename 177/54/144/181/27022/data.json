@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_dust2_alpha_3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,comp,competitivo,dm,executes,firegames,gloves,knife,mix,retake,skins,ws,secure"
+	"gametype": "empty,4fun,comp,competitivo,dm,executes,firegames,gloves,knife,mix,retake,skins,ws,secure"
 }
