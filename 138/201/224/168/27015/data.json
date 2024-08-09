@@ -9,12 +9,12 @@
 	"version": "1.38.7.9",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
-	"max_players": 10,
-	"bots": 1,
-	"map": "de_train",
+	"players": 1,
+	"max_players": 16,
+	"bots": 6,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

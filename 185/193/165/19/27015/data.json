@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
 	"map": "jb_kurtlarvadisi_baslangic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
 }
