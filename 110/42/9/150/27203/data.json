@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "surf_elysium",
+	"map": "surf_transient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,surf,secure"
+	"gametype": "empty,ZED,fastdl,surf,secure"
 }
