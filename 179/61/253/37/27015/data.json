@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_vortex",
+	"map": "jb_clouds",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Jailbreak,secure"
+	"gametype": "empty,Jailbreak,secure"
 }
