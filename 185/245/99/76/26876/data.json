@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26876",
 	"gameport": 26876,
+	"specport": 26877,
 	"steamid": "90200801709394958",
 	"name": "Fundamentals (Main) powered by PRACC.COM",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_nuke",
