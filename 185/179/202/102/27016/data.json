@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 8,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DubaiPeek,Retake,dubai,dubaipeek,dxb,ezQ,k0za,lot,lotgami"
+	"gametype": "DubaiPeek,Retake,dubai,dubaipeek,dxb,ezQ,k0za,lot,lotgaming,lp,"
 }

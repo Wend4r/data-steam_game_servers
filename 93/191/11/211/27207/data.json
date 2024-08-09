@@ -1,7 +1,7 @@
 {
 	"addr": "93.191.11.211:27207",
 	"gameport": 27207,
-	"steamid": "90200796075027485",
+	"steamid": "90200799045879837",
 	"name": "[CS2] Лютый i Public [NEW !knife !skins]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
