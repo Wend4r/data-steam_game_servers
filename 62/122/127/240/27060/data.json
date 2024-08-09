@@ -1,7 +1,7 @@
 {
 	"addr": "62.122.127.240:27060",
 	"gameport": 27060,
-	"steamid": "90200781419302915",
+	"steamid": "90200792847841283",
 	"name": "arrmy.gg",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,9 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 41,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }

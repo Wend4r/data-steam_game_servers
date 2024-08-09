@@ -3,18 +3,18 @@
 	"gameport": 30233,
 	"specport": 32233,
 	"steamid": "85568392925123780",
-	"name": "【GOD】#233 满十 宁波 [均分909]",
+	"name": "【GOD】#233 满十 宁波 ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dm,god,pug,wolf,secure"
+	"gametype": "empty,dm,god,pug,wolf,secure"
 }

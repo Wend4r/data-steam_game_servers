@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 44,
-	"bots": 28,
-	"map": "de_dust2",
+	"bots": 31,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HajrullaH,eSportsKosova,kosova,secure"
+	"gametype": "HajrullaH,eSportsKosova,kosova,secure"
 }
