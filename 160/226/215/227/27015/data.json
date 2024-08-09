@@ -1,7 +1,7 @@
 {
 	"addr": "160.226.215.227:27015",
 	"gameport": 27015,
-	"steamid": "90200790475371549",
+	"steamid": "90200791976826909",
 	"name": "Frikkie CSGO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 16,
 	"bots": 14,
-	"map": "de_train",
+	"map": "ka_canefield",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
