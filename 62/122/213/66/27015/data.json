@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 21,
 	"bots": 1,
-	"map": "gg_crystal_snow_gg1",
+	"map": "aim_map_s2r",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

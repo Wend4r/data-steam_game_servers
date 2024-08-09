@@ -1,0 +1,19 @@
+{
+	"addr": "185.113.140.124:27015",
+	"gameport": 27015,
+	"steamid": "90200789531801600",
+	"name": "DIVINE | DEV",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

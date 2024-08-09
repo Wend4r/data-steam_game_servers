@@ -1,11 +1,11 @@
 {
 	"addr": "185.246.208.198:26499",
 	"gameport": 26499,
-	"steamid": "90200761677100050",
+	"steamid": "90200789426948114",
 	"name": "hejker kozak",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
