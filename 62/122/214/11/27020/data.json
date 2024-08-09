@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,csfrag,gloves,knife,music,udoit,ws,insecure"
+	"gametype": "empty,agents,csfrag,gloves,knife,music,udoit,ws,secure"
 }
