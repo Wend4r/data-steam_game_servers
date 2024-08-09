@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "awp_arena_vlgbeta_gg2",
+	"map": "awp_vixen_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,gg"
+	"gametype": "1v1,5v5,arena,asia,bhop,dm,execute,executes,g2d,gaster,ggasia,g"
 }
