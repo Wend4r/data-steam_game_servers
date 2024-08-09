@@ -1,6 +1,7 @@
 {
 	"addr": "45.11.18.236:27097",
 	"gameport": 27097,
+	"specport": 27099,
 	"steamid": "90200785834690590",
 	"name": "flowac",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

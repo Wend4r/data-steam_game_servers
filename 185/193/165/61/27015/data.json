@@ -2,18 +2,18 @@
 	"addr": "185.193.165.61:27015",
 	"gameport": 27015,
 	"steamid": "85568392932037864",
-	"name": "[ CS2.ORG.TR ] - www.prooyun.net",
+	"name": "Lewno Fun Server - prooyun.net",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
 	"map": "skinclub_aim_challenge",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,mar"
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
 }
