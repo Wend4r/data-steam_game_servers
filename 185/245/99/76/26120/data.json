@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26120",
 	"gameport": 26120,
-	"steamid": "90200802060253198",
+	"steamid": "90200803208640526",
 	"name": "BIG Equipa(CS2) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

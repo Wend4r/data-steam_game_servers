@@ -1,6 +1,7 @@
 {
 	"addr": "54.38.135.51:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931143642",
 	"name": "██ ★ 1shot2kill.pl ★ [MIRAGE] ⚫ KOSY/SKINY/RĘKAWICZK",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
 	"map": "de_mirage",

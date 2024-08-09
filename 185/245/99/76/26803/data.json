@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26803",
 	"gameport": 26803,
-	"steamid": "90200800657406990",
+	"steamid": "90200803208963086",
 	"name": "Betera powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
