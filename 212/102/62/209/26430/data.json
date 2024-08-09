@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26430",
 	"gameport": 26430,
-	"steamid": "90200790546492444",
+	"steamid": "90200790547144732",
 	"name": "chapmans powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
