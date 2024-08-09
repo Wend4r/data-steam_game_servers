@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.122.239:27015",
 	"gameport": 27015,
-	"steamid": "90200781451057172",
+	"steamid": "90200784897820692",
 	"name": "FightNight",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 33,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_austria_fi_d",
 	"secure": true,
 	"dedicated": true,

@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 5,
 	"max_players": 28,
-	"bots": 2,
-	"map": "awp_lego_3_w",
+	"bots": 1,
+	"map": "awp_back_yellow_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,awp,en,f2p,knife,pl,poland,polska,prime,skins,uwujka"
+	"gametype": "4fun,awp,en,f2p,knife,pl,poland,polska,prime,skins,uwujka,uwujk"
 }
