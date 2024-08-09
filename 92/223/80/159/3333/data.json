@@ -2,18 +2,18 @@
 	"addr": "92.223.80.159:3333",
 	"gameport": 3333,
 	"steamid": "85568392930343607",
-	"name": "Counter-Strike 2",
+	"name": "Хабаровск |54| Mirage [CS2][!WS][!KNIFE]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 8,
+	"region": 3,
+	"players": 3,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,24/7,cs2,knife,mirage,rusgang,russiangang,vip,ws,secure"
+	"gametype": "empty,24/7,cs2,knife,mirage,rusgang,russiangang,vip,ws,insecure"
 }

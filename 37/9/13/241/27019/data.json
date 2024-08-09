@@ -5,7 +5,7 @@
 	"name": "✅ [xPRO #5] AWP + BHOP !WS !VIPTEST ✅",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,awp,awp_lego,ba,csdm,de_dust2,de_mirage,dust2,jail,jailbrea"
+	"gametype": "empty,128,awp,awp_lego,ba,csdm,de_dust2,de_mirage,dust2,jail,ja"
 }
