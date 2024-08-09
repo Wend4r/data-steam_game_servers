@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_roshans",
+	"map": "aim_fakes",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

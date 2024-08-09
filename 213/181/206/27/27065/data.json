@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 3,
 	"max_players": 25,
-	"bots": 1,
-	"map": "aim_deagle7k_nuke",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hun,secure"
+	"gametype": "empty,hun,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "185.248.101.137:30065",
 	"gameport": 30065,
-	"steamid": "90200793634169869",
+	"steamid": "90200794168733709",
 	"name": "PVP SERVER | BOXEADO ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
