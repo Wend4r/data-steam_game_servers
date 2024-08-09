@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26398",
 	"gameport": 26398,
-	"steamid": "90200784447099911",
+	"steamid": "90200784448112647",
 	"name": "BARRAGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 6,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

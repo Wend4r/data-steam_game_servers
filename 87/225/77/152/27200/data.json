@@ -1,7 +1,6 @@
 {
 	"addr": "87.225.77.152:27200",
 	"gameport": 27200,
-	"specport": 27020,
 	"steamid": "85568392926400060",
 	"name": "| ★ Aurora CS2 ★ | #7 ONLY AWP LEGO 2",
 	"appid": 730,
@@ -9,7 +8,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 42,
 	"bots": 1,
 	"map": "awp_lego_2",
