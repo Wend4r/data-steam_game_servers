@@ -1,7 +1,7 @@
 {
 	"addr": "171.115.221.87:27035",
 	"gameport": 27035,
-	"steamid": "90200781660579863",
+	"steamid": "90200801513959447",
 	"name": "PreAim训练服 中部高防 #3 [公共]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

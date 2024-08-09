@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10040",
 	"gameport": 10040,
-	"steamid": "90200800836983817",
-	"name": "szkibdifdiw - free @ fshost.me",
+	"steamid": "90200801558690825",
+	"name": "Youtube - HRproYT - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
-	"max_players": 12,
+	"players": 2,
+	"max_players": 2,
 	"bots": 0,
-	"map": "de_overpass",
-	"secure": true,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
