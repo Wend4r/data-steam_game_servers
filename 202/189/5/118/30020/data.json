@@ -11,9 +11,9 @@
 	"players": 25,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_reverse",
+	"map": "kz_colors",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
