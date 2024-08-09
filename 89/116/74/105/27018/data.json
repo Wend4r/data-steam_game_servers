@@ -1,7 +1,7 @@
 {
 	"addr": "89.116.74.105:27018",
 	"gameport": 27018,
-	"steamid": "90200793888846872",
+	"steamid": "90200794927155224",
 	"name": "COMPETITIVO 02",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
