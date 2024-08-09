@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931418172",
-	"name": "[CSGO]PSYCHOKIDS|FREE BHOP|FPS+|ZXC|",
+	"name": "[CSGO]PSYCHOKIDS|скоро закрытие",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "awp_lego_india",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:5114777i,no-steam,insecure"
+	"gametype": "*grp:5114777i,no-steam,insecure"
 }
