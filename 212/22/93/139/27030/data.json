@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gl,hv1,1v1,!,$,!ws,knife,awp,!glove,mirage,lego,public,aim,awplego,128tick,128,csgo,admin,bhop,publicaim,rus,russian,sti"
+	"gametype": "!gl,hv1,1v1,!,$,!ws,knife,awp,!glove,mirage,lego,public,aim,awplego,128tick,128,csgo,admin,bhop,publicaim,rus,russian,stickers,"
 }
