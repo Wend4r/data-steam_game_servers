@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.182:26036",
 	"gameport": 26036,
+	"specport": 26037,
 	"steamid": "90200781592379392",
 	"name": "omA's Practice Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 10,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

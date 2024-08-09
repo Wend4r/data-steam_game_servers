@@ -1,8 +1,8 @@
 {
 	"addr": "195.178.17.43:27015",
 	"gameport": 27015,
-	"steamid": "90200781744561169",
-	"name": "Counter-Strike 2",
+	"steamid": "90200781746117649",
+	"name": "➥ ███ INTERIAL.SU | ★ Diadema | AWP [!KNIFE]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,awp,awp_lego_2,cybershoke,fps,fpsboost,interial,public,sh"
 }
