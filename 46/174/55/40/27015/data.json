@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 14,
+	"players": 13,
 	"max_players": 64,
 	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,1hp,2v2,35hp,achievement,aim,arena,ba,de,desv_allowdownload dust2,dm,gg,hide,hns,jail,jailbreak,jb,knife,mg,mix,rpg,surf,ws"
+	"gametype": "!,$,am,am_,awp,awp_,bhop,bhop_,cs_,cybershoke,de_dust2,de_mirage,dust2,mg,mg_,mirage,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,in"
 }

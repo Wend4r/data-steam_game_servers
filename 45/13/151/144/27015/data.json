@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray,!stag"
+	"gametype": "empty,!ctag,!gloves,!goldtag,!knife,!mvp,!nametag,!skins,!spray"
 }
