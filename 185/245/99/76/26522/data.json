@@ -1,8 +1,7 @@
 {
 	"addr": "185.245.99.76:26522",
 	"gameport": 26522,
-	"specport": 26523,
-	"steamid": "90200791388796942",
+	"steamid": "90200799780300814",
 	"name": "Team Divergent powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 3,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

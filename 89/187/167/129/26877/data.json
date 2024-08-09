@@ -1,6 +1,7 @@
 {
 	"addr": "89.187.167.129:26877",
 	"gameport": 26877,
+	"specport": 26878,
 	"steamid": "90200790802433041",
 	"name": "Flow State Gaming powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
