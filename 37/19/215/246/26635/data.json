@@ -1,0 +1,20 @@
+{
+	"addr": "37.19.215.246:26635",
+	"gameport": 26635,
+	"specport": 26636,
+	"steamid": "90200795558528025",
+	"name": "TXT GAMING powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

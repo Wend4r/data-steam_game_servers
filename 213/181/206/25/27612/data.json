@@ -1,0 +1,19 @@
+{
+	"addr": "213.181.206.25:27612",
+	"gameport": 27612,
+	"steamid": "85568392932034802",
+	"name": "[HUN] eVERTSON 1v1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 8,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}
