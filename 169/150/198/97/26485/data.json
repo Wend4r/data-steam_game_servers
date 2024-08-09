@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.97:26485",
 	"gameport": 26485,
-	"steamid": "90200781682159617",
+	"steamid": "90200803276394497",
 	"name": "Cheater's Nation",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,hvh,insecure"
+	"gametype": "empty,dathost,dathost.net,hvh,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "137.74.7.15:30011",
 	"gameport": 30011,
-	"steamid": "90200781849316363",
+	"steamid": "90200803383952395",
 	"name": "[PL] ArenaSkilla.pl # 5 V 5 # SKINY KOSY",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -14,6 +14,5 @@
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,5v5;SKINY;KOSY;GLOVES;MUSIC;MIRAGE;INFERNO;DD2;DUST;NUKE,"
+	"os": "l"
 }

@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 40,
 	"bots": 0,
-	"map": "awp_lego_2_winter",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!kf,!ws,128,128tick,awp,awp,awplego,bunny,deathmatch,deat"
+	"gametype": "!kf,!ws,128,128tick,awp,awp,awplego,bunny,deathmatch,deathrun,d"
 }

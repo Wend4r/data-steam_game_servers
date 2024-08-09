@@ -1,7 +1,6 @@
 {
 	"addr": "45.65.196.212:27017",
 	"gameport": 27017,
-	"specport": 27022,
 	"steamid": "85568392931882956",
 	"name": "[CS:GO] RaisedServer # MIX RESERVADO - Skins !ws",
 	"appid": 730,
@@ -11,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

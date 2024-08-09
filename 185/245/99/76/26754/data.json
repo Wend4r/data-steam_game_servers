@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26754",
 	"gameport": 26754,
-	"steamid": "90200799650003982",
+	"steamid": "90200803347722254",
 	"name": "Team Spirit powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
