@@ -3,18 +3,18 @@
 	"gameport": 27040,
 	"specport": 27041,
 	"steamid": "85568392924179315",
-	"name": "[EU/HU] UNBREAKABLE - AWP • ADMIN TGF",
+	"name": "[EU/HU] UNBREAKABLE - AWP • 10 AMMO • !ws • !knife",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 12,
+	"players": 6,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_gade_gg",
+	"bots": 1,
+	"map": "awp_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
+	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
 }

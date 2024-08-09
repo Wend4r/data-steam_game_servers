@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 6,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_santo",
+	"bots": 1,
+	"map": "map7",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }

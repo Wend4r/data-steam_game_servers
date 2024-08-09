@@ -6,15 +6,15 @@
 	"name": "Dͥ̿̓Ẻͧ͋G̯̐͜Ë́̃̒N͒̓̀Eͧ̌̃R̳͢ACY &",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_ballpark",
+	"bots": 3,
+	"map": "sambre-4-14",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "krunker,secure"
+	"gametype": "empty,krunker,secure"
 }
