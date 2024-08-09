@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 21,
 	"bots": 1,
-	"map": "fy_pool_day",
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

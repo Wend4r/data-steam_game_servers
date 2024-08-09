@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10110",
 	"gameport": 10110,
-	"steamid": "90200796545448969",
-	"name": "MiRaCLe - free @ fshost.me",
+	"steamid": "90200800481358857",
+	"name": "Geto81 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
-	"max_players": 12,
+	"players": 0,
+	"max_players": 4,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
