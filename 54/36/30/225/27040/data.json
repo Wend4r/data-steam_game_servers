@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 26,
 	"bots": 0,
 	"map": "kz_floatingislands",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Climb,HOC,HouseOfClimb.com,KZ,secure"
+	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,secure"
 }

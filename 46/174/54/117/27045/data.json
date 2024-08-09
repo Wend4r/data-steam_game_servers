@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27045",
 	"gameport": 27045,
 	"steamid": "90200734175907852",
-	"name": "genesis 19397: team_ｄｉｍａ ｂｉｌａｎ vs team_F1orS",
+	"name": "[genesis] League #12",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_shortnuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
