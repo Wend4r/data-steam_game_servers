@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_chicken_island",
+	"map": "jb_house",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!bajail,!jail,*grp:5114777i,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,"
+	"gametype": "!bajail,!jail,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,vip,zm,zombie,"
 }
