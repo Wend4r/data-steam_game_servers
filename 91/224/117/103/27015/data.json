@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "am_banana_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only"
+	"gametype": "!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only,dance"
 }

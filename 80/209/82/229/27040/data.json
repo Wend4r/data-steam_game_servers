@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
 	"map": "awp_gulag",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AWP,CPH-Gaming.DK,CS2,DK,EU,secure"
+	"gametype": "empty,AWP,CPH-Gaming.DK,CS2,DK,EU,secure"
 }
