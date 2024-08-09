@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 31,
-	"bots": 3,
-	"map": "de_elias2",
+	"bots": 5,
+	"map": "de_guard_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
