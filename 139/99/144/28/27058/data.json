@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
 	"map": "ze_icecap_escape_v5_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:41248439i,aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombi"
+	"gametype": "*grp:41248439i,aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,ozlin,reloaded,survival,sydney,ws,ze,zm,zombie,zr,i"
 }
