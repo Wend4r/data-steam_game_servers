@@ -1,20 +1,19 @@
 {
 	"addr": "185.246.211.225:26842",
 	"gameport": 26842,
-	"specport": 26843,
-	"steamid": "90200796591150088",
-	"name": "TheLastResort (ex-K10) powered by PRACC.COM",
+	"steamid": "90200797933583368",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
