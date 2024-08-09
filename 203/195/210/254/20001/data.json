@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 8,
 	"bots": 0,
-	"map": "kz_quickshot",
+	"map": "kz_hydromancy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
+	"gametype": "csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
 }

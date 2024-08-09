@@ -1,9 +1,8 @@
 {
 	"addr": "169.150.198.102:26252",
 	"gameport": 26252,
-	"specport": 26253,
-	"steamid": "90200781851242502",
-	"name": "tropa do pataco powered by PRACC.COM",
+	"steamid": "90200782039257094",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

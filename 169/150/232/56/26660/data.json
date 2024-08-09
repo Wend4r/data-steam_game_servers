@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26660",
 	"gameport": 26660,
+	"specport": 26661,
 	"steamid": "90200781449920528",
 	"name": "Homyno powered by PRACC.COM",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

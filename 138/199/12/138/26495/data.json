@@ -1,0 +1,20 @@
+{
+	"addr": "138.199.12.138:26495",
+	"gameport": 26495,
+	"specport": 26496,
+	"steamid": "90200782079277080",
+	"name": "[P] PopFlash Scrim - portland - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 8,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_biome",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,secure"
+}
