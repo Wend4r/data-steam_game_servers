@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.130:26797",
 	"gameport": 26797,
+	"specport": 26798,
 	"steamid": "90200781366022151",
 	"name": "NesportCS2 [Den der virker]",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
