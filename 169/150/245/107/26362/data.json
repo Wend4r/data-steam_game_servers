@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_brewery",
+	"map": "de_palais",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,leaguex,secure"
+	"gametype": "leaguex,secure"
 }
