@@ -1,19 +1,19 @@
 {
 	"addr": "20.211.84.159:27015",
 	"gameport": 27015,
-	"steamid": "90200784521225246",
+	"steamid": "90200791399039006",
 	"name": "Stehar's Shitty Shotty Show",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 7,
 	"max_players": 64,
 	"bots": 0,
-	"map": "attic",
+	"map": "sandstone",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

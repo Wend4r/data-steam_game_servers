@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.139:26209",
 	"gameport": 26209,
-	"steamid": "90200792197218331",
+	"steamid": "90200792381002779",
 	"name": "Brasileiros na Europa",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
