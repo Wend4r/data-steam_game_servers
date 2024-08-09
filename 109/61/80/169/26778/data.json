@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.169:26778",
 	"gameport": 26778,
+	"specport": 26779,
 	"steamid": "90200802208018460",
 	"name": "Leetify CS2 Surf by Alexander der Große",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "surf_rookie",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
