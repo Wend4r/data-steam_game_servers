@@ -1,0 +1,19 @@
+{
+	"addr": "147.45.158.7:10184",
+	"gameport": 10184,
+	"steamid": "85568392931591557",
+	"name": "Freezing-Blood CS:2 | AWP ONLY #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "freezblood,ws,gloves,freez-blood,freezingblood"
+}

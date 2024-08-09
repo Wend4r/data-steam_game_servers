@@ -1,0 +1,19 @@
+{
+	"addr": "79.174.93.199:10396",
+	"gameport": 10396,
+	"steamid": "85568392930696448",
+	"name": "Freezing-Blood CS:2 | ARENA #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 54,
+	"bots": 0,
+	"map": "am_aztec2_fb",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "freezblood,ws,gloves,freez-blood,freezingblood"
+}
