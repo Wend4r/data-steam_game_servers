@@ -1,6 +1,7 @@
 {
 	"addr": "51.195.61.237:30075",
 	"gameport": 30075,
+	"specport": 35074,
 	"steamid": "90200785571726351",
 	"name": "Practice server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,GarrysHost,gravity,kz,kzt,insecure"
+	"gametype": "GarrysHost,KZTimer,KZTimer 1.106,Tickrate 128,gravity,kz,kzt,insecure"
 }

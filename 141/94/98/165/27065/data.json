@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 40,
-	"bots": 7,
+	"bots": 6,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cola,colateam,colateames,cs2,españa,multimaps,spain,ws,s"
+	"gametype": "cola,colateam,colateames,cs2,españa,multimaps,spain,ws,secure"
 }
