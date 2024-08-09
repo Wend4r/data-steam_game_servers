@@ -1,7 +1,6 @@
 {
 	"addr": "92.223.80.159:55555",
 	"gameport": 55555,
-	"specport": 27020,
 	"steamid": "85568392930343628",
 	"name": "Хабаровск |51| Public [CS2][WS][KNIFE][AGETN][GLOVE]",
 	"appid": 730,
@@ -9,8 +8,8 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
-	"max_players": 33,
+	"players": 2,
+	"max_players": 32,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,

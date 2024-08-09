@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 2,
 	"max_players": 16,
-	"bots": 8,
-	"map": "usp_refrag",
+	"bots": 0,
+	"map": "de_all_in_one",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,argentina,garryshost,latam,secure"
+	"gametype": "argentina,garryshost,latam,secure"
 }

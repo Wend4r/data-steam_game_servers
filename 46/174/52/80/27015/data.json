@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.52.80:27015",
 	"gameport": 27015,
-	"steamid": "90200753020533767",
+	"steamid": "90200780956613639",
 	"name": "ARMAGIDEC  CCCP  PUBLIC 18+ [CS:GO](!agents !ws !vip)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "cs_militia",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,no-steam,secure"
+	"gametype": "empty,*grp:5114777i,no-steam,secure"
 }
