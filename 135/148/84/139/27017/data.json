@@ -5,15 +5,15 @@
 	"name": "[IG] 24/7 Surf | Skill Surf T2-5 | ImperfectGamers.org  ",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "surf_gleam",
+	"map": "surf_metrorun",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
+	"gametype": "empty,!\r,100tick,beginners,fastdl,gamers,imperfect,rap,secure"
 }
