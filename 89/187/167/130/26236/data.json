@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.130:26236",
 	"gameport": 26236,
-	"steamid": "90200799718470674",
+	"steamid": "90200799870092306",
 	"name": "Harris Counter Whiffs Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
