@@ -1,6 +1,7 @@
 {
 	"addr": "168.119.73.47:30058",
 	"gameport": 30058,
+	"specport": 35063,
 	"steamid": "90200785662763017",
 	"name": "Lamaci",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 5,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
