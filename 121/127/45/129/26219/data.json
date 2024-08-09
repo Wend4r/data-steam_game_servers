@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26219",
 	"gameport": 26219,
-	"steamid": "90200791676892166",
+	"steamid": "90200791677789190",
 	"name": "[DK] Testing",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

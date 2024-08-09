@@ -5,15 +5,15 @@
 	"name": "[X社区][CS2] 娱乐对抗MultiGames",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "fun_matrix",
+	"map": "de_pushcircle2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

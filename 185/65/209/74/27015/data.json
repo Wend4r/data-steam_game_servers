@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Fummelbude,insecure"
+	"gametype": "empty,Fummelbude,secure"
 }
