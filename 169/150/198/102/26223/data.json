@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.102:26223",
 	"gameport": 26223,
+	"specport": 26224,
 	"steamid": "90200779733170182",
 	"name": "CLTeam",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.4",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 10,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

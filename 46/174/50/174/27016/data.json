@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
 	"map": "jb_coldcampus_surfamgbhopawpde",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
+	"gametype": "!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.40.182:26234",
 	"gameport": 26234,
-	"steamid": "90200663075640320",
-	"name": "AIMBOTZ powered by PRACC.COM",
+	"steamid": "85568392930296271",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.4",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"region": -1,
+	"players": 1,
+	"max_players": 11,
 	"bots": 0,
-	"map": "de_anubis",
-	"secure": true,
+	"map": "de_ancient",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,insecure"
 }
