@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 6,
 	"bots": 0,
-	"map": "am_aztec2_gg",
+	"map": "am_texture2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

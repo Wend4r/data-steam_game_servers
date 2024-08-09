@@ -1,6 +1,7 @@
 {
 	"addr": "89.17.150.164:27017",
 	"gameport": 27017,
+	"specport": 27022,
 	"steamid": "85568392932055879",
 	"name": "Spicy.is Server #3",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

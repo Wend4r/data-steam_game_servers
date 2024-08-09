@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.198.103:26921",
 	"gameport": 26921,
-	"specport": 26922,
-	"steamid": "90200800453453831",
-	"name": "JOGA DE TERNO  powered by PRACC.COM",
+	"steamid": "90200801966760967",
+	"name": "Galorys Academy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_dust2",
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
