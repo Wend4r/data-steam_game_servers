@@ -1,19 +1,19 @@
 {
 	"addr": "177.125.253.204:27015",
 	"gameport": 27015,
-	"steamid": "90200770691342348",
+	"steamid": "90200795498430476",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "cs_italy",
+	"map": "mapas/aim_lostvillage_csgo",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

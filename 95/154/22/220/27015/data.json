@@ -1,0 +1,19 @@
+{
+	"addr": "95.154.22.220:27015",
+	"gameport": 27015,
+	"steamid": "85568392932057811",
+	"name": "[DGC] - Chill Minigames",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.3.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "mg_swag_multigames_v7_soundfix",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,128 tick,DGC,Fun,Minigames,secure"
+}
