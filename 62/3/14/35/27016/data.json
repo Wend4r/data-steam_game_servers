@@ -1,7 +1,7 @@
 {
 	"addr": "62.3.14.35:27016",
 	"gameport": 27016,
-	"steamid": "90200799955202061",
+	"steamid": "90200799958506509",
 	"name": "|G7| Test Mod",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 8,
+	"players": 6,
 	"max_players": 33,
 	"bots": 1,
-	"map": "fy_pool_day",
+	"map": "aim_deagle7k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,gg"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,deagle,deagle only,gg arena,ggarena,"
 }

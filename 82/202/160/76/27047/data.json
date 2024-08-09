@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 15,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
