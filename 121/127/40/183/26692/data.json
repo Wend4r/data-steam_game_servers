@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.183:26692",
 	"gameport": 26692,
+	"specport": 26693,
 	"steamid": "90200790767413249",
 	"name": "GameIsGame powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
