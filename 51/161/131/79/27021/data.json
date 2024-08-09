@@ -2,7 +2,7 @@
 	"addr": "51.161.131.79:27021",
 	"gameport": 27021,
 	"steamid": "85568392932024994",
-	"name": "Your server name goes here [NEED 1]",
+	"name": "Your server name goes here [NEED 2]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "2v2,64tick,aimware,alhamdullilah,awp,fata,fatality,hvh,onetap,otc,skeet,wingman,xane,insecure"
+	"gametype": "empty,2v2,64tick,aimware,alhamdullilah,awp,fata,fatality,hvh,onetap,otc,skeet,wingman,xane,insecure"
 }
