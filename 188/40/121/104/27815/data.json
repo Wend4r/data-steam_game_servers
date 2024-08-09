@@ -1,7 +1,7 @@
 {
 	"addr": "188.40.121.104:27815",
 	"gameport": 27815,
-	"steamid": "90200752928680961",
+	"steamid": "90200780903970817",
 	"name": "WOPA.GG | CS2 Official #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
