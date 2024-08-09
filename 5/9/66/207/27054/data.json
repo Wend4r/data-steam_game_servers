@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de,de_mirage,en,eu,ger,germany,valve_ds,secure"
+	"gametype": "de,de_mirage,en,eu,ger,germany,valve_ds,secure"
 }
