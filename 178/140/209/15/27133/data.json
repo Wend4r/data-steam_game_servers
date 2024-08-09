@@ -1,0 +1,20 @@
+{
+	"addr": "178.140.209.15:27133",
+	"gameport": 27133,
+	"specport": 27020,
+	"steamid": "85568392924526977",
+	"name": "CS2 [iDGAME.NET] | ONLY HS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 64,
+	"bots": 1,
+	"map": "aim_deagle_lego",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!,1v1,1vs1,1x1,HS,aim,am_,arena,arena,awp,awp_lego,awp_le"
+}
