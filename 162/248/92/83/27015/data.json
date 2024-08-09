@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 26,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_simplyhard",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,KZTimer,anticheat,csgo,climb,bhop,easy,gloves,kz,knife,game,fun,free,maps,radio,server,server,skin,sneak,surf,timer,usa,v"
+	"gametype": "KZTimer,anticheat,csgo,climb,bhop,easy,gloves,kz,knife,game,fun,free,maps,radio,server,server,skin,sneak,surf,timer,usa,vip,ws,"
 }
