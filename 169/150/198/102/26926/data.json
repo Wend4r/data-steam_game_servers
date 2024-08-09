@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 1,
 	"max_players": 25,
-	"bots": 9,
+	"bots": 12,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
 }
