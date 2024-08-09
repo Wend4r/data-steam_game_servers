@@ -1,12 +1,11 @@
 {
 	"addr": "89.40.104.201:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392930490685",
 	"name": "[CS2] CS.EPIC-GAMERS.RO !viptest !gloves !agents !music",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anticheat,competitive,epic-gamers,europe,fun,gloves,knifes,ro,r"
+	"gametype": "empty,anticheat,competitive,epic-gamers,europe,fun,gloves,knife"
 }

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 10,
 	"max_players": 64,
-	"bots": 3,
+	"bots": 4,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,awpdm,cybershoke,awp,cyber,de_dust2,128tick,128,drop,dm,d"
+	"gametype": "awpdm,cybershoke,awp,cyber,de_dust2,128tick,128,drop,dm,deathma"
 }

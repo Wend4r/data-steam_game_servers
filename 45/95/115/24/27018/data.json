@@ -2,18 +2,18 @@
 	"addr": "45.95.115.24:27018",
 	"gameport": 27018,
 	"steamid": "85568392930864287",
-	"name": "[DK] HJEMEZEZ | DEAGLE only | HS Only",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "aim_deagle_hjemezez2",
+	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,danish,dansk,deagle,desert,eagle,hjemezez,hs,rank,secure"
+	"gametype": "empty,secure"
 }
