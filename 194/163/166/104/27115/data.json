@@ -1,7 +1,7 @@
 {
 	"addr": "194.163.166.104:27115",
 	"gameport": 27115,
-	"steamid": "90200788312289310",
+	"steamid": "90200803194660894",
 	"name": "PenisFresse",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

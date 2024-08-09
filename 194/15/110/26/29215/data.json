@@ -1,7 +1,7 @@
 {
 	"addr": "194.15.110.26:29215",
 	"gameport": 29215,
-	"steamid": "90200787977509915",
+	"steamid": "90200803174672411",
 	"name": "weissenasen Hosted by g-portal.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

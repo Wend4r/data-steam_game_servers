@@ -1,7 +1,7 @@
 {
 	"addr": "38.242.192.37:31515",
 	"gameport": 31515,
-	"steamid": "90200788261349392",
+	"steamid": "90200803308579856",
 	"name": "Yodas CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
