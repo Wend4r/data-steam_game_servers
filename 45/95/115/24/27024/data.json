@@ -2,18 +2,18 @@
 	"addr": "45.95.115.24:27024",
 	"gameport": 27024,
 	"steamid": "85568392931021552",
-	"name": "Counter-Strike 2",
+	"name": "[DK] HJEMEZEZ | Retake #4 | Rank | !guns | WS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,comp,danish,dansk,guns,hjemezez,rank,retake,ws,secure"
 }
