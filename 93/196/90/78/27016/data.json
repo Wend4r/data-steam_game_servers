@@ -1,0 +1,19 @@
+{
+	"addr": "93.196.90.78:27016",
+	"gameport": 27016,
+	"steamid": "85568392931298764",
+	"name": "Subbes CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.0.1",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "fy_pool_day_cuba",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,Subbes CS2 Server,secure"
+}

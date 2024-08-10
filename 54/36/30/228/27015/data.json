@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 8,
 	"max_players": 26,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_farm_v2",
 	"secure": true,
 	"dedicated": true,

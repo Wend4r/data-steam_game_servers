@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 5,
+	"bots": 4,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,24/7,cache,download,drop,dust2,eu,europa,europe,fast,fastdl,fastdrop,frag,fragujemy,fragujemy.com,mirage,pl,poland,polska"
+	"gametype": "24/7,cache,download,drop,dust2,eu,europa,europe,fast,fastdl,fastdrop,frag,fragujemy,fragujemy.com,mirage,pl,poland,polska,rank,"
 }
