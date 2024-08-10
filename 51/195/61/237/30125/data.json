@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.237:30125",
 	"gameport": 30125,
-	"steamid": "90200800151328783",
+	"steamid": "90200811828281359",
 	"name": "toxicccc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

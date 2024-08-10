@@ -1,8 +1,7 @@
 {
 	"addr": "168.119.73.47:30093",
 	"gameport": 30093,
-	"specport": 35079,
-	"steamid": "90200785662771209",
+	"steamid": "90200811793097737",
 	"name": "viVid Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

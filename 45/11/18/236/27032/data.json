@@ -1,8 +1,7 @@
 {
 	"addr": "45.11.18.236:27032",
 	"gameport": 27032,
-	"specport": 27034,
-	"steamid": "90200785834758174",
+	"steamid": "90200811768200222",
 	"name": "GalaxStar",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 19,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,0 +1,19 @@
+{
+	"addr": "5.182.110.93:27050",
+	"gameport": 27050,
+	"steamid": "90200811863773203",
+	"name": "Squirrelz' Surfatorium!!!  =)",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 1,
+	"map": "surf_nyx",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}
