@@ -1,19 +1,19 @@
 {
 	"addr": "105.106.98.182:27015",
 	"gameport": 27015,
-	"steamid": "90200801065141273",
+	"steamid": "90200830186765333",
 	"name": "JGS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

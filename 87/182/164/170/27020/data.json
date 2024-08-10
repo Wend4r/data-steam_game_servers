@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27020",
 	"gameport": 27020,
-	"steamid": "90200829941179423",
+	"steamid": "90200830291588127",
 	"name": "[DE] surf elysium 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,8 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_elysium",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "empty,secure"
+	"os": "w"
 }
