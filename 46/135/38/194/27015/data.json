@@ -2,7 +2,7 @@
 	"addr": "46.135.38.194:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200819165238300",
+	"steamid": "90200823287666716",
 	"name": "GOKZ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 128,
 	"bots": 1,
-	"map": "kz_za_tileblock",
+	"map": "kz_baxter",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

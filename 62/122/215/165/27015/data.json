@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "mg_jump_21_yea_hd",
+	"map": "mg_simpsons_course_yea_v6",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,secure"
+	"gametype": "bhop,secure"
 }
