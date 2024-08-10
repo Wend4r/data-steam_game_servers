@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33015",
 	"gameport": 33015,
-	"steamid": "90200757247310855",
-	"name": "ANYA0507 by \"FreeGameHosting.eu\"",
+	"steamid": "90200813511661575",
+	"name": "1vs1 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "awp_lego_cs2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

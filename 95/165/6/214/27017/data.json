@@ -1,19 +1,19 @@
 {
 	"addr": "95.165.6.214:27017",
 	"gameport": 27017,
-	"steamid": "90200813645257747",
-	"name": "Competitive CS2 server << powered by cs2-multiserver",
+	"steamid": "90200812571522067",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 13,
-	"bots": 3,
-	"map": "de_inferno",
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "aim_fake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "competitive,msm,secure"
+	"gametype": "empty,secure"
 }

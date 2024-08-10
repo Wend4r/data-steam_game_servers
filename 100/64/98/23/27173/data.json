@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 6,
-	"players": 3,
+	"players": 6,
 	"max_players": 64,
-	"bots": 7,
-	"map": "de_anubis",
+	"bots": 6,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

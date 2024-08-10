@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 7,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 5,
+	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,R0对战平台,insecure"
+	"gametype": "R0对战平台,insecure"
 }
