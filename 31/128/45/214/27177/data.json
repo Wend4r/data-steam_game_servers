@@ -1,0 +1,20 @@
+{
+	"addr": "31.128.45.214:27177",
+	"gameport": 27177,
+	"specport": 27979,
+	"steamid": "85568392931605721",
+	"name": "[iDGAME.NET] CSGO MiniGame [>shop>3jump<timer<]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 30,
+	"bots": 1,
+	"map": "mg_saw_rfix_id_hdr",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!,!awp,1mpuls,3 jump,3jump,HLstatsX:CE,arena,awp,awp_lego,awp_lego_2,hlportal,hlxportal,idgame,mg,mg_,mg_saw,minigame,saw"
+}

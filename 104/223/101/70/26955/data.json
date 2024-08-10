@@ -1,7 +1,7 @@
 {
 	"addr": "104.223.101.70:26955",
 	"gameport": 26955,
-	"steamid": "90200810492248085",
+	"steamid": "90200811123207189",
 	"name": "[NA] KingsHVH | NO SPREAD + DT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

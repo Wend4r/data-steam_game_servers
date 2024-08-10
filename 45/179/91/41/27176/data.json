@@ -1,7 +1,6 @@
 {
 	"addr": "45.179.91.41:27176",
 	"gameport": 27176,
-	"specport": 28176,
 	"steamid": "85568392929701488",
 	"name": "[ ZK Servidores™ ] COMPETITIVO #1 | WS - KNIFE - GLOVES",
 	"appid": 730,
@@ -11,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
