@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 28,
 	"bots": 0,
 	"map": "mg_lego_multigames_r1c1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,secure"
+	"gametype": "empty,bhop,secure"
 }
