@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.237:30125",
 	"gameport": 30125,
-	"steamid": "90200817111938063",
+	"steamid": "90200829764637711",
 	"name": "toxicccc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 5,
-	"max_players": 12,
+	"max_players": 16,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

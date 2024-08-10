@@ -1,7 +1,6 @@
 {
 	"addr": "130.208.247.98:27000",
 	"gameport": 27000,
-	"specport": 27020,
 	"steamid": "85568392932055939",
 	"name": "Spicy.is | HRingurinn 1",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
