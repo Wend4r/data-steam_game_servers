@@ -1,19 +1,19 @@
 {
 	"addr": "128.127.117.192:27016",
 	"gameport": 27016,
-	"steamid": "90200736854842369",
-	"name": "[CS:GO] ZE.OLDBUTGOLD.RO [Zombie Escape] (WS / KNIFE / VIPTEST)",
+	"steamid": "90200816533177345",
+	"name": "[RO] HNSX.OLDBUTGOLD.RO [PROPHUNT CS:GO] [VIPTEST] [KNIFE/WS] d",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_SANCTUARY_v1_2",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
