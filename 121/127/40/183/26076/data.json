@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.40.183:26076",
 	"gameport": 26076,
-	"steamid": "90200781437829121",
+	"steamid": "90200806884120577",
 	"name": "10SAVANTS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "wisdom",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
