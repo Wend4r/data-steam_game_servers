@@ -1,19 +1,19 @@
 {
 	"addr": "31.128.45.214:27101",
 	"gameport": 27101,
-	"steamid": "85568392932057409",
-	"name": "Counter-Strike 2",
+	"steamid": "85568392930469249",
+	"name": "CS2 [iDGAME.NET] AWP OnLy",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
-	"max_players": 16,
-	"bots": 0,
+	"max_players": 64,
+	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "empty,secure"
+	"os": "l",
+	"gametype": "empty,!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxp"
 }
