@@ -2,18 +2,18 @@
 	"addr": "185.113.141.55:22101",
 	"gameport": 22101,
 	"steamid": "85568392931708875",
-	"name": "Counter-Strike 2",
+	"name": "[PT] LUSUS | Only Mirage Retakes #2 Waaclive.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,lusus,pt,retakes,insecure"
 }
