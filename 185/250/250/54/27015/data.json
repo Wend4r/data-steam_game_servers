@@ -1,19 +1,19 @@
 {
 	"addr": "185.250.250.54:27015",
 	"gameport": 27015,
-	"steamid": "90200782273786893",
+	"steamid": "90200811583849485",
 	"name": "Haus der Freude",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "streets_1",
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
