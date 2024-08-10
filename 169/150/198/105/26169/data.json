@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.105:26169",
 	"gameport": 26169,
-	"steamid": "90200729997676553",
-	"name": "NivekCS2",
+	"steamid": "85568392930290560",
+	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 5,
-	"bots": 0,
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
+	"bots": 1,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,insecure"
 }

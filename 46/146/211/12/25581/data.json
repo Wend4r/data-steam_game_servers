@@ -1,20 +1,19 @@
 {
 	"addr": "46.146.211.12:25581",
 	"gameport": 25581,
-	"specport": 25583,
 	"steamid": "85568392924414614",
 	"name": "BBZU",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
