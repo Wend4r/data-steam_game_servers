@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 2,
 	"max_players": 12,
-	"bots": 8,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "awp_battle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,brasil,deathmatch,dm,faca,savage,savage servidores,savage"
+	"gametype": "brasil,deathmatch,dm,faca,savage,savage servidores,savageservid"
 }
