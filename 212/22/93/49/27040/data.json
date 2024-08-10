@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 13,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "/2308173681/awp_lego_2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!gloves,!ws,!knife,!lvl,128,!vip,128tick,1mpulse,awp,awp_lego,lego_2,only_awp,only_awp_lego_2,only_lego,pub,public,vip,wp,wp s,"
+	"gametype": "empty,!gloves,!ws,!knife,!lvl,128,!vip,128tick,1mpulse,awp,awp_lego,lego_2,only_awp,only_awp_lego_2,only_lego,pub,public,vip,wp"
 }
