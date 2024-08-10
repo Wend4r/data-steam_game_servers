@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.105:26420",
 	"gameport": 26420,
-	"steamid": "90200727943349257",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200808305325065",
+	"name": "Leetify CS2 Retakes by orioon",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"players": 2,
+	"max_players": 11,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
