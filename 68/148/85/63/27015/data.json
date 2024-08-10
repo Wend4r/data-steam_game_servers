@@ -1,7 +1,7 @@
 {
 	"addr": "68.148.85.63:27015",
 	"gameport": 27015,
-	"steamid": "90200832237581322",
+	"steamid": "90200831469902858",
 	"name": "changeme",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
