@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26497",
 	"gameport": 26497,
-	"steamid": "90200815022405660",
+	"steamid": "90200829972984860",
 	"name": "EgoistoClan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 11,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,

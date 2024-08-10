@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HackVsHack,HvH,Hvh,NoVac,RPG,WCS,War3craft,hack,insecure,insecure"
+	"gametype": "HackVsHack,HvH,Hvh,NoVac,RPG,WCS,War3craft,hack,insecure,insecure"
 }
