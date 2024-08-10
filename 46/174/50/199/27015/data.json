@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 52,
 	"bots": 0,
-	"map": "aim_sky",
+	"map": "aim_usp_hdr_radar",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anime,cybershoke,dota2,emotes,fortnite,fun,knife,no-steam,rev=78393462,rpg,shop,skins,steam,valorant,war3ft,war3source,warcraft"
+	"gametype": "empty,anime,cybershoke,dota2,emotes,fortnite,fun,knife,no-steam,rev=78393462,rpg,shop,skins,steam,valorant,war3ft,war3source,wa"
 }

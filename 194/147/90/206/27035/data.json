@@ -2,18 +2,18 @@
 	"addr": "194.147.90.206:27035",
 	"gameport": 27035,
 	"steamid": "85568392931721045",
-	"name": "Strike League | team_M1 vs team_sm_metan",
+	"name": "Strike League |  vs ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 10,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
