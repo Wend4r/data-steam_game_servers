@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26639",
 	"gameport": 26639,
-	"steamid": "90200777042277404",
-	"name": "simons smokeskola",
+	"steamid": "85568392931325605",
+	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 5,
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,insecure"
 }
