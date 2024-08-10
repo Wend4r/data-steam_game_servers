@@ -1,7 +1,7 @@
 {
 	"addr": "103.97.52.178:27115",
 	"gameport": 27115,
-	"steamid": "90200812691379216",
+	"steamid": "90200823066880016",
 	"name": "CS2 kamakura_yasu",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
