@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26488",
 	"gameport": 26488,
-	"steamid": "90200803209042958",
+	"steamid": "90200803980616718",
 	"name": "Bassirou powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
