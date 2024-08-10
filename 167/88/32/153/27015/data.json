@@ -1,7 +1,7 @@
 {
 	"addr": "167.88.32.153:27015",
 	"gameport": 27015,
-	"steamid": "90200803838533663",
+	"steamid": "90200804164873247",
 	"name": "AMP Powered Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
