@@ -1,0 +1,20 @@
+{
+	"addr": "46.151.199.65:26546",
+	"gameport": 26546,
+	"specport": 26547,
+	"steamid": "90200806896276482",
+	"name": "[P] PopFlash Scrim - denver - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_iris",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,secure"
+}

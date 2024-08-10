@@ -2,18 +2,17 @@
 	"addr": "185.113.141.33:60005",
 	"gameport": 60005,
 	"steamid": "85568392930980703",
-	"name": "Counter-Strike 2",
+	"name": "[PT] Tuga Army • Retakes #1 [Only Mirage]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 1,
+	"region": 255,
+	"players": 0,
 	"max_players": 9,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "secure"
+	"os": "l"
 }
