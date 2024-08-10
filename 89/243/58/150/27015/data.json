@@ -1,7 +1,7 @@
 {
 	"addr": "89.243.58.150:27015",
 	"gameport": 27015,
-	"steamid": "90200818500764685",
+	"steamid": "90200818503246861",
 	"name": "WindowsGSM - Server #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

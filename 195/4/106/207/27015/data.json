@@ -1,7 +1,7 @@
 {
 	"addr": "195.4.106.207:27015",
 	"gameport": 27015,
-	"steamid": "90200818400355336",
+	"steamid": "90200818401586184",
 	"name": "Lustmolche Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "aim_map_niku2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
