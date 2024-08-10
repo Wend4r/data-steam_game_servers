@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.183:26744",
 	"gameport": 26744,
+	"specport": 26745,
 	"steamid": "90200832662847489",
 	"name": "Black | Hazard 10 Mans",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_blackgold_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

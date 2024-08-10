@@ -1,6 +1,7 @@
 {
 	"addr": "194.93.2.254:1337",
 	"gameport": 1337,
+	"specport": 27020,
 	"steamid": "85568392931976806",
 	"name": "[CS2] IMPERIA-GLUCK.RU | MIRAGE ONLY | SKINS | KNIFE | GLOVES",
 	"appid": 730,
@@ -9,8 +10,8 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 24,
-	"bots": 0,
+	"max_players": 25,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

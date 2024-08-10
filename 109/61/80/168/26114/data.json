@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26114",
 	"gameport": 26114,
-	"steamid": "90200803170806811",
+	"steamid": "90200832713364507",
 	"name": "AC Crimson",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
