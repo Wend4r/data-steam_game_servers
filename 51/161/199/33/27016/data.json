@@ -11,7 +11,7 @@
 	"region": 5,
 	"players": 1,
 	"max_players": 40,
-	"bots": 1,
+	"bots": 3,
 	"map": "surf_neon_final",
 	"secure": true,
 	"dedicated": true,
