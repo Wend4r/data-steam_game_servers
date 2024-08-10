@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27185",
 	"gameport": 27185,
-	"steamid": "90200800668997655",
+	"steamid": "90200806252239895",
 	"name": "SERWER Kso3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_canals",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
