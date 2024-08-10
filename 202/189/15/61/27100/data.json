@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MatchZy,exg,insecure"
+	"gametype": "empty,MatchZy,exg,secure"
 }
