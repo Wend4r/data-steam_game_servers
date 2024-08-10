@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 3,
 	"max_players": 16,
-	"bots": 5,
-	"map": "de_inferno",
+	"bots": 7,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-Tick,128tick,GENX,UK,Workshop Maps,tick128,insecure"
+	"gametype": "128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
 }
