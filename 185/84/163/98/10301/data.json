@@ -1,0 +1,19 @@
+{
+	"addr": "185.84.163.98:10301",
+	"gameport": 10301,
+	"steamid": "85568392931590649",
+	"name": "Freezing-Blood CS:2 | FPS+ #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage_fps",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "freezblood,ws,gloves,freez-blood,freezingblood"
+}
