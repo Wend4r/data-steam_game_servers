@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 8,
 	"max_players": 28,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_bhop_dusk_go",
 	"secure": true,
 	"dedicated": true,

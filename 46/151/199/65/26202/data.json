@@ -1,6 +1,7 @@
 {
 	"addr": "46.151.199.65:26202",
 	"gameport": 26202,
+	"specport": 26203,
 	"steamid": "90200812362476546",
 	"name": "[P] PopFlash Scrim - denver - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }
