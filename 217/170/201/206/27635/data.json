@@ -1,7 +1,6 @@
 {
 	"addr": "217.170.201.206:27635",
 	"gameport": 27635,
-	"specport": 37635,
 	"steamid": "85568392930892640",
 	"name": "Esportal - Register to play",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_vertigo",
+	"bots": 3,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
