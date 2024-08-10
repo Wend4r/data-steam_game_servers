@@ -1,7 +1,6 @@
 {
 	"addr": "37.230.117.245:29999",
 	"gameport": 29999,
-	"specport": 27020,
 	"steamid": "85568392931971571",
 	"name": "ONLY MIRAGE 🌀 FRAGFUSION.NET | !KNIFE !SKINS",
 	"appid": 730,
@@ -10,8 +9,8 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 21,
-	"bots": 1,
+	"max_players": 20,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,

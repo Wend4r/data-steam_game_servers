@@ -1,7 +1,6 @@
 {
 	"addr": "193.33.177.127:27015",
 	"gameport": 27015,
-	"specport": 25110,
 	"steamid": "85568392932033760",
 	"name": "★ ONEFRAG.PL ★ [WAR3MOD] ⚫ SKINY/KOSY/GLOVES",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 11,
-	"bots": 6,
-	"map": "de_mirage",
+	"bots": 7,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
