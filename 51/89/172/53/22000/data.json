@@ -1,7 +1,7 @@
 {
 	"addr": "51.89.172.53:22000",
 	"gameport": 22000,
-	"steamid": "90200803367723038",
+	"steamid": "90200810481753118",
 	"name": "THUGA-GAMING",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,THUGA-GAMING,secure"
+	"gametype": "empty,THUGA-GAMING,insecure"
 }
