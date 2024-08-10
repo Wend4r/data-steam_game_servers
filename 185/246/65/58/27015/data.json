@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,knife,lego,music,ws,insecure"
+	"gametype": "empty,awp,knife,lego,music,ws,secure"
 }
