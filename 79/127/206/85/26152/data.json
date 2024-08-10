@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.206.85:26152",
 	"gameport": 26152,
-	"steamid": "85568392925450734",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200807937107972",
+	"name": "Leetify CS2 Practice Mode by Ashton",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
 	"max_players": 11,
-	"bots": 6,
-	"map": "de_dust2",
-	"secure": false,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

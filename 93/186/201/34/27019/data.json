@@ -1,7 +1,7 @@
 {
 	"addr": "93.186.201.34:27019",
 	"gameport": 27019,
-	"steamid": "90200782282741764",
+	"steamid": "90200807792886788",
 	"name": "Sørby Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
