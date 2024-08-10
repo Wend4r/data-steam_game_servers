@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.63.3:27015",
 	"gameport": 27015,
-	"steamid": "90200832254527495",
-	"name": "Counter-Strike 2",
+	"steamid": "90200832564817927",
+	"name": "Angler's CS2-Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

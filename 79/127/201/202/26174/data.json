@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.202:26174",
 	"gameport": 26174,
-	"steamid": "90200803190895646",
+	"steamid": "90200832520846366",
 	"name": "CS Panama",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

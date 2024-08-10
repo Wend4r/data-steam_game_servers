@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26331",
 	"gameport": 26331,
-	"steamid": "90200803046443033",
+	"steamid": "90200832516577305",
 	"name": "PRIMITIF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26904",
 	"gameport": 26904,
-	"steamid": "90200803175002121",
+	"steamid": "90200832486842377",
 	"name": "Ronaldo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

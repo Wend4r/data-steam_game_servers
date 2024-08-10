@@ -2,7 +2,7 @@
 	"addr": "194.93.2.244:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200832515242009",
+	"steamid": "90200832516190233",
 	"name": "MAGNIMUM GAMES ● PUBLIC [128 Tick]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,insecure"
+	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }

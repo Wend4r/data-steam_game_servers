@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26143",
 	"gameport": 26143,
-	"steamid": "90200803100555269",
+	"steamid": "90200832531103749",
 	"name": "Spl1nters CS server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

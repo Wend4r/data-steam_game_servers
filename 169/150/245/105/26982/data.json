@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26982",
 	"gameport": 26982,
-	"steamid": "90200803160421389",
+	"steamid": "90200832645679117",
 	"name": "Farsa Clan Pracc Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

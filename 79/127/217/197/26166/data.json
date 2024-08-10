@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26166",
 	"gameport": 26166,
-	"steamid": "90200803100160005",
+	"steamid": "90200832531282949",
 	"name": "Mobilizatsiya 1.6",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

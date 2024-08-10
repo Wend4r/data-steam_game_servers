@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26125",
 	"gameport": 26125,
-	"steamid": "90200803135935494",
+	"steamid": "90200832455714822",
 	"name": "GIE ALPHA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "79.127.234.193:26918",
 	"gameport": 26918,
 	"specport": 26919,
-	"steamid": "90200803160644621",
+	"steamid": "90200832646287373",
 	"name": "CSS Lobby ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.202:26133",
 	"gameport": 26133,
-	"steamid": "90200803190556702",
+	"steamid": "90200832520726558",
 	"name": "BRUSCAS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.40.182:26036",
 	"gameport": 26036,
-	"specport": 26037,
-	"steamid": "90200803090287616",
+	"steamid": "90200832501004288",
 	"name": "omA's Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

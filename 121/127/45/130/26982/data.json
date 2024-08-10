@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26982",
 	"gameport": 26982,
-	"steamid": "90200803076159495",
+	"steamid": "90200832564698119",
 	"name": "Team Julemix ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
