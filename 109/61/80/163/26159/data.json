@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26159",
 	"gameport": 26159,
-	"specport": 26160,
-	"steamid": "90200799124654102",
+	"steamid": "90200824664950806",
 	"name": "Pokemons",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_nuke",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
