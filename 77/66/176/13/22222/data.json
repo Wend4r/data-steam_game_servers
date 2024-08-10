@@ -1,7 +1,6 @@
 {
 	"addr": "77.66.176.13:22222",
 	"gameport": 22222,
-	"specport": 27020,
 	"steamid": "85568392930343610",
 	"name": "Краснодар |11| Mirage [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 33,
+	"max_players": 32,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
