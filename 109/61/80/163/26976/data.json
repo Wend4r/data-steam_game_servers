@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26976",
 	"gameport": 26976,
-	"steamid": "90200803210878998",
+	"steamid": "90200809783863318",
 	"name": "Team Sentinels",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
