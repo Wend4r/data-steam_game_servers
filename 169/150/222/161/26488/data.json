@@ -2,7 +2,7 @@
 	"addr": "169.150.222.161:26488",
 	"gameport": 26488,
 	"steamid": "85568392923979277",
-	"name": "CS2 HSDM #25 CN",
+	"name": "XPLAY.GG • CS2 HSDM FFA #25 • [CN]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
