@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.35:26680",
 	"gameport": 26680,
-	"steamid": "90200803110246408",
+	"steamid": "90200809533229064",
 	"name": "Above The Rest powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

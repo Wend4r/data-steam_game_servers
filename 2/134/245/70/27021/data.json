@@ -1,0 +1,20 @@
+{
+	"addr": "2.134.245.70:27021",
+	"gameport": 27021,
+	"specport": 27022,
+	"steamid": "85568392930774434",
+	"name": "eBot :: krusty krab vs No`Vince",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 9,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}

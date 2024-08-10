@@ -1,7 +1,8 @@
 {
 	"addr": "121.127.47.33:26408",
 	"gameport": 26408,
-	"steamid": "90200803136261126",
+	"specport": 26409,
+	"steamid": "90200809632957446",
 	"name": "Fresh Food People powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

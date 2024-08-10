@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.34:26123",
 	"gameport": 26123,
-	"steamid": "90200803076365319",
+	"steamid": "90200809573370887",
 	"name": "VantageESC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
