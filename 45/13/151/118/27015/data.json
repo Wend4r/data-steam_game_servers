@@ -2,7 +2,7 @@
 	"addr": "45.13.151.118:27015",
 	"gameport": 27015,
 	"steamid": "85568392926245593",
-	"name": "Counter-Strike 2",
+	"name": "[CS2] - RETAKE.LANNIGHT.RO",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,alltalk,bots,eu,glove,knife,lannight,retake,retakeonly,ro"
 }

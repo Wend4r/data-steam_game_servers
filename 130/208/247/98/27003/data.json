@@ -1,6 +1,7 @@
 {
 	"addr": "130.208.247.98:27003",
 	"gameport": 27003,
+	"specport": 27026,
 	"steamid": "85568392932055942",
 	"name": "Spicy.is | HRingurinn 4",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
