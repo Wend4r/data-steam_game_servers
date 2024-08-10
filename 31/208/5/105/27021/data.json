@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_losttemple_d",
+	"bots": 2,
+	"map": "de_brewery",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
 }

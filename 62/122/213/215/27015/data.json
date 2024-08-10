@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 32,
 	"bots": 1,
-	"map": "ba_jail_Bravo",
+	"map": "jb_mountaincraft_v6",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*grp:5114777i,LastRequest,MyJai,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,"
+	"gametype": "!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,secure"
 }

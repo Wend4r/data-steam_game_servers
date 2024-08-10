@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mi"
+	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage o"
 }
