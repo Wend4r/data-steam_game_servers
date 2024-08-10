@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_thera",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
+	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
 }

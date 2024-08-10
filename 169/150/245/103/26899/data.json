@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.103:26899",
 	"gameport": 26899,
+	"specport": 26900,
 	"steamid": "90200817888631819",
 	"name": "Leetify CS2 Match by aANDRESs ★",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
