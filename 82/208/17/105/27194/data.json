@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 26,
 	"bots": 0,
-	"map": "am_water_gg",
+	"map": "am_dust2014_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mi"
+	"gametype": "128,aim,casual,cz,de,de_,epiczone,eu,fastdl,lag,mirage,mirage o"
 }
