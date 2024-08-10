@@ -1,6 +1,7 @@
 {
 	"addr": "51.195.61.237:30233",
 	"gameport": 30233,
+	"specport": 35076,
 	"steamid": "90200811828254735",
 	"name": "guata",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
