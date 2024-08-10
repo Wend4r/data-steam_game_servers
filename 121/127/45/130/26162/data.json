@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26162",
 	"gameport": 26162,
-	"steamid": "90200781477831687",
+	"steamid": "90200803763276807",
 	"name": "agaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
