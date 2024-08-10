@@ -1,19 +1,20 @@
 {
 	"addr": "212.102.62.210:26956",
 	"gameport": 26956,
-	"steamid": "90200762680967197",
-	"name": "Leetify CS2 Match by svante",
+	"specport": 26957,
+	"steamid": "90200830069715997",
+	"name": "[P] PopFlash Scrim - stockholm - 24",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 12,
+	"players": 9,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,popflash,secure"
 }
