@@ -2,7 +2,7 @@
 	"addr": "91.211.118.96:27018",
 	"gameport": 27018,
 	"steamid": "85568392931886346",
-	"name": "Counter-Strike 2",
+	"name": "CS2 ARENA | 1v1 #12 [UA] — CYBERSHOKE.NET",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,am_ramps_cybershoke,1vs1,1v1,arena,128,128tick,cybershoke"
 }

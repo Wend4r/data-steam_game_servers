@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_assembly",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,k"
+	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,knife,o"
 }
