@@ -1,7 +1,6 @@
 {
 	"addr": "176.112.168.167:27046",
 	"gameport": 27046,
-	"specport": 29046,
 	"steamid": "85568392931051093",
 	"name": "vkplay-csgo08-046",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 1,
-	"map": "first_bluelines",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 1,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 2,
 	"map": "surf_agony_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,/gloves,/knife,/ws,bhop,bunnyhop,community,cs:go,csgo,fun,gloves,knife,kz,map,movement,surf,surfing,ws,secur"
+	"gametype": "empty,!gloves,!knife,!ws,/gloves,/knife,/ws,bhop,bunnyhop,community,cs:go,csgo,fun,gloves,knife,kz,map,movement,surf,surfing,ws"
 }
