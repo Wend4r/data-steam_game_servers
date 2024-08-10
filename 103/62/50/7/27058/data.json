@@ -1,0 +1,19 @@
+{
+	"addr": "103.62.50.7:27058",
+	"gameport": 27058,
+	"steamid": "90200808170694678",
+	"name": "simian gang",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 5,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

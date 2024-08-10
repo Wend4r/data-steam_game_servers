@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26245",
 	"gameport": 26245,
+	"specport": 26246,
 	"steamid": "90200803142339600",
 	"name": "eNsKy esports powered by PRACC.COM",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
