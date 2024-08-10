@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_004_fix",
+	"map": "surf_kitsune_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_004_fix,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_kitsune_fix,secure"
 }
