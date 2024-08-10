@@ -2,18 +2,18 @@
 	"addr": "179.61.251.69:27035",
 	"gameport": 27035,
 	"steamid": "85568392931216323",
-	"name": "[eu] amethyst.rip | setup #1",
+	"name": "[eu] amethyst.rip | setup #1 [NEED 2]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
 	"bots": 0,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,2v2,3v3,4v4,5v5,amethyst,fatality,hvh,neverlose,otc,skeet,insecure"
+	"gametype": "empty,1v1,2v2,3v3,4v4,5v5,amethyst,fatality,hvh,neverlose,otc,skeet,insecure"
 }

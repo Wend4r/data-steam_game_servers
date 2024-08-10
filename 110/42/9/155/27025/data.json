@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_lego_multigames_r1c1",
+	"map": "mg_multigames_devine_is_french",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
 }
