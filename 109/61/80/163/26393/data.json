@@ -2,7 +2,7 @@
 	"addr": "109.61.80.163:26393",
 	"gameport": 26393,
 	"specport": 26394,
-	"steamid": "90200803211085846",
+	"steamid": "90200832536941590",
 	"name": "super sekrit server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 2,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

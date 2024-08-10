@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26145",
 	"gameport": 26145,
-	"steamid": "90200803170053147",
+	"steamid": "90200832712552475",
 	"name": "Michler Retake Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

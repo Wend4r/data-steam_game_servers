@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.184:26865",
 	"gameport": 26865,
+	"specport": 26866,
 	"steamid": "90200832512356354",
 	"name": "The Coliseum",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

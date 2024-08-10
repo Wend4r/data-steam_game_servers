@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Awesome,EU,hvh,rapidfirefix,rapidfix,spread,insecure"
+	"gametype": "empty,Awesome,EU,hvh,rapidfirefix,rapidfix,spread,insecure"
 }

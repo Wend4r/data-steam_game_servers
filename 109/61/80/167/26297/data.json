@@ -2,7 +2,7 @@
 	"addr": "109.61.80.167:26297",
 	"gameport": 26297,
 	"specport": 26298,
-	"steamid": "90200803072079898",
+	"steamid": "90200832682786842",
 	"name": "PLAY.PRACC.COM - [DE] RETAKE - NUKE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

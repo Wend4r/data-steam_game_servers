@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26656",
 	"gameport": 26656,
-	"steamid": "90200803110811656",
+	"steamid": "90200832550331400",
 	"name": "Old Boys ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26149",
 	"gameport": 26149,
-	"steamid": "90200803134696454",
+	"steamid": "90200832671779846",
 	"name": "PumasKIF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

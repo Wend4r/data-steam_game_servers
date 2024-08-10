@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.130:26910",
 	"gameport": 26910,
-	"steamid": "90200803040967702",
+	"steamid": "90200832536966166",
 	"name": "Amiguitos",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "aim_dour",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

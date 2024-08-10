@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26453",
 	"gameport": 26453,
-	"steamid": "90200803165080605",
+	"steamid": "90200832575958045",
 	"name": "Steelwork Warriors",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

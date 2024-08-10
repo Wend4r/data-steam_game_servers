@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.196:26911",
 	"gameport": 26911,
-	"steamid": "90200803196018692",
+	"steamid": "90200832677029892",
 	"name": "new server dugh",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

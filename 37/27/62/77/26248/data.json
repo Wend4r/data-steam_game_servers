@@ -1,7 +1,7 @@
 {
 	"addr": "37.27.62.77:26248",
 	"gameport": 26248,
-	"steamid": "90200803151112210",
+	"steamid": "90200832507218962",
 	"name": "Seurakunta CS2 Retakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

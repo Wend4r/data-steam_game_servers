@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26674",
 	"gameport": 26674,
-	"steamid": "90200803041319958",
+	"steamid": "90200832537043990",
 	"name": "Flaming north academy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

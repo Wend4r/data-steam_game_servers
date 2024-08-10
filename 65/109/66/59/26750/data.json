@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26750",
 	"gameport": 26750,
-	"steamid": "90200803160448013",
+	"steamid": "90200832647138317",
 	"name": "Faded Squad Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

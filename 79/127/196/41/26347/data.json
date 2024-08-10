@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.196.41:26347",
 	"gameport": 26347,
-	"specport": 26348,
 	"steamid": "85568392920458264",
 	"name": "[GR5] Train D2 20h00",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "onevonemap",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

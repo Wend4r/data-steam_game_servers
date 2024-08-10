@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.209.194:26874",
 	"gameport": 26874,
-	"steamid": "90200803121244172",
+	"steamid": "90200832561380364",
 	"name": "Hacha eSports - DatHost",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
