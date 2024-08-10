@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 1,
-	"map": "awp_sakura11",
+	"map": "awp_brawl_strike",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,adminka,anime,avp,awp,awp,awp_lego,csgo,free vip,gl,jailbreak,maniac,no-steam,steam,vip,vipka,ws,zm,zombie,zombie mod,zom"
+	"gametype": "adminka,anime,avp,awp,awp,awp_lego,csgo,free vip,gl,jailbreak,maniac,no-steam,steam,vip,vipka,ws,zm,zombie,zombie mod,zombiemod"
 }
