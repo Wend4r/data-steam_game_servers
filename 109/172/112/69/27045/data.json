@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 64,
 	"bots": 0,
-	"map": "am_banana_gg",
+	"map": "am_texture2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

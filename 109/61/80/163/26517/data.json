@@ -11,9 +11,9 @@
 	"players": 13,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_cache",
+	"map": "de_blackgold_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FUN,secure"
+	"gametype": "FUN,secure"
 }

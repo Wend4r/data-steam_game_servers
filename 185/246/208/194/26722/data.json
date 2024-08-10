@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.194:26722",
 	"gameport": 26722,
-	"steamid": "90200735417950222",
-	"name": "cs2kz_poznan",
+	"steamid": "90200830816986126",
+	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 5,
+	"max_players": 13,
 	"bots": 0,
-	"map": "kz_niche",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
