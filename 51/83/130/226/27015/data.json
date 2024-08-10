@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 26,
 	"bots": 1,
-	"map": "jb_lego_jail_2k24",
+	"map": "jb_improved_alpha",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,viptest,"
+	"gametype": "empty,atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,vi"
 }
