@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26541",
 	"gameport": 26541,
-	"steamid": "90200803209025550",
+	"steamid": "90200803665091598",
 	"name": "NinjaParentz powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

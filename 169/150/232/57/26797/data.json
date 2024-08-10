@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26797",
 	"gameport": 26797,
+	"specport": 26798,
 	"steamid": "85568392930616178",
 	"name": "Phase3 Practice Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
