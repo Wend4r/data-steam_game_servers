@@ -2,7 +2,7 @@
 	"addr": "91.211.118.96:27038",
 	"gameport": 27038,
 	"steamid": "85568392931886712",
-	"name": "Counter-Strike 2",
+	"name": "CS2 EXECUTE #19 [UA] — CYBERSHOKE.NET (9 SLOTS)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,de_inferno,cybershoke,cyber,128,128tick,drop,execute,glov"
 }

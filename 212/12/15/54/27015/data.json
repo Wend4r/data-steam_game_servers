@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 25,
-	"bots": 3,
+	"bots": 1,
 	"map": "rg/$2000$_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,$2000$,128,2000,24/7,aim,drop,free,gl,knife,pub,ru,rusgang,russiangang,skins,ua,vip,viptest,ws,secure"
+	"gametype": "!gloves,!knife,!ws,$2000$,128,2000,24/7,aim,drop,free,gl,knife,pub,ru,rusgang,russiangang,skins,ua,vip,viptest,ws,secure"
 }
