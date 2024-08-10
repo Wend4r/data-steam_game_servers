@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
 	"map": "bhop_nup",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "BHOP,BHOP TIMER,BUNNY HOPS,BUNNYHOPS,FAST DL,FASTDL,FUN,GLOVES,JUMPS,LOW PING,RANKS,SKINS,STATS,STORE,STYLES,SWOOBLES,TIMER,WS,"
+	"gametype": "empty,BHOP,BHOP TIMER,BUNNY HOPS,BUNNYHOPS,FAST DL,FASTDL,FUN,GLOVES,JUMPS,LOW PING,RANKS,SKINS,STATS,STORE,STYLES,SWOOBLES,TIM"
 }
