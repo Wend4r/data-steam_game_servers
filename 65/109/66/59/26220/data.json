@@ -1,19 +1,20 @@
 {
 	"addr": "65.109.66.59:26220",
 	"gameport": 26220,
-	"steamid": "85568392930290213",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26221,
+	"steamid": "90200831740207117",
+	"name": "[P] PopFlash Scrim - helsinki - 24",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_anubis",
-	"secure": false,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,popflash,insecure"
 }

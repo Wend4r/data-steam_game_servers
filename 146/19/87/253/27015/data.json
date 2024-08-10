@@ -1,19 +1,20 @@
 {
 	"addr": "146.19.87.253:27015",
 	"gameport": 27015,
-	"steamid": "85568392931429809",
-	"name": "DAY OF THE DEAD☠ [WARCRAFT ZM | ZE] [RU] CS2",
+	"specport": 37015,
+	"steamid": "85568392932070318",
+	"name": "DAY OF THE DEAD☠[ZM ZE WCS] [CS:GO] [no-steam]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
-	"product": "cs2",
+	"version": "1.38.8.1",
+	"product": "csgo",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "zm_vents_remake_m",
-	"secure": true,
+	"bots": 1,
+	"map": "zm_cube_v7",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze"
 }
