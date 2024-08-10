@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,clutch,clutch,de,cybershoke,128,128tick,cyber,de_mirage,d"
+	"gametype": "clutch,clutch,de,cybershoke,128,128tick,cyber,de_mirage,drop,en"
 }

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 1,
-	"map": "de_vertigo",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,aim,cs2,minimal,secure"
+	"gametype": "empty,128,AntiCheat,aim,cs2,minimal,secure"
 }
