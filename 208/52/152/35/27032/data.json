@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gfl,gflclan,private,surf,secure"
+	"gametype": "gfl,gflclan,private,surf,secure"
 }
