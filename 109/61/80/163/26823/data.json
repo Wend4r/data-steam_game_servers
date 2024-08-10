@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26823",
 	"gameport": 26823,
-	"steamid": "90200812986681366",
+	"steamid": "90200812989155350",
 	"name": "[EU] Aimless HvH Mirage | NO NADES/AWP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,9 +10,9 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
-	"bots": 2,
-	"map": "de_dust2",
-	"secure": true,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
 	"gametype": "empty,dathost,dathost.net,insecure"

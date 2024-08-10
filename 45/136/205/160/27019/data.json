@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 2,
 	"max_players": 64,
 	"bots": 6,
 	"map": "aim_allpistols_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim_allpistols_s,aimdm,aim,128tick,128,cyber,drop,deathma"
+	"gametype": "aim_allpistols_s,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm"
 }
