@@ -1,7 +1,6 @@
 {
 	"addr": "54.37.129.60:27016",
 	"gameport": 27016,
-	"specport": 30002,
 	"steamid": "85568392931593809",
 	"name": "5vs5 | !ws !knife !stickers | HSMANIA.net",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

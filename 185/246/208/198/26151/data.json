@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.198:26151",
 	"gameport": 26151,
-	"steamid": "90200803152115730",
+	"steamid": "90200808985949202",
 	"name": "glupi pedal",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
