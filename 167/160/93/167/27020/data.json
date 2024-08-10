@@ -1,7 +1,7 @@
 {
 	"addr": "167.160.93.167:27020",
 	"gameport": 27020,
-	"steamid": "90200829884748812",
+	"steamid": "90200830096130060",
 	"name": "Scoutzknivez NA DM 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 20,
-	"bots": 7,
+	"bots": 0,
 	"map": "scoutzknivez",
 	"secure": true,
 	"dedicated": true,

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,2x2,2vs2,2v2,de,cybershoke,cyber,de_overpass,drop,duel,ge"
+	"gametype": "2x2,2vs2,2v2,de,cybershoke,cyber,de_overpass,drop,duel,ger,eu,e"
 }
