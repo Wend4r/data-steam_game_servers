@@ -1,7 +1,6 @@
 {
 	"addr": "110.42.36.240:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392932070171",
 	"name": "Yukiaim",
 	"appid": 730,
@@ -12,6 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
