@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_anubis_p",
+	"map": "am_construction",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,dual,duel,fight,multi1v1,pohoda,secure"
+	"gametype": "empty,1v1,dual,duel,fight,multi1v1,pohoda,secure"
 }

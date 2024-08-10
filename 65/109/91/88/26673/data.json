@@ -2,8 +2,8 @@
 	"addr": "65.109.91.88:26673",
 	"gameport": 26673,
 	"specport": 26674,
-	"steamid": "90200820222995468",
-	"name": "ALLINNERS  powered by PRACC.COM",
+	"steamid": "90200820436396044",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
