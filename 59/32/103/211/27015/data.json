@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 1,
+	"players": 2,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_ffxii_feywood_t",
+	"map": "ze_silent_hill_blackblood",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

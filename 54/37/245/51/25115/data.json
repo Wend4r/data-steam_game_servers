@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 2,
-	"map": "surf_nascent_csgo",
+	"map": "surf_sinsane_ez",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_nascent_csgo,secu"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_sinsane_ez,secure"
 }
