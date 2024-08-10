@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,trn,troianos,secure"
+	"gametype": "empty,trn,troianos,insecure"
 }
