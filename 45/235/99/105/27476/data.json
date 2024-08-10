@@ -2,18 +2,18 @@
 	"addr": "45.235.99.105:27476",
 	"gameport": 27476,
 	"steamid": "85568392931619235",
-	"name": "[CSGO] ☆TRYCEGAMING.com.ar☆ | AUTOMIX | ARG/CL/BR |",
+	"name": "[CSGO] ☆TRYCEGAMING.com.ar☆ | ARENA 1v1 | ARG/CL/BR |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 2,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "am_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Argentina,Retake,arg,automix,buenos aires,competitivo,csgo,discord,dust,instant defuse,mirage,mix,rtv,slot reservado,steam,vip,"
+	"gametype": "empty,1v1,Argentina,Retake,am_ ,arena 1v1,arg,automix,buenos aires,competitivo,discord,instant defus,mix,rtv,slot reservado,ste"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 18,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
 }

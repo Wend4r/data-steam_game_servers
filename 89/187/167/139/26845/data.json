@@ -1,0 +1,19 @@
+{
+	"addr": "89.187.167.139:26845",
+	"gameport": 26845,
+	"steamid": "90200825473634331",
+	"name": "Leetify CS2 Retakes by CYKLER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
