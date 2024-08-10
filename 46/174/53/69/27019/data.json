@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 65,
 	"bots": 0,
-	"map": "ze_exchange_innovation_p",
+	"map": "ze_umbrellazombie_v1_p3_final",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russ"
+	"gametype": "empty,!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ek"
 }
