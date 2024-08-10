@@ -1,6 +1,7 @@
 {
 	"addr": "117.147.48.209:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200816504310797",
 	"name": "ZkArena-Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 9,
-	"map": "de_anubis",
+	"bots": 11,
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

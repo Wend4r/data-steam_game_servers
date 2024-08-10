@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "infernohideandseek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,5vs5,ARENA,deathmatch,gloves,hvh\r,retakes,skin,skins,"
+	"gametype": "1v1,5vs5,ARENA,deathmatch,gloves,hvh\r,retakes,skin,skins,ws,sec"
 }
