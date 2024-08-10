@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_backwards",
 	"secure": true,
 	"dedicated": true,
