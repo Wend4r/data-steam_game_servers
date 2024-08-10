@@ -1,0 +1,19 @@
+{
+	"addr": "49.47.130.183:27016",
+	"gameport": 27016,
+	"steamid": "90200824052011031",
+	"name": "cod3x",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

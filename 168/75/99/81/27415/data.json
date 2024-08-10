@@ -1,7 +1,7 @@
 {
 	"addr": "168.75.99.81:27415",
 	"gameport": 27415,
-	"steamid": "90200824028645385",
+	"steamid": "90200824031174665",
 	"name": "STRIKE NETWORK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 24,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

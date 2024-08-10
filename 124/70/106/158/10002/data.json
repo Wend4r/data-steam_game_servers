@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "kz_sxb_poi",
+	"map": "kz_kiwimind",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,climb,gokz,izum1xx,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
+	"gametype": "128-tick,climb,gokz,izum1xx,kreedz,kz,kzclimb,kztimer,simplekz,vanilla,secure"
 }
