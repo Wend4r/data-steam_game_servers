@@ -1,6 +1,7 @@
 {
 	"addr": "45.11.18.236:27142",
 	"gameport": 27142,
+	"specport": 27144,
 	"steamid": "90200811768218654",
 	"name": "Zonked PRACC",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

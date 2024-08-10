@@ -2,18 +2,18 @@
 	"addr": "202.74.162.206:27015",
 	"gameport": 27015,
 	"steamid": "85568392932070252",
-	"name": "Counter-Strike 2",
+	"name": "TroubleChute's Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
+	"region": 255,
+	"players": 1,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

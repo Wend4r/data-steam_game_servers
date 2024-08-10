@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,FG,FGCSGO,fg,fgcsgo,free,pug,secure"
+	"gametype": "empty,5v5,FG,FGCSGO,fg,fgcsgo,free,pug,insecure"
 }

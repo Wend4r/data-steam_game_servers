@@ -1,8 +1,8 @@
 {
 	"addr": "88.198.57.222:33009",
 	"gameport": 33009,
-	"steamid": "90200824964630535",
-	"name": "1 vs1 by \"FreeGameHosting.eu\"",
+	"steamid": "90200830278468615",
+	"name": "aaaaaaa by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
