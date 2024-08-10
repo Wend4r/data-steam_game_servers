@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.47.33:26464",
 	"gameport": 26464,
-	"steamid": "90200812215811078",
+	"steamid": "90200812381776902",
 	"name": "simian gang2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,dathost,dathost.net,gang,jibby,retake,scouts,scoutz,"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
