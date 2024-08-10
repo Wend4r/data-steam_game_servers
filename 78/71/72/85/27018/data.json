@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 18,
-	"map": "de_brewery",
+	"bots": 0,
+	"map": "de_palais",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

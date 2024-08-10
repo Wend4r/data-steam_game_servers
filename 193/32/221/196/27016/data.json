@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "deathrun_forest2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,balkan,br,brutalci,srb,ws,secure"
+	"gametype": "balkan,br,brutalci,srb,ws,secure"
 }
