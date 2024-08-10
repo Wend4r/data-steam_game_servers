@@ -1,7 +1,7 @@
 {
 	"addr": "146.19.87.44:27018",
 	"gameport": 27018,
-	"steamid": "90200816110348317",
+	"steamid": "90200816325995549",
 	"name": "server cs2 test mirage",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
