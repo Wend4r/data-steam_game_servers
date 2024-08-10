@@ -1,7 +1,6 @@
 {
 	"addr": "45.179.91.41:27144",
 	"gameport": 27144,
-	"specport": 28144,
 	"steamid": "85568392931505492",
 	"name": "GameSe.gg",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 2,
-	"max_players": 14,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

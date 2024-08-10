@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33013",
 	"gameport": 33013,
-	"steamid": "90200830923985927",
-	"name": "1vs1 by \"FreeGameHosting.eu\"",
+	"steamid": "90200831941621767",
+	"name": "3213213213 by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

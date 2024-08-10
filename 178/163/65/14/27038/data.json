@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 9,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secu"
+	"gametype": "!,$,128,63,ffa,neo,neostrike,prime,retake,samara,tlt,secure"
 }
