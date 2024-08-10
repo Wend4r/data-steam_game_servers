@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 32,
-	"bots": 2,
-	"map": "de_brewery",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,secure"
+	"gametype": "empty,Custom Maps,Old Swedes,OldSwedes,cs2,workshop,insecure"
 }
