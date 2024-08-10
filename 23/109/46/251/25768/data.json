@@ -1,7 +1,7 @@
 {
 	"addr": "23.109.46.251:25768",
 	"gameport": 25768,
-	"steamid": "90200789613944861",
+	"steamid": "90200814561284125",
 	"name": "Apex Hosting Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
