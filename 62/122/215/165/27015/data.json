@@ -3,7 +3,7 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931858835",
-	"name": "МОЛОДЁЖНЫЙ СЕРВЕР⇝ ▀█▀ ██ █▀█",
+	"name": "МОЛОДЁЖНЫЙ СЕРВЕР",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "mg_poreco_yea",
+	"map": "mg_jump_21_yea_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!shop,!vip,anime,bhop,mg,minigame,rank,secure"
+	"gametype": "empty,bhop,secure"
 }
