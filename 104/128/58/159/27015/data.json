@@ -2,18 +2,18 @@
 	"addr": "104.128.58.159:27015",
 	"gameport": 27015,
 	"steamid": "85568392931153262",
-	"name": "=(eGO)= | EVENTS | MINIGAMES | EdgeGamers.com",
+	"name": "=(eGO)= | EVENTS | COMBAT SURF | EdgeGamers.com",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_multigames_devine_is_french",
+	"map": "surf_greatriver_xdre4m_so_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "EdgeGamers,Event,Events,couse,eGO,edgegamers,ego,event,events,g"
+	"gametype": "EdgeGamers,Event,Events,combat,combatsurf,eGO,edgegamers,ego,ev"
 }
