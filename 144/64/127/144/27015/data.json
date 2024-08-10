@@ -9,11 +9,10 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 64,
+	"max_players": 10,
 	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "empty,secure"
+	"os": "w"
 }
