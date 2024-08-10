@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26418",
 	"gameport": 26418,
+	"specport": 26419,
 	"steamid": "90200803175041033",
 	"name": "Fredericia Esport",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
