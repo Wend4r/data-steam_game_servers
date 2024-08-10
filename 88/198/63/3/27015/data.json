@@ -1,7 +1,7 @@
 {
 	"addr": "88.198.63.3:27015",
 	"gameport": 27015,
-	"steamid": "90200823004537863",
+	"steamid": "90200831092654087",
 	"name": "Angler sein cs server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

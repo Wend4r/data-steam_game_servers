@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:48155",
 	"gameport": 48155,
-	"steamid": "90200801708258318",
+	"steamid": "90200831176542222",
 	"name": "OnlyGG",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
