@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_chicken_lords_tower_p",
+	"map": "ze_defense3002_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,lego2,no"
+	"gametype": "empty,OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,le"
 }

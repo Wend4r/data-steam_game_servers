@@ -8,12 +8,12 @@
 	"version": "1.37.6.4",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16k,2020,HVH,insecure"
+	"gametype": "empty,16k,2020,HVH,insecure"
 }
