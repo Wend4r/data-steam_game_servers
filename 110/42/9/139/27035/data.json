@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 18,
+	"players": 61,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_tesv_skyrim_i",
+	"map": "ze_20_seconds_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
