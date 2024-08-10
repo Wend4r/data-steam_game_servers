@@ -1,19 +1,19 @@
 {
 	"addr": "62.182.159.99:27115",
 	"gameport": 27115,
-	"steamid": "90200793057674246",
+	"steamid": "90200812052027398",
 	"name": "➥ ███ [LEGB.PRO] MANIAC [!WS, FREEVIP]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "seek_violetto",
+	"map": "seek_town",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
