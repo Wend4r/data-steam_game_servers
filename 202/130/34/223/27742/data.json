@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 5,
-	"map": "surf_innokia",
+	"map": "surf_polytron",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!knife,killzone,killzone gaming,knife,credits,knifes,guns,easy surf,!ws,kzg,glove,easy,gloves,prizes,raffle,shop,skins,su"
+	"gametype": "!knife,killzone,killzone gaming,knife,credits,knifes,guns,easy surf,!ws,kzg,glove,easy,gloves,prizes,raffle,shop,skins,surf,ws,"
 }

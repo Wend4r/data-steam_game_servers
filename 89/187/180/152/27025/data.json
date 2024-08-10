@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.180.152:27025",
 	"gameport": 27025,
-	"steamid": "90200803044500505",
+	"steamid": "90200812596965401",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
