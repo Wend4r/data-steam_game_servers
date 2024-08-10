@@ -1,19 +1,19 @@
 {
 	"addr": "62.182.159.99:27215",
 	"gameport": 27215,
-	"steamid": "90200812052238342",
+	"steamid": "90200820225536006",
 	"name": "➥ ███ [LEGB.PRO] STANDOFF #2 [!WS, FREEVIP]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "sandstone_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
