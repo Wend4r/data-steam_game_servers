@@ -1,6 +1,7 @@
 {
 	"addr": "141.95.72.175:30010",
 	"gameport": 30010,
+	"specport": 35088,
 	"steamid": "90200811848157207",
 	"name": "Vendetta Gaming | PL Talent",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

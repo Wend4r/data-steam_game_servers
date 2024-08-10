@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.245.105:26920",
 	"gameport": 26920,
-	"steamid": "90200809547630605",
-	"name": "LEON powered by PRACC.COM",
+	"steamid": "90200820105957389",
+	"name": "SASHI-ACD powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
