@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26593",
 	"gameport": 26593,
+	"specport": 26594,
 	"steamid": "90200803086818321",
 	"name": "Horizon Scrim Server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
