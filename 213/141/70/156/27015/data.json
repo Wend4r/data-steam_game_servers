@@ -1,8 +1,8 @@
 {
 	"addr": "213.141.70.156:27015",
 	"gameport": 27015,
-	"steamid": "90200818706575362",
-	"name": "cs2 private server",
+	"steamid": "85568392930731923",
+	"name": "luundblad.com | smoke practice server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,8 +12,8 @@
 	"max_players": 10,
 	"bots": 2,
 	"map": "de_inferno",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
