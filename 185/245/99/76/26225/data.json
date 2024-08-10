@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26225",
 	"gameport": 26225,
-	"steamid": "90200803346120718",
+	"steamid": "90200803980260366",
 	"name": "Let Her Cook powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

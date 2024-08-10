@@ -1,0 +1,18 @@
+{
+	"addr": "3.28.252.233:27015",
+	"gameport": 27015,
+	"steamid": "85568392931243834",
+	"name": "Riyadh CS2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 6,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l"
+}
