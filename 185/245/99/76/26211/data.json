@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26211",
 	"gameport": 26211,
-	"steamid": "90200800156470286",
-	"name": "Team Syndicate (Open) powered by PRACC.COM",
+	"specport": 26212,
+	"steamid": "90200823923116046",
+	"name": "WnK Navy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 5,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

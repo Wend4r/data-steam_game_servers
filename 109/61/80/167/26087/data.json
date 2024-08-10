@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26087",
 	"gameport": 26087,
+	"specport": 26088,
 	"steamid": "90200823977623578",
 	"name": "ZTAP MOTORS",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 10,
+	"map": "de_beerhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

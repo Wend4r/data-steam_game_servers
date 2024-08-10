@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 30,
 	"bots": 0,
 	"map": "am_water_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
+	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
 }
