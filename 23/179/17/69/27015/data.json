@@ -2,18 +2,18 @@
 	"addr": "23.179.17.69:27015",
 	"gameport": 27015,
 	"steamid": "85568392930579582",
-	"name": "Counter-Strike 2",
+	"name": "[MG] Debug server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 64,
+	"max_players": 44,
 	"bots": 0,
 	"map": "jb_electric_mercury",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,!,!knives,!skins,!ws,1v1,24/7,_,comp,drops,drugs,gang,gfl"
 }

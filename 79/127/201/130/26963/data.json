@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.201.130:26963",
+	"gameport": 26963,
+	"steamid": "90200832040098838",
+	"name": "AYE12488",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 7,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

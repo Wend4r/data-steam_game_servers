@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 1,
 	"max_players": 16,
-	"bots": 1,
-	"map": "gg_texture_city_advanced_go_w",
+	"bots": 4,
+	"map": "gg_lego_arena_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,uwu"
+	"gametype": "empty,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,pri"
 }
