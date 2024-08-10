@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 5,
 	"max_players": 38,
-	"bots": 4,
-	"map": "de_vertigo",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,U"
+	"gametype": "!gloves,!knife,!ws,(^^Gravity^^),16+,Free_Skins,Gravity,Ukraine"
 }

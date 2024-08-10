@@ -1,0 +1,19 @@
+{
+	"addr": "188.19.55.140:27018",
+	"gameport": 27018,
+	"steamid": "85568392932060915",
+	"name": "[OG] SRV #1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_shortdust",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "*grp:5114777i,secure"
+}
