@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim_map_carton,aimdm,aim,128tick,128,cyber,drop,deathmatc"
+	"gametype": "aim_map_carton,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm,c"
 }
