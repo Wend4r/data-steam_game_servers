@@ -1,8 +1,7 @@
 {
 	"addr": "162.55.98.163:27040",
 	"gameport": 27040,
-	"specport": 37040,
-	"steamid": "90200788566414344",
+	"steamid": "90200808610366472",
 	"name": "FruchtLabor - Pug 1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "mg_lego_multigames",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
