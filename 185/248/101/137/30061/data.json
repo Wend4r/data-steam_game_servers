@@ -1,7 +1,7 @@
 {
 	"addr": "185.248.101.137:30061",
 	"gameport": 30061,
-	"steamid": "85568392932059983",
+	"steamid": "85568392932070179",
 	"name": "ТУРНИР ОТ AIZEK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

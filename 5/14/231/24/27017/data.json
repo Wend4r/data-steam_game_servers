@@ -1,0 +1,19 @@
+{
+	"addr": "5.14.231.24:27017",
+	"gameport": 27017,
+	"steamid": "85568392931859906",
+	"name": "2018 CS:GO TEST SERVER",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.36.2.9",
+	"product": "csgo",
+	"region": 255,
+	"players": 1,
+	"max_players": 30,
+	"bots": 0,
+	"map": "dev_fakelag",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "128tick,hsonly,hvh,nospread,unknowncheats,insecure"
+}

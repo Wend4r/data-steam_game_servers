@@ -2,8 +2,8 @@
 	"addr": "212.102.62.209:26959",
 	"gameport": 26959,
 	"specport": 26960,
-	"steamid": "90200809647643676",
-	"name": "ProthX Esports powered by PRACC.COM",
+	"steamid": "90200826399448092",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
