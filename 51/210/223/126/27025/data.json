@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "mg_damons_headshot_b2",
+	"map": "mg_skeet_multigames_v7",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

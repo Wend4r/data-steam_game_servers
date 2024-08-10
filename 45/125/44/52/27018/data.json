@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_twisted_theme_multigames_v1_",
+	"map": "mg_hn_downthetoilet_v1b2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,93x,bbs.93x.net,game,mg,multigames,xnet,secure"
+	"gametype": "93x,bbs.93x.net,game,mg,multigames,xnet,secure"
 }
