@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26092",
 	"gameport": 26092,
-	"steamid": "90200824709684233",
+	"steamid": "90200826191430665",
 	"name": "RETAKE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

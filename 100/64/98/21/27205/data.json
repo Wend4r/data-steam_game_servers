@@ -10,10 +10,10 @@
 	"region": 6,
 	"players": 4,
 	"max_players": 64,
-	"bots": 6,
+	"bots": 5,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

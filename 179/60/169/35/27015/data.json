@@ -1,0 +1,19 @@
+{
+	"addr": "179.60.169.35:27015",
+	"gameport": 27015,
+	"steamid": "90200826145455118",
+	"name": "TNT GAMES",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.0.6",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "cs_agency",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

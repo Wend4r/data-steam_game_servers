@@ -12,9 +12,9 @@
 	"players": 7,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FRIDIKS,dathost,dathost.net,secure"
+	"gametype": "FRIDIKS,dathost,dathost.net,secure"
 }
