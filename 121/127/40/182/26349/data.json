@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26349",
 	"gameport": 26349,
-	"steamid": "90200808126090240",
+	"steamid": "90200808126775296",
 	"name": "Server #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
-	"map": "aim_nuke_hall",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

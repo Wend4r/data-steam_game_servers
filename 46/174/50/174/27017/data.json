@@ -2,19 +2,19 @@
 	"addr": "46.174.50.174:27017",
 	"gameport": 27017,
 	"specport": 28017,
-	"steamid": "90200790701499402",
+	"steamid": "90200808042689546",
 	"name": "★TЮPЯГA!★ ПEPEДOBOЙ Jail ► SourceGaming.RU",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "jb_playorrebel_surfamgbhopawp",
+	"map": "jb_encore_jail_sgaming_final",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
+	"gametype": "empty,!,!lr,$,am,am_,ba,ba_,bhop,bhop_,cybershoke,jail,jail_,jb,jb_,mg,mg_,secure,sgaming,surf,surf_,ze,ze_,zm,zm_,insecure"
 }
