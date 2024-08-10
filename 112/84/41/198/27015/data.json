@@ -1,7 +1,7 @@
 {
 	"addr": "112.84.41.198:27015",
 	"gameport": 27015,
-	"steamid": "90200811055396868",
+	"steamid": "90200811057548292",
 	"name": "Yinparty",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

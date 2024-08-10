@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_moonjail_v2_hdr",
+	"map": "jb_ba_summer_jail_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!bajail,!jail,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,vip,zm,z"
+	"gametype": "!bajail,!jail,1vs1,35hp,admin,aim,aim,awp,ba,ba_,bhop,deathrun,gloves,gmod,jail,jail_,jailbreak,jb,jb_,only,surf,vip,zm,zombie,"
 }
