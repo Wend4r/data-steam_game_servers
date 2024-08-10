@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.209:26942",
 	"gameport": 26942,
+	"specport": 26943,
 	"steamid": "90200831590058012",
 	"name": "FRID IKS - CS2 Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 10,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FRIDIKS,dathost,dathost.net,secure"
+	"gametype": "FRIDIKS,dathost,dathost.net,secure"
 }

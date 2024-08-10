@@ -1,0 +1,19 @@
+{
+	"addr": "45.235.99.105:27871",
+	"gameport": 27871,
+	"steamid": "85568392932070240",
+	"name": "Counter-Strike: Global Offensive",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "/491358151/bkz_blackrockshooter",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
