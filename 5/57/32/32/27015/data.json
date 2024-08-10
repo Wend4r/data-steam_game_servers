@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 18,
 	"bots": 0,
-	"map": "awp_lego_2011",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
