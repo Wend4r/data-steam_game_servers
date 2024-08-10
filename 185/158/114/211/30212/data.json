@@ -1,7 +1,7 @@
 {
 	"addr": "185.158.114.211:30212",
 	"gameport": 30212,
-	"steamid": "90200800015495188",
+	"steamid": "90200818093622292",
 	"name": "gavno",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
