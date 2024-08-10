@@ -2,18 +2,18 @@
 	"addr": "141.94.98.165:27045",
 	"gameport": 27045,
 	"steamid": "85568392930476473",
-	"name": "★ CS2 DUST2 DM | !ws-!knife-!agents-!gloves ★ cOLa-TeaM.es",
+	"name": "☢ ZOMBIE ESCAPE ☢ TEST SV ☢ cOLa-TeaM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 40,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cola,colateam,colateames,cs2,dm,dmcfg,dmmulti,dmmulticfg,"
+	"gametype": "empty,agents,cola,colateam,cs2,españa,gloves,heeffects,knife,s"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 2,
 	"map": "bhop_dust_v2_b1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,100-Tick,100t,auto,autobhop,bhop,community,en,english,eu,ger,german,horizon,phc,purple,purple-horizon-community,rank,time"
+	"gametype": "100-Tick,100t,auto,autobhop,bhop,community,en,english,eu,ger,german,horizon,phc,purple,purple-horizon-community,rank,timer,secu"
 }

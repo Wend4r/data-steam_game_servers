@@ -1,7 +1,7 @@
 {
 	"addr": "84.217.109.26:27015",
 	"gameport": 27015,
-	"steamid": "90200785509447688",
+	"steamid": "90200811666667528",
 	"name": "Inferno CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
