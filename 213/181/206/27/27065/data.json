@@ -11,7 +11,7 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 25,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,

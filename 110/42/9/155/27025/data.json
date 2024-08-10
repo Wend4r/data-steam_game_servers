@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 37,
+	"players": 30,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_fun_matrix_trilogie_rc2_fys",
+	"map": "mg_weapon_case_arenas_v1_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
 }
