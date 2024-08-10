@@ -2,18 +2,18 @@
 	"addr": "138.94.223.42:27015",
 	"gameport": 27015,
 	"steamid": "85568392931335951",
-	"name": "TEST",
+	"name": "[HvH] Low HvH 2k18",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
-	"product": "cs2",
+	"version": "1.36.2.9",
+	"product": "csgo",
 	"region": 2,
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aimware,HvH,fatality,fatality,hack,hackvshack,hvh,neverlo"
+	"gametype": "empty,2018,2k18,64tick,HvH,brasil,brazil,cheat,fatality,gamesense ,hack,hackvshack,hvh,insecure,neverlose,nl,skeet,insecure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26260",
 	"gameport": 26260,
+	"specport": 26261,
 	"steamid": "90200810189283342",
 	"name": "HAVENs powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

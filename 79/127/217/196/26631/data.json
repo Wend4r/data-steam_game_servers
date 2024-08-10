@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.217.196:26631",
+	"gameport": 26631,
+	"specport": 26632,
+	"steamid": "90200810035416068",
+	"name": "Leetify CS2 Surf by Malamare",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
