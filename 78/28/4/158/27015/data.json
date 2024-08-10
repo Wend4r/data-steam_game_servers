@@ -2,7 +2,7 @@
 	"addr": "78.28.4.158:27015",
 	"gameport": 27015,
 	"steamid": "85568392932060928",
-	"name": "TroubleChute's Test Server",
+	"name": "Koczala",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,8 +12,8 @@
 	"max_players": 64,
 	"bots": 2,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
