@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:26084",
 	"gameport": 26084,
+	"specport": 26085,
 	"steamid": "90200817524457490",
 	"name": "ALLINNERS  powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 5,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
