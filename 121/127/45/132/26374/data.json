@@ -1,20 +1,19 @@
 {
 	"addr": "121.127.45.132:26374",
 	"gameport": 26374,
-	"specport": 26375,
-	"steamid": "90200829523742729",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200829525891081",
+	"name": "Espergærde Esport Elite powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_inferno",
+	"players": 2,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

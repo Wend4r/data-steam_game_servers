@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "surf_blackheart",
+	"bots": 3,
+	"map": "surf_barbies_malibu_adventure",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,85tick,csgo,surf,surfsup,surfsupcs,secure"
+	"gametype": "85tick,csgo,surf,surfsup,surfsupcs,secure"
 }

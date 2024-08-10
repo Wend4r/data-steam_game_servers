@@ -1,19 +1,19 @@
 {
 	"addr": "62.122.214.156:27015",
 	"gameport": 27015,
-	"steamid": "90200829269446657",
+	"steamid": "90200829271135233",
 	"name": "madjokerplay_cs",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 4,
 	"max_players": 24,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_dust2_reworked",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

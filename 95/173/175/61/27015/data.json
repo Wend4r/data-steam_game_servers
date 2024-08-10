@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "aim_redline_23",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Arianin siki,secure"
+	"gametype": "Arianin siki,secure"
 }
