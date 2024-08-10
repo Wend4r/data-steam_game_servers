@@ -1,19 +1,19 @@
 {
 	"addr": "112.84.41.198:27015",
 	"gameport": 27015,
-	"steamid": "90200809359845380",
+	"steamid": "90200809031869444",
 	"name": "Yinparty",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
-	"max_players": 10,
-	"bots": 1,
-	"map": "aim_map",
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
