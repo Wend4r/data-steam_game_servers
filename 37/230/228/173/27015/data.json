@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_runordie_final",
+	"map": "mg_ski_mountain_csgo_esl",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gloves,merryproject,minigame,no-steam,ws,secure"
+	"gametype": "gloves,merryproject,minigame,no-steam,ws,secure"
 }

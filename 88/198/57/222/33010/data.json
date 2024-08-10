@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33010",
 	"gameport": 33010,
-	"steamid": "90200824043911175",
-	"name": "ggg by \"FreeGameHosting.eu\"",
+	"steamid": "90200831262924807",
+	"name": "yusufagottenGG by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "aim_botz",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
