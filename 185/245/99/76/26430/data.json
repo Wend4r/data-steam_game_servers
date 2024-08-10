@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26430",
 	"gameport": 26430,
-	"steamid": "90200809743421454",
+	"steamid": "90200817692875790",
 	"name": "CPH Wolves powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
