@@ -1,6 +1,7 @@
 {
 	"addr": "193.19.119.127:30232",
 	"gameport": 30232,
+	"specport": 40232,
 	"steamid": "85568392932057337",
 	"name": "MANIAC#1 GGRES",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 25,
-	"bots": 0,
-	"map": "seek_aztec_ggr",
+	"bots": 1,
+	"map": "krevetka04_ggr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,6 +1,7 @@
 {
 	"addr": "82.208.17.101:27775",
 	"gameport": 27775,
+	"specport": 26775,
 	"steamid": "85568392931650581",
 	"name": "PLAYzone #25 by FakaHeda.eu",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 11,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PLAYzone,secure"
+	"gametype": "PLAYzone,secure"
 }
