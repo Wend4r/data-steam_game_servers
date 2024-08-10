@@ -1,7 +1,7 @@
 {
 	"addr": "204.111.161.208:27016",
 	"gameport": 27016,
-	"steamid": "90200777972865028",
+	"steamid": "90200804559907844",
 	"name": "vibing server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_bigcastle",
+	"map": "kz_district_d01",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
