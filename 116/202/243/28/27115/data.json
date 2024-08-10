@@ -1,8 +1,7 @@
 {
 	"addr": "116.202.243.28:27115",
 	"gameport": 27115,
-	"specport": 27120,
-	"steamid": "90200782146199567",
+	"steamid": "90200807739305999",
 	"name": "Explicit",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
