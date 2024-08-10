@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim_allpistols_s,aimdm,aim,128tick,128,cyber,drop,deathma"
+	"gametype": "aim_allpistols_s,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm"
 }

@@ -12,9 +12,9 @@
 	"players": 23,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
+	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
 }
