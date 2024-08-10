@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 13,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "multicfgdm,multicfg,multi,multidm,dm,ffa,deathmatch,se,128,128t"
+	"gametype": "empty,multicfgdm,multicfg,multi,multidm,dm,ffa,deathmatch,se,12"
 }
