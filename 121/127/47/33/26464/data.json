@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.33:26464",
 	"gameport": 26464,
-	"steamid": "90200814977313798",
+	"steamid": "90200814981329926",
 	"name": "simian gang2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

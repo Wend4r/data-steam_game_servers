@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,de_dust2,ffa,notk,insecure"
+	"gametype": "empty,de_dust2,ffa,notk,secure"
 }
