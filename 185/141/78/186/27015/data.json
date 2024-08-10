@@ -1,19 +1,19 @@
 {
 	"addr": "185.141.78.186:27015",
 	"gameport": 27015,
-	"steamid": "90200789538357278",
-	"name": "Competitive CS2 server << powered by cs2-multiserver",
+	"steamid": "85568392931027741",
+	"name": "[CS2]**BUNKER 5vs5 SERVER #1**|PUBLIC|",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 13,
-	"bots": 2,
-	"map": "de_inferno",
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,msm,secure"
+	"gametype": "empty,BUNKER,Buzuluk,GAMECLUB,competitive,public,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.116.73:27015",
 	"gameport": 27015,
-	"steamid": "90200803114569752",
+	"steamid": "90200810391355416",
 	"name": "|.aG. | Anarchy Hell NYC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 18,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

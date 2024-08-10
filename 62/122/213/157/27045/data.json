@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "5x5,5vs5,5v5,cybershoke,cyber,de_overpass,drop,duel,gloves,knif"
+	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_overpass,drop,duel,glove"
 }
