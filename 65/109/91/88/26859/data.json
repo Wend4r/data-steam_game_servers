@@ -1,7 +1,8 @@
 {
 	"addr": "65.109.91.88:26859",
 	"gameport": 26859,
-	"steamid": "90200830829270028",
+	"specport": 26860,
+	"steamid": "90200831196172300",
 	"name": "Arkade Taiga",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
