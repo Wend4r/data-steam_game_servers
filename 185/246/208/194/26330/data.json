@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.194:26330",
 	"gameport": 26330,
+	"specport": 26331,
 	"steamid": "90200803510307854",
 	"name": "waiomy powered by PRACC.COM",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
