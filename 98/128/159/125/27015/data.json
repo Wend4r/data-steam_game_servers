@@ -1,19 +1,19 @@
 {
 	"addr": "98.128.159.125:27015",
 	"gameport": 27015,
-	"steamid": "90200825039758360",
+	"steamid": "90200825315624984",
 	"name": "zhell",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
 	"map": "mg_savetheisland_course",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
