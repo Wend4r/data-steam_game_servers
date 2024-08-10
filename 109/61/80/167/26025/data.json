@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26025",
 	"gameport": 26025,
+	"specport": 26026,
 	"steamid": "90200803071332378",
 	"name": "Superion Gaming",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 6,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
