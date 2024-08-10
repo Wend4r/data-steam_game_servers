@@ -1,7 +1,7 @@
 {
 	"addr": "84.65.152.173:27015",
 	"gameport": 27015,
-	"steamid": "90200819306737671",
+	"steamid": "90200819468944391",
 	"name": "Zenplay CS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
