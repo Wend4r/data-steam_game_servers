@@ -1,6 +1,7 @@
 {
 	"addr": "185.166.234.23:27145",
 	"gameport": 27145,
+	"specport": 27150,
 	"steamid": "90200831952408599",
 	"name": "ES 44",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 10,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
