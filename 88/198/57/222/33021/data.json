@@ -1,19 +1,19 @@
 {
 	"addr": "88.198.57.222:33021",
 	"gameport": 33021,
-	"steamid": "90200801295846407",
-	"name": "sami by \"FreeGameHosting.eu\"",
+	"steamid": "90200830449269767",
+	"name": "ISI by \"FreeGameHosting.eu\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }

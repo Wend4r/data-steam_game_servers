@@ -1,7 +1,7 @@
 {
 	"addr": "80.133.23.196:27015",
 	"gameport": 27015,
-	"steamid": "90200827182392320",
+	"steamid": "90200830304619520",
 	"name": "[NFC]*Funserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_akiba",
+	"map": "copper_cs2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
