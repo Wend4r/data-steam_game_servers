@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 5,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 0,
 	"map": "kz_orbolution_v2",
 	"secure": true,
 	"dedicated": true,
