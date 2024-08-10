@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 2,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_shortnuke",
 	"secure": false,
 	"dedicated": true,
