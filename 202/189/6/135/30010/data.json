@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "cs_assault_classic",
+	"map": "de_outferno2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
