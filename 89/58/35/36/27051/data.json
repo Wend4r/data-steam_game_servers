@@ -1,6 +1,7 @@
 {
 	"addr": "89.58.35.36:27051",
 	"gameport": 27051,
+	"specport": 27020,
 	"steamid": "90200803365051422",
 	"name": "VnS Pracc Server | VnG",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

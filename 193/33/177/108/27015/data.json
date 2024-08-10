@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "am_banana_gg",
+	"map": "am_aztec_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,mul"
+	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,multi are"
 }
