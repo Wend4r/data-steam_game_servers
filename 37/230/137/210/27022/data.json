@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 8,
-	"map": "de_dust2",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,publi"
+	"gametype": "\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,public,vip,"
 }
