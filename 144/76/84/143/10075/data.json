@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10075",
 	"gameport": 10075,
-	"steamid": "90200830438472713",
-	"name": "Venoxity Gaming - free @ fshost.me",
+	"steamid": "90200830770630665",
+	"name": "0rki die g3ile S@u! - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
-	"max_players": 12,
+	"max_players": 14,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
