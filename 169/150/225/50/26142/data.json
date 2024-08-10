@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.225.50:26142",
 	"gameport": 26142,
-	"steamid": "85568392925450873",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"specport": 26143,
+	"steamid": "90200812820370452",
+	"name": "Leetify CS2 KZ by HangnLow",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 16,
+	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

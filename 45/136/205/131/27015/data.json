@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,no-steam,secure"
+	"gametype": "no-steam,secure"
 }
