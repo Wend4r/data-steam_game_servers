@@ -1,19 +1,19 @@
 {
 	"addr": "37.27.62.77:26084",
 	"gameport": 26084,
-	"steamid": "85568392925438914",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200817524457490",
+	"name": "ALLINNERS  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
+	"region": 255,
+	"players": 2,
+	"max_players": 14,
+	"bots": 1,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26139",
 	"gameport": 26139,
 	"specport": 26140,
-	"steamid": "90200809880589326",
+	"steamid": "90200817514467342",
 	"name": "1H Gaming powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 18,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
