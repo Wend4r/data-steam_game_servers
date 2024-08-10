@@ -1,7 +1,7 @@
 {
 	"addr": "176.57.140.164:27015",
 	"gameport": 27015,
-	"steamid": "90200824272699407",
+	"steamid": "90200824274091023",
 	"name": "cyberclub",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 2,
-	"map": "de_nuke",
-	"secure": true,
+	"map": "cs_italy",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -11,9 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
+	"map": "am_dust_64",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

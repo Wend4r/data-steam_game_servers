@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 30,
 	"bots": 0,
 	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam,secure"
+	"gametype": "empty,no-steam,secure"
 }
