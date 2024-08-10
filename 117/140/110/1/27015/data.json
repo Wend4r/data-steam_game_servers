@@ -1,6 +1,7 @@
 {
 	"addr": "117.140.110.1:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200809596920846",
 	"name": "Counter-Strike: Global Offensive dedicated server",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 9,
-	"map": "de_vertigo",
+	"bots": 11,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
