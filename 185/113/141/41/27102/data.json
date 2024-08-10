@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
-	"bots": 1,
-	"map": "am_dust2_texas4pt",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tickrate,ARENA,ARENAS,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,coin,mm,rank"
+	"gametype": "empty,128tickrate,ARENA,ARENAS,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,coin,m"
 }
