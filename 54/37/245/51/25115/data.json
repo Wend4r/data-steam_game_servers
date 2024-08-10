@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 64,
-	"bots": 2,
-	"map": "surf_sinsane_ez",
+	"bots": 3,
+	"map": "surf_cyka_ksf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_sinsane_ez,secure"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_cyka_ksf,secure"
 }

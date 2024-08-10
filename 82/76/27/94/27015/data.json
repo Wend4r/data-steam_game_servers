@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_summer_jail",
+	"map": "jail_west_v2_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!skins,!ws,alphacs,break,e,elitegamers,gge"
+	"gametype": "!gloves,!knife,!skins,!ws,alphacs,break,e,elitegamers,ggez,indu"
 }
