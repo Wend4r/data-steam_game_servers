@@ -2,7 +2,7 @@
 	"addr": "46.135.38.194:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200823287666716",
+	"steamid": "90200823825587228",
 	"name": "GOKZ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "increased_maxplayers,insecure"
 }

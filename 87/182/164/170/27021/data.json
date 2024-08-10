@@ -1,19 +1,18 @@
 {
 	"addr": "87.182.164.170:27021",
 	"gameport": 27021,
-	"steamid": "90200802662305823",
-	"name": "[DE] surf aquaflow 24/7",
+	"steamid": "90200823761625119",
+	"name": "[DE] surf aquaflow 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_aquaflow",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "empty,secure"
+	"os": "w"
 }

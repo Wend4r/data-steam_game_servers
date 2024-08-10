@@ -1,6 +1,7 @@
 {
 	"addr": "77.221.151.122:27101",
 	"gameport": 27101,
+	"specport": 27020,
 	"steamid": "85568392930469249",
 	"name": "CS2 [iDGAME.NET] AWP OnLy",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxp"
+	"gametype": "!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,"
 }
