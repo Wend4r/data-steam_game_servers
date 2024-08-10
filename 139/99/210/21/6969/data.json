@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_beginner",
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Surf,secure"
+	"gametype": "128,AntiCheat,Surf,secure"
 }

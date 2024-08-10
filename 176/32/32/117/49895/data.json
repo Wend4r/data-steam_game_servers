@@ -11,9 +11,9 @@
 	"players": 30,
 	"max_players": 64,
 	"bots": 0,
-	"map": "bhop_arcane",
+	"map": "mg_savetheisland_course",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
