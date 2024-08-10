@@ -1,20 +1,19 @@
 {
 	"addr": "212.102.62.210:26246",
 	"gameport": 26246,
-	"specport": 26247,
-	"steamid": "90200585936105501",
+	"steamid": "90200828972081181",
 	"name": "N.S.A Inhouse",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 4,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
