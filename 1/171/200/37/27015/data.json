@@ -1,0 +1,19 @@
+{
+	"addr": "1.171.200.37:27015",
+	"gameport": 27015,
+	"steamid": "85568392929762066",
+	"name": "Super Kurome CS2 VS 20 Bots",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 4,
+	"players": 1,
+	"max_players": 48,
+	"bots": 0,
+	"map": "de_shift_d_prefab",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}
