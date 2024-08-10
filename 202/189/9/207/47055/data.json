@@ -1,19 +1,19 @@
 {
 	"addr": "202.189.9.207:47055",
 	"gameport": 47055,
-	"steamid": "90200803214855190",
+	"steamid": "90200810278341654",
 	"name": "TG死斗服 DM FFA 华中顶配 D2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 16,
+	"players": 4,
 	"max_players": 18,
-	"bots": 0,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
