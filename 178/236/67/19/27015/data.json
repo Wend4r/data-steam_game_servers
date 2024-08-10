@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 4,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "kz_colorcode",
 	"secure": true,
 	"dedicated": true,

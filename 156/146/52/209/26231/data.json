@@ -2,7 +2,7 @@
 	"addr": "156.146.52.209:26231",
 	"gameport": 26231,
 	"steamid": "85568392924046488",
-	"name": "XPLAY.GG • CS2 PISTOL RETAKE #51 • [TR]",
+	"name": "CS2 Pistol Retake #51 TR",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
