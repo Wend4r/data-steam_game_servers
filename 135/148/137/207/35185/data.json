@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 45,
 	"bots": 3,
-	"map": "surf_lt_omnific_",
+	"map": "surf_highlands",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_lt_omn"
+	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_highla"
 }
