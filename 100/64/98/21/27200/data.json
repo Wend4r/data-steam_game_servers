@@ -10,7 +10,7 @@
 	"region": 6,
 	"players": 7,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 4,
 	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
