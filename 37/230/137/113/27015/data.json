@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam,insecure"
+	"gametype": "*grp:5114777i,no-steam,insecure"
 }
