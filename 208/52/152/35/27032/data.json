@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
-	"bots": 2,
-	"map": "surf_summit",
+	"bots": 3,
+	"map": "surf_zen2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gfl,gflclan,private,surf,secure"
+	"gametype": "gfl,gflclan,private,surf,secure"
 }

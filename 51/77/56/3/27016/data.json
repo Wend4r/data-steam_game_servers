@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_ramps_cybershoke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_ramps_cybershoke,1vs1,1v1,arena,128,128tick,drop,cyber"
+	"gametype": "am_ramps_cybershoke,1vs1,1v1,arena,128,128tick,drop,cybershoke,"
 }
