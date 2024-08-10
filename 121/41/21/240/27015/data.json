@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 64,
 	"bots": 9,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
