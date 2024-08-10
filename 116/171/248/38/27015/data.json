@@ -1,0 +1,19 @@
+{
+	"addr": "116.171.248.38:27015",
+	"gameport": 27015,
+	"steamid": "90200823267269661",
+	"name": "伴莺の小窝",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "128-tick,Hello-office!,Only-for-鸭子,insecure"
+}
