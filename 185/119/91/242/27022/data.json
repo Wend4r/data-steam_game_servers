@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 22,
 	"bots": 0,
-	"map": "awp_minecraft",
+	"map": "aim_awp_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
