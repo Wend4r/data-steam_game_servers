@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 30,
-	"bots": 29,
-	"map": "cs_office_night2",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cheat,gametime,gametimehvh,hack,hvh,hvh,oldhvh,onetap,onetap.su,skeet,spread,insecure"
+	"gametype": "empty,cheat,gametime,gametimehvh,hack,hvh,hvh,oldhvh,onetap,onetap.su,skeet,spread,insecure"
 }

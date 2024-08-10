@@ -1,6 +1,7 @@
 {
 	"addr": "95.142.201.227:27006",
 	"gameport": 27006,
+	"specport": 29006,
 	"steamid": "85568392931044636",
 	"name": "cdn-vkplay-ekb1-006",
 	"appid": 730,
@@ -10,9 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "first_bluelines",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }
