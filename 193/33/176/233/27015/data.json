@@ -2,7 +2,7 @@
 	"addr": "193.33.176.233:27015",
 	"gameport": 27015,
 	"specport": 25102,
-	"steamid": "90200804157505537",
+	"steamid": "90200804467430401",
 	"name": "Only AWP CS-4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
