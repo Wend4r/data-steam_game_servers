@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 1,
 	"max_players": 26,
 	"bots": 1,
-	"map": "jb_improved_alpha",
+	"map": "jb_mountaincraft_v6",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,vi"
+	"gametype": "atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,viptest,"
 }
