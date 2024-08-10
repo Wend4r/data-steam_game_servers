@@ -9,10 +9,10 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 15,
+	"max_players": 13,
 	"bots": 3,
-	"map": "cs_office",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "w",
 	"gametype": "empty,insecure"
