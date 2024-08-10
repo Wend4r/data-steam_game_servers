@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 4,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gamersclub,gc,retake,rtk,insecure"
+	"gametype": "empty,gamersclub,gc,retake,rtk,insecure"
 }

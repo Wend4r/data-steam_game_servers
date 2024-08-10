@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.47.34:26709",
+	"gameport": 26709,
+	"specport": 26710,
+	"steamid": "90200811044560903",
+	"name": "[P] PopFlash Scrim - sydney - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}
