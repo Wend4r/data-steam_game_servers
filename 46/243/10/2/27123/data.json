@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 20,
-	"bots": 0,
-	"map": "awp_india_cs2",
+	"bots": 3,
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavrop"
+	"gametype": "23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavropol,cla"
 }

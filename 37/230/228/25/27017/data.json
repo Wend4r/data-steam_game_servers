@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "hns_dust2",
+	"map": "hns_grassworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_dust2,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_grassworld,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
