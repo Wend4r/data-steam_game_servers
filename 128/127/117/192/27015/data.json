@@ -1,7 +1,7 @@
 {
 	"addr": "128.127.117.192:27015",
 	"gameport": 27015,
-	"steamid": "90200822964293633",
+	"steamid": "90200823271787521",
 	"name": "[RO] HNSX.OLDBUTGOLD.RO [PROPHUNT CS:GO] discord.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 20,
-	"bots": 5,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
