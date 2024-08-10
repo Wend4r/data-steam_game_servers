@@ -1,7 +1,7 @@
 {
 	"addr": "186.49.236.219:27100",
 	"gameport": 27100,
-	"steamid": "90200778263823365",
+	"steamid": "90200803874344966",
 	"name": "[UY] Legion Linux Gamers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
