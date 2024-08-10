@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,surf,insecure"
+	"gametype": "empty,ZED,fastdl,surf,secure"
 }

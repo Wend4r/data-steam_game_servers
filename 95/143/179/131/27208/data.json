@@ -1,7 +1,7 @@
 {
 	"addr": "95.143.179.131:27208",
 	"gameport": 27208,
-	"steamid": "90200831045480450",
+	"steamid": "90200831365306370",
 	"name": "Candy-Project • Skins and Ranks •",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
