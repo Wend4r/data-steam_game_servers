@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 18,
-	"bots": 4,
-	"map": "aim_dustarena_w",
+	"bots": 5,
+	"map": "aim_deagle_classic_w",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,deagle,en,f2p,knife,pl,poland,polska,prime,skins,uwujka,uw"
+	"gametype": "empty,4fun,deagle,en,f2p,knife,pl,poland,polska,prime,skins,uwu"
 }
