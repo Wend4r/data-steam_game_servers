@@ -1,19 +1,19 @@
 {
 	"addr": "46.174.49.178:27015",
 	"gameport": 27015,
-	"steamid": "85568392931253074",
-	"name": "MSK | Minl HvH Arena | DoubleTap & NoSpread Fix",
+	"steamid": "90200852748440590",
+	"name": "Counter-Strike: Global Offensive",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
-	"product": "cs2",
+	"version": "1.37.6.4",
+	"product": "csgo",
 	"region": -1,
 	"players": 0,
-	"max_players": 24,
+	"max_players": 10,
 	"bots": 0,
-	"map": "am_texture2_gg",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arena,hvh,mirage,rapidfirefix,rapidfix,spread,insecure"
+	"gametype": "empty,insecure"
 }
