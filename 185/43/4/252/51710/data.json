@@ -1,0 +1,19 @@
+{
+	"addr": "185.43.4.252:51710",
+	"gameport": 51710,
+	"steamid": "85568392932071559",
+	"name": "horizontaps 16k 1awp HVH#134",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,allah,hvh,mafia,insecure"
+}
