@@ -2,18 +2,17 @@
 	"addr": "202.189.6.129:40010",
 	"gameport": 40010,
 	"steamid": "85568392931447944",
-	"name": "EXG社区 躲猫猫 Ｑ 群553237396 躲猫猫 #3",
+	"name": "EXG社区 躲猫猫 Ｑ 群{QQ群}",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 60,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_biome",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "secure"
+	"os": "w"
 }
