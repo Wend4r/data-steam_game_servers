@@ -2,7 +2,7 @@
 	"addr": "169.150.245.106:26564",
 	"gameport": 26564,
 	"specport": 26565,
-	"steamid": "90200842815979534",
+	"steamid": "90200851125029902",
 	"name": "digitale server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
