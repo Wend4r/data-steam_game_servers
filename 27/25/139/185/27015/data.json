@@ -2,18 +2,18 @@
 	"addr": "27.25.139.185:27015",
 	"gameport": 27015,
 	"steamid": "85568392931353099",
-	"name": "--#moran5#--",
+	"name": "--#moran6#--",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
