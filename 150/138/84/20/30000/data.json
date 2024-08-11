@@ -1,7 +1,7 @@
 {
 	"addr": "150.138.84.20:30000",
 	"gameport": 30000,
-	"steamid": "90200839348835353",
+	"steamid": "90200839813311513",
 	"name": "莱卡云游戏服务器 game.lcayun.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "infernohideandseek",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
