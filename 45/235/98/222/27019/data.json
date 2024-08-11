@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 8,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,argentina,mdq,mdqservers,retake,retakes,secure"
+	"gametype": "argentina,mdq,mdqservers,retake,retakes,secure"
 }
