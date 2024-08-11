@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26304",
 	"gameport": 26304,
-	"steamid": "90200833019165712",
+	"steamid": "90200839251099664",
 	"name": "Squidski's Playtesting Grounds",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 6,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 5,
 	"map": "cs_matinee",
 	"secure": true,
 	"dedicated": true,
