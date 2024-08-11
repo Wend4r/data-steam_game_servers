@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_inferno,cybershoke,cyber,128,128tick,drop,execute,ffa,"
+	"gametype": "de_inferno,cybershoke,cyber,128,128tick,drop,execute,ffa,gloves"
 }
