@@ -1,7 +1,7 @@
 {
 	"addr": "220.132.77.244:27017",
 	"gameport": 27017,
-	"steamid": "90200847680590870",
+	"steamid": "90200849631228950",
 	"name": "TWPL Server#2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

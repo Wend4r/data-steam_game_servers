@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.105:26339",
 	"gameport": 26339,
-	"steamid": "90200842428417037",
-	"name": "Leetify CS2 Retakes by ♛ YODA ♛ ︻デ 一 - - -",
+	"steamid": "85568392931041839",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_vertigo",
-	"secure": true,
+	"map": "de_ancient",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,insecure"
 }

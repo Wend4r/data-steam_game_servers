@@ -1,7 +1,7 @@
 {
 	"addr": "194.67.199.20:27201",
 	"gameport": 27201,
-	"steamid": "90200845175185408",
+	"steamid": "90200849731171328",
 	"name": "Voogy.fun | Public - Mirage #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
