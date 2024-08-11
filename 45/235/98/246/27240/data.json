@@ -1,19 +1,19 @@
 {
 	"addr": "45.235.98.246:27240",
 	"gameport": 27240,
-	"steamid": "90200834264055819",
+	"steamid": "90200834265190411",
 	"name": "Abuelos Crew By Garryshost",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
 	"map": "usp_refrag",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,argentina,garryshost,latam,secure"
+	"gametype": "argentina,garryshost,latam,secure"
 }

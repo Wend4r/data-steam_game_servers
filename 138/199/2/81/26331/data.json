@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.2.81:26331",
 	"gameport": 26331,
-	"steamid": "90200807055876110",
+	"steamid": "90200834262535182",
 	"name": "Nutty Holligans",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
