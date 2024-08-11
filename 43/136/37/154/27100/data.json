@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 3,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "131.196.196.196:27420",
 	"gameport": 27420,
-	"specport": 27020,
 	"steamid": "85568392931817837",
 	"name": "Legends Combat Surf old",
 	"appid": 730,
@@ -11,8 +10,8 @@
 	"region": 2,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "surf_greatriver_xdre4m",
+	"bots": 0,
+	"map": "surf_ski_3_nova_inf_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
