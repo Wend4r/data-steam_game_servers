@@ -1,7 +1,7 @@
 {
 	"addr": "43.139.227.233:27015",
 	"gameport": 27015,
-	"steamid": "90200837393337359",
+	"steamid": "90200840400078863",
 	"name": "CS2 广州5v5内战服务器 [mod]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
