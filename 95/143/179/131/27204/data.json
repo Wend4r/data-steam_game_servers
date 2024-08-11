@@ -1,7 +1,7 @@
 {
 	"addr": "95.143.179.131:27204",
 	"gameport": 27204,
-	"steamid": "85568392932071039",
+	"steamid": "90200842959845378",
 	"name": "[CSserv.ru] New Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "prefabs/de_dust2/de_dust2_skybo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

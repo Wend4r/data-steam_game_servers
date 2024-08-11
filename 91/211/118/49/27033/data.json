@@ -2,18 +2,18 @@
 	"addr": "91.211.118.49:27033",
 	"gameport": 27033,
 	"steamid": "85568392931724028",
-	"name": "Name Server (1/10)",
+	"name": "Name Server (0/10)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,secure"
+	"gametype": "empty,dd2,dust2,ekb,ffa,msk,nsk,rank,ru,rus,spb,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.169:26411",
 	"gameport": 26411,
+	"specport": 26412,
 	"steamid": "90200832635667484",
 	"name": "AR Pracc Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
