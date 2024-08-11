@@ -1,6 +1,7 @@
 {
 	"addr": "61.28.231.58:27015",
 	"gameport": 27015,
+	"specport": 27001,
 	"steamid": "90200809945290753",
 	"name": "[GTV] Tournament #1",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "202.21.101.4:27020",
 	"gameport": 27020,
-	"steamid": "90200783720083463",
+	"steamid": "85568392931777251",
 	"name": "LANN Gaming | MATCH #1 | !ws, Ranked",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 1,
-	"map": "de_cache",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS2,LANN,LANN Gaming,Mongolia,secure"
+	"gametype": "CS2,LANN,LANN Gaming,Mongolia,secure"
 }

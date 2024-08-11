@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27145",
 	"gameport": 27145,
-	"steamid": "90200827614526481",
+	"steamid": "90200834211237905",
 	"name": "SERWER Bobr",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 6,
-	"bots": 0,
-	"map": "seek_mirage",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

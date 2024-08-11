@@ -5,15 +5,15 @@
 	"name": "【HIME】CS2KZ 排行测试4服 T1-T3",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_leto_v2",
+	"map": "kz_ehcivec_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
