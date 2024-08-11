@@ -1,0 +1,19 @@
+{
+	"addr": "178.42.60.132:27018",
+	"gameport": 27018,
+	"steamid": "85568392924112610",
+	"name": "Utopia 24/7 - SurfCommunity & Kiepownica | !ws CS-LEGACY",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 48,
+	"bots": 1,
+	"map": "surf_utopia_njv_sc",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,102.4,AT,CZ,EU,Europe,HU,PL,SC,SK,csgo,fun,kiepownic,kiepownica,map,pl,ranks,surf,surfcommunity,surftimer,surftimer,timer"
+}
