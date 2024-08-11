@@ -1,7 +1,6 @@
 {
 	"addr": "177.22.68.198:28615",
 	"gameport": 28615,
-	"specport": 28620,
 	"steamid": "85568392930744340",
 	"name": "Servidor do caxanga334",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 1,
-	"map": "ar_pool_day",
+	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

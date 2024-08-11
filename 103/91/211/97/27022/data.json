@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Skin,Store,Surf,SurfTimer,secure"
+	"gametype": "empty,Skin,Store,Surf,SurfTimer,secure"
 }
