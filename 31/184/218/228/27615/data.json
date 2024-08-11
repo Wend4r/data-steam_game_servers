@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 30,
 	"bots": 1,
-	"map": "myrun/seek_waterpark",
+	"map": "myrun/hns_lego",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
+	"gametype": "*grp:5114777i,64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
 }
