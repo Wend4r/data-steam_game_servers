@@ -1,7 +1,7 @@
 {
 	"addr": "128.127.117.192:27016",
 	"gameport": 27016,
-	"steamid": "90200849571826689",
+	"steamid": "90200849713950721",
 	"name": "[RO] FFA.OLDBUTGOLD.RO [DEATHMATCH CS:GO] discord.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
