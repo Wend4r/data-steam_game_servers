@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26432",
 	"gameport": 26432,
-	"steamid": "90200850797389838",
+	"steamid": "90200858113629198",
 	"name": "B8 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
