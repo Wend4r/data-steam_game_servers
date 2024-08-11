@@ -1,20 +1,19 @@
 {
 	"addr": "185.246.208.194:26218",
 	"gameport": 26218,
-	"specport": 26219,
-	"steamid": "90200771378761742",
-	"name": "challengermode.com - Register to join",
+	"steamid": "90200855219888142",
+	"name": "BARRAGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 9,
-	"bots": 1,
-	"map": "de_dust2",
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

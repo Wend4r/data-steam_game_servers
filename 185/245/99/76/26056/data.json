@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 16,
-	"bots": 5,
+	"bots": 6,
 	"map": "pracc_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
 }

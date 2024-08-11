@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 1,
-	"map": "bhop_hopi_csgo",
+	"map": "bhop_madness_of_infinity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_hopi_csg"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_madness_"
 }

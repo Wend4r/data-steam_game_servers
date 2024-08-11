@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27177",
 	"gameport": 27177,
-	"steamid": "90200852461198366",
+	"steamid": "90200855072090142",
 	"name": "roolex9",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
