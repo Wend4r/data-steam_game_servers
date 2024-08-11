@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26712",
 	"gameport": 26712,
-	"steamid": "90200840771352590",
+	"steamid": "90200849026279438",
 	"name": "500 Rush powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
