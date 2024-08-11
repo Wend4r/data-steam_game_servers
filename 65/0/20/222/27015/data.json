@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
+	"gametype": "dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
 }
