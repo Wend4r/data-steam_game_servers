@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!agents,!skins,!sky,!ws,128 TICK,MIX,secure"
+	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,MIX,secure"
 }
