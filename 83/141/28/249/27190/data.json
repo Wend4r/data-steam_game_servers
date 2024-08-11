@@ -1,7 +1,6 @@
 {
 	"addr": "83.141.28.249:27190",
 	"gameport": 27190,
-	"specport": 27200,
 	"steamid": "85568392931776180",
 	"name": "OBG.blue (hosted by CKRAS)",
 	"appid": 730,
@@ -9,7 +8,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 4,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_inferno",

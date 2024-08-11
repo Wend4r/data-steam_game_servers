@@ -1,6 +1,7 @@
 {
 	"addr": "145.239.237.103:27080",
 	"gameport": 27080,
+	"specport": 27081,
 	"steamid": "90200852633127952",
 	"name": "-Prism.1shot1kill.pl",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 10,
+	"players": 6,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
