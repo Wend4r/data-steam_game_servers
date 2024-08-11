@@ -6,15 +6,15 @@
 	"name": "[EU/HU] NexxoN | AWP | !ws,!knife,!gloves,!rank |",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "awp_minecraft_crash_fp",
+	"map": "awp_lego_2_winter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secure"
+	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
 }

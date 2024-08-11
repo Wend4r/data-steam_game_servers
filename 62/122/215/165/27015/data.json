@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
 	"bots": 0,
 	"map": "mg_jump_21_yea_hd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,secure"
+	"gametype": "bhop,secure"
 }
