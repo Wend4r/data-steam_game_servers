@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awp lego,awp only,awplego,awponly,deathmatch,secure"
+	"gametype": "awp,awp lego,awp only,awplego,awponly,deathmatch,secure"
 }
