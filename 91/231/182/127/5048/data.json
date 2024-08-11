@@ -11,9 +11,9 @@
 	"players": 33,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_gony_v2",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
