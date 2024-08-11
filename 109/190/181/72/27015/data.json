@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_chinatown_d_prefab",
+	"map": "cs_crackhouse_remake_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
