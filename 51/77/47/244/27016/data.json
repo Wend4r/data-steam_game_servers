@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,4fun,de_,mirage,pl,poland,polska,prime,skins,tr128,uwujka,uwujka.pl,██,secure"
+	"gametype": "empty,128,4fun,de_,mirage,pl,poland,polska,prime,skins,tr128,uwujka,uwujka.pl,██,secure"
 }
