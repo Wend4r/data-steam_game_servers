@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_dust2,cybershoke,cyber,dm,deathmatch,128tick,128,drop,"
+	"gametype": "de_dust2,cybershoke,cyber,dm,deathmatch,128tick,128,drop,ffa,pi"
 }
