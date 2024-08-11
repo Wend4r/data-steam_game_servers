@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "seek_island_resort",
+	"map": "seek_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!testvip,!ws,hns,seek,secure"
+	"gametype": "empty,!gloves,!knife,!testvip,!ws,*grp:5114777i,hns,seek,secure"
 }

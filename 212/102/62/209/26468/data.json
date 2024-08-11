@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26468",
 	"gameport": 26468,
-	"steamid": "90200833088547868",
+	"steamid": "90200833646195740",
 	"name": "scope grenade server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

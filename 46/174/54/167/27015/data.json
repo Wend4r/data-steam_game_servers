@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 1,
 	"map": "awp_lego_india2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,awplego,bhop,funnypublic,gl,gloves,idl,knife,lego,merryproject,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+	"gametype": "empty,awp,awplego,bhop,funnypublic,gl,gloves,idl,knife,lego,merryproject,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!vip,!ws,casual,geo,georgia,geostr"
+	"gametype": "!agents,!gloves,!knife,!vip,!ws,casual,geo,georgia,geostrike,pu"
 }
