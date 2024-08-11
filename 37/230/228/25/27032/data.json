@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 22,
-	"bots": 0,
+	"bots": 11,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,128,128tick,aim,cyber,cybershoke,de_mirage,deathmatch,dm,drop,ffa,gloves,knife,msk,pro,ru,skin,training,ws,secure"
+	"gametype": "128,128tick,aim,cyber,cybershoke,de_mirage,deathmatch,dm,drop,ffa,gloves,knife,msk,pro,ru,skin,training,ws,secure"
 }
