@@ -1,0 +1,19 @@
+{
+	"addr": "212.132.120.245:27018",
+	"gameport": 27018,
+	"steamid": "90200841846218769",
+	"name": "PlaceDE Cs2_1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.1.0",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 2,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
