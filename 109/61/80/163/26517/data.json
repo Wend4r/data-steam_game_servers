@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 1,
 	"max_players": 30,
-	"bots": 2,
-	"map": "de_inferno",
+	"bots": 4,
+	"map": "de_ruins_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FUN,secure"
+	"gametype": "empty,FUN,secure"
 }
