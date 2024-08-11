@@ -1,19 +1,18 @@
 {
 	"addr": "193.33.176.69:27130",
 	"gameport": 27130,
-	"steamid": "90200859606426653",
+	"steamid": "90200859767431197",
 	"name": "LalusKlanuwa@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
