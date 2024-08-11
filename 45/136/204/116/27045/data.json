@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27045",
 	"gameport": 27045,
 	"steamid": "90200734225601566",
-	"name": "[genesis] League #4",
+	"name": "genesis 20496: team_Z3REF vs team_Dau Magie",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 6,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }
