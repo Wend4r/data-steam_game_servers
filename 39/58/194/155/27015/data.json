@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,DM,Deathmatch,FFA,secure"
+	"gametype": "128,AntiCheat,DM,Deathmatch,FFA,secure"
 }

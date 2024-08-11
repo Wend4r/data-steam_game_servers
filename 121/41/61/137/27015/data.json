@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 64,
-	"bots": 5,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
