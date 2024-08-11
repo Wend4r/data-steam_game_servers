@@ -11,9 +11,9 @@
 	"players": 30,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_starwars_v2fix",
+	"map": "ze_alien_mountain_escape_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
