@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ba_jail_umbrella",
+	"map": "jb_sg_dojo_ap_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Jailbreak,secure"
+	"gametype": "Jailbreak,secure"
 }
