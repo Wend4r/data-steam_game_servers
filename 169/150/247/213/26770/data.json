@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26770",
 	"gameport": 26770,
-	"steamid": "90200828779888665",
+	"steamid": "90200839961161753",
 	"name": "AliensWeb | discord.gg/RNNtJJNVc6",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
