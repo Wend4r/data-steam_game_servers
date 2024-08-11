@@ -1,7 +1,7 @@
 {
 	"addr": "66.248.194.72:26965",
 	"gameport": 26965,
-	"steamid": "90200838158774297",
+	"steamid": "90200838318631961",
 	"name": "[EU] KingsHVH | NO SPREAD + DT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 64,
-	"bots": 1,
+	"max_players": 22,
+	"bots": 0,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
