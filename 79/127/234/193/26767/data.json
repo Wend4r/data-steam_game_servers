@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26767",
 	"gameport": 26767,
+	"specport": 26768,
 	"steamid": "90200858177633293",
 	"name": "[P] PopFlash Scrim - chicago - 16",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 7,
 	"bots": 1,
 	"map": "de_assembly",

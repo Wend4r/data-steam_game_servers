@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 0,
 	"max_players": 44,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,de_dust2,dust2,go-meat,go-meat.ru,gomeat,moscow,prime,publi"
+	"gametype": "empty,cs2,de_dust2,dust2,go-meat,go-meat.ru,gomeat,moscow,prime"
 }
