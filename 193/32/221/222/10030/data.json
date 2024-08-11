@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10030",
 	"gameport": 10030,
-	"steamid": "90200858272547844",
-	"name": "DE31 2,055,626 - free @ fshost.me",
+	"steamid": "90200858600378372",
+	"name": "HADDAD FWJEAN - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
-	"max_players": 12,
+	"players": 2,
+	"max_players": 2,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

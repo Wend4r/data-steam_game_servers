@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.210:26021",
 	"gameport": 26021,
-	"steamid": "90200781352673309",
-	"name": "Counter-Strike 2 Server",
+	"steamid": "85568392929429476",
+	"name": "playforstake.com| CS2 cash games",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
+	"max_players": 5,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

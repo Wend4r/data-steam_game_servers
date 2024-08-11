@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 1,
-	"map": "de_mirage_2015_og",
+	"bots": 13,
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
