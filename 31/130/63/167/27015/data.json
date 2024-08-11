@@ -1,7 +1,7 @@
 {
 	"addr": "31.130.63.167:27015",
 	"gameport": 27015,
-	"steamid": "90200801830167563",
+	"steamid": "85568392924373332",
 	"name": "RUSTIK.RU CSGO Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "/125488374/de_dust2_se",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
