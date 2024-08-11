@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "awp_two_towers",
+	"map": "awp_cannons_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!knife,!ws,128,autobhop,classic,cs2,fun,funny,jc,jumpclassic,"
+	"gametype": "empty,!,!knife,!ws,128,autobhop,classic,cs2,fun,funny,jc,jumpcl"
 }
