@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26310",
 	"gameport": 26310,
-	"steamid": "90200817321111552",
+	"steamid": "90200846873016320",
 	"name": "PLAY.PRACC.COM - [DA] MULTI-CFG DM - ANUBIS ✦ BEST FPS ✦ DE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }
