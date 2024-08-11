@@ -2,7 +2,7 @@
 	"addr": "213.141.70.156:27015",
 	"gameport": 27015,
 	"steamid": "85568392930731923",
-	"name": "Labalands pvp & utility pracc | SWE",
+	"name": "luundblad.com | smoke practice server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "aim_map",
 	"secure": false,
 	"dedicated": true,
-	"os": "w",
-	"gametype": "empty,insecure"
+	"os": "l",
+	"gametype": "insecure"
 }

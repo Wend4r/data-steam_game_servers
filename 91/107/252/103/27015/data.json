@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "aim_crazyjump",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aim,custom,match,prac,secure"
+	"gametype": "empty,aim,custom,match,prac,secure"
 }
