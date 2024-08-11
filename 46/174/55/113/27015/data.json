@@ -11,9 +11,9 @@
 	"players": 13,
 	"max_players": 35,
 	"bots": 0,
-	"map": "jb_mlcastle",
+	"map": "jb_electric_developclub",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

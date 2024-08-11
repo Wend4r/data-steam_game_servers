@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 27,
+	"players": 28,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!vip,!ws,casual,geo,georgia,geostr"
+	"gametype": "!agents,!gloves,!knife,!vip,!ws,casual,geo,georgia,geostrike,pu"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!guns,Evo Novo,EvoNovo,Retake,dansk,dk,eu,lvl,rank,retake"
+	"gametype": "!guns,Evo Novo,EvoNovo,Retake,dansk,dk,eu,lvl,rank,retake,serve"
 }
