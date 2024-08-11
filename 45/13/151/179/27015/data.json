@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,COMPETITIVE,compe,daily,go,quests,ro,shop,store,vip,secure"
+	"gametype": "empty,128tick,COMPETITIVE,compe,daily,go,quests,ro,shop,store,vip,secure"
 }
