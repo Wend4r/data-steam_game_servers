@@ -1,12 +1,11 @@
 {
 	"addr": "92.55.4.5:27016",
 	"gameport": 27016,
-	"specport": 27021,
 	"steamid": "85568392931824224",
 	"name": "[3EOH.APEHA 1] Competitive CS2 server 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,3eoh.apeha 1,competitive,msm,secure"
+	"gametype": "empty,3eoh.apeha 1,competitive,msm,insecure"
 }
