@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26883",
 	"gameport": 26883,
-	"steamid": "90200803618083841",
+	"steamid": "90200833261223937",
 	"name": "scuffed",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

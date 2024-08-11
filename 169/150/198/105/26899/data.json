@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.105:26899",
 	"gameport": 26899,
-	"specport": 26900,
-	"steamid": "90200803733538825",
+	"steamid": "90200833316831241",
 	"name": "heibai",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
