@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.66.59:26703",
 	"gameport": 26703,
+	"specport": 26704,
 	"steamid": "85568392930479433",
 	"name": "zet0rin toimisto",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

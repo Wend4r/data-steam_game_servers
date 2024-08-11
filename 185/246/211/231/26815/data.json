@@ -2,8 +2,8 @@
 	"addr": "185.246.211.231:26815",
 	"gameport": 26815,
 	"specport": 26816,
-	"steamid": "90200848524473358",
-	"name": "lotusbloem powered by PRACC.COM",
+	"steamid": "90200848687223822",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
