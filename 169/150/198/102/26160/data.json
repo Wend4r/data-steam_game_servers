@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.102:26160",
 	"gameport": 26160,
-	"specport": 26161,
-	"steamid": "90200828446924806",
+	"steamid": "90200854487491590",
 	"name": "Grupinho do Hs Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

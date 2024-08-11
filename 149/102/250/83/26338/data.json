@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.83:26338",
 	"gameport": 26338,
-	"steamid": "90200829214530563",
+	"steamid": "90200854586685443",
 	"name": "Fire In The Hole",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

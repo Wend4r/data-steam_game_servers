@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 4,
 	"max_players": 20,
 	"bots": 0,
 	"map": "de_mirage_fps_prostochill",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,admin,fps,knife,kyiv,public,ua,ukraine,vip,ws,secure"
+	"gametype": "admin,fps,knife,kyiv,public,ua,ukraine,vip,ws,secure"
 }
