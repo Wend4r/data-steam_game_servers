@@ -1,7 +1,6 @@
 {
 	"addr": "185.248.102.128:30404",
 	"gameport": 30404,
-	"specport": 27020,
 	"steamid": "85568392931845124",
 	"name": "P1-K4",
 	"appid": 730,
@@ -10,11 +9,10 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 33,
-	"bots": 1,
-	"map": "de_outferno",
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,insecure"
+	"os": "l"
 }
