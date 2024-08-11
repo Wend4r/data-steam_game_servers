@@ -5,15 +5,15 @@
 	"name": "Super Kurome CS2 VS 20 Bots",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 3,
+	"players": 1,
 	"max_players": 48,
-	"bots": 27,
-	"map": "de_plastics",
+	"bots": 3,
+	"map": "de_shift_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
