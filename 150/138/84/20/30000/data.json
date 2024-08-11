@@ -1,7 +1,7 @@
 {
 	"addr": "150.138.84.20:30000",
 	"gameport": 30000,
-	"steamid": "90200841282112537",
+	"steamid": "90200842377554969",
 	"name": "莱卡云游戏服务器 game.lcayun.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "seek_mirage",
+	"map": "de_dust2_rotated",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

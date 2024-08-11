@@ -1,0 +1,19 @@
+{
+	"addr": "222.90.177.85:27015",
+	"gameport": 27015,
+	"steamid": "85568392925586450",
+	"name": "Bowen's competition server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 21,
+	"bots": 10,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

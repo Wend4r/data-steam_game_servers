@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931696123",
-	"name": "[CS2] - AWP.DEATHROMANIA.RO - AWP ONLY - FREE SKINS - CUSTOM MV",
+	"name": "[CS2] - AWP.DEATHROMANIA.RO - AWP ONLY - SHOP & CREDITS - FREE ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 7,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_garden_death",
+	"map": "awp_zvk_death",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
 }
