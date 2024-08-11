@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "awp_lego_2011",
+	"map": "35hp_lava",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,farzin,fram,fun,iran,irani,king,mg,peyman,rex,surf,se"
+	"gametype": "awp,farzin,fram,fun,iran,irani,king,mg,peyman,rex,surf,secure"
 }
