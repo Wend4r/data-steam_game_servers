@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 3,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "bhop_angst_go",
+	"map": "bhop_bigdink_speedrun",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "autohop,bhop,horizon,secure"
+	"gametype": "empty,autohop,bhop,horizon,secure"
 }

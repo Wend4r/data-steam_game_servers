@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26498",
 	"gameport": 26498,
 	"specport": 26499,
-	"steamid": "90200831177758734",
+	"steamid": "90200834601355278",
 	"name": "THE GENTLEMEN (TGM) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
