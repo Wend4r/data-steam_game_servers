@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26628",
 	"gameport": 26628,
-	"steamid": "90200852677798924",
+	"steamid": "90200852679970828",
 	"name": "Anti Obida",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
