@@ -2,18 +2,18 @@
 	"addr": "37.230.210.185:27016",
 	"gameport": 27016,
 	"steamid": "85568392924747053",
-	"name": "@@ABP Whitelist@@ [2610 Maps] [SR: 18.007] [Tier 1]",
+	"name": "@@ABP Whitelist@@ [2610 Maps] [SR: 4:09.7] [Tier 6]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "bhop_cbmadness",
+	"map": "bhop_the_journey_lyned4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerinth"
+	"gametype": "128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerintheworld"
 }
