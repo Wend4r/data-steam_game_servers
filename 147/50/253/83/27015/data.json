@@ -1,8 +1,7 @@
 {
 	"addr": "147.50.253.83:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200817510631448",
+	"steamid": "90200836994897944",
 	"name": "[TH][Custom Game] AutKung game store !ws !knife !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "game store with my friend 128tick,secure"
+	"gametype": "empty,game store with my friend 128tick,secure"
 }
