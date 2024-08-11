@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "ttt_clue",
+	"map": "ttt_militia_original",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
