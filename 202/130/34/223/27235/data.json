@@ -10,7 +10,7 @@
 	"region": 5,
 	"players": 1,
 	"max_players": 60,
-	"bots": 0,
+	"bots": 4,
 	"map": "surf_luna2_",
 	"secure": true,
 	"dedicated": true,

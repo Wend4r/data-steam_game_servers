@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
+	"gametype": "empty,dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
 }

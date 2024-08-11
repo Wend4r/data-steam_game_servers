@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.40.183:26655",
 	"gameport": 26655,
-	"specport": 26656,
-	"steamid": "90200810081729537",
+	"steamid": "90200840343674881",
 	"name": "Foxtrozt's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

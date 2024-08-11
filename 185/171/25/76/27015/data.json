@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "surf_rebel_scaz_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,nametag"
+	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,n"
 }
