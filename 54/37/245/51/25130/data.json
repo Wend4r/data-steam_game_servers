@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 1,
-	"map": "bhop_timeshifter",
+	"map": "bhop_just_bhop",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_timeshif"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_just_bho"
 }

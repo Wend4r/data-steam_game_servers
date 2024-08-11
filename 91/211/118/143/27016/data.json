@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_anubis_fps_ckgaming",
+	"map": "de_dust2_fps_ckgaming",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,boost,ckgaming,cyberkovel,fps,fpsboost,gloves,knife,k"
+	"gametype": "128,boost,ckgaming,cyberkovel,fps,fpsboost,gloves,knife,knife,k"
 }

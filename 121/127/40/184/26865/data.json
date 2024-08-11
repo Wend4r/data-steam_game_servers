@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "csgo_office_night",
+	"map": "surf_astra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
