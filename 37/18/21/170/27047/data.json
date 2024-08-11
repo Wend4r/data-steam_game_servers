@@ -8,13 +8,13 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 2,
+	"region": -1,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
 	"map": "aim_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,ekb,ru,valve_ds,secure"
+	"gametype": "de_mirage,ekb,ru,valve_ds,secure"
 }
