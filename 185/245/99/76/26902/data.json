@@ -1,8 +1,9 @@
 {
 	"addr": "185.245.99.76:26902",
 	"gameport": 26902,
-	"steamid": "90200798167391246",
-	"name": "ELITE KLAN VIOLET powered by PRACC.COM",
+	"specport": 26903,
+	"steamid": "90200852102916110",
+	"name": "pisyatdva powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
