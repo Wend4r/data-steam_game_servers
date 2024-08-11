@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.247.208:26407",
 	"gameport": 26407,
+	"specport": 26408,
 	"steamid": "90200832570713108",
 	"name": "flaming north elite",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
