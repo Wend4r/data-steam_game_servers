@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 19,
+	"players": 16,
 	"max_players": 37,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public"
+	"gametype": "!gloves,!knife,!ws,cybershoke,dust2,fps,fun,mirage,public,rank,"
 }
