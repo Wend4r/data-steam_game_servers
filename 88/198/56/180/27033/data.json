@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_memento",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

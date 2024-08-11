@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 11,
-	"bots": 2,
+	"bots": 1,
 	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
 }
