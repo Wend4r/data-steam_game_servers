@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 0,
-	"map": "de_mirage_fps_boost_new",
+	"map": "de_inferno_fps_boost_new",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lotus,public,secure"
+	"gametype": "cs2,flower,lotus,public,secure"
 }
