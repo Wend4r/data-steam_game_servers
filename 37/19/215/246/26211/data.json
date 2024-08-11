@@ -1,0 +1,20 @@
+{
+	"addr": "37.19.215.246:26211",
+	"gameport": 26211,
+	"specport": 26212,
+	"steamid": "90200858490869785",
+	"name": "[P] PopFlash Scrim - barcelona - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,insecure"
+}

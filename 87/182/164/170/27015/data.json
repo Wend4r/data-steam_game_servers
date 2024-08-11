@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27015",
 	"gameport": 27015,
-	"steamid": "90200852693772319",
+	"steamid": "90200858589174815",
 	"name": "[DE] surf utopia 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

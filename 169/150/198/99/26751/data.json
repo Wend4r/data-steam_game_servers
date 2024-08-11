@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.99:26751",
 	"gameport": 26751,
-	"steamid": "90200804745649155",
+	"steamid": "90200858495643651",
 	"name": "Matromano",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 12,
-	"bots": 2,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
