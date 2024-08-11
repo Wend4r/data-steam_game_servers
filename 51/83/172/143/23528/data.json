@@ -1,6 +1,7 @@
 {
 	"addr": "51.83.172.143:23528",
 	"gameport": 23528,
+	"specport": 23530,
 	"steamid": "85568392931817338",
 	"name": "21 cs2 3v3",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 6,
 	"max_players": 9,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,21,insecure"
+	"gametype": "21,secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.194:26959",
 	"gameport": 26959,
-	"steamid": "90200854671997966",
-	"name": "CVVL VAMOS powered by PRACC.COM",
+	"steamid": "90200855648032782",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
