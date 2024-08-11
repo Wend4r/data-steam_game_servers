@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_biome",
+	"map": "seek_pool_home",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
