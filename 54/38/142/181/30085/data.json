@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_minecraft",
+	"map": "awp_crazy_box_lego_zk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AWP;SKINY;KOSY;GLOVES;MUSIC;ONLY AWP;LEGO,secure"
+	"gametype": "AWP;SKINY;KOSY;GLOVES;MUSIC;ONLY AWP;LEGO,secure"
 }

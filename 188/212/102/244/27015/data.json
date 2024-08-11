@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,elitegamers,fairside,gloves,knife,laleagane,llg,public,romania,sk"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitegamers,fairside,gloves,knife,laleagane,llg,public,romania,skins,ws"
 }

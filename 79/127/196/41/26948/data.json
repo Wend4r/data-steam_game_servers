@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.196.41:26948",
 	"gameport": 26948,
-	"specport": 26949,
-	"steamid": "90200832758304775",
+	"steamid": "90200834024588295",
 	"name": "NAZ Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 2,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
