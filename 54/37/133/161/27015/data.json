@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 1,
 	"map": "awp_fg_nuke_night_beta02",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128TR,AWP,DM,DROP,ONLY,aim,fastdl,fragujemy,only awp,secure"
+	"gametype": "empty,128TR,AWP,DM,DROP,ONLY,aim,fastdl,fragujemy,only awp,secure"
 }

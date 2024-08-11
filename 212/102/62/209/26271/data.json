@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26271",
 	"gameport": 26271,
-	"steamid": "90200830353239068",
-	"name": "Leetify CS2 Retakes by SpraxX",
+	"steamid": "85568392929429476",
+	"name": "playforstake.com| CS2 cash games",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_mirage",
+	"players": 0,
+	"max_players": 5,
+	"bots": 2,
+	"map": "aim_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

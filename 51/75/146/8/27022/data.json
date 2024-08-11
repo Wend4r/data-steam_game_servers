@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 16,
-	"bots": 1,
-	"map": "cs_assault",
+	"bots": 12,
+	"map": "cs_motel",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
