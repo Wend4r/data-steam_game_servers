@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 28,
-	"bots": 0,
+	"bots": 2,
 	"map": "bhop_collapse_fix",
 	"secure": true,
 	"dedicated": true,
