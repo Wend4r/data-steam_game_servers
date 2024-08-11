@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.130:26736",
+	"gameport": 26736,
+	"steamid": "90200854415393799",
+	"name": "Leetify CS2 Retakes by Benny the Viking",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_vertigo",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
