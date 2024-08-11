@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,casualmaturegamers,cmg,gg,gungame,reverse,turbo,secure"
+	"gametype": "empty,casualmaturegamers,cmg,gg,gungame,reverse,turbo,insecure"
 }
