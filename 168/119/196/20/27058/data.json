@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 12,
+	"players": 7,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_japan,drop,eu,en,germany,ger,de,cybershoke,cybe"
+	"gametype": "bhop,bhop_japan,drop,eu,en,germany,ger,de,cybershoke,cyber,glov"
 }

@@ -2,7 +2,7 @@
 	"addr": "177.82.115.76:27015",
 	"gameport": 27015,
 	"steamid": "85568392932071702",
-	"name": "shipREKT GunGame +Deathmatch +Turbo",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "mcdonalds-mds-cs2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,Gungame,gg,turbo,secure"
+	"gametype": "empty,secure"
 }
