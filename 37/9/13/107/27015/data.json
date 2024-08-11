@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
 	"map": "kz_baxter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64tick,cs:go,csgo,maniac,minigames,no-steam\" \"hns,spb,маньяк,secure"
+	"gametype": "empty,64tick,cs:go,csgo,maniac,minigames,no-steam\" \"hns,spb,маньяк,secure"
 }
