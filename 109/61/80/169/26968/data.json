@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.169:26968",
 	"gameport": 26968,
-	"steamid": "90200771739681820",
-	"name": "Leetify CS2 Practice Mode by wiesi",
+	"specport": 26969,
+	"steamid": "90200858477756444",
+	"name": "[P] PopFlash Scrim - dusseldorf - 30",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_nuke",
+	"players": 8,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,popflash,insecure"
 }
