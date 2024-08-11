@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 2,
 	"map": "surf_first",
 	"secure": false,
 	"dedicated": true,

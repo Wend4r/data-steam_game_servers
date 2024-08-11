@@ -1,6 +1,7 @@
 {
 	"addr": "85.14.205.112:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931143302",
 	"name": "EPS by Just1Life Gaming e.V.",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 11,
+	"players": 6,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,www.just1life-gaming.de,secure"
+	"gametype": "www.just1life-gaming.de,secure"
 }

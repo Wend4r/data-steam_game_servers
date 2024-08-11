@@ -1,7 +1,7 @@
 {
 	"addr": "94.23.5.131:27075",
 	"gameport": 27075,
-	"steamid": "90200854037538847",
+	"steamid": "90200854040969247",
 	"name": "CsCargo CS2 test Serveur",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 6,
-	"map": "dod_argentan_cs2",
+	"map": "de_highland",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

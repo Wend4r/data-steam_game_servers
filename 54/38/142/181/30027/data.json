@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
-	"map": "maniac_1",
+	"map": "denhet_twyxe_newyear_withad",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
+	"gametype": "HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
 }
