@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 9,
-	"map": "de_mirage",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\r,PT,tuga,secure"
+	"gametype": "empty,\r,PT,tuga,secure"
 }

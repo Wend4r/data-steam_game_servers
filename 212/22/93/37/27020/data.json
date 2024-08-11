@@ -1,8 +1,8 @@
 {
 	"addr": "212.22.93.37:27020",
 	"gameport": 27020,
-	"steamid": "90200850633521183",
-	"name": "awp indi",
+	"steamid": "90200851611192351",
+	"name": "CS 2 32312",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 60,
 	"bots": 0,
-	"map": "prefabs/de_dust2/de_dust2_skybo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
