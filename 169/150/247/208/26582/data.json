@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 22,
 	"bots": 0,
-	"map": "kz_christmas",
+	"map": "kz_slide_bozo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

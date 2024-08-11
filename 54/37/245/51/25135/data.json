@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 2,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_journeys_final",
+	"bots": 1,
+	"map": "surf_verge",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_journeys_final,secu"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_verge,secure"
 }

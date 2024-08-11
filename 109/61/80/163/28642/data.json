@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 5,
-	"bots": 0,
+	"bots": 1,
 	"map": "/2073457452/kz_nightfall",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
+	"gametype": "KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
 }

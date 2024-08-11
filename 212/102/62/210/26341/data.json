@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26341",
 	"gameport": 26341,
-	"steamid": "90200853874565149",
+	"steamid": "90200854049169437",
 	"name": "Tournament Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 5,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,0 +1,19 @@
+{
+	"addr": "93.171.222.107:27015",
+	"gameport": 27015,
+	"steamid": "90200854015929366",
+	"name": "Your server at home-pc operated by csgosl",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.5.0",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,secure"
+}

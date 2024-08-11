@@ -1,6 +1,7 @@
 {
 	"addr": "177.22.68.198:28615",
 	"gameport": 28615,
+	"specport": 28620,
 	"steamid": "85568392930744340",
 	"name": "Servidor do caxanga334",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 25,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_assembly",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
