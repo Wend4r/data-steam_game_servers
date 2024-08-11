@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_dicore_course",
+	"map": "sw_islands",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
+	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
 }
