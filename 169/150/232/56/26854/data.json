@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26854",
 	"gameport": 26854,
-	"specport": 26855,
-	"steamid": "90200833018670096",
+	"steamid": "90200839254138896",
 	"name": "inLo Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
