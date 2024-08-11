@@ -1,19 +1,20 @@
 {
 	"addr": "212.102.62.210:26695",
 	"gameport": 26695,
-	"steamid": "90200842404699165",
-	"name": "SCL.GG - Register to play.",
+	"specport": 26696,
+	"steamid": "85568392931325139",
+	"name": "CS2 BETA SERVER (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 1,
-	"max_players": 12,
-	"bots": 1,
-	"map": "de_dust2",
-	"secure": true,
+	"max_players": 16,
+	"bots": 9,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,insecure"
 }

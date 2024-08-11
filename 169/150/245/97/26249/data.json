@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.97:26249",
 	"gameport": 26249,
-	"steamid": "90200848570393605",
-	"name": "Leetify CS2 Retakes by RedKyori",
+	"steamid": "90200850160761861",
+	"name": "Ex-Wartex powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 11,
+	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
