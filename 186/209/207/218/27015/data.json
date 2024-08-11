@@ -14,5 +14,6 @@
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
-	"os": "w"
+	"os": "w",
+	"gametype": "empty,secure"
 }

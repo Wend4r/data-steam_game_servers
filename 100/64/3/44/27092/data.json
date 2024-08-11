@@ -10,7 +10,7 @@
 	"region": 5,
 	"players": 8,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
