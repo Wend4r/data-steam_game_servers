@@ -1,6 +1,7 @@
 {
 	"addr": "82.208.17.102:27071",
 	"gameport": 27071,
+	"specport": 26071,
 	"steamid": "85568392931650583",
 	"name": "PLAYzone #27 by FakaHeda.eu",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 5,
+	"players": 3,
 	"max_players": 15,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PLAYzone,secure"
+	"gametype": "PLAYzone,secure"
 }

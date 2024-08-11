@@ -11,7 +11,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 33,
-	"bots": 1,
+	"bots": 0,
 	"map": "kzpro_only_up_extended",
 	"secure": true,
 	"dedicated": true,

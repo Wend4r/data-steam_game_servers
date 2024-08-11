@@ -1,6 +1,7 @@
 {
 	"addr": "143.202.213.43:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200856402228234",
 	"name": "GDR-01",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 5,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
