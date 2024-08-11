@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.12.138:26443",
 	"gameport": 26443,
-	"steamid": "90200841024701464",
+	"steamid": "90200841406822424",
 	"name": "BARRAGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 5,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
