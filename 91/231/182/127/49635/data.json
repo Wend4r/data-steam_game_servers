@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "dm_alyx_fysnow",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania,skeet"
+	"gametype": "empty,alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania"
 }
