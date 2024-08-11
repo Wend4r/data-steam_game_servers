@@ -1,20 +1,19 @@
 {
 	"addr": "185.246.208.198:26496",
 	"gameport": 26496,
-	"specport": 26497,
-	"steamid": "90200803456109586",
-	"name": "[P] PopFlash Scrim - warsaw - 24",
+	"steamid": "85568392925438896",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 0,
-	"max_players": 13,
-	"bots": 1,
-	"map": "de_train",
-	"secure": true,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "empty,insecure"
 }
