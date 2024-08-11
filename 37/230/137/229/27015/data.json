@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931502244",
-	"name": "█OVER-LAST Deathmatch | FREE VIP | СКИНЫ ОРУЖИЯ �",
+	"name": "Разработка................",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "de_dust2_unlimited_csgo",
+	"map": "zm_mario3_v3_finals",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!ws,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,public,secure,skins,vip,"
+	"gametype": "empty,!glove,!knife,!ws,*grp:5114777i,128,admin,aim,awp,boost,de_,dm,dust2,fps,free,last,max,mirage,mm,noob,over,over-last,publ"
 }
