@@ -1,19 +1,19 @@
 {
 	"addr": "149.102.250.83:26717",
 	"gameport": 26717,
-	"steamid": "85568392930290605",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200854589232131",
+	"name": "ksn gandu",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 11,
-	"bots": 0,
+	"max_players": 10,
+	"bots": 2,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

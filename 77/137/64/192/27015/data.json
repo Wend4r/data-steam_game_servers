@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 0,
 	"map": "hns_bbcity",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
