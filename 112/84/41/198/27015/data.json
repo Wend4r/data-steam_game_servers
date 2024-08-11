@@ -2,7 +2,7 @@
 	"addr": "112.84.41.198:27015",
 	"gameport": 27015,
 	"steamid": "85568392932060651",
-	"name": "shipREKT Mini Games",
+	"name": "shipREKT Deathrun",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,games,mg,mini,secure"
+	"gametype": "128,AntiCheat,death,deathrun,dr,games,mg,mini,run,secure"
 }
