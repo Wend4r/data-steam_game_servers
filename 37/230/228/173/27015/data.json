@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 7,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_among_us_minigames_tfx1",
+	"map": "mg_skytower_b1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,merryproject,minigame,no-steam,ws,secure"
+	"gametype": "*grp:5114777i,gloves,merryproject,minigame,no-steam,ws,secure"
 }

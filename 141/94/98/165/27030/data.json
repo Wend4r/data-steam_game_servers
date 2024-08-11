@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 8,
-	"map": "shipment",
+	"bots": 7,
+	"map": "ar_underworld_gg1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
+	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
 }

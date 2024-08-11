@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 26,
 	"bots": 1,
-	"map": "jb_cell_indicator_",
+	"map": "jb_oasis_v3a",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,vi"
+	"gametype": "atanda,gameme,ghost,jailbreak,jb,pl,polska,redie,skiny,viptest,"
 }

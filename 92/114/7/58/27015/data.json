@@ -1,6 +1,7 @@
 {
 	"addr": "92.114.7.58:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392922844293",
 	"name": "FASTCUP.NET",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "ui/nametag",
+	"bots": 1,
+	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
