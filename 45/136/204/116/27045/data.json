@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27045",
 	"gameport": 27045,
 	"steamid": "90200734225601566",
-	"name": "genesis 20482: team_LAN vs team_НЕБРАНДОНХВХБОЙ2",
+	"name": "[genesis] League #4",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

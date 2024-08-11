@@ -2,19 +2,19 @@
 	"addr": "169.150.245.105:26717",
 	"gameport": 26717,
 	"specport": 26718,
-	"steamid": "90200850586203149",
+	"steamid": "90200850590044173",
 	"name": "T-Torturers powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 5,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -2,18 +2,18 @@
 	"addr": "46.8.53.27:27040",
 	"gameport": 27040,
 	"steamid": "85568392931721055",
-	"name": "Strike League | team_setinfo_pw vs team_криминал 52",
+	"name": "Strike League | team_Я И БАЛ ПРИНЦЕСС vs team_Fade",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
