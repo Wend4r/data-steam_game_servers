@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 4,
+	"bots": 6,
 	"map": "de_overpass",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

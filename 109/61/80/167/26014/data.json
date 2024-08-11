@@ -1,20 +1,19 @@
 {
 	"addr": "109.61.80.167:26014",
 	"gameport": 26014,
-	"specport": 26015,
-	"steamid": "90200842683873306",
-	"name": "Lapiru Pug",
+	"steamid": "85568392930468467",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 10,
-	"max_players": 10,
+	"region": -1,
+	"players": 1,
+	"max_players": 11,
 	"bots": 1,
-	"map": "de_marino",
-	"secure": true,
+	"map": "de_inferno",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

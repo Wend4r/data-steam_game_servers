@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 6,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "aim_puma",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

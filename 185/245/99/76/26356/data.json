@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26356",
 	"gameport": 26356,
-	"steamid": "90200781758236686",
-	"name": "UNEVEN Academy powered by PRACC.COM",
+	"specport": 26357,
+	"steamid": "90200853085458446",
+	"name": "NEVERLOSE (Intermediate) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.4",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "bhop_malabar10",
+	"map": "bhop_linear_forest",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
