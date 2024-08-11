@@ -11,9 +11,9 @@
 	"players": 31,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_arctic_escape_p",
+	"map": "ze_hydroponic_garden",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
