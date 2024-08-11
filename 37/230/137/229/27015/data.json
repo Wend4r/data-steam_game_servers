@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 28,
-	"bots": 0,
+	"bots": 1,
 	"map": "zm_mario3_v3_finals",
 	"secure": false,
 	"dedicated": true,
