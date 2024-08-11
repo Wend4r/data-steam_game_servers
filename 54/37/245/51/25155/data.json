@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 0,
-	"map": "surf_gary_barlow",
+	"bots": 3,
+	"map": "surf_egoing",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_gary_barlow,secure"
+	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_egoing,secure"
 }

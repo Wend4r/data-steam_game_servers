@@ -1,7 +1,6 @@
 {
 	"addr": "91.224.117.112:27015",
 	"gameport": 27015,
-	"specport": 27016,
 	"steamid": "85568392931322855",
 	"name": "CS2 Ts4Game.PL (vip / skiny / kosy) @ 1shot1kill.pl",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_train",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gosetti.pl:31522,secure"
+	"gametype": "empty,gosetti.pl:31522,secure"
 }
