@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27019",
 	"gameport": 27019,
-	"steamid": "90200846766250015",
+	"steamid": "90200849438582815",
 	"name": "[DE] surf boreas 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
