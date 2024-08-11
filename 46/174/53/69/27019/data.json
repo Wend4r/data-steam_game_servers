@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 65,
 	"bots": 0,
-	"map": "ze_aperturescience_p",
+	"map": "zm_map_grass_cs2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ek"
+	"gametype": "!,fun,bhop,escape,64,n4a,ru,rus,mos,moscow,msk,net4all,ekb,russ"
 }

@@ -1,0 +1,19 @@
+{
+	"addr": "138.199.12.129:26413",
+	"gameport": 26413,
+	"steamid": "90200839041471503",
+	"name": "sinister6 team practice ",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

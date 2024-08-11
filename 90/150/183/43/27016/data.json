@@ -1,7 +1,7 @@
 {
 	"addr": "90.150.183.43:27016",
 	"gameport": 27016,
-	"steamid": "90200838206201856",
+	"steamid": "90200839062169600",
 	"name": "*|Testing Server by DarkerZ[RUS]|",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "test,insecure"
+	"gametype": "empty,test,insecure"
 }
