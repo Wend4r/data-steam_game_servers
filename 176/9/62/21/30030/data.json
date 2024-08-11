@@ -1,7 +1,7 @@
 {
 	"addr": "176.9.62.21:30030",
 	"gameport": 30030,
-	"steamid": "90200811743546371",
+	"steamid": "90200841006007299",
 	"name": "Lordsami Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

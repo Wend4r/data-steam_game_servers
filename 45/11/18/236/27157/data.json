@@ -1,7 +1,8 @@
 {
 	"addr": "45.11.18.236:27157",
 	"gameport": 27157,
-	"steamid": "90200811768221726",
+	"specport": 27159,
+	"steamid": "90200841036579870",
 	"name": "SahMatRabbits",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

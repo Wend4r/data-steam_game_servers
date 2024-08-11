@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30080",
 	"gameport": 30080,
 	"specport": 35060,
-	"steamid": "90200811828218895",
+	"steamid": "90200841084972047",
 	"name": "PTS PRACC SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

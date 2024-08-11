@@ -1,7 +1,7 @@
 {
 	"addr": "141.95.72.175:30100",
 	"gameport": 30100,
-	"steamid": "90200811848176663",
+	"steamid": "90200841090123799",
 	"name": "Uppercuthummerklo Rising",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
