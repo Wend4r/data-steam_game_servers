@@ -2,18 +2,18 @@
 	"addr": "185.193.165.26:27015",
 	"gameport": 27015,
 	"steamid": "85568392932070851",
-	"name": "|TR| The Darknights [PRO/PUBLIC] !ws !kf !glove - prooyun.net",
+	"name": "|TR| The Darknights [PRO/PUBLIC] !ws !kf !glove",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 3,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+	"gametype": "!ws!kf,128tick,awp,bunny,deathmatch,dm,jailbreak,mg,pro,prooyun"
 }

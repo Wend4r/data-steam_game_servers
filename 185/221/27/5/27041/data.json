@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_phamous",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,kz_phamous,en,pro,cybershoke,kz,kreedz,pb,cyber,race,drop"
+	"gametype": "kz_phamous,en,pro,cybershoke,kz,kreedz,pb,cyber,race,drop,rank,"
 }
