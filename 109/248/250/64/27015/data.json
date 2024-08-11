@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 16,
+	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 13,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,ffa,ru,kn"
+	"gametype": "empty,de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,ffa"
 }

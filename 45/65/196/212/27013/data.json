@@ -9,11 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
+	"gametype": "!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 1,
-	"map": "mg_minecraft_hardcore_course_v2",
+	"map": "hns_kitty2k_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,4fun,awp,course,dr,dust,fastdl,free,fun,hns,mg,multigames,pl,poland,recoil,shop,store,surf,vip,secure"
+	"gametype": "128,4fun,awp,course,dr,dust,fastdl,free,fun,hns,mg,multigames,pl,poland,recoil,shop,store,surf,vip,secure"
 }
