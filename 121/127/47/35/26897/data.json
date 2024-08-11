@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.35:26897",
 	"gameport": 26897,
+	"specport": 26898,
 	"steamid": "90200809533222920",
 	"name": "DINQ powered by PRACC.COM",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

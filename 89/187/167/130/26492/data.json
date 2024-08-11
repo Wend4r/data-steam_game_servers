@@ -2,19 +2,19 @@
 	"addr": "89.187.167.130:26492",
 	"gameport": 26492,
 	"specport": 26493,
-	"steamid": "90200808986042386",
+	"steamid": "90200838416986130",
 	"name": "Virtex CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
-	"bots": 9,
+	"bots": 11,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
