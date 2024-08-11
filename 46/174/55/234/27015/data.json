@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_among_us_minigames_tfx1",
+	"map": "mg_mario_galaxy_v2_fix_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure"
+	"gametype": "!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure,timer"
 }

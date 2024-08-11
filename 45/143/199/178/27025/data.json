@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 11,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,128,128tick,5v5,5vs5,baited,comp,competitive,d"
+	"gametype": "!knife,!ws,128,128tick,5v5,5vs5,baited,comp,competitive,deathma"
 }

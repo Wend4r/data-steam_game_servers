@@ -2,8 +2,8 @@
 	"addr": "79.127.234.193:26666",
 	"gameport": 26666,
 	"specport": 26667,
-	"steamid": "90200829865740301",
-	"name": "h8r.gg",
+	"steamid": "90200833763901453",
+	"name": "e20772cff2ff0b8543e28bf5dad5d6b6",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

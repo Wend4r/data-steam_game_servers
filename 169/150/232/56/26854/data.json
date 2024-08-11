@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26854",
 	"gameport": 26854,
+	"specport": 26855,
 	"steamid": "90200833018670096",
 	"name": "inLo Practice Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 10,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
