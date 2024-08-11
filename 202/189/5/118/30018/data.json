@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_only_up",
+	"map": "ze_venice_escape_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,insecure"
+	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
 }

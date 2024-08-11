@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "zm_minecraft_chunk",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mo"
+	"gametype": "!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mos,esca"
 }
