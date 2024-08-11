@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 5,
 	"bots": 8,
-	"map": "de_mills",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

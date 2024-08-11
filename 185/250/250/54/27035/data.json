@@ -1,7 +1,7 @@
 {
 	"addr": "185.250.250.54:27035",
 	"gameport": 27035,
-	"steamid": "90200848219441165",
+	"steamid": "90200848538918925",
 	"name": "Knallbude",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_assembly",
+	"map": "de_brewery",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

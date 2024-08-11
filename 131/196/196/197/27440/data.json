@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 4,
 	"max_players": 14,
 	"bots": 0,
-	"map": "am_multimap3_fix_v2",
+	"map": "am_walterv2_savage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,B,Brasil,Putinha,Savage,arena,arena 1v1,arena1v1,autobhop,bhop,faca,kniv,loja,putinha,putinha servidores,savage,skins"
+	"gametype": "1v1,B,Brasil,Putinha,Savage,arena,arena 1v1,arena1v1,autobhop,bhop,faca,kniv,loja,putinha,putinha servidores,savage,skins,ws,x1"
 }
