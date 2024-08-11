@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 48,
 	"bots": 27,
-	"map": "port",
+	"map": "de_sevirno_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

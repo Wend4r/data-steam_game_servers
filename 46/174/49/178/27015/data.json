@@ -1,19 +1,19 @@
 {
 	"addr": "46.174.49.178:27015",
 	"gameport": 27015,
-	"steamid": "90200853088168974",
+	"steamid": "90200853263342606",
 	"name": "[uwugirl] Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.37.6.4",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

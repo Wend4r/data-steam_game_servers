@@ -2,18 +2,18 @@
 	"addr": "185.193.165.81:27015",
 	"gameport": 27015,
 	"steamid": "85568392931947182",
-	"name": "[TR] TTB -AWP- !knife !ws !cekilis +1200TL - prooyun.net",
+	"name": "[TR] TTB -AİM- !knife !ws !cekilis +1200TL - prooyun.net",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,awp,awp_lego_2,bunny,lego,mg,prooyun,tr,turkey,se"
+	"gametype": "128tick,aim,aim_redline,ak,awp,awp_lego_2,bunny,lego,mg,prooyun"
 }
