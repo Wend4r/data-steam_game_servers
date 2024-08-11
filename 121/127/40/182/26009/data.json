@@ -2,8 +2,8 @@
 	"addr": "121.127.40.182:26009",
 	"gameport": 26009,
 	"specport": 26010,
-	"steamid": "90200859164385280",
-	"name": "Myrmidon powered by PRACC.COM",
+	"steamid": "90200859344500736",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
