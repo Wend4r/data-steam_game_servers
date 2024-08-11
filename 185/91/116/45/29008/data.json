@@ -1,19 +1,19 @@
 {
 	"addr": "185.91.116.45:29008",
 	"gameport": 29008,
-	"steamid": "90200852831762450",
+	"steamid": "90200852998251538",
 	"name": "MaYoR Office 24/7",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 2,
 	"bots": 0,
 	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

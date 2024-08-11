@@ -2,12 +2,12 @@
 	"addr": "80.209.82.229:27130",
 	"gameport": 27130,
 	"steamid": "85568392930469083",
-	"name": "[DK] CPH-Gaming.dk - Mani's Test Server (R)",
+	"name": "[DK] CPH-Gaming.dk - Manifest's Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CPH-Gaming.DK,DK,secure"
+	"gametype": "empty,CPH-Gaming.DK,DK,EU,secure"
 }

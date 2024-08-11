@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 25,
-	"bots": 0,
-	"map": "cs_office",
+	"bots": 2,
+	"map": "de_piranesi",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
