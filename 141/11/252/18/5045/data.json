@@ -11,9 +11,9 @@
 	"players": 254,
 	"max_players": 255,
 	"bots": 0,
-	"map": "awp_gony_v2",
+	"map": "awp_hot_summer_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
