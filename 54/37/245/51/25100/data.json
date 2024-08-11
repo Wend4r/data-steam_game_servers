@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_life_of_duck",
+	"map": "surf_network_2008_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_life_of_duck,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_network_2008_final,secure"
 }
