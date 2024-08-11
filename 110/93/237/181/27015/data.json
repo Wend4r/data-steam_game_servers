@@ -1,7 +1,7 @@
 {
 	"addr": "110.93.237.181:27015",
 	"gameport": 27015,
-	"steamid": "90200843751782428",
+	"steamid": "90200852223441948",
 	"name": "ROG DEDICATED SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
