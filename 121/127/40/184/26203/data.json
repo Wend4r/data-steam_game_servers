@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26203",
 	"gameport": 26203,
-	"steamid": "90200803131692034",
+	"steamid": "90200833703928834",
 	"name": "goblinaim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
