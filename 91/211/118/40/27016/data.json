@@ -1,19 +1,19 @@
 {
 	"addr": "91.211.118.40:27016",
 	"gameport": 27016,
-	"steamid": "90200830101903380",
-	"name": "Counter-Strike 2",
+	"steamid": "85568392923805633",
+	"name": "[CS2/UA] DESPERATE | AWP",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,!agent,!gloves,!knife,!ws,agent,awp,awponly,desperate,dsp"
 }
