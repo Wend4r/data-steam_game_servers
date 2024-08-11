@@ -1,7 +1,7 @@
 {
 	"addr": "37.230.162.89:27777",
 	"gameport": 27777,
-	"steamid": "90200859005915164",
+	"steamid": "90200859190639644",
 	"name": " [CS2] REWERT | МАНЬЯК | RED",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,flower,lycoris,maniac,secure"
+	"gametype": "cs2,flower,lycoris,maniac,secure"
 }

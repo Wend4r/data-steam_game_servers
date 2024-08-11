@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 10,
-	"map": "ze_hidden_fortress_p",
+	"bots": 0,
+	"map": "ze_stab_town_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,rpg,ru,"
+	"gametype": "empty,!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,r"
 }
