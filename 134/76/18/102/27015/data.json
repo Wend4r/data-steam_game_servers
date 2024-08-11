@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,retake,retakes,secure"
+	"gametype": "128-tick,retake,retakes,secure"
 }
