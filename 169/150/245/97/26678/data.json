@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.245.97:26678",
 	"gameport": 26678,
-	"specport": 26679,
 	"steamid": "85568392931819249",
 	"name": "Amateur Team Program Ember",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

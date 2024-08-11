@@ -1,7 +1,7 @@
 {
 	"addr": "168.75.99.81:27467",
 	"gameport": 27467,
-	"steamid": "90200837606999049",
+	"steamid": "90200837610164233",
 	"name": "PaiTaOff",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
