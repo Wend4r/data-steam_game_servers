@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 18,
-	"bots": 0,
+	"bots": 7,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,secure"
+	"gametype": "dm,god,pug,wolf,secure"
 }

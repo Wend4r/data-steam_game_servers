@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_dust2_classic",
+	"map": "fy_iceworld_origins_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
