@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 3,
 	"max_players": 32,
 	"bots": 0,
-	"map": "/2770345581/kz_leto_v2",
+	"map": "/2891185804/vnl_farewell_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
