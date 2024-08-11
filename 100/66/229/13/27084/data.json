@@ -10,7 +10,7 @@
 	"region": 2,
 	"players": 9,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 1,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
