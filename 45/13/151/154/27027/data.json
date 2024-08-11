@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 1,
 	"map": "dm_alyx_prodigy",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania"
+	"gametype": "alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania,skeet"
 }
