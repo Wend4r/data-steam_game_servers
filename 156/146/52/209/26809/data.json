@@ -1,8 +1,9 @@
 {
 	"addr": "156.146.52.209:26809",
 	"gameport": 26809,
-	"steamid": "90200847653564442",
-	"name": "Faerie Fire powered by PRACC.COM",
+	"specport": 26810,
+	"steamid": "90200847656655898",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
