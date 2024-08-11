@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.103:26081",
 	"gameport": 26081,
+	"specport": 26082,
 	"steamid": "90200833286823943",
 	"name": "WeLoveAnubis",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

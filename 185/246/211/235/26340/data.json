@@ -2,19 +2,19 @@
 	"addr": "185.246.211.235:26340",
 	"gameport": 26340,
 	"specport": 26341,
-	"steamid": "90200801873018898",
+	"steamid": "90200853991475218",
 	"name": "KOCS Server #1",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 9,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KOCS,Pickups,Pracc server,kocs.fr,insecure"
+	"gametype": "KOCS,Pickups,Pracc server,kocs.fr,secure"
 }

@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 33,
 	"bots": 15,
-	"map": "de_tuscan_d",
+	"map": "de_toscan_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

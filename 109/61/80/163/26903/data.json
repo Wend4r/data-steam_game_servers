@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.163:26903",
 	"gameport": 26903,
-	"specport": 26904,
 	"steamid": "85568392932049186",
 	"name": "[HUN] NeonLight PUB/FUN ",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 3,
 	"max_players": 18,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!agents,!gloves,!knife,!ws,secure"
+	"gametype": "empty,!agents,!gloves,!knife,!ws,secure"
 }
