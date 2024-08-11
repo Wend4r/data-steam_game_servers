@@ -1,7 +1,7 @@
 {
 	"addr": "88.198.63.3:27015",
 	"gameport": 27015,
-	"steamid": "90200832759886855",
+	"steamid": "90200833143115783",
 	"name": "Angler's CS2-Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 7,
+	"bots": 2,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
