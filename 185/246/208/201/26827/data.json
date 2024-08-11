@@ -1,19 +1,20 @@
 {
 	"addr": "185.246.208.201:26827",
 	"gameport": 26827,
-	"steamid": "90200842926477333",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26828,
+	"steamid": "90200843387683861",
+	"name": "waiomy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_anubis",
+	"players": 2,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
