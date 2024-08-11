@@ -1,19 +1,19 @@
 {
 	"addr": "80.138.165.189:27015",
 	"gameport": 27015,
-	"steamid": "90200848069014552",
+	"steamid": "90200848246811672",
 	"name": "GMAK",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_dust2_vanity",
+	"map": "de_anubis_vanity",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

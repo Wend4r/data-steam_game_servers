@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:0i,admin,csgo,onlimirage,public,vip,secure"
+	"gametype": "admin,csgo,onlimirage,public,vip,secure"
 }
