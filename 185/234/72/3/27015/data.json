@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 3,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ctag,!gloves,!knife,!skins,!stag,!ws,102,128,64,bet,drop,free,goldtag,mvp,nametag,rank,ranking,ro,romania,spray,steam,to"
+	"gametype": "!ctag,!gloves,!knife,!skins,!stag,!ws,102,128,64,bet,drop,free,goldtag,mvp,nametag,rank,ranking,ro,romania,spray,steam,top,vip,"
 }
