@@ -2,18 +2,18 @@
 	"addr": "95.173.175.34:27015",
 	"gameport": 27015,
 	"steamid": "85568392922614914",
-	"name": "Jilet Gaming",
+	"name": "GrayWolves  Fun Pro  Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
-	"max_players": 32,
+	"players": 1,
+	"max_players": 38,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Dust2.7/24,Pro,secure"
+	"gametype": "secure"
 }
