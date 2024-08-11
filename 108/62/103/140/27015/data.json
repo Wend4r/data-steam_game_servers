@@ -1,7 +1,7 @@
 {
 	"addr": "108.62.103.140:27015",
 	"gameport": 27015,
-	"steamid": "90200829715164163",
+	"steamid": "90200832706157571",
 	"name": "[rc.noob.club] CS2KZ [Chicago]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "kz_rc_stonehenge",
+	"map": "kz_sxb2_poi",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

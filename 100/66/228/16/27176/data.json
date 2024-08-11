@@ -10,7 +10,7 @@
 	"region": 2,
 	"players": 11,
 	"max_players": 64,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
