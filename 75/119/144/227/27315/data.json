@@ -1,19 +1,19 @@
 {
 	"addr": "75.119.144.227:27315",
 	"gameport": 27315,
-	"steamid": "85568392925995128",
-	"name": "Shoes4All",
+	"steamid": "90200841708055571",
+	"name": "CS2 Server Hosted by g-portal.com",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 10,
-	"bots": 9,
-	"map": "de_inferno",
+	"players": 2,
+	"max_players": 5,
+	"bots": 0,
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
