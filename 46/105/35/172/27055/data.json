@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "bhop_bless",
+	"map": "bhop_cherryblossom",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,aim,am,awp,awp_lego_2,be,de,en,english,es,eu,f"
+	"gametype": "!knife,!ws,aim,am,awp,awp_lego_2,be,de,en,english,es,eu,fr,fran"
 }
