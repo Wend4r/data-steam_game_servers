@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26053",
 	"gameport": 26053,
+	"specport": 26054,
 	"steamid": "90200838342984717",
 	"name": "Leetify CS2 Match by Larry",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 4,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "monarch",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
