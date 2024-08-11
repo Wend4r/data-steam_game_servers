@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battle"
+	"gametype": "!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battlepass,b"
 }
