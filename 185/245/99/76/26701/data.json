@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26701",
 	"gameport": 26701,
-	"steamid": "90200791032089614",
-	"name": "ex-Diverse powered by PRACC.COM",
+	"specport": 26702,
+	"steamid": "90200849333881870",
+	"name": "DONSTU ESPORTS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 3,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
