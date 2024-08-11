@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 1,
-	"map": "hns_remake",
+	"map": "hns_half_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_remake,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_half_fix,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }

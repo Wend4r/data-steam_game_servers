@@ -1,19 +1,19 @@
 {
 	"addr": "109.61.80.168:26776",
 	"gameport": 26776,
-	"steamid": "90200856289976347",
+	"steamid": "90200857675362331",
 	"name": "Shuki Server #PremiumHost",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 13,
+	"players": 10,
 	"max_players": 20,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "cs_agency",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
