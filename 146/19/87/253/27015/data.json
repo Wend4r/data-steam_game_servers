@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "zm_toxic_house3_hdr",
+	"map": "ze_tilex_ultimate_v2_13f",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze"
+	"gametype": "rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze,zm,zo"
 }

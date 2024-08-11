@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 63,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_arctic_escape_p",
+	"map": "ze_hydroponic_garden",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

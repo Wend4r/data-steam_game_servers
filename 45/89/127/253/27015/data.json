@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4vs5,ZZK,aim,community,csgo,retake,zzk,secure"
+	"gametype": "4vs5,ZZK,aim,community,csgo,retake,zzk,secure"
 }
