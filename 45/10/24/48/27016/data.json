@@ -9,12 +9,12 @@
 	"version": "1.35.3.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 1,
 	"map": "surf_ski_2_go",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
