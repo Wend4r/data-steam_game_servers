@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26710",
 	"gameport": 26710,
-	"steamid": "90200803140987920",
+	"steamid": "90200833018333200",
 	"name": "HOES MAD",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26163",
 	"gameport": 26163,
-	"steamid": "90200803139867664",
+	"steamid": "90200833018974224",
 	"name": "updog scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
