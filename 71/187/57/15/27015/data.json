@@ -1,0 +1,19 @@
+{
+	"addr": "71.187.57.15:27015",
+	"gameport": 27015,
+	"steamid": "85568392932070861",
+	"name": "Toms River Diner",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 7,
+	"max_players": 16,
+	"bots": 0,
+	"map": "cs_office",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}
