@@ -1,19 +1,20 @@
 {
 	"addr": "138.201.249.29:5003",
 	"gameport": 5003,
+	"specport": 27020,
 	"steamid": "85568392931738316",
 	"name": "Hirku.net | Tournament",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_rainfall",
+	"bots": 1,
+	"map": "de_foroglio",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
