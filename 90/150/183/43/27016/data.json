@@ -1,7 +1,7 @@
 {
 	"addr": "90.150.183.43:27016",
 	"gameport": 27016,
-	"steamid": "90200830303365120",
+	"steamid": "90200833303424000",
 	"name": "*|Testing Server by DarkerZ[RUS]|",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 0,
 	"map": "ze_sandstorm_cs2",
 	"secure": false,
 	"dedicated": true,
