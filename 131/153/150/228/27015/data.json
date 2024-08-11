@@ -1,19 +1,19 @@
 {
 	"addr": "131.153.150.228:27015",
 	"gameport": 27015,
-	"steamid": "90200837954358296",
+	"steamid": "90200846469297176",
 	"name": "Tradetopia Community Hub",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "tradetopia_v1",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

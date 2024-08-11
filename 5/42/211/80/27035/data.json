@@ -1,0 +1,19 @@
+{
+	"addr": "5.42.211.80:27035",
+	"gameport": 27035,
+	"steamid": "85568392932071252",
+	"name": "[Strike League tournament]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 2,
+	"players": 0,
+	"max_players": 16,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,1v1,2v2,5v5,connect,csgo,cw,hvh,league,panic,private,insecure"
+}
