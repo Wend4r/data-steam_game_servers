@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26103",
 	"gameport": 26103,
-	"steamid": "90200813471055889",
+	"steamid": "90200842716288017",
 	"name": "Deathmatch FFA · NA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

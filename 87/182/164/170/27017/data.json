@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.164.170:27017",
 	"gameport": 27017,
-	"steamid": "90200833396338719",
+	"steamid": "90200842841462815",
 	"name": "[DE] surf nyx 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
