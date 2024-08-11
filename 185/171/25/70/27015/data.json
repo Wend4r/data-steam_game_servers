@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 26,
 	"bots": 0,
 	"map": "jb_minecraftparty_v8",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,lego2,n"
+	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,lego2,nametag"
 }
