@@ -1,7 +1,6 @@
 {
 	"addr": "45.13.151.154:27027",
 	"gameport": 27027,
-	"specport": 27020,
 	"steamid": "85568392932070993",
 	"name": "[RO/EN] ★ AlyxHvH | Deathmatch | Bacau - Romania",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 0,
 	"map": "dm_alyx_prodigy",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania,skeet"
+	"gametype": "empty,alyx,alyxhvh,che,csgo,csgohvh,deathmatch,deathmatchcsgo,dmhvh,gamesense,insecure,matchmaking,neverlose,noexploits,romania"
 }
