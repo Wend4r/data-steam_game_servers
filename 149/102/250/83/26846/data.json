@@ -1,19 +1,19 @@
 {
 	"addr": "149.102.250.83:26846",
 	"gameport": 26846,
-	"steamid": "90200809076890627",
+	"steamid": "90200848909519875",
 	"name": "ritec",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 8,
-	"map": "de_nuke",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

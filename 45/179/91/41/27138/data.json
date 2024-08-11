@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 19,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mission",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4Fun,Agents,Bala,Bala Tensa,Brasil,Gloves,Knife,Music,Stickers,"
+	"gametype": "empty,4Fun,Agents,Bala,Bala Tensa,Brasil,Gloves,Knife,Music,Sti"
 }
