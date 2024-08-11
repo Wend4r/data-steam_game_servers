@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 1,
-	"players": 7,
+	"players": 8,
 	"max_players": 64,
 	"bots": 2,
-	"map": "cs_office",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,empty,secure"
+	"gametype": "hidden,reserved,secure"
 }

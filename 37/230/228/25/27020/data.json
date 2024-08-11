@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "xc_cliffjump_fix",
+	"map": "kz_man_everest_go_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,xc_cliffjump_fix,se"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_man_everest_go_f,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws"
 }
