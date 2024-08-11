@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
+	"gametype": "empty,Deathmatch,FFA-DM,Warmup,WarmupServer,secure"
 }
