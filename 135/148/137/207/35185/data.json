@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 0,
+	"bots": 3,
 	"map": "surf_highlands",
 	"secure": true,
 	"dedicated": true,
