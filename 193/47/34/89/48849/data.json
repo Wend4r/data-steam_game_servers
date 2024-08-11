@@ -2,18 +2,18 @@
 	"addr": "193.47.34.89:48849",
 	"gameport": 48849,
 	"steamid": "85568392931568840",
-	"name": "Freezing-Blood CS:GO | FPS+ | 128tick | AntiCheat",
+	"name": "Counter-Strike: Global Offensive",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
-	"max_players": 64,
+	"players": 0,
+	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2_FPS+fbhdr",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,aim,awp,cyber,fb,freez,freez-blood,freezing,gloves,knife,mirage,onlyhs,public,rus,russia,servertop,skins,vip,ws,secure"
+	"gametype": "empty,secure"
 }
