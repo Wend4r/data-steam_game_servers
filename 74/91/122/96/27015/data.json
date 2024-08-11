@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 3,
+	"players": 0,
 	"max_players": 33,
-	"bots": 1,
-	"map": "surf_greensway",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "autohop,horizon,surf,secure"
+	"gametype": "empty,autohop,horizon,surf,secure"
 }
