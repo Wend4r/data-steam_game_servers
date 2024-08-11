@@ -1,8 +1,9 @@
 {
 	"addr": "169.150.245.97:26710",
 	"gameport": 26710,
-	"steamid": "90200845329040389",
-	"name": "BudyńToTwardaZupa powered by PRACC.COM",
+	"specport": 26711,
+	"steamid": "90200845332304901",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

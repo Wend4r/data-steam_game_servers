@@ -1,6 +1,7 @@
 {
 	"addr": "147.50.253.83:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200837949981720",
 	"name": "[TH][Custom Game] AutKung game store !ws !knife !gloves",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,game store with my friend 128tick,secure"
+	"gametype": "game store with my friend 128tick,secure"
 }

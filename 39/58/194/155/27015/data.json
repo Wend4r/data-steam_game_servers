@@ -1,7 +1,7 @@
 {
 	"addr": "39.58.194.155:27015",
 	"gameport": 27015,
-	"steamid": "90200844605698069",
+	"steamid": "90200845667023893",
 	"name": "noobster's Deathmatch FFA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,DM,Deathmatch,FFA,secure"
+	"gametype": "empty,128,AntiCheat,DM,Deathmatch,FFA,secure"
 }
