@@ -1,0 +1,19 @@
+{
+	"addr": "188.143.73.175:27016",
+	"gameport": 27016,
+	"steamid": "85568392932071038",
+	"name": "yeepee",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,hehe,secure"
+}

@@ -1,7 +1,6 @@
 {
 	"addr": "18.170.143.124:27015",
 	"gameport": 27015,
-	"specport": 27115,
 	"steamid": "85568392922600893",
 	"name": "NSE Tournament Server #1 | nse.gg",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 8,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
