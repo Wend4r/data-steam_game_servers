@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27015",
 	"gameport": 27015,
 	"steamid": "90200733677968396",
-	"name": "[genesis] League #9",
+	"name": "genesis 20518: team_Jas3 vs team_suicideboys",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 8,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }
