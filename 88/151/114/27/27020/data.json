@@ -12,7 +12,7 @@
 	"max_players": 32,
 	"bots": 10,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
 	"gametype": "secure,nhb,cs2"

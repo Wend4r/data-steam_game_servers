@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
-	"max_players": 12,
-	"bots": 6,
-	"map": "de_ravine",
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
