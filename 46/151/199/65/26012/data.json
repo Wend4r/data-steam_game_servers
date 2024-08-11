@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "refrag_warmup",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
