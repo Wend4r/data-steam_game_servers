@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage_overwatch",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf,ws,zm"
+	"gametype": "empty,!,!arena,1,128,1mpu,90,A,HolyHender,cases,cybershoke,dd2,deti,drop,du,dust2,duv2,gameME,glove,hs,knife,no-steam,skin,surf"
 }
