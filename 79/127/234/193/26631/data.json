@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.234.193:26631",
 	"gameport": 26631,
-	"steamid": "90200852620804109",
-	"name": "RETAKE powered by PRACC.COM",
+	"steamid": "90200853451429901",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

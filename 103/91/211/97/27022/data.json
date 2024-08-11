@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 28,
-	"bots": 3,
-	"map": "surf_sinister2",
+	"bots": 0,
+	"map": "surf_ameliorate",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Skin,Store,Surf,SurfTimer,secure"
+	"gametype": "empty,Skin,Store,Surf,SurfTimer,secure"
 }

@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27035",
 	"gameport": 27035,
 	"steamid": "90200733712734238",
-	"name": "genesis 20591: team_scalevizarrd vs team_\\",
+	"name": "[genesis] League #3",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

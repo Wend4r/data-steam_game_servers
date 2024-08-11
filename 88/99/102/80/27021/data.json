@@ -1,6 +1,7 @@
 {
 	"addr": "88.99.102.80:27021",
 	"gameport": 27021,
+	"specport": 27020,
 	"steamid": "90200853384918041",
 	"name": "PROTON LETHAL",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "ar_baggage",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Germany,PROTON,de,insecure"
+	"gametype": "Germany,PROTON,de,secure"
 }
