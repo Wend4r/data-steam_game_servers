@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BUNKER,Buzuluk,GAMECLUB,public,wingman,insecure"
+	"gametype": "empty,BUNKER,Buzuluk,GAMECLUB,public,wingman,secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.131:26269",
 	"gameport": 26269,
-	"steamid": "90200852614749192",
-	"name": "Molotov Gaming (Advanced) powered by PRACC.COM",
+	"steamid": "90200853469112328",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

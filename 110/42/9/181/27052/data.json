@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_redglow_csgo",
+	"map": "bhop_bathhouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,bhop,bunnyhop,fastdl,timer,secure"
+	"gametype": "empty,ZED,bhop,bunnyhop,fastdl,timer,secure"
 }
