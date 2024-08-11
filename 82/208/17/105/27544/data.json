@@ -1,7 +1,6 @@
 {
 	"addr": "82.208.17.105:27544",
 	"gameport": 27544,
-	"specport": 26544,
 	"steamid": "85568392931650563",
 	"name": "PLAYzone #07 by FakaHeda.eu",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PLAYzone,secure"
+	"gametype": "empty,PLAYzone,secure"
 }

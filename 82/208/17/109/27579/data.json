@@ -1,7 +1,6 @@
 {
 	"addr": "82.208.17.109:27579",
 	"gameport": 27579,
-	"specport": 26579,
 	"steamid": "85568392931650569",
 	"name": "PLAYzone #13 by FakaHeda.eu",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PLAYzone,secure"
+	"gametype": "empty,PLAYzone,secure"
 }

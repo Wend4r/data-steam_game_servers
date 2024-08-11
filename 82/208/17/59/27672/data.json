@@ -1,7 +1,6 @@
 {
 	"addr": "82.208.17.59:27672",
 	"gameport": 27672,
-	"specport": 26672,
 	"steamid": "85568392931650558",
 	"name": "PLAYzone #02 by FakaHeda.eu",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PLAYzone,secure"
+	"gametype": "empty,PLAYzone,secure"
 }
