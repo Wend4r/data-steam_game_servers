@@ -1,6 +1,7 @@
 {
 	"addr": "121.136.1.55:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931809386",
 	"name": "KR_RW",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
-	"max_players": 10,
-	"bots": 0,
+	"players": 1,
+	"max_players": 11,
+	"bots": 1,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
