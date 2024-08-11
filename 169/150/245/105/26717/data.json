@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.105:26717",
 	"gameport": 26717,
+	"specport": 26718,
 	"steamid": "90200850586203149",
 	"name": "T-Torturers powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "pracc,pracc.com,practice,scrim,secure"
 }
