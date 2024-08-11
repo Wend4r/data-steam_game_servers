@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,/gloves,/knife,/ws,bhop,bunnyhop,community,cs:go,csgo,fun,gloves,knife,kz,map,movement,surf,surfing,ws,secur"
+	"gametype": "empty,!gloves,!knife,!ws,/gloves,/knife,/ws,bhop,bunnyhop,community,cs:go,csgo,fun,gloves,knife,kz,map,movement,surf,surfing,ws"
 }
