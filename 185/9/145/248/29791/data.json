@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,compet,cs2,custom,eu,maps,server,vanilla,insecure"
+	"gametype": "empty,compet,cs2,custom,eu,maps,server,vanilla,secure"
 }
