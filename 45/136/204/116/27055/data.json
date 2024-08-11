@@ -2,7 +2,7 @@
 	"addr": "45.136.204.116:27055",
 	"gameport": 27055,
 	"steamid": "90200733712782366",
-	"name": "[genesis] League #test",
+	"name": "genesis 20531: team_Аркадий поровозов vs team_�",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }
