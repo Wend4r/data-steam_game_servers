@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:47137",
 	"gameport": 47137,
-	"steamid": "90200830985736206",
+	"steamid": "90200853789681678",
 	"name": "yinxingYXGprac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

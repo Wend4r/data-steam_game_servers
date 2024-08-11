@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 6,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,R,64tick,64,cheaters,allmaps,dust2 old,cheats,dust2,europ"
+	"gametype": "R,64tick,64,cheaters,allmaps,dust2 old,cheats,dust2,europe,expl"
 }
