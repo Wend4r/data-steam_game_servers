@@ -1,20 +1,19 @@
 {
 	"addr": "5.9.94.154:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200834845776896",
-	"name": "SourceLan CS2 - Arms Race",
+	"steamid": "90200850408912896",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 11,
-	"bots": 1,
+	"max_players": 10,
+	"bots": 3,
 	"map": "ar_shoots",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,Arms,Arms Race,Race,secure"
+	"gametype": "empty,secure"
 }
