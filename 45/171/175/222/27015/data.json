@@ -10,10 +10,10 @@
 	"region": 2,
 	"players": 1,
 	"max_players": 64,
-	"bots": 8,
-	"map": "awp_india",
+	"bots": 0,
+	"map": "glass_war",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
