@@ -1,0 +1,20 @@
+{
+	"addr": "156.146.52.209:26291",
+	"gameport": 26291,
+	"specport": 26292,
+	"steamid": "90200859074884634",
+	"name": "TEAM PHOENİX powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "pracc,pracc.com,practice,scrim,secure"
+}
