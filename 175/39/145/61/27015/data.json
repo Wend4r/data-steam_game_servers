@@ -1,7 +1,7 @@
 {
 	"addr": "175.39.145.61:27015",
 	"gameport": 27015,
-	"steamid": "90200838704764933",
+	"steamid": "90200838706976773",
 	"name": "CS2 Horde",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 32,
-	"bots": 1,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,

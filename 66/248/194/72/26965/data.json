@@ -1,7 +1,7 @@
 {
 	"addr": "66.248.194.72:26965",
 	"gameport": 26965,
-	"steamid": "90200838321272857",
+	"steamid": "90200838837103641",
 	"name": "[EU] KingsHVH | NO SPREAD + DT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
