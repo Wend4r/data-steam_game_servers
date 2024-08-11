@@ -2,8 +2,8 @@
 	"addr": "148.113.1.122:26926",
 	"gameport": 26926,
 	"specport": 26927,
-	"steamid": "90200839796294679",
-	"name": "Marcos Gaming powered by PRACC.COM",
+	"steamid": "90200840778981399",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

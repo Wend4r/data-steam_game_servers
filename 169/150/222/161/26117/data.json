@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "aim_blast",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
