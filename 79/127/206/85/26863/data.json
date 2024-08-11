@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 5,
-	"bots": 1,
+	"bots": 0,
 	"map": "aim_map_s2r",
 	"secure": true,
 	"dedicated": true,

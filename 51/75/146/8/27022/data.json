@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 16,
-	"bots": 1,
-	"map": "cs_italy",
+	"bots": 12,
+	"map": "de_dust2_2013_og",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
