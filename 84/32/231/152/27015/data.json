@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,bhop,fun,jailbreak,jb,mekan,mg,mg,pro,pro public,publ"
+	"gametype": "awp,bhop,fun,jailbreak,jb,mekan,mg,mg,pro,pro public,public,sur"
 }

@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Spillvert.no,secure"
+	"gametype": "empty,Spillvert.no,insecure"
 }

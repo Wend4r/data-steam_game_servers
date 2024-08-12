@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:26119",
 	"gameport": 26119,
+	"specport": 26120,
 	"steamid": "90200868220732434",
 	"name": "xGOD    (ex_Forward Gaming) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 11,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
