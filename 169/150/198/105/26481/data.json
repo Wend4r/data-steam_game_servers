@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.198.105:26481",
 	"gameport": 26481,
-	"specport": 26482,
-	"steamid": "90200608690643977",
-	"name": "Leetify CS2 Surf by Escanor",
+	"steamid": "90200860299967497",
+	"name": "TACTICS powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 12,
-	"bots": 1,
-	"map": "surf_beginner",
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

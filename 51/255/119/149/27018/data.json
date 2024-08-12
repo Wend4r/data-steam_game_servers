@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 52,
-	"bots": 4,
-	"map": "gg_aim_aztekia_LSF",
+	"bots": 1,
+	"map": "de_dust2_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
+	"gametype": "empty,freevip,gg,gungame,no-steam,nosteam,se7en,se7enkills,stats,gameME,secure"
 }
