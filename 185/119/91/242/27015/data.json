@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 28,
-	"bots": 1,
-	"map": "am_aztec_wf",
+	"bots": 2,
+	"map": "am_aztec2_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brutalci,ws,secure"
+	"gametype": "empty,br,brutalci,ws,secure"
 }
