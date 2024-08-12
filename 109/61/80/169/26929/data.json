@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 5,
-	"bots": 0,
-	"map": "ar_monastery",
+	"bots": 1,
+	"map": "de_safehouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

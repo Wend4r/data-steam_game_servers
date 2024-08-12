@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 12,
-	"bots": 8,
-	"map": "ze_dangerous_waters_p",
+	"bots": 0,
+	"map": "ze_icecap_escape_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

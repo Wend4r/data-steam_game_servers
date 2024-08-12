@@ -12,7 +12,7 @@
 	"players": 5,
 	"max_players": 10,
 	"bots": 1,
-	"map": "ar_chess",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
