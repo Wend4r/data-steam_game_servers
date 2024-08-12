@@ -1,7 +1,6 @@
 {
 	"addr": "54.37.129.192:27014",
 	"gameport": 27014,
-	"specport": 27020,
 	"steamid": "85568392931049987",
 	"name": "RETAKE #2 [PL] ❤!ws !knife !skins❤ TACTICA.GG",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 9,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,competitive,"
+	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,casual,chill.lv,compet"
 }

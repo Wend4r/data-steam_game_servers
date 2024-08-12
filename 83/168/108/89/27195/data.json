@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27195",
 	"gameport": 27195,
-	"steamid": "90200834923051031",
+	"steamid": "90200861439087639",
 	"name": "SERWER Popek",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "province",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
