@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26721",
 	"gameport": 26721,
-	"steamid": "90200859941895197",
+	"steamid": "90200865601049629",
 	"name": "EVR",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

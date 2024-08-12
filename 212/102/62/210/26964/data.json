@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26964",
 	"gameport": 26964,
-	"steamid": "90200859941063709",
+	"steamid": "90200865601235997",
 	"name": "Ligan | Aim Maps",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
