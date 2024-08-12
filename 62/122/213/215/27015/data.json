@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_undertale_v1b",
+	"map": "jb_peanut_v3r",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,se"
+	"gametype": "!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,secure"
 }

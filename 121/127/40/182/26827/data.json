@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.40.182:26827",
 	"gameport": 26827,
-	"steamid": "90200643319857152",
-	"name": "Leetify CS2 Practice Mode by Cock Pushup",
+	"steamid": "85568392927627274",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 1,
+	"region": -1,
+	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_inferno",
-	"secure": true,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

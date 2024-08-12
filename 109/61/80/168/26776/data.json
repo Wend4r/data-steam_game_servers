@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 8,
+	"players": 7,
 	"max_players": 20,
 	"bots": 0,
-	"map": "gg_simpsons_vs_flanders_v2",
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
