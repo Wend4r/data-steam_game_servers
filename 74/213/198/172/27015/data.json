@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 8,
-	"bots": 1,
+	"bots": 0,
 	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,

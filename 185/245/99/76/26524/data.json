@@ -2,19 +2,19 @@
 	"addr": "185.245.99.76:26524",
 	"gameport": 26524,
 	"specport": 26525,
-	"steamid": "90200858316514318",
+	"steamid": "90200862061581326",
 	"name": "Werty-Ac-Fire powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

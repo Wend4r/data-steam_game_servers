@@ -1,7 +1,7 @@
 {
 	"addr": "185.143.180.213:27015",
 	"gameport": 27015,
-	"steamid": "90200841571986435",
+	"steamid": "90200862021255171",
 	"name": "0815 CS2 SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "graffiti",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
