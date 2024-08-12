@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.222.161:26748",
 	"gameport": 26748,
+	"specport": 26749,
 	"steamid": "90200868931833859",
 	"name": "oniclancs2",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
