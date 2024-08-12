@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 2,
-	"map": "aim_map_carton",
+	"bots": 1,
+	"map": "de_nuke_minecraft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
 }

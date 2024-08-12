@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.105:26263",
 	"gameport": 26263,
+	"specport": 26264,
 	"steamid": "90200881846717453",
 	"name": "[P] PopFlash Scrim - amsterdam - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }
