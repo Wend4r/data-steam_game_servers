@@ -1,19 +1,19 @@
 {
 	"addr": "83.168.108.89:27240",
 	"gameport": 27240,
-	"steamid": "90200834619515927",
+	"steamid": "90200861269490711",
 	"name": "SERWER DangeR",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "haskin_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
