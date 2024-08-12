@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 26,
-	"bots": 2,
-	"map": "kz_date2",
+	"bots": 0,
+	"map": "kz_ziggurath_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "KZTimer,anticheat,csgo,climb,bhop,easy,gloves,kz,knife,game,fun,free,maps,radio,server,server,skin,sneak,surf,timer,usa,vip,ws,"
+	"gametype": "empty,KZTimer,anticheat,csgo,climb,bhop,easy,gloves,kz,knife,game,fun,free,maps,radio,server,server,skin,sneak,surf,timer,usa,v"
 }

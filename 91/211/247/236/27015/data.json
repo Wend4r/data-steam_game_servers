@@ -1,7 +1,7 @@
 {
 	"addr": "91.211.247.236:27015",
 	"gameport": 27015,
-	"steamid": "90200842045473811",
+	"steamid": "90200860801159187",
 	"name": "[LT] BACHURU SERVAS - MIX/PUG+",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bachuru,comp,faceit,lt,match,mix,pug,scrim,top,secure"
+	"gametype": "empty,bachuru,comp,faceit,lt,match,mix,pug,scrim,top,secure"
 }
