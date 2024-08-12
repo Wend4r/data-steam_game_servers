@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26881",
 	"gameport": 26881,
-	"steamid": "90200859831509020",
+	"steamid": "90200866324065308",
 	"name": "Gutta på tur",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

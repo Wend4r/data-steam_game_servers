@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26671",
 	"gameport": 26671,
-	"steamid": "90200851869208604",
+	"steamid": "90200866323822620",
 	"name": "TSV",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

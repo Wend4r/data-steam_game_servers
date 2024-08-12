@@ -2,7 +2,7 @@
 	"addr": "212.102.62.209:26052",
 	"gameport": 26052,
 	"specport": 26053,
-	"steamid": "90200803226458140",
+	"steamid": "90200866324038684",
 	"name": "CS2 Match API Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
