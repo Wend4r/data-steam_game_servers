@@ -7,7 +7,7 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,TN,Tunisia,de,dz,egypt,fr,it,maroc,tn,insecure"
+	"gametype": "empty,TN,Tunisia,de,dz,egypt,fr,it,maroc,tn,secure"
 }
