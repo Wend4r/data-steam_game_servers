@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26267",
 	"gameport": 26267,
+	"specport": 26268,
 	"steamid": "85568392932056599",
 	"name": "TryHearts",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
