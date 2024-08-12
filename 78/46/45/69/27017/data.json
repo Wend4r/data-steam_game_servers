@@ -1,6 +1,7 @@
 {
 	"addr": "78.46.45.69:27017",
 	"gameport": 27017,
+	"specport": 27020,
 	"steamid": "85568392931371599",
 	"name": "HUSK.GG PRACC - Main",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

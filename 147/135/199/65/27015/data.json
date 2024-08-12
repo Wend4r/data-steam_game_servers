@@ -10,10 +10,9 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 21,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
