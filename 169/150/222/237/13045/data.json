@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.237:13045",
 	"gameport": 13045,
-	"steamid": "90200857401565199",
+	"steamid": "90200881177086991",
 	"name": "ayesports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

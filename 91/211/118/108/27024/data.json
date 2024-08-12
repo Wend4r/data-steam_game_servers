@@ -1,19 +1,19 @@
 {
 	"addr": "91.211.118.108:27024",
 	"gameport": 27024,
-	"steamid": "90200880976563224",
+	"steamid": "90200881363115032",
 	"name": "| NEXACORE | AIM SERVER | UA",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
 	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
