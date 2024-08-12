@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.96:27120",
 	"gameport": 27120,
-	"steamid": "90200781475115038",
+	"steamid": "90200861282229278",
 	"name": "CS2 TEST @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
