@@ -1,6 +1,7 @@
 {
 	"addr": "162.55.132.184:1042",
 	"gameport": 1042,
+	"specport": 27020,
 	"steamid": "90200861956752400",
 	"name": "Nofame 3",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 14,
+	"players": 2,
+	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

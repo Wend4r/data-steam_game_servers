@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "fun_matrix",
+	"map": "mg_thc_lego_multimap",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

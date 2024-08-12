@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 30,
-	"bots": 4,
-	"map": "de_overpass_2014",
+	"bots": 2,
+	"map": "de_lake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FUN,secure"
+	"gametype": "FUN,secure"
 }
