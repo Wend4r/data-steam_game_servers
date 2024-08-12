@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27065",
 	"gameport": 27065,
 	"steamid": "90200854286507020",
-	"name": "[genesis] League #14",
+	"name": "genesis 20998: team_new era perekupa! vs team_nofan",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

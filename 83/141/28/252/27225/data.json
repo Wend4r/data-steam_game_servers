@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "aim_redline_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GAME Room,secure"
+	"gametype": "GAME Room,secure"
 }
