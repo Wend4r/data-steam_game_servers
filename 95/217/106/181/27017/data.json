@@ -1,19 +1,19 @@
 {
 	"addr": "95.217.106.181:27017",
 	"gameport": 27017,
-	"steamid": "90200799640482835",
+	"steamid": "90200879194980371",
 	"name": "[Helarikerho.fi] SAUNA",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_raksasauna_jk",
+	"map": "de_spasauna",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.97:26937",
 	"gameport": 26937,
-	"specport": 26938,
-	"steamid": "90200853015820293",
+	"steamid": "90200879253926917",
 	"name": "Invictim  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
