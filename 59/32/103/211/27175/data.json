@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_hollow_a2",
+	"map": "ze_anima_ruins_v2_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZombieReloaded,93x,bbs.93x.net,ZM,escape,xnet,z,ze,zombie,secure"
+	"gametype": "ZombieReloaded,93x,bbs.93x.net,ZM,escape,xnet,z,ze,zombie,secure"
 }
