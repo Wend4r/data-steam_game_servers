@@ -2,19 +2,19 @@
 	"addr": "169.150.232.56:26520",
 	"gameport": 26520,
 	"specport": 26521,
-	"steamid": "90200884664883216",
+	"steamid": "90200884665282576",
 	"name": "gsu black powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
