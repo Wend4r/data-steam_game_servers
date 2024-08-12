@@ -1,7 +1,7 @@
 {
 	"addr": "195.114.193.58:27015",
 	"gameport": 27015,
-	"steamid": "90200868617692170",
+	"steamid": "90200868789127178",
 	"name": "\"����ʬ���ܡ�\" ZE \"#1\" \"������\" \"������ѵ�����Է�\"",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_boatescape888",
+	"map": "ze_overlord",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

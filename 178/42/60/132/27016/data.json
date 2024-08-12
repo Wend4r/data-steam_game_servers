@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 48,
-	"bots": 0,
-	"map": "surf_mellow_sc",
+	"bots": 2,
+	"map": "surf_skipalot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102.4,AT,CZ,EU,Europe,HU,PL,SC,SK,csgo,fun,kiepownic,kiepownica,map,pl,ranks,surf,surfcommunity,surftimer,surftimer,timer,timer"
+	"gametype": "empty,102.4,AT,CZ,EU,Europe,HU,PL,SC,SK,csgo,fun,kiepownic,kiepownica,map,pl,ranks,surf,surfcommunity,surftimer,surftimer,timer"
 }

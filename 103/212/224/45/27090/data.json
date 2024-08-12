@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_astra",
+	"map": "surf_lockdown",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
+	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
 }
