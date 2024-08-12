@@ -1,0 +1,20 @@
+{
+	"addr": "95.216.98.17:27053",
+	"gameport": 27053,
+	"specport": 29053,
+	"steamid": "85568392930892660",
+	"name": "CS2 CyberWars",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 64,
+	"bots": 1,
+	"map": "aim_map",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

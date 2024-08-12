@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 23,
 	"bots": 1,
-	"map": "awp_greesia_v2_d_prefab",
+	"map": "aim_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
