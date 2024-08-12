@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
 	"map": "kz_how2slide_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,secure"
+	"gametype": "hidden,secure"
 }

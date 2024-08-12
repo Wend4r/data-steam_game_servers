@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 5,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_skyworld_x",
+	"map": "surf_ski_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!ws,killzone,de,combat surf,combat,easy surf,beginner,de,"
+	"gametype": "!ws,killzone,de,combat surf,combat,easy surf,beginner,de,austra"
 }
