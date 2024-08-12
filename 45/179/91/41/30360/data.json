@@ -1,6 +1,7 @@
 {
 	"addr": "45.179.91.41:30360",
 	"gameport": 30360,
+	"specport": 31360,
 	"steamid": "85568392931040249",
 	"name": "Cachorro1337 - Competitivo ",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 10,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_cursedmirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
