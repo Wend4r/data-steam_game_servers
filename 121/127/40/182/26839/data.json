@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26839",
 	"gameport": 26839,
-	"steamid": "90200836311489536",
+	"steamid": "90200862058273792",
 	"name": "TuggLand",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "mg_swag_multigames_v7_1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
