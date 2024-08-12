@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,GarrysHost,insecure"
+	"gametype": "empty,GarrysHost,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
 	"map": "de_dust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:41248439i,aus,australia,bots,co-op,coop,escape,fastdl,oce,oceania,ozlin,pve,reloaded,riot,survival,ze,zm,zombie,zr,zriot,i"
+	"gametype": "empty,*grp:41248439i,aus,australia,bots,co-op,coop,escape,fastdl,oce,oceania,ozlin,pve,reloaded,riot,survival,ze,zm,zombie,zr,z"
 }

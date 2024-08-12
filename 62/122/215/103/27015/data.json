@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 0,
-	"map": "seek_enterprise",
+	"map": "seek_town",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,flower,lycoris,maniac,secure"
+	"gametype": "empty,cs2,flower,lycoris,maniac,secure"
 }
