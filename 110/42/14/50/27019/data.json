@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.14.50:27019",
 	"gameport": 27019,
-	"steamid": "90200781774161939",
+	"steamid": "90200874499520531",
 	"name": "PreAim训练服 浙江高频 #5 [VIP]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
