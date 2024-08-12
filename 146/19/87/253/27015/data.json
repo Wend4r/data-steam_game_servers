@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 64,
 	"bots": 1,
 	"map": "zm_cube_v7",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*grp:https://steamcommunity.com/groups/offlegempi,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-ste,rev=78"
+	"gametype": "rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze,zm,zo"
 }

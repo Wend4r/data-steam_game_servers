@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 64,
-	"bots": 5,
-	"map": "de_safehouse",
+	"bots": 6,
+	"map": "cs_mansion",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

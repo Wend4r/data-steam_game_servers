@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.33:26975",
 	"gameport": 26975,
-	"specport": 26976,
-	"steamid": "90200843076599814",
+	"steamid": "90200869287619590",
 	"name": "Underground ESC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

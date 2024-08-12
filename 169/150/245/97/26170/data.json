@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.245.97:26170",
 	"gameport": 26170,
-	"steamid": "90200869246714885",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200869248386053",
+	"name": "Verdant powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
