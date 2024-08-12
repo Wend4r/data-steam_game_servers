@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26418",
 	"gameport": 26418,
-	"steamid": "90200839305488398",
+	"steamid": "90200865559808014",
 	"name": "NORDIX  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 2,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
