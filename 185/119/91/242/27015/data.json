@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "am_dust2014_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brutalci,ws,secure"
+	"gametype": "empty,br,brutalci,ws,secure"
 }
