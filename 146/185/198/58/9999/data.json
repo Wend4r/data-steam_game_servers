@@ -1,6 +1,7 @@
 {
 	"addr": "146.185.198.58:9999",
 	"gameport": 9999,
+	"specport": 27020,
 	"steamid": "85568392930343617",
 	"name": "Краснодар |26| 5х5 [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 2,
-	"max_players": 11,
+	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
+	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
 }
