@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 3,
 	"map": "surf_kultur",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,100tick,Lumilinna,Teehuone,bhop,cksurf,eu,finland,hard,skill,skillsurf,suomi,surf,surftimer,timer,secure"
+	"gametype": "100tick,Lumilinna,Teehuone,bhop,cksurf,eu,finland,hard,skill,skillsurf,suomi,surf,surftimer,timer,secure"
 }
