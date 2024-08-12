@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 8,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,odenrind,secure"
+	"gametype": "odenrind,secure"
 }

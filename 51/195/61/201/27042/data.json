@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.201:27042",
 	"gameport": 27042,
-	"steamid": "85568392932057784",
+	"steamid": "85568392932057787",
 	"name": "[INUI] Red vs Blue",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

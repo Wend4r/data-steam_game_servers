@@ -1,19 +1,20 @@
 {
 	"addr": "185.234.72.3:27015",
 	"gameport": 27015,
-	"steamid": "85568392926426021",
-	"name": "[CS2] [AZL.FIREON.RO] !WS !KNIFE !GLOVES !AGENTS !MUSIC !SHOP",
+	"specport": 27020,
+	"steamid": "90200875713960967",
+	"name": "[CS:GO] ★ GO.FIREON.RO ★ COMPETITIVE | SKINS | 128TICK [SIN",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
-	"product": "cs2",
+	"version": "1.38.8.1",
+	"product": "csgo",
 	"region": 3,
 	"players": 0,
-	"max_players": 33,
+	"max_players": 10,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!skins,!ws,casual,compe,competitive,drop,f"
+	"gametype": "empty,!ctag,!gloves,!knife,!skins,!stag,!ws,102,128,64,bet,drop,free,goldtag,mvp,nametag,rank,ranking,ro,romania,spray,steam,to"
 }
