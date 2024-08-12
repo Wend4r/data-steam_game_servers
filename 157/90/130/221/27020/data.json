@@ -11,7 +11,7 @@
 	"region": 255,
 	"players": 5,
 	"max_players": 28,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage_artex",
 	"secure": true,
 	"dedicated": true,
