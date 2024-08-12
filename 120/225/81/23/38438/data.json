@@ -1,8 +1,8 @@
 {
 	"addr": "120.225.81.23:38438",
 	"gameport": 38438,
-	"steamid": "90200883751817225",
-	"name": "|ZombieEscape|[#1]ArcticFox_Training",
+	"steamid": "90200883999679497",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

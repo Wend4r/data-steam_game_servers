@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 48,
-	"bots": 26,
-	"map": "de_sakura",
+	"bots": 3,
+	"map": "de_mission",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

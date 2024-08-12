@@ -1,19 +1,20 @@
 {
 	"addr": "89.187.167.129:26059",
 	"gameport": 26059,
-	"steamid": "90200726682714129",
-	"name": "Leetify CS2 Retakes by CYKLER",
+	"specport": 26060,
+	"steamid": "90200883953949713",
+	"name": "[P] PopFlash Scrim - bristol - 24",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_mirage",
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,popflash,secure"
 }

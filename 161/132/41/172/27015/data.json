@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,hvh,nospread,unknowncheats,insecure"
+	"gametype": "128tick,hvh,nospread,unknowncheats,insecure"
 }

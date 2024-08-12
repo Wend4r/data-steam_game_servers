@@ -1,0 +1,19 @@
+{
+	"addr": "185.193.165.72:27015",
+	"gameport": 27015,
+	"steamid": "90200883903867927",
+	"name": "[TR] AYYILDIZ GAMING PRO PUBLIC - prooyun.net",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 3,
+	"players": 1,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "128tick,awp,bunny,deathmatch,deathrun,dm,jailbreak,jb,market,mg"
+}
