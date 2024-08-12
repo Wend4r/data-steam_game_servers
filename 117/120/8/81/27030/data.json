@@ -2,7 +2,7 @@
 	"addr": "117.120.8.81:27030",
 	"gameport": 27030,
 	"specport": 27033,
-	"steamid": "90200785203484687",
+	"steamid": "90200866718554127",
 	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 29,
 	"bots": 3,
-	"map": "de_nipperhouse",
+	"map": "cs_crackhouse_remake_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

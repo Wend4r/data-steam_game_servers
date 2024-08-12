@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26359",
 	"gameport": 26359,
-	"steamid": "90200859832036380",
+	"steamid": "90200866832394268",
 	"name": "CoSoGo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
