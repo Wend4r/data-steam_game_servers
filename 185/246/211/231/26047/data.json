@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.231:26047",
 	"gameport": 26047,
+	"specport": 26048,
 	"steamid": "90200859966617614",
 	"name": "WOTAN",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
