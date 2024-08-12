@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 8,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
+	"gametype": "!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
 }
