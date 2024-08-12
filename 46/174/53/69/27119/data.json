@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 65,
-	"bots": 1,
+	"bots": 0,
 	"map": "ze_sandstorm_cs2",
 	"secure": false,
 	"dedicated": true,

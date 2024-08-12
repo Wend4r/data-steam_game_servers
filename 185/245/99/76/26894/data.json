@@ -2,8 +2,8 @@
 	"addr": "185.245.99.76:26894",
 	"gameport": 26894,
 	"specport": 26895,
-	"steamid": "90200832063807502",
-	"name": "Hamringstogt - Beta powered by PRACC.COM",
+	"steamid": "90200871260277774",
+	"name": "YourSuffer powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
