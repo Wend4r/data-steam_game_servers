@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kz_buildings_final",
+	"map": "kz_tq",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_buildings_final,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_tq,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
 }

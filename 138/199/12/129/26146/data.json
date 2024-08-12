@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.12.129:26146",
 	"gameport": 26146,
-	"steamid": "90200859886261263",
+	"steamid": "90200874725429263",
 	"name": "Thugz Mansion",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
