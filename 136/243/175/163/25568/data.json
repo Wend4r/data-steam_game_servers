@@ -1,0 +1,19 @@
+{
+	"addr": "136.243.175.163:25568",
+	"gameport": 25568,
+	"steamid": "90200878955380758",
+	"name": "Orizon Dev",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "surf_ski_2_kitsune",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospre"
+}

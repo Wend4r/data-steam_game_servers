@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.106:26972",
 	"gameport": 26972,
+	"specport": 26973,
 	"steamid": "90200878293978126",
 	"name": "Eld Själar (INT) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
