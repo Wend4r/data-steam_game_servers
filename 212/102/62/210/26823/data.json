@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,odenrind,thera,insecure"
+	"gametype": "empty,odenrind,thera,secure"
 }
