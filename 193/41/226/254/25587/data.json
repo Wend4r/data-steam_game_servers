@@ -1,7 +1,6 @@
 {
 	"addr": "193.41.226.254:25587",
 	"gameport": 25587,
-	"specport": 25588,
 	"steamid": "85568392931322116",
 	"name": "CHRONICALSde Retake 01 [4v5][Warmup]",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

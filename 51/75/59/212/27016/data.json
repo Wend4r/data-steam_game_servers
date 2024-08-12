@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 17,
 	"bots": 4,
-	"map": "awp_lego_2",
+	"map": "awp_lego_2_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,agents,awp_,de_,deagle,gloves,knife,kosy,lego,minecra"
+	"gametype": "!ws,agents,awp_,de_,deagle,gloves,knife,kosy,lego,minecraft,onl"
 }

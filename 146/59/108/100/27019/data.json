@@ -1,7 +1,7 @@
 {
 	"addr": "146.59.108.100:27019",
 	"gameport": 27019,
-	"steamid": "90200837948762142",
+	"steamid": "90200862323884062",
 	"name": "[BBCv2] Retakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
