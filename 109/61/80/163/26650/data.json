@@ -2,7 +2,7 @@
 	"addr": "109.61.80.163:26650",
 	"gameport": 26650,
 	"specport": 26651,
-	"steamid": "90200859836765206",
+	"steamid": "90200866187489302",
 	"name": "PRIDE2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
