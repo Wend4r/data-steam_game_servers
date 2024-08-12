@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26611",
 	"gameport": 26611,
-	"steamid": "90200840427896832",
+	"steamid": "90200866916953088",
 	"name": "NivekCS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

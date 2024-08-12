@@ -1,19 +1,18 @@
 {
 	"addr": "5.180.254.15:50008",
 	"gameport": 50008,
-	"steamid": "90200861534838784",
+	"steamid": "90200866918616064",
 	"name": "Team-SEEYOU by Cordes-Hosting.net",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
