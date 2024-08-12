@@ -2,19 +2,19 @@
 	"addr": "79.127.206.86:26891",
 	"gameport": 26891,
 	"specport": 26892,
-	"steamid": "90200860384555013",
+	"steamid": "90200860535036933",
 	"name": "Waterboarding Fan Club powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 7,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
