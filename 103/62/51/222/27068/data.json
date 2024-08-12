@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 5,
-	"players": 0,
+	"players": 3,
 	"max_players": 20,
-	"bots": 0,
-	"map": "de_bank",
+	"bots": 5,
+	"map": "de_brewery",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

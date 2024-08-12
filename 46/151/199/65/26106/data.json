@@ -1,8 +1,8 @@
 {
 	"addr": "46.151.199.65:26106",
 	"gameport": 26106,
-	"steamid": "90200860938850306",
-	"name": "Legends Never Die powered by PRACC.COM",
+	"steamid": "90200860940815362",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

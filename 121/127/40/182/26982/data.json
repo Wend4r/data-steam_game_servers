@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,gloves,knife,retake,retakes,rifle,ws,"
+	"gametype": "dathost,dathost.net,gloves,knife,retake,retakes,rifle,ws,secure"
 }
