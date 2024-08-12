@@ -1,0 +1,19 @@
+{
+	"addr": "185.111.247.98:27015",
+	"gameport": 27015,
+	"steamid": "90200883867305998",
+	"name": "S D GAMING",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

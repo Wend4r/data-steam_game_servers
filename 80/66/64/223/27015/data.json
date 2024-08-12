@@ -1,7 +1,7 @@
 {
 	"addr": "80.66.64.223:27015",
 	"gameport": 27015,
-	"steamid": "90200880473750541",
+	"steamid": "90200883837258765",
 	"name": "X-NoNAME 1v1 Duel Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 2,
 	"bots": 0,
-	"map": "aim_map_carton",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.40.183:26220",
 	"gameport": 26220,
-	"steamid": "85568392925450724",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"specport": 26221,
+	"steamid": "90200883938486273",
+	"name": "Eniman Has Kit in Bold powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 16,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
-	"secure": false,
+	"map": "de_anubis",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "pracc,pracc.com,practice,scrim,secure"
 }
