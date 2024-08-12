@@ -1,0 +1,20 @@
+{
+	"addr": "65.109.91.88:26147",
+	"gameport": 26147,
+	"specport": 26148,
+	"steamid": "90200877198328844",
+	"name": "MetroTeam powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 4,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
