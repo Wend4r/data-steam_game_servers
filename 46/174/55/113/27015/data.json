@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 35,
 	"bots": 0,
-	"map": "cs_italy",
+	"map": "jb_summer_developclub_jailbamg_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
