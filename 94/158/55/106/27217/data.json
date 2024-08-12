@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 6,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgam"
+	"gametype": "5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgaming,se"
 }
