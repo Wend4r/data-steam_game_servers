@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 15,
 	"bots": 1,
-	"map": "am_onepiece",
+	"map": "am_breakout_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,mul"
+	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,multi are"
 }
