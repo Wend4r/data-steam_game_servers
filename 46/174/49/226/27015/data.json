@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 30,
-	"bots": 3,
-	"map": "de_ancient",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
