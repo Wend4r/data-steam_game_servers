@@ -1,7 +1,6 @@
 {
 	"addr": "109.106.138.135:27815",
 	"gameport": 27815,
-	"specport": 27002,
 	"steamid": "85568392924293938",
 	"name": "[CS2] JC | PUBLIC de_mirage[!ws,!knife]",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 11,
+	"players": 8,
 	"max_players": 64,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,pub,pu"
+	"gametype": "empty,!,!knife,!ws,128,classic,cs2,dust2,jc,jumpclassic,mirage,"
 }

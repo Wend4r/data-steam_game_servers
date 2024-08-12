@@ -1,7 +1,8 @@
 {
 	"addr": "109.61.80.169:26218",
 	"gameport": 26218,
-	"steamid": "90200868558672924",
+	"specport": 26219,
+	"steamid": "90200868721756188",
 	"name": "INF Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
