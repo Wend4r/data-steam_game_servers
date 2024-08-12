@@ -9,12 +9,11 @@
 	"version": "1.35.4.3",
 	"product": "csgo",
 	"region": -1,
-	"players": 8,
+	"players": 0,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_nuke_old",
+	"bots": 0,
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

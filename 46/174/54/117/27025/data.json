@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27025",
 	"gameport": 27025,
 	"steamid": "90200854477437964",
-	"name": "[genesis] League #10",
+	"name": "genesis 21008: team_suicideboys vs team_Lil peep",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortdust",
+	"map": "de_cache",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }
