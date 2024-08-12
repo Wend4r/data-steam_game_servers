@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_lego_2_winter",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,europe,hungarian,hungary,k4,knife,magyar,skins,ws,sec"
+	"gametype": "empty,secure"
 }
