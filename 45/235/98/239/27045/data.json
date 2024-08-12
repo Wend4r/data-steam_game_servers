@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 5,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "awplego2_cg",
+	"map": "dev_mirageoldfix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "bhop,bhob,bunnyhob,crisis,casual,crisisgamer,argentina,1vs1,duv2,gloves,du,jailbreak,multimod,rangos,ranked,shop,skin,ws,zombi,"
+	"gametype": "empty,bhop,bhob,bunnyhob,crisis,casual,crisisgamer,argentina,1vs1,duv2,gloves,du,jailbreak,multimod,rangos,ranked,shop,skin,ws,"
 }
