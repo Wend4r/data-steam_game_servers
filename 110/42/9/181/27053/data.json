@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 36,
-	"bots": 0,
-	"map": "mg_scplab_v5",
+	"bots": 1,
+	"map": "mg_alley_course_reskin",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,mg,multigames,secure"
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
 }

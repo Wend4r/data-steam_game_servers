@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.136:26166",
 	"gameport": 26166,
-	"steamid": "90200797395081240",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "85568392930289985",
+	"name": "Refrag.gg Training Server (Competitor)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 13,
+	"region": -1,
+	"players": 1,
+	"max_players": 16,
 	"bots": 0,
-	"map": "de_anubis",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,insecure"
 }
