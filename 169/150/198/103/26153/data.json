@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.103:26153",
 	"gameport": 26153,
-	"steamid": "90200862870440967",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200862872089607",
+	"name": "Avant-garde powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
