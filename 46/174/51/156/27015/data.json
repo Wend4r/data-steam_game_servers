@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.51.156:27015",
 	"gameport": 27015,
-	"steamid": "90200866824157208",
+	"steamid": "90200867172398104",
 	"name": "Showdown FFADM Moscow #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 18,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,india,relative,showdown,insecure"
+	"gametype": "empty,india,relative,showdown,secure"
 }
