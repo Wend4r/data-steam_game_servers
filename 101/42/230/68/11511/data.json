@@ -1,7 +1,7 @@
 {
 	"addr": "101.42.230.68:11511",
 	"gameport": 11511,
-	"steamid": "90200881173864463",
+	"steamid": "90200883245027343",
 	"name": "月月哥",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

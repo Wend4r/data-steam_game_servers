@@ -1,19 +1,19 @@
 {
 	"addr": "81.210.88.97:29308",
 	"gameport": 29308,
-	"steamid": "90200883333623811",
+	"steamid": "90200883335982083",
 	"name": "Luminous CS2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
