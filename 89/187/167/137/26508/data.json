@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.137:26508",
 	"gameport": 26508,
-	"steamid": "90200858120641561",
+	"steamid": "90200876796639257",
 	"name": "Aou",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "fs_highsky",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

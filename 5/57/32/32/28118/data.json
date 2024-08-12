@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 30,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

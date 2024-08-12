@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
+	"gametype": "!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
 }

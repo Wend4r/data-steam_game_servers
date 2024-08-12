@@ -1,6 +1,7 @@
 {
 	"addr": "193.70.22.151:27070",
 	"gameport": 27070,
+	"specport": 27020,
 	"steamid": "90200869029744658",
 	"name": "Maqu1na CS2 SV | Powered by ParadiseCommunity",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
