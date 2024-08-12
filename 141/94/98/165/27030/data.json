@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 7,
-	"map": "gg_yellow_arena_gg1",
+	"bots": 8,
+	"map": "ar_maplewood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
+	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_rippcpie",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_rippcpie,gloves,en,cybershoke,cyber,drop,knife,"
+	"gametype": "bhop,bhop_rippcpie,gloves,en,cybershoke,cyber,drop,knife,nyc,ra"
 }
