@@ -2,19 +2,19 @@
 	"addr": "109.61.80.169:26938",
 	"gameport": 26938,
 	"specport": 26939,
-	"steamid": "90200589434364956",
+	"steamid": "90200880053743644",
 	"name": "[P] PopFlash Scrim - dusseldorf - 24",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_aztec",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }

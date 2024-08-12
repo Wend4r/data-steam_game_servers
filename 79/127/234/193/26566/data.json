@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.234.193:26566",
 	"gameport": 26566,
-	"steamid": "90200879774595085",
-	"name": "Final Form powered by PRACC.COM",
+	"steamid": "90200880109600781",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
