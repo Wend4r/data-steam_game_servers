@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26611",
 	"gameport": 26611,
+	"specport": 26612,
 	"steamid": "90200869319214094",
 	"name": "EC BANGA powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
