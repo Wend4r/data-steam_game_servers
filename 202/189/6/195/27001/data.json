@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,insecure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,insecure"
 }
