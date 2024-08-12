@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 0,
 	"map": "kz_stepup",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Tickrate 128,KZTimer 1.106,KZTimer,aus,bhop,bunnyhop,climb,climbing,gokz,kreedz,kz,secure"
+	"gametype": "Tickrate 128,KZTimer 1.106,KZTimer,aus,bhop,bunnyhop,climb,climbing,gokz,kreedz,kz,secure"
 }
