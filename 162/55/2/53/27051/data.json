@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 5,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
 	"map": "hns_krevetka03",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,hns_krevetka,hide,eu,en,CS,14 ,!mn,128,128tick,germany,ge"
+	"gametype": "hns_krevetka,hide,eu,en,CS,14 ,!mn,128,128tick,germany,ger,knif"
 }
