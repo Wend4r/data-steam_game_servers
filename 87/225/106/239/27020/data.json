@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 30,
-	"bots": 3,
+	"bots": 4,
 	"map": "$2000$",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,27region,Dalnyy-Vostok,KHV,Khabarovsk,Komsomolsk,LevelRank,Primorie,Public,Vladivostok,no-steam,insecure"
+	"gametype": "empty,27region,Dalnyy-Vostok,KHV,Khabarovsk,Komsomolsk,LevelRank,Primorie,Public,Vladivostok,no-steam,secure"
 }

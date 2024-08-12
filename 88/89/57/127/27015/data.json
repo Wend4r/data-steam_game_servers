@@ -1,7 +1,7 @@
 {
 	"addr": "88.89.57.127:27015",
 	"gameport": 27015,
-	"steamid": "90200856749762585",
+	"steamid": "90200870332972057",
 	"name": "CS2 MegaServer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -2,18 +2,18 @@
 	"addr": "167.99.87.35:27015",
 	"gameport": 27015,
 	"steamid": "85568392931321094",
-	"name": "EDGING HVH - MIRAGE 24/7",
+	"name": "A$apHvH | NO AX | NO AWP",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "insecure"
 }

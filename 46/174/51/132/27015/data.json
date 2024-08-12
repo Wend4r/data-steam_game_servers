@@ -2,7 +2,7 @@
 	"addr": "46.174.51.132:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200870375554048",
+	"steamid": "90200870378050560",
 	"name": "[RU/EU] Impossible HvH |ONLY MIRAGE| MM 16K",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -13,8 +13,8 @@
 	"max_players": 30,
 	"bots": 1,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,HvH,Impossible,RU,Russia,de_mirage,hackvshack,hvh,secure"
+	"gametype": "empty,HvH,Impossible,RU,Russia,de_mirage,hackvshack,hvh,insecure"
 }
