@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "surf_4fun",
+	"map": "mg_alley_course_reskin",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap,mg_,s"
+	"gametype": "empty,cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap"
 }
