@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 3,
+	"players": 0,
 	"max_players": 40,
 	"bots": 1,
-	"map": "de_eagleeye",
+	"map": "mg_square_tower_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,mg,multigames,secure"
+	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
 }
