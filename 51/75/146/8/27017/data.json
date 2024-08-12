@@ -1,7 +1,7 @@
 {
 	"addr": "51.75.146.8:27017",
 	"gameport": 27017,
-	"specport": 27042,
+	"specport": 27043,
 	"steamid": "85568392931752601",
 	"name": "EU | ClassicCounter | HNS | 128 Tick",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 1,
-	"map": "hns_farm_beta2",
+	"map": "hns_devblocks_v5",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

@@ -1,7 +1,7 @@
 {
 	"addr": "51.75.146.8:27022",
 	"gameport": 27022,
-	"specport": 27043,
+	"specport": 27044,
 	"steamid": "85568392931668487",
 	"name": "EU | ClassicCounter | DM | 64 Tick",
 	"appid": 730,
@@ -9,12 +9,12 @@
 	"version": "1.35.3.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 16,
-	"bots": 12,
-	"map": "de_nuke_2013_og",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

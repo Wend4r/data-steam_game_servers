@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_bhop_nothing_go",
+	"map": "kz_strafehop_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,fastdl,kz,timer,secure"
+	"gametype": "empty,ZED,fastdl,kz,timer,secure"
 }
