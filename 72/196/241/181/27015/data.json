@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!knives,!skins,!ws,1v1,24/7,_,comp,drops,drugs,gang,gfl"
+	"gametype": "!,!knives,!skins,!ws,1v1,24/7,_,comp,drops,drugs,gang,gfl,hells"
 }

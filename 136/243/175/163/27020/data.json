@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "surf_ski_2_kitsune",
+	"map": "surf_skyworld_x",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospre"
+	"gametype": "bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospread,ori"
 }
