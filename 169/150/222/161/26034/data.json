@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.222.161:26034",
 	"gameport": 26034,
+	"specport": 26035,
 	"steamid": "90200859925865475",
 	"name": "HXG SERVER 1 ",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
