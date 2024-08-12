@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26424",
 	"gameport": 26424,
-	"steamid": "90200839196118044",
+	"steamid": "90200865410452508",
 	"name": "Lapiru Retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "lapiru,pracc,secure"
+	"gametype": "empty,lapiru,pracc,insecure"
 }
