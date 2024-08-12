@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 20,
-	"bots": 16,
-	"map": "de_thera",
+	"bots": 14,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,\r,PT,tuga,secure"
+	"gametype": "\r,PT,tuga,secure"
 }
