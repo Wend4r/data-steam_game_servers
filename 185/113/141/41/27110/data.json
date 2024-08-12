@@ -9,11 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Competivivo,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,comps,retake,retake"
+	"gametype": "Competivivo,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,comps,retake,retakes,tuga"
 }
