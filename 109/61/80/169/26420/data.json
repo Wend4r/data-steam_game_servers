@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.169:26420",
 	"gameport": 26420,
-	"specport": 26421,
 	"steamid": "85568392931381304",
 	"name": "ANOMEME INTERNE",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "aim_map_carton",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,insecure"
 }

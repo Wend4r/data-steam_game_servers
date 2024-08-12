@@ -1,6 +1,7 @@
 {
 	"addr": "94.130.14.211:27061",
 	"gameport": 27061,
+	"specport": 27062,
 	"steamid": "90200880262842371",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

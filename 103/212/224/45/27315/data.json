@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_grass2_gg",
+	"map": "am_basement_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1"
+	"gametype": "gloves,kz,killzone,am,knife,!knife,!ws,aim,guns,kzg,aus,1v1,are"
 }
