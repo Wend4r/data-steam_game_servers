@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 48,
 	"bots": 0,
-	"map": "zm_backalley_deep_night_v2_p",
+	"map": "de_nuke_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }
