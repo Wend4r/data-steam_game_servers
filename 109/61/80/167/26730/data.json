@@ -2,7 +2,7 @@
 	"addr": "109.61.80.167:26730",
 	"gameport": 26730,
 	"specport": 26731,
-	"steamid": "90200832682688538",
+	"steamid": "90200859961760794",
 	"name": "BLOPS GANGBANG",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

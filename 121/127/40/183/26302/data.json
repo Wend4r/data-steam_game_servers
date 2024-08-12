@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26302",
 	"gameport": 26302,
-	"steamid": "90200832662383617",
+	"steamid": "90200859946586113",
 	"name": "WE LUK GUD WE PLAY GUD",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

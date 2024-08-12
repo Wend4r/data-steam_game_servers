@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26554",
 	"gameport": 26554,
-	"steamid": "90200832637368348",
+	"steamid": "90200859832639516",
 	"name": "Ligan | Pracc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

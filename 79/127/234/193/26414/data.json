@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.234.193:26414",
 	"gameport": 26414,
-	"specport": 26415,
-	"steamid": "90200832646620173",
+	"steamid": "90200859871995917",
 	"name": "Dot Stats | Scrim | 10man",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

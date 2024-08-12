@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26324",
 	"gameport": 26324,
-	"steamid": "90200832637572124",
+	"steamid": "90200859991530524",
 	"name": "Nydleh!",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

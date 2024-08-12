@@ -1,7 +1,6 @@
 {
 	"addr": "79.127.196.41:26292",
 	"gameport": 26292,
-	"specport": 26293,
 	"steamid": "85568392931971435",
 	"name": "YaLLa Compass",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

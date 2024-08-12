@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26144",
 	"gameport": 26144,
-	"steamid": "90200832692900873",
+	"steamid": "90200859892830217",
 	"name": "foreverplata",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

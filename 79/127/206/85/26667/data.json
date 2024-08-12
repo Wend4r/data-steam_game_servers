@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.85:26667",
 	"gameport": 26667,
-	"steamid": "90200832677420036",
+	"steamid": "90200859986384900",
 	"name": "hubert's 10 man",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

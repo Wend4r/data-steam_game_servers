@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26311",
 	"gameport": 26311,
-	"steamid": "90200832646721549",
+	"steamid": "90200859872105485",
 	"name": "Chip's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
