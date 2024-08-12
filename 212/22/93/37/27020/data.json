@@ -1,7 +1,7 @@
 {
 	"addr": "212.22.93.37:27020",
 	"gameport": 27020,
-	"steamid": "90200866577025055",
+	"steamid": "85568392932073565",
 	"name": "CS 2 Linux Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 60,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
