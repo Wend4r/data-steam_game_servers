@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27140",
 	"gameport": 27140,
-	"steamid": "90200834366298129",
+	"steamid": "90200861052179473",
 	"name": "SERWER Ferb",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_lake",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
