@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_iris",
+	"map": "colombia",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
+	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,ocea"
 }

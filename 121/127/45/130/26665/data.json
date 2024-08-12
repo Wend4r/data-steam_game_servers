@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.45.130:26665",
+	"gameport": 26665,
+	"specport": 26666,
+	"steamid": "90200877792820231",
+	"name": "Ex Curlews LFO powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
