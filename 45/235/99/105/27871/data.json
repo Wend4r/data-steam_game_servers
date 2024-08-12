@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/491358151/bkz_blackrockshooter",
+	"map": "/1943903062/kz_purgatory",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,secure"
+	"gametype": "KZTimer,KZTimer 1.106,Tickrate 128,secure"
 }

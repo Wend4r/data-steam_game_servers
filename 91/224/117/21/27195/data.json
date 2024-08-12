@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.21:27195",
 	"gameport": 27195,
-	"steamid": "90200883581156371",
+	"steamid": "90200884265224211",
 	"name": "CS2 TEST @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 7,
 	"max_players": 8,
 	"bots": 0,
-	"map": "twyxe_map_v8",
+	"map": "de_beerhouse_prophunt",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
