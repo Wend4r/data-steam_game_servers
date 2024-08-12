@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.47.33:26525",
 	"gameport": 26525,
-	"steamid": "85568392925245712",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26526,
+	"steamid": "90200866866610182",
+	"name": "Altered Edge powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
-	"bots": 8,
-	"map": "refrag_warmup",
-	"secure": false,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,PRACC.COM, PRACC, Scrim, Practice,secure"
 }
