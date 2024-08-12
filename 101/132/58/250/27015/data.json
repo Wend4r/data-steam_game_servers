@@ -1,20 +1,19 @@
 {
 	"addr": "101.132.58.250:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "85568392927124406",
-	"name": "MB私服",
+	"steamid": "90200869664964629",
+	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.38.8.1",
-	"product": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
 	"region": -1,
-	"players": 10,
-	"max_players": 13,
+	"players": 2,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

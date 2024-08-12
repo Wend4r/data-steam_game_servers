@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26157",
 	"gameport": 26157,
-	"steamid": "90200867444807681",
+	"steamid": "90200869725169665",
 	"name": "Ratty Strats",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

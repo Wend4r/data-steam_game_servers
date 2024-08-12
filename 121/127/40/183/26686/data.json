@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.183:26686",
 	"gameport": 26686,
-	"steamid": "90200859946705921",
+	"steamid": "90200869725672449",
 	"name": "Death By Gamers[10man-Dallas]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
