@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26839",
 	"gameport": 26839,
+	"specport": 26840,
 	"steamid": "90200877255178254",
 	"name": "DAViNCi ESPORTS powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
