@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26948",
 	"gameport": 26948,
-	"steamid": "90200859851012096",
+	"steamid": "90200871267663872",
 	"name": "c0n's Private Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

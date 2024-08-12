@@ -12,6 +12,7 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
+	"map": "de_rats_kitchoon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

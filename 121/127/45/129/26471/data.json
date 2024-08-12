@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.129:26471",
 	"gameport": 26471,
+	"specport": 27020,
 	"steamid": "90200859896089606",
 	"name": "Business College Syd - Server #2",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
+	"players": 2,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
