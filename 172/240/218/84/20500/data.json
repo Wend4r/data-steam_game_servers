@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 8,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,4Netplayers,Germany,de,secure"
+	"gametype": "4Netplayers,Germany,de,secure"
 }

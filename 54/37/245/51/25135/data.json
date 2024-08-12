@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 1,
+	"players": 0,
 	"max_players": 45,
-	"bots": 1,
+	"bots": 0,
 	"map": "surf_leet_xl_beta7z",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_leet_xl_beta7z,secu"
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_leet_xl_beta7"
 }
