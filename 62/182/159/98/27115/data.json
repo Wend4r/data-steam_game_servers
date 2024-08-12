@@ -1,19 +1,20 @@
 {
 	"addr": "62.182.159.98:27115",
 	"gameport": 27115,
-	"steamid": "90200869398887429",
-	"name": "Counter-Strike: Global Offensive",
+	"specport": 27120,
+	"steamid": "85568392932073974",
+	"name": "#4 [CSGO] [PUBLIC] | DARK | CS-ELO.RU |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "!,!gl,!glove,!ws,$,128,128tick,1v1,admin,aim,awp,awple,bhop,csgo,hv1,knife,lego,mg,minigame,mirage,public,publicaim,rus,russian"
 }
