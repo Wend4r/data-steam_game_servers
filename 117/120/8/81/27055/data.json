@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 13,
-	"bots": 1,
-	"map": "drawbridge",
+	"bots": 2,
+	"map": "de_foroglio",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
