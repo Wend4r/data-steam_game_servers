@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27275",
 	"gameport": 27275,
-	"steamid": "90200834920641559",
+	"steamid": "90200861436965911",
 	"name": "SERWER Krynek",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

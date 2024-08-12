@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.102:26133",
 	"gameport": 26133,
-	"steamid": "90200861287775238",
-	"name": "Velox CS2 powered by PRACC.COM",
+	"steamid": "90200861472366598",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
