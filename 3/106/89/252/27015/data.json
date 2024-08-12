@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "/2937336185/kz_automata",
+	"map": "/621434939/kz_brickblock_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
+	"gametype": "aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
 }

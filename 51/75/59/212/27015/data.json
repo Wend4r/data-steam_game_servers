@@ -12,9 +12,9 @@
 	"players": 9,
 	"max_players": 20,
 	"bots": 1,
-	"map": "am_warehouse2_gg",
+	"map": "am_banana_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,1v1,agents,aim,am_,arena,de_,dual,duel,fight,gloves,k"
+	"gametype": "!ws,1v1,agents,aim,am_,arena,de_,dual,duel,fight,gloves,knife,k"
 }
