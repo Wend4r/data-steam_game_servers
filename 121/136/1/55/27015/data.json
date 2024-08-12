@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931809386",
-	"name": "cs2 surftimer server RW",
+	"name": "KR_RW",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 21,
+	"max_players": 11,
 	"bots": 1,
-	"map": "surf_beginner",
-	"secure": false,
+	"map": "kzpro_only_up_extended",
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

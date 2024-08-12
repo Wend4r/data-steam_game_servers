@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.9.122:27050",
+	"gameport": 27050,
+	"steamid": "85568392923407220",
+	"name": "【僵尸乐园】僵尸感染 1# 多线 ZombiEden.CN",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 4,
+	"players": 54,
+	"max_players": 50,
+	"bots": 0,
+	"map": "zm_ancientfinal_csgo",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
+}
