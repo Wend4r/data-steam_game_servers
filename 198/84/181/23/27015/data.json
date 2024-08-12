@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 2,
 	"max_players": 14,
-	"bots": 0,
-	"map": "cs_office",
+	"bots": 8,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

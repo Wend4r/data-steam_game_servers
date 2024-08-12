@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28331",
 	"gameport": 28331,
 	"steamid": "85568392932073907",
-	"name": "gomen amanai Public Server",
+	"name": "gomen amanai",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,amanai,irangomen,insecure"
+	"gametype": "empty,insecure"
 }
