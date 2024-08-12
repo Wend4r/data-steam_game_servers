@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 5,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,"
+	"gametype": "!gloves,!knife,!ws,128,128 tick,5v5,5v5 autohop,autobhop,autoho"
 }
