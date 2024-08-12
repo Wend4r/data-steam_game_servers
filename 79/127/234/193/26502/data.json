@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26502",
 	"gameport": 26502,
-	"steamid": "90200832647970829",
+	"steamid": "90200864754962445",
 	"name": "TeamRicers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
