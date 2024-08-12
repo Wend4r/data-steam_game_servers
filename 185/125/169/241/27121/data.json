@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 128,
-	"bots": 3,
+	"bots": 0,
 	"map": "surf_not_so_neb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,secure"
+	"gametype": "empty,1,1-2,100,102,128,Bunnyhop,Easy,NO,Tier1-2,gameme,noblock,rank,rcs,recess,recess.no,rtv,surf,tier,secure"
 }
