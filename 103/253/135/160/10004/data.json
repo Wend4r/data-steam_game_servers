@@ -1,7 +1,7 @@
 {
 	"addr": "103.253.135.160:10004",
 	"gameport": 10004,
-	"steamid": "90200128282116106",
+	"steamid": "90200859643168778",
 	"name": "hype-cs2-th-2-4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -3,7 +3,7 @@
 	"gameport": 26838,
 	"specport": 26839,
 	"steamid": "90200840323359770",
-	"name": "mens) Server #3",
+	"name": "eBot :: Samurai Team vs NightBot",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 10,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

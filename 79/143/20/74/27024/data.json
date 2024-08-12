@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 10,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,fun,official,custom,old,kz,128,128tick,pro,publ"
+	"gametype": "de_mirage,fun,official,custom,old,kz,128,128tick,pro,public,kni"
 }
