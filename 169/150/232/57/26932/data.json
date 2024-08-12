@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.57:26932",
 	"gameport": 26932,
+	"specport": 26933,
 	"steamid": "90200869936215057",
 	"name": "Mock Cunchers",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
