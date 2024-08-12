@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 28,
 	"bots": 0,
-	"map": "mg_100traps",
+	"map": "mg_bob4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
