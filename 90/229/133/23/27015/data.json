@@ -1,6 +1,7 @@
 {
 	"addr": "90.229.133.23:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392922549953",
 	"name": "# Gruvan CS2 # Custom maps # Public # Est.2002 # SWE #",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "ship_ren",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
