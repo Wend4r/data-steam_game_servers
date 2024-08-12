@@ -1,19 +1,19 @@
 {
 	"addr": "141.98.75.234:27015",
 	"gameport": 27015,
-	"steamid": "90200867082857492",
+	"steamid": "90200867086222356",
 	"name": "【God】#2899 单挑 枣庄 测试",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
