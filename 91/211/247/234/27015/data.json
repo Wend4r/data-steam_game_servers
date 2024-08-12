@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 33,
-	"bots": 3,
-	"map": "de_cbble_csgo",
+	"bots": 1,
+	"map": "de_dust2_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg arena,glo"
+	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg are"
 }
