@@ -1,0 +1,19 @@
+{
+	"addr": "45.136.204.78:65535",
+	"gameport": 65535,
+	"steamid": "85568392932073902",
+	"name": "New server by MyArena.ru",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,*grp:5114777i,no-steam,insecure"
+}

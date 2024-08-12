@@ -1,7 +1,7 @@
 {
 	"addr": "37.18.21.238:27085",
 	"gameport": 27085,
-	"steamid": "90200795870859285",
+	"steamid": "90200878505976853",
 	"name": "[HYDRA PROJECT] (CS2) AWP LEGO #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
