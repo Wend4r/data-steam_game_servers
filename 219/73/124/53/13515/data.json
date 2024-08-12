@@ -1,19 +1,19 @@
 {
 	"addr": "219.73.124.53:13515",
 	"gameport": 13515,
-	"steamid": "90200868924822533",
+	"steamid": "90200869076615173",
 	"name": "MZ TEST III",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

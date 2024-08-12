@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 5,
+	"players": 0,
 	"max_players": 16,
 	"bots": 1,
-	"map": "hns_bbcity_cybershoke_beta6",
+	"map": "hns_bounce",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_bbcity_cybershoke_beta6,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secu"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,g-strafe,gloves,hns,hns_bounce,knife,msk,nopre,pre,pro,rank,ru,skin,stats,ws,secure"
 }
