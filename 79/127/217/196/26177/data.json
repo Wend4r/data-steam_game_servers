@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.196:26177",
 	"gameport": 26177,
-	"steamid": "90200861298595844",
+	"steamid": "90200874020753412",
 	"name": "deniscombinator",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

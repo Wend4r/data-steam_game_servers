@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!servers,!testvip,!ws,*grp:34649630i,24/7H,AntiCheat,Dz,NoPrime,Prime,du,duv2,freevip,stickers,vip"
+	"gametype": "!agents,!gloves,!knife,!servers,!testvip,!ws,*grp:34649630i,24/7H,AntiCheat,Dz,NoPrime,Prime,du,duv2,freevip,stickers,vip,secur"
 }
