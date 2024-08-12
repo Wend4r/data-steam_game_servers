@@ -1,7 +1,6 @@
 {
 	"addr": "123.136.27.125:27020",
 	"gameport": 27020,
-	"specport": 27121,
 	"steamid": "85568392931270442",
 	"name": "Night Maps | Forge Solutions | forgesolutions.net",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_inferno_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
