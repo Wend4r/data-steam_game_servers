@@ -1,6 +1,7 @@
 {
 	"addr": "37.19.215.244:26380",
 	"gameport": 26380,
+	"specport": 26381,
 	"steamid": "90200860012081175",
 	"name": "Linares Deportivo eSports",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

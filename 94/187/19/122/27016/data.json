@@ -1,0 +1,20 @@
+{
+	"addr": "94.187.19.122:27016",
+	"gameport": 27016,
+	"specport": 27021,
+	"steamid": "90200870911040527",
+	"name": "Source Dedicated Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 1,
+	"map": "/784515943/bkz_dydhop",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "insecure"
+}
