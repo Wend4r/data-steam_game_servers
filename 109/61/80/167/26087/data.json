@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.167:26087",
 	"gameport": 26087,
-	"steamid": "90200879812284442",
+	"specport": 26088,
+	"steamid": "90200879814225946",
 	"name": "ZTAP MOTORS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 7,
+	"players": 7,
+	"max_players": 10,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "museum",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
