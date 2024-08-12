@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_antimatter",
+	"map": "surf_kz_protraining",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_antimatter,"
+	"gametype": "empty,!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_kz_protrain"
 }

@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26419",
 	"gameport": 26419,
 	"specport": 26420,
-	"steamid": "90200854312428558",
+	"steamid": "90200860386201614",
 	"name": "Back2TheGame  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_nuke",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
