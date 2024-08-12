@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.57:26932",
 	"gameport": 26932,
-	"specport": 26933,
-	"steamid": "90200859900994577",
+	"steamid": "90200869936215057",
 	"name": "Mock Cunchers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.57:26695",
 	"gameport": 26695,
-	"specport": 26696,
-	"steamid": "90200859900901393",
+	"steamid": "90200869935792145",
 	"name": "CarbonX Academy Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
