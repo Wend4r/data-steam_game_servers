@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 22,
+	"players": 24,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_emevaelx3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_emevaelx3,gloves,en,cybershoke,cyber,drop,knife"
+	"gametype": "bhop,bhop_emevaelx3,gloves,en,cybershoke,cyber,drop,knife,lt,ra"
 }
