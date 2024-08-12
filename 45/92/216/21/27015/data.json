@@ -9,11 +9,11 @@
 	"product": "csgo",
 	"region": -1,
 	"players": 1,
-	"max_players": 10,
+	"max_players": 100,
 	"bots": 2,
-	"map": "surf_fortum",
+	"map": "surf_ethereal",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Tickrate 128,ckSurf,ckSurf 1.18,secure"
+	"gametype": "Tickrate 128,ckSurf,ckSurf 1.18,increased_maxplayers,secure"
 }
