@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26715",
 	"gameport": 26715,
-	"steamid": "90200817430233114",
+	"steamid": "90200861133412378",
 	"name": "PLAY.PRACC.COM - [DE] FFA DM - MIRAGE ✦ BEST FPS ✦ DEATHMAT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,insecure"
 }
