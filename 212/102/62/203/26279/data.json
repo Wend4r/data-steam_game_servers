@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 6,
 	"max_players": 20,
-	"bots": 10,
+	"bots": 8,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
