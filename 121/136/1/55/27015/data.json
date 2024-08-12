@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931809386",
-	"name": "KR_RW",
+	"name": "YFS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 4,
 	"max_players": 11,
 	"bots": 1,
-	"map": "kzpro_only_up_extended",
+	"map": "aim_new_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,YFS,secure"
 }
