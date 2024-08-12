@@ -1,7 +1,7 @@
 {
 	"addr": "120.225.81.23:27015",
 	"gameport": 27015,
-	"steamid": "90200881649384457",
+	"steamid": "90200883748718601",
 	"name": "|ZombieEscape|[#1]ArcticFox_Training",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "awp_lego_2011",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,csgo,secure"
+	"gametype": "empty,*grp:0i,awp,csgo,secure"
 }

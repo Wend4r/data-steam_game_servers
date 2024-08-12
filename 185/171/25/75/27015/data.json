@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 20,
-	"bots": 9,
+	"bots": 8,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,[TR],awp,deagle,deagle,deathmatch,dm,dust2,el"
+	"gametype": "OyunTECH,TR,[TR],awp,deagle,deagle,deathmatch,dm,dust2,eldiven,"
 }
