@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "myrun/inner_city_2_snowy",
+	"map": "myrun/haskin_v26",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
+	"gametype": "64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
 }

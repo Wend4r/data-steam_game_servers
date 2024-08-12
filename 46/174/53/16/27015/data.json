@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!shop,!viptest,!ws,anime,awp,bhop,kz,mg,minigame,surf,secure"
+	"gametype": "empty,!gloves,!knife,!shop,!viptest,!ws,anime,awp,bhop,kz,mg,minigame,surf,secure"
 }
