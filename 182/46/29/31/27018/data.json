@@ -1,0 +1,19 @@
+{
+	"addr": "182.46.29.31:27018",
+	"gameport": 27018,
+	"steamid": "85568392931257568",
+	"name": "【HIME】CS2KZ 排行测试4服 T1-T3",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 0,
+	"map": "kz_dam",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+}

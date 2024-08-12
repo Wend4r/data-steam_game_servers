@@ -1,7 +1,7 @@
 {
 	"addr": "194.15.110.25:27715",
 	"gameport": 27715,
-	"steamid": "90200858679573530",
+	"steamid": "90200884189125658",
 	"name": "[WBKS] #1 - Back to the Roots",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

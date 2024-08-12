@@ -1,7 +1,7 @@
 {
 	"addr": "212.113.116.176:26750",
 	"gameport": 26750,
-	"specport": 27105,
+	"specport": 27109,
 	"steamid": "85568392932037881",
 	"name": "CSR",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
