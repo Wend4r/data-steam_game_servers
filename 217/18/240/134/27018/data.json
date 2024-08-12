@@ -1,7 +1,7 @@
 {
 	"addr": "217.18.240.134:27018",
 	"gameport": 27018,
-	"steamid": "90200833605386259",
+	"steamid": "90200860292690963",
 	"name": "Lord Soft CS2 Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
