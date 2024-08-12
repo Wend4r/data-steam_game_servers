@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26652",
 	"gameport": 26652,
-	"steamid": "90200859776344090",
+	"steamid": "90200866551552026",
 	"name": "Server Team OWL",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

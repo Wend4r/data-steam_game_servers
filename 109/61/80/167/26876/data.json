@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26876",
 	"gameport": 26876,
-	"steamid": "90200859961918490",
+	"steamid": "90200866551485466",
 	"name": "kuku pog",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

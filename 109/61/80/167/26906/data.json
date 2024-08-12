@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26906",
 	"gameport": 26906,
-	"steamid": "90200859961594906",
+	"steamid": "90200866551441434",
 	"name": "Tatooine",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
