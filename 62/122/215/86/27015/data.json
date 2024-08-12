@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 0,
-	"map": "awp_tower_lego",
+	"map": "aim_deagle_ultra",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,insecure"
+	"gametype": "empty,*grp:5114777i,insecure"
 }

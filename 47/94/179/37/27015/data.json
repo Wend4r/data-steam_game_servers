@@ -1,7 +1,7 @@
 {
 	"addr": "47.94.179.37:27015",
 	"gameport": 27015,
-	"steamid": "90200876195820551",
+	"steamid": "90200876842098695",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 5,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

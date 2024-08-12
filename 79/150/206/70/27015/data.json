@@ -1,7 +1,7 @@
 {
 	"addr": "79.150.206.70:27015",
 	"gameport": 27015,
-	"steamid": "90200867861437453",
+	"steamid": "90200876753664013",
 	"name": "Counter-Strike 2: Cocodrile Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
