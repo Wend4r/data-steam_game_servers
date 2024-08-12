@@ -12,7 +12,8 @@
 	"max_players": 9,
 	"bots": 0,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,insecure"
 }
