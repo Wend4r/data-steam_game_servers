@@ -2,19 +2,19 @@
 	"addr": "109.61.80.169:26233",
 	"gameport": 26233,
 	"specport": 26234,
-	"steamid": "90200865776530460",
+	"steamid": "90200865932247068",
 	"name": "CS 1v1 Stream 2 - Main",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_dunes",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
