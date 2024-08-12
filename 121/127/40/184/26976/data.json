@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.184:26976",
 	"gameport": 26976,
-	"steamid": "90200859910657026",
+	"steamid": "90200870227527682",
 	"name": "scrims with the lads",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
