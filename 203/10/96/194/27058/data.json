@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 1,
-	"map": "awp_sourcemap",
+	"map": "awp_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Awpbhop,[bh],!store,!knife,!ws,bhop,combat,awp,bh,bananah"
+	"gametype": "Awpbhop,[bh],!store,!knife,!ws,bhop,combat,awp,bh,bananahub,fas"
 }

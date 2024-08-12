@@ -1,8 +1,7 @@
 {
 	"addr": "168.75.99.81:27418",
 	"gameport": 27418,
-	"specport": 27427,
-	"steamid": "90200861358047241",
+	"steamid": "90200879909613577",
 	"name": "ATOMICOS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "ze_icecap_escape_p",
+	"map": "ze_fapescape_rote_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,ocea"
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
 }
