@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
+	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
 }
