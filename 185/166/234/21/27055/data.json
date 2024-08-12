@@ -1,6 +1,7 @@
 {
 	"addr": "185.166.234.21:27055",
 	"gameport": 27055,
+	"specport": 27060,
 	"steamid": "90200880592551957",
 	"name": "ES 5",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 10,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

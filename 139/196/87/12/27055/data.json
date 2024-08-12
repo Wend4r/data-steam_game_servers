@@ -1,7 +1,7 @@
 {
 	"addr": "139.196.87.12:27055",
 	"gameport": 27055,
-	"steamid": "90200855432467464",
+	"steamid": "90200880707221512",
 	"name": "king",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
