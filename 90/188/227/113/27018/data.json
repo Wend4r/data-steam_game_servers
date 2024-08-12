@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 4,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csgoirk.ru,cyberarena.pro,dm,ffa,steam,zubat,secure"
+	"gametype": "empty,csgoirk.ru,cyberarena.pro,dm,ffa,steam,zubat,secure"
 }
