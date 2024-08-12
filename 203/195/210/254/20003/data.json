@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 1,
 	"bots": 0,
 	"map": "kz_insomnia_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
+	"gametype": "empty,csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
 }

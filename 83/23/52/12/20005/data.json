@@ -2,18 +2,18 @@
 	"addr": "83.23.52.12:20005",
 	"gameport": 20005,
 	"steamid": "85568392930868252",
-	"name": "CrooLyyCS",
+	"name": "cs.croolyy.com | deathmatch\r",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
