@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26813",
 	"gameport": 26813,
-	"steamid": "90200877923265550",
-	"name": "BARRAGE powered by PRACC.COM",
+	"specport": 26814,
+	"steamid": "90200879357442062",
+	"name": "NeoCore powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 12,
-	"bots": 0,
-	"map": "de_vertigo",
+	"max_players": 14,
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

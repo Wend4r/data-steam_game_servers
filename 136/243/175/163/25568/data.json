@@ -1,7 +1,7 @@
 {
 	"addr": "136.243.175.163:25568",
 	"gameport": 25568,
-	"steamid": "90200879127978006",
+	"steamid": "90200879317396502",
 	"name": "Orizon Dev",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "surf_skyworld_x",
+	"map": "surf_ski_2_kitsune",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospread,ori"
+	"gametype": "empty,bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospre"
 }
