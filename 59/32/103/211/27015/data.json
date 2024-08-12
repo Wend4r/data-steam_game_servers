@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_aztecnoob_p",
+	"map": "ze_clawfactory",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

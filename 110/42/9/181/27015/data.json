@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 33,
+	"players": 37,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_minecraft_p",
+	"map": "ze_atix_apocalypse_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
