@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 2,
-	"map": "/2012467253/hns_mavo1",
+	"map": "/2239875817/de_recovery_r097",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "Tickrate 128,ckSurf,ckSurf 1.18,secure"
 }
