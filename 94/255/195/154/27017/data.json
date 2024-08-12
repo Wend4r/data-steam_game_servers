@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "mg_cyber_course_v6",
+	"map": "mg_draw_course_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,testing,secure"
+	"gametype": "testing,secure"
 }

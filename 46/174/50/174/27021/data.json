@@ -2,19 +2,19 @@
 	"addr": "46.174.50.174:27021",
 	"gameport": 27021,
 	"specport": 28021,
-	"steamid": "90200862154423306",
+	"steamid": "90200869276932106",
 	"name": "УБEЙ ЦEЛЬ ︻デ═一 SGaming.RU ★ HITMAN",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 10,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "ttt_splash_mg_surf_aim_awp_",
+	"map": "ttt_hoodrat_mg_surf_aim_awp_",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
+	"gametype": "empty,!,$,am,am_,bhop,bhop_,cybershoke,hitman,hns,mg,mg_,secure,seek,sgaming,surf,surf_,ttt,ttt_,ze,ze_,zm,zm_,insecure"
 }
