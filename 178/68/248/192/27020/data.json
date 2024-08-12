@@ -1,7 +1,7 @@
 {
 	"addr": "178.68.248.192:27020",
 	"gameport": 27020,
-	"steamid": "90200877166035976",
+	"steamid": "90200877498848264",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,surf,85tick,64tick,pronull,cybershoke,skillsurf,skin,surf"
+	"gametype": "surf,85tick,64tick,pronull,cybershoke,skillsurf,skin,surf_kitsu"
 }

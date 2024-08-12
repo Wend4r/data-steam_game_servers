@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_anubis_fps_ckgaming",
+	"map": "de_mirage_fps_ckgaming",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,boost,ckgaming,cyberkovel,fps,fpsboost,gloves,knife,k"
+	"gametype": "128,boost,ckgaming,cyberkovel,fps,fpsboost,gloves,knife,knife,k"
 }

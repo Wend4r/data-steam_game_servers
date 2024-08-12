@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 5,
 	"max_players": 14,
 	"bots": 0,
-	"map": "aim_deagle7k_css",
+	"map": "awp_lego_2011",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 16,
-	"bots": 10,
-	"map": "de_nuke",
+	"bots": 9,
+	"map": "villa",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,Betreutes Zocken,Betreuteszocken,Zocken,insecure"
+	"gametype": "128-tick,Betreutes Zocken,Betreuteszocken,Zocken,secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.198:26556",
 	"gameport": 26556,
-	"steamid": "90200866896849938",
+	"steamid": "90200877579563026",
 	"name": "parrot",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
