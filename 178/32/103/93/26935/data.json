@@ -7,7 +7,7 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,secur"
+	"gametype": "empty,bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,insec"
 }

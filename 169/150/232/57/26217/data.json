@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.232.57:26217",
 	"gameport": 26217,
-	"steamid": "85568392925450899",
-	"name": "Refrag.gg Training Server (Player)",
+	"specport": 26218,
+	"steamid": "90200883956998161",
+	"name": "Leetify CS2 Surf by bees make honey",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 0,
-	"max_players": 11,
-	"bots": 8,
-	"map": "de_anubis",
-	"secure": false,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_me",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
