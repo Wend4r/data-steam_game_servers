@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,public,secure"
+	"gametype": "empty,awp,public,secure"
 }

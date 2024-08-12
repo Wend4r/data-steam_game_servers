@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 17,
-	"bots": 4,
-	"map": "awp_india",
+	"bots": 5,
+	"map": "awp_orange",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,agents,awp_,de_,deagle,gloves,knife,kosy,lego,minecraft,onl"
+	"gametype": "empty,!ws,agents,awp_,de_,deagle,gloves,knife,kosy,lego,minecra"
 }
