@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 8,
+	"players": 5,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,agents,anubis,de_,de_,gloves,knife,kosy,mirage.dust2,"
+	"gametype": "!ws,agents,anubis,de_,de_,gloves,knife,kosy,mirage.dust2,poland"
 }

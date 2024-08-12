@@ -11,10 +11,10 @@
 	"region": 5,
 	"players": 0,
 	"max_players": 40,
-	"bots": 1,
-	"map": "surf_year3000_fix",
+	"bots": 2,
+	"map": "surf_pox",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
+	"gametype": "!gloves,!knife,!ws,SurfHeaven,easy,rank,stats,surf,timer,secure"
 }
