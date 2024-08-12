@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "am_blackline",
+	"map": "am_sauna",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "188.130.232.99:9801",
 	"gameport": 9801,
+	"specport": 27020,
 	"steamid": "85568392931028096",
 	"name": "Public - Chrono-Hub",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

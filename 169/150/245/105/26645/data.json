@@ -2,19 +2,19 @@
 	"addr": "169.150.245.105:26645",
 	"gameport": 26645,
 	"specport": 26646,
-	"steamid": "90200868359756813",
+	"steamid": "90200879122484237",
 	"name": "Paladin's Practice Prison",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 18,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
