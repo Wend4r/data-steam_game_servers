@@ -1,7 +1,7 @@
 {
 	"addr": "154.223.16.65:27015",
 	"gameport": 27015,
-	"steamid": "90200858680871953",
+	"steamid": "90200862728142865",
 	"name": "Competitivo 5V5 [COL] coderekt.xyz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
