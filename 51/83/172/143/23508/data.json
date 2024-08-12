@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage_fun",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,128tr,4fun,aim,cszjarani,de_,de_mirage,dm,drop,f2p,faceit,ffa"
+	"gametype": "empty,!,128tr,4fun,aim,cszjarani,de_,de_mirage,dm,drop,f2p,face"
 }

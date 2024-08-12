@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.251.35:26099",
+	"gameport": 26099,
+	"specport": 26100,
+	"steamid": "90200860076034050",
+	"name": "KAOZ Practice",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 3,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}
