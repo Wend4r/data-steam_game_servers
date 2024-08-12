@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 65,
+	"players": 48,
 	"max_players": 255,
 	"bots": 0,
-	"map": "ze_s_a_m",
+	"map": "ze_zk_fapescape_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
