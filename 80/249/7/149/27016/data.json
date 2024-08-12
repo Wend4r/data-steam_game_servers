@@ -8,12 +8,12 @@
 	"version": "1.35.2.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,tag1,tag2,tag3,insecure"
+	"gametype": "tag1,tag2,tag3,insecure"
 }

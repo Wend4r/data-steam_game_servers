@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30050",
 	"gameport": 30050,
 	"specport": 35023,
-	"steamid": "90200841084963855",
+	"steamid": "90200866878895119",
 	"name": "dA koRe",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30015",
 	"gameport": 30015,
 	"specport": 35052,
-	"steamid": "90200841084944399",
+	"steamid": "90200866878880783",
 	"name": "WertyACAqua Pracc",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

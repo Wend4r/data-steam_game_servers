@@ -1,8 +1,7 @@
 {
 	"addr": "141.95.72.175:30015",
 	"gameport": 30015,
-	"specport": 35090,
-	"steamid": "90200841090100247",
+	"steamid": "90200866854187031",
 	"name": "O Grande Canhao #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

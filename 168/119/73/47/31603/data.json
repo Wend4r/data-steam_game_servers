@@ -1,7 +1,7 @@
 {
 	"addr": "168.119.73.47:31603",
 	"gameport": 31603,
-	"steamid": "90200841135390729",
+	"steamid": "90200866809860105",
 	"name": "Clan eSpuma",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

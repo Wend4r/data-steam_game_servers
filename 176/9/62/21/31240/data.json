@@ -2,7 +2,7 @@
 	"addr": "176.9.62.21:31240",
 	"gameport": 31240,
 	"specport": 36835,
-	"steamid": "90200841006278659",
+	"steamid": "90200866883893251",
 	"name": "XI Akademi - fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

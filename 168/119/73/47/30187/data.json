@@ -1,7 +1,7 @@
 {
 	"addr": "168.119.73.47:30187",
 	"gameport": 30187,
-	"steamid": "90200841135415305",
+	"steamid": "90200866809886729",
 	"name": "|PL| SzczepanTech - by GamingSociety.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30233",
 	"gameport": 30233,
 	"specport": 35076,
-	"steamid": "90200851375917071",
+	"steamid": "90200866878897167",
 	"name": "guata",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
