@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_airmap_run_v2_fixx",
+	"map": "mg_metal_course_level_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure"
+	"gametype": "!!!!!,!knife,!ws,128tr,1v1,FREE-VIP,MiniGame,RecoilCase,drop,fast d,fastdrop,fastdrops,idle,minigame,no-steam,only,secure,timer"
 }
