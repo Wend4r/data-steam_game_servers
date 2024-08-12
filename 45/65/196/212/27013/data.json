@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 12,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
+	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,RETAKE PISTOL,secure"
 }
