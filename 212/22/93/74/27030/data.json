@@ -2,7 +2,7 @@
 	"addr": "212.22.93.74:27030",
 	"gameport": 27030,
 	"specport": 27032,
-	"steamid": "90200841426179076",
+	"steamid": "90200883181131780",
 	"name": "FURYLIGHT | ONLY MIRAGE | [!ws !knife !gloves !vip !case]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,agents,case,classic,deathmatch,dm,drop,duels,fun,gl"
+	"gametype": "empty,128,128tick,agents,case,classic,deathmatch,dm,drop,duels,"
 }
