@@ -2,18 +2,18 @@
 	"addr": "62.234.164.199:27015",
 	"gameport": 27015,
 	"steamid": "85568392932022537",
-	"name": "【全皮肤】【约战跑图】Sakxh",
+	"name": "Sakxh",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
