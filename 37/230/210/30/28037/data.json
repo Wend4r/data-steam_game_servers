@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
 	"map": "mirror_de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,mirror_de_mirage,fun,official,custom,old,msk,128,128tick,"
+	"gametype": "mirror_de_mirage,fun,official,custom,old,msk,128,128tick,pro,pu"
 }
