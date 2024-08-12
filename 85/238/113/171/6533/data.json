@@ -11,9 +11,9 @@
 	"players": 250,
 	"max_players": 255,
 	"bots": 0,
-	"map": "ze_chronus_p",
+	"map": "ze_shroomforest2_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
