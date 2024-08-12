@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 0,
-	"map": "awp_lego_2",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!vip,!ws,aim,awp,fy,geo,georgia,ge"
+	"gametype": "!agents,!gloves,!knife,!vip,!ws,aim,awp,fy,geo,georgia,geostrik"
 }
