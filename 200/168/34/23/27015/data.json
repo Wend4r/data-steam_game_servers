@@ -1,8 +1,7 @@
 {
 	"addr": "200.168.34.23:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200619376549900",
+	"steamid": "90200880745933836",
 	"name": "BeeSpot",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

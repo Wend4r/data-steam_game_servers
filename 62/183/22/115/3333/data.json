@@ -1,6 +1,7 @@
 {
 	"addr": "62.183.22.115:3333",
 	"gameport": 3333,
+	"specport": 27020,
 	"steamid": "85568392930343618",
 	"name": "Краснодар |17| Mirage [CS2][!WS][!KNIFE]",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 12,
-	"max_players": 32,
+	"players": 9,
+	"max_players": 33,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
+	"gametype": "!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen,krd,k"
 }
