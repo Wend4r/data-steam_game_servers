@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "hns_bbcity",
+	"map": "hns_backyard_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspublic,gl"
+	"gametype": "empty,BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspub"
 }
