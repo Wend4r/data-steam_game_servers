@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.47.35:26897",
 	"gameport": 26897,
-	"steamid": "90200865610650632",
+	"steamid": "90200867401814024",
 	"name": "DINQ powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 18,
-	"bots": 1,
-	"map": "de_nuke",
+	"players": 1,
+	"max_players": 17,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
