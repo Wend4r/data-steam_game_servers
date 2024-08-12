@@ -1,0 +1,19 @@
+{
+	"addr": "168.119.73.47:30133",
+	"gameport": 30133,
+	"steamid": "90200880073415689",
+	"name": "Gazu",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 3,
+	"players": 3,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
