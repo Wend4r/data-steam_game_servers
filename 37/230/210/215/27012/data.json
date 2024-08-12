@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,awp,awp_lego,cybershoke,fps,fun,public,rank,"
+	"gametype": "empty,!gloves,!knife,!ws,awp,awp_lego,cybershoke,fps,fun,public"
 }
