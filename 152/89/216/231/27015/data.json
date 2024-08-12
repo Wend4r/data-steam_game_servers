@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!ws,dust,inferno,mirage,public,suntago,insec"
+	"gametype": "empty,!gl,!gloves,!knife,!ws,dust,inferno,mirage,public,suntago"
 }

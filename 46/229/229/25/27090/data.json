@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "bhop_messup",
+	"map": "bhop_colour",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,cs2,csko,cyber,cz,eu,fun,gloves,jump,knife,knves,kz,"
+	"gametype": "bhop,cs2,csko,cyber,cz,eu,fun,gloves,jump,knife,knves,kz,mirage"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.183:27947",
+	"gameport": 27947,
+	"specport": 27948,
+	"steamid": "85568392931153251",
+	"name": "Final Refuge North 5v5",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
