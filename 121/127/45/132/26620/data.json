@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.45.132:26620",
+	"gameport": 26620,
+	"steamid": "90200877602097161",
+	"name": "wingman ry eport",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 5,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

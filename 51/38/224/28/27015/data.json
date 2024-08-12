@@ -2,18 +2,18 @@
 	"addr": "51.38.224.28:27015",
 	"gameport": 27015,
 	"steamid": "85568392932073824",
-	"name": "Counter-Strike 2",
+	"name": "FR - Le web à Lolo",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 6,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,ffa,multimaps,secure"
 }

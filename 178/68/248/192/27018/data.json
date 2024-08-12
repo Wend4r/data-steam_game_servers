@@ -1,0 +1,19 @@
+{
+	"addr": "178.68.248.192:27018",
+	"gameport": 27018,
+	"steamid": "90200877500894216",
+	"name": "TEST",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 64,
+	"bots": 0,
+	"map": "bhop_quack",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "bhop,bhop_classicrainbowaux_fix,drop,cyber,cybershoke,gloves,kn"
+}
