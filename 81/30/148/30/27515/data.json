@@ -1,7 +1,7 @@
 {
 	"addr": "81.30.148.30:27515",
 	"gameport": 27515,
-	"steamid": "90200836462023693",
+	"steamid": "90200861634923533",
 	"name": "[FG>]Fair-Gamers[CS:GO-Classic-Casual-DE]Server#4",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Fair-Gamers FG,secure"
+	"gametype": "empty,Fair-Gamers FG,insecure"
 }
