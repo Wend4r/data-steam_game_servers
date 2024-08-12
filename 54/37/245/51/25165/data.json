@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 10,
-	"bots": 1,
-	"map": "surf_petrus",
+	"bots": 0,
+	"map": "surf_lax_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_petrus,secure"
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_lax_fix,secur"
 }
