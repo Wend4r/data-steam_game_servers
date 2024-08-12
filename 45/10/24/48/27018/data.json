@@ -9,12 +9,12 @@
 	"version": "1.35.3.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 4,
-	"bots": 2,
+	"bots": 1,
 	"map": "fy_pool_day",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
