@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 45,
-	"bots": 3,
+	"bots": 0,
 	"map": "surf_sodacity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_sodacity,se"
+	"gametype": "empty,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_sodac"
 }

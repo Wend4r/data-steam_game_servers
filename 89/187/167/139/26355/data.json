@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.139:26355",
 	"gameport": 26355,
-	"steamid": "85568392931325922",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200884178450459",
+	"name": "Leetify CS2 Match by ✪ WINEDINE69",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
-	"players": 5,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
-	"secure": false,
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
