@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 24,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 8,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,fu"
+	"gametype": "!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,full,fun"
 }
