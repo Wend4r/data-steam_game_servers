@@ -1,7 +1,7 @@
 {
 	"addr": "164.132.149.96:27015",
 	"gameport": 27015,
-	"steamid": "90200866342136851",
+	"steamid": "90200866520939539",
 	"name": "Gang Bangers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 15,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,VeryGames VG,secure"
+	"gametype": "empty,VeryGames VG,insecure"
 }
