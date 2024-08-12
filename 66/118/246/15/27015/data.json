@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_avalanche_cs2",
+	"map": "jb_minecraft_beta_v5z",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gan"
+	"gametype": "!ws,1v1,24/7,US,arena,awp,beginner,bhop,dust2,ego,fun,gangs,idl"
 }
