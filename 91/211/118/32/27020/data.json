@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "de_dust2_fps_hlibchuk",
+	"map": "de_mirage_fps_hlibchuk",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,knife,mirage,rank,ws,secure"
+	"gametype": "empty,gloves,knife,mirage,rank,ws,secure"
 }

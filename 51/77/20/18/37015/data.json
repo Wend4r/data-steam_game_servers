@@ -1,6 +1,7 @@
 {
 	"addr": "51.77.20.18:37015",
 	"gameport": 37015,
+	"specport": 37020,
 	"steamid": "90200884544722951",
 	"name": "edgeb.ug | HNS ChaseMod [PRE | GStrafe | JumpStats]",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

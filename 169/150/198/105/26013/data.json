@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_mills",
+	"map": "hideandseekfrugo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

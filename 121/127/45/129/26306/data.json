@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Lynx,Lynx Gaming,Malme,Malmo,Svenska,Swe,Sweden,lynx,lynx"
+	"gametype": "Lynx,Lynx Gaming,Malme,Malmo,Svenska,Swe,Sweden,lynx,lynx gamin"
 }
