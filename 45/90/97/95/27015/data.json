@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 1,
-	"map": "awp_creek",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "alphacs,awp,gloves,knife,lego,romania,skins,secure"
+	"gametype": "empty,alphacs,awp,gloves,knife,lego,romania,skins,secure"
 }

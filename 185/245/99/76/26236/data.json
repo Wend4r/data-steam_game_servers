@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26236",
 	"gameport": 26236,
-	"steamid": "90200859970799630",
+	"steamid": "90200865729636366",
 	"name": "pByTy3 (S50 Advanced) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

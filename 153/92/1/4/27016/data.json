@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DM,FFA,LT,Sadego,dust2,insecure"
+	"gametype": "empty,DM,FFA,LT,Sadego,dust2,secure"
 }
