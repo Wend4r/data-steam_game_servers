@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 1,
 	"map": "rg/am_abstract",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!ws,128,128ti,1v1,1vs1,1x1,24/7,ARENA,aim,am,drop,duel,free,funny,gl,ru,rusgang,russiangang,skins,ua,vip,viptest"
+	"gametype": "empty,!gloves,!knife,!ws,128,128ti,1v1,1vs1,1x1,24/7,ARENA,aim,am,drop,duel,free,funny,gl,ru,rusgang,russiangang,skins,ua,vip,v"
 }
