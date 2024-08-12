@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_aztecnoob_p",
+	"map": "ze_atix_panic_2017_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,skins ,infection,unlimited ammo,props,noblock,parachute,s"
+	"gametype": "skins ,infection,unlimited ammo,props,noblock,parachute,stamm,r"
 }
