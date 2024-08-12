@@ -2,18 +2,18 @@
 	"addr": "194.147.90.206:27035",
 	"gameport": 27035,
 	"steamid": "85568392931721045",
-	"name": "Strike League | team_lazy vs team_lordfrexoff",
+	"name": "Strike League | team_VLADIMIR vs team_BEBRA ┌∩┐(◣_◢)�",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 10,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "cs_assault",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

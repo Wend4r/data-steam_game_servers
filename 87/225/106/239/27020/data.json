@@ -1,7 +1,7 @@
 {
 	"addr": "87.225.106.239:27020",
 	"gameport": 27020,
-	"steamid": "90200866463565848",
+	"steamid": "90200870300149784",
 	"name": "Хабаровский[pub][CSGO]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 30,
-	"bots": 4,
+	"bots": 3,
 	"map": "$2000$",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,27region,Dalnyy-Vostok,KHV,Khabarovsk,Komsomolsk,LevelRank,Primorie,Public,Vladivostok,no-steam,secure"
+	"gametype": "empty,27region,Dalnyy-Vostok,KHV,Khabarovsk,Komsomolsk,LevelRank,Primorie,Public,Vladivostok,no-steam,insecure"
 }

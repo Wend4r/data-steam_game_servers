@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
 	"map": "am_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,Argentina,Retake,am_ ,arena 1v1,arg,automix,buenos aires,competitivo,discord,instant defus,mix,rtv,slot reservado,steam,vip"
+	"gametype": "empty,1v1,Argentina,Retake,am_ ,arena 1v1,arg,automix,buenos aires,competitivo,discord,instant defus,mix,rtv,slot reservado,ste"
 }
