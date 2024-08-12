@@ -1,7 +1,7 @@
 {
 	"addr": "163.172.33.145:32015",
 	"gameport": 32015,
-	"steamid": "90200824155595784",
+	"steamid": "90200877167591432",
 	"name": "[FR] Deathmatch RG 1000 FPS-Ranked",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 12,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

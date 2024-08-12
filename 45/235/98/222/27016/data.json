@@ -1,19 +1,19 @@
 {
 	"addr": "45.235.98.222:27016",
 	"gameport": 27016,
-	"steamid": "85568392931190600",
+	"steamid": "90200877101680659",
 	"name": "⭐MDQServers.net⭐ #2 [1v1 ARENA] !ws!knife!agents",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "am_construction",
+	"map": "am_winterbound",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,argentina,mdq,mdqservers,secure"
+	"gametype": "1v1,arena,argentina,mdq,mdqservers,secure"
 }

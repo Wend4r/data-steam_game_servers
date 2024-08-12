@@ -1,7 +1,7 @@
 {
 	"addr": "45.235.98.222:27017",
 	"gameport": 27017,
-	"steamid": "85568392931191617",
+	"steamid": "90200877102483475",
 	"name": "⭐MDQServers.net⭐ #3 [RETAKE] !ws!knife!agents - La comunida",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "argentina,mdq,mdqservers,retake,retakes,secure"
+	"gametype": "empty,argentina,mdq,mdqservers,retake,retakes,secure"
 }
