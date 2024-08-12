@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 1,
 	"map": "/1136298665/fy_konquer_ge",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,asia(sg my ph th id),competitive,csgo,fightyard,fun,fy,rank,singapore,starters,stats,secure"
+	"gametype": "128-tick,asia(sg my ph th id),competitive,csgo,fightyard,fun,fy,rank,singapore,starters,stats,secure"
 }

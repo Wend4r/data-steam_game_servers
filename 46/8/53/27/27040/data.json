@@ -2,18 +2,18 @@
 	"addr": "46.8.53.27:27040",
 	"gameport": 27040,
 	"steamid": "85568392931721055",
-	"name": "Strike League | team_meta vs team_211uds8sd",
+	"name": "Strike League | team_4onax vs team_211uds8sd",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_shortnuke",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
