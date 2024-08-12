@@ -1,7 +1,7 @@
 {
 	"addr": "185.248.101.137:30067",
 	"gameport": 30067,
-	"steamid": "90200854812211213",
+	"steamid": "90200859873728525",
 	"name": "[CS2] Friend Game",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.183:26551",
 	"gameport": 26551,
+	"specport": 26552,
 	"steamid": "90200859781411841",
 	"name": "BIG DOOK CLUB",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "mp_raid",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
