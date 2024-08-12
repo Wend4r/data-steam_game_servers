@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26263",
 	"gameport": 26263,
-	"steamid": "90200832531777541",
+	"steamid": "90200859862548485",
 	"name": "celeryserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

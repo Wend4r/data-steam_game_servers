@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.211.235:26528",
 	"gameport": 26528,
-	"steamid": "90200832506446866",
+	"steamid": "90200859881327634",
 	"name": "Bakchod",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

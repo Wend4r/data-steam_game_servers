@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26586",
 	"gameport": 26586,
-	"steamid": "90200832534968342",
+	"steamid": "90200859836481558",
 	"name": "Pwacc Sewwer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

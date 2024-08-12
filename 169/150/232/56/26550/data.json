@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26550",
 	"gameport": 26550,
 	"specport": 26551,
-	"steamid": "90200833018972176",
+	"steamid": "90200859915472912",
 	"name": "CSBOYZ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

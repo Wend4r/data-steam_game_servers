@@ -2,7 +2,7 @@
 	"addr": "121.127.45.130:26575",
 	"gameport": 26575,
 	"specport": 26576,
-	"steamid": "90200832564605959",
+	"steamid": "90200859935333383",
 	"name": "Karlslunde Esport - Træner",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

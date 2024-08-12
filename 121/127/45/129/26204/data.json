@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26204",
 	"gameport": 26204,
-	"steamid": "90200832455612422",
+	"steamid": "90200859895617542",
 	"name": "Karlslunde Esport - Medlemmer",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

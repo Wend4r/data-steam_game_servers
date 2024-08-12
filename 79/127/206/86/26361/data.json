@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26361",
 	"gameport": 26361,
-	"steamid": "90200832530833413",
+	"steamid": "90200859861534725",
 	"name": "Relaxation Vault",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

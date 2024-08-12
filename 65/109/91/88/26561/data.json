@@ -2,7 +2,7 @@
 	"addr": "65.109.91.88:26561",
 	"gameport": 26561,
 	"specport": 26562,
-	"steamid": "90200832559501324",
+	"steamid": "90200859856007180",
 	"name": "Arkade Tundra",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

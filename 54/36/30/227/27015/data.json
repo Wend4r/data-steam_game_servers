@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 28,
 	"bots": 2,
 	"map": "bhop_screelee_csgo_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "All languages welcome,AutoBhop,House Of Climb,Legit,hoc,secure"
+	"gametype": "empty,All languages welcome,AutoBhop,House Of Climb,Legit,hoc,secure"
 }
