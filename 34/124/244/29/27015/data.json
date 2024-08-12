@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 7,
+	"players": 0,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "private 5v5,insecure"
+	"gametype": "empty,private 5v5,insecure"
 }
