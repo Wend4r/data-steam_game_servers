@@ -1,7 +1,7 @@
 {
 	"addr": "83.36.25.211:27015",
 	"gameport": 27015,
-	"steamid": "90200880271989779",
+	"steamid": "90200880429498387",
 	"name": "Chiniyo`s Cup ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
