@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "/715656653/hs_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CM2.Network,Tournament,pcw,war,secure"
+	"gametype": "empty,*grp:19763592i,CM2.Network,Tournament,pcw,war,secure"
 }

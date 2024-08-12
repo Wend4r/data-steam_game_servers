@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 14,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_cliffhanger_go_global",
 	"secure": true,
 	"dedicated": true,
