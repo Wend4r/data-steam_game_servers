@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 7,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_cartoon_course_v3_3_ez_hdr_f",
+	"map": "mg_mario_course_v1_1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!!!!!,!knife,!shop,!ws,*grp:5114777i,128tr,1v1,custom,drop,fast drops,mg,minigame,no-steam,only MiniGame,public,server,speedway"
+	"gametype": "!!!!!,!knife,!shop,!ws,128tr,1v1,custom,drop,fast drops,mg,minigame,no-steam,only MiniGame,public,server,speedway,timer,vi,vips"
 }
