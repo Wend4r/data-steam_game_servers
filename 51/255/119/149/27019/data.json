@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 4,
 	"map": "gg_mojo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,deathmatch,dm,freevip,no-steam,nonsteam,nosteam,se7en,se7enkills,stats,secure"
+	"gametype": "deathmatch,dm,freevip,no-steam,nonsteam,nosteam,se7en,se7enkills,stats,secure"
 }

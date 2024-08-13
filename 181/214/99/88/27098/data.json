@@ -1,0 +1,19 @@
+{
+	"addr": "181.214.99.88:27098",
+	"gameport": 27098,
+	"steamid": "90200891462928403",
+	"name": "[CS2][PRIVATE]DEATHMATCH",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -3,
+	"players": 1,
+	"max_players": 64,
+	"bots": 14,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,de_dust2,deathmatch,dm,dust2,eu,ffa,free-for-all,freefora"
+}

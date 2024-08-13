@@ -1,20 +1,19 @@
 {
 	"addr": "156.146.52.209:26370",
 	"gameport": 26370,
-	"specport": 26371,
-	"steamid": "90200857784140826",
-	"name": "[P] PopFlash Scrim - istanbul - 30",
+	"steamid": "90200891453117466",
+	"name": "100000336 - sahadifor's team Instant",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 13,
+	"players": 1,
+	"max_players": 12,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
