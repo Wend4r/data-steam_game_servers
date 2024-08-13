@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_canals",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

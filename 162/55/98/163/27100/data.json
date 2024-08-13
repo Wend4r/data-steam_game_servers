@@ -1,8 +1,7 @@
 {
 	"addr": "162.55.98.163:27100",
 	"gameport": 27100,
-	"specport": 37100,
-	"steamid": "90200862151032840",
+	"steamid": "90200887887713288",
 	"name": "FruchtLabor - Main Team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
