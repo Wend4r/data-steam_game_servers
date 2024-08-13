@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.194:26764",
 	"gameport": 26764,
-	"steamid": "90200875649857550",
+	"steamid": "90200892461577230",
 	"name": "FRAGMATIC powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
