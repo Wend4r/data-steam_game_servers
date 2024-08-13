@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "seek_inner_city_2",
+	"map": "seek_burg_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!testvip,!ws,hns,seek,secure"
+	"gametype": "!gloves,!knife,!testvip,!ws,hns,seek,secure"
 }
