@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,developer,private,surf_666,secure"
+	"gametype": "empty,developer,private,surf_666,insecure"
 }

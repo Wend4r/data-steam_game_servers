@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 1,
-	"map": "myrun/big_city_v3",
+	"map": "myrun/hns_lego",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
+	"gametype": "empty,*grp:5114777i,64tick,Knife choice CORE,cs:go,csgo,hns,maniac,minigames,no-steam,spb,маньяк,insecure"
 }

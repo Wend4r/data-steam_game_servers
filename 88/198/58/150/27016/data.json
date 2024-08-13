@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 34,
-	"bots": 0,
+	"bots": 9,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ba,cro,bih,balkan,cswarzone.com,OaO,128tick,eu,free2play,legacy,knife,hr,lvl,mkd,models,no-steam,public,skins,slo,srb,ws,"
+	"gametype": "ba,cro,bih,balkan,cswarzone.com,OaO,128tick,eu,free2play,legacy,knife,hr,lvl,mkd,models,no-steam,public,skins,slo,srb,ws,gameME"
 }
