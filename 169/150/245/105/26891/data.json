@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "dal_2",
+	"map": "de_bazaar_d_prefab",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,insecure"
+	"gametype": "empty,hidden,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 3,
+	"players": 2,
 	"max_players": 45,
 	"bots": 2,
-	"map": "surf_scarlet",
+	"map": "surf_hellenic_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_scarlet,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_hellenic_csgo,secur"
 }

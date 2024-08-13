@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.209:26497",
 	"gameport": 26497,
+	"specport": 26498,
 	"steamid": "90200904580852764",
 	"name": "EgoistoClan",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 9,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
