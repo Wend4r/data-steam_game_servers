@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26588",
 	"gameport": 26588,
 	"specport": 26589,
-	"steamid": "90200880696905742",
+	"steamid": "90200886024496142",
 	"name": "Austrian Force willhaben CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

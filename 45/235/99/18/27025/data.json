@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 12,
+	"players": 8,
 	"max_players": 14,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,crisis"
+	"gametype": "empty,1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,"
 }
