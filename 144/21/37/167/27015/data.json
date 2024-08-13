@@ -2,7 +2,7 @@
 	"addr": "144.21.37.167:27015",
 	"gameport": 27015,
 	"steamid": "85568392932070792",
-	"name": "eBot :: 1 vs 2",
+	"name": "d1pst1ck serv",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

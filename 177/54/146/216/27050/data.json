@@ -1,19 +1,19 @@
 {
 	"addr": "177.54.146.216:27050",
 	"gameport": 27050,
-	"steamid": "90200885245485062",
+	"steamid": "90200903097673734",
 	"name": "Lukão's server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 1,
 	"max_players": 16,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

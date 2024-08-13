@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 8,
+	"players": 9,
 	"max_players": 64,
-	"bots": 0,
-	"map": "awp_lego_2_x2",
+	"bots": 1,
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,awp,awp_lego,ba,csdm,de_dust2,de_mirage,dust2,jail,ja"
+	"gametype": "128,awp,awp_lego,ba,csdm,de_dust2,de_mirage,dust2,jail,jailbrea"
 }
