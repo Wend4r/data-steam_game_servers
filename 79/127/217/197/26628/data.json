@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:26628",
 	"gameport": 26628,
-	"steamid": "90200876158594053",
+	"steamid": "90200902371625989",
 	"name": "KZ_goodgamefamily.com",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
