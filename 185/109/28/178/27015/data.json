@@ -2,7 +2,7 @@
 	"addr": "185.109.28.178:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "85568392922844898",
+	"steamid": "85568392922844429",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage_night_gylala",
-	"secure": true,
+	"map": "aim_headshot",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
