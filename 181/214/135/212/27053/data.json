@@ -1,7 +1,7 @@
 {
 	"addr": "181.214.135.212:27053",
 	"gameport": 27053,
-	"steamid": "90200903493842973",
+	"steamid": "90200905547383837",
 	"name": "CS2 [Israel] #Retakes - GREEN Clan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

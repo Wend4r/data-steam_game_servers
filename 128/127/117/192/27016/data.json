@@ -1,19 +1,19 @@
 {
 	"addr": "128.127.117.192:27016",
 	"gameport": 27016,
-	"steamid": "90200905521719297",
+	"steamid": "90200905523506177",
 	"name": "[RO] RUN.OLDBUTGOLD.RO [CS:GO HNS PRE] discord.oldbutgold.ro",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "hns_devblocks",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
