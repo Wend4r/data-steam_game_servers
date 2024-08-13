@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
-	"bots": 5,
-	"map": "de_vertigo",
+	"bots": 4,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,pri"
+	"gametype": "4fun,de_,de_mirage,en,f2p,ffa,mirage,pl,poland,polska,prime,uwu"
 }
