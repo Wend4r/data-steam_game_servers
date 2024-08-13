@@ -2,19 +2,19 @@
 	"addr": "169.150.198.102:25445",
 	"gameport": 25445,
 	"specport": 25446,
-	"steamid": "90200908883637254",
+	"steamid": "90200908885134342",
 	"name": "Turma do Bairro powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
