@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26182",
 	"gameport": 26182,
-	"steamid": "90200869409209357",
+	"steamid": "90200896036067341",
 	"name": "UC CS Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

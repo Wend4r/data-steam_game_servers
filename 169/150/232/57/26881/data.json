@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26881",
 	"gameport": 26881,
-	"steamid": "90200869935951889",
+	"steamid": "90200896101397521",
 	"name": "Midnight Fox Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

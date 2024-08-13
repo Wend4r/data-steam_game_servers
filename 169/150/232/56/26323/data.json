@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26323",
 	"gameport": 26323,
-	"steamid": "90200869336393744",
+	"steamid": "90200896186057744",
 	"name": "Predonum1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
