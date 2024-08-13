@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:26521",
 	"gameport": 26521,
+	"specport": 26522,
 	"steamid": "90200907580618759",
 	"name": "[P] PopFlash Scrim - strasbourg - 24",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_anubis",

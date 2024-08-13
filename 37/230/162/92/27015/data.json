@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 0,
 	"max_players": 33,
 	"bots": 1,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!lvl,!ws,128,128tick,AWP,LEGO2,RUS,VIP,awp_lego_"
+	"gametype": "empty,!gloves,!knife,!lvl,!ws,128,128tick,AWP,LEGO2,RUS,VIP,awp"
 }
