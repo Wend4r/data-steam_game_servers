@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 64,
 	"bots": 9,
-	"map": "ze_pools_p",
+	"map": "zm_battleforce_remake_v3_4a",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,r"
+	"gametype": "!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,rpg,ru,"
 }
