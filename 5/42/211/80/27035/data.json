@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,2v2,5v5,connect,csgo,cw,hvh,league,panic,private,insecure"
+	"gametype": "1v1,2v2,5v5,connect,csgo,cw,hvh,league,panic,private,insecure"
 }
