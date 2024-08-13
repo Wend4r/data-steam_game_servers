@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 133,
+	"players": 64,
 	"max_players": 255,
 	"bots": 0,
-	"map": "ze_alien_mountain_escape_p",
+	"map": "ze_traak_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

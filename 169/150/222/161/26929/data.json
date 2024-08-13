@@ -2,18 +2,18 @@
 	"addr": "169.150.222.161:26929",
 	"gameport": 26929,
 	"steamid": "85568392924046569",
-	"name": "XPLAY.GG • CS2 DM FFA #12 • [CN]",
+	"name": "CS2 DM #12 CN",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 0,
 	"max_players": 20,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

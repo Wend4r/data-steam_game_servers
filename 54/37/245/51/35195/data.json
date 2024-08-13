@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 40,
-	"bots": 2,
+	"bots": 0,
 	"map": "surf_ephemeral",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "developer,private,surf_ephemeral,secure"
+	"gametype": "empty,developer,private,surf_ephemeral,secure"
 }
