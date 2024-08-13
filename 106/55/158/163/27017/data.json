@@ -1,0 +1,19 @@
+{
+	"addr": "106.55.158.163:27017",
+	"gameport": 27017,
+	"steamid": "85568392932074666",
+	"name": "互撸兄弟-僵尸大逃杀",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.3",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

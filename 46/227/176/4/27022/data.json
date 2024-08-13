@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 12,
-	"map": "de_mirage",
+	"bots": 9,
+	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csportal,cz,dm,ffa,rank,sk,warmup,secure"
+	"gametype": "empty,csportal,cz,dm,ffa,rank,sk,warmup,secure"
 }
