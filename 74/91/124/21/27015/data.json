@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 62,
+	"players": 34,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_tilex_ultimate_p",
+	"map": "ze_surf_hp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
+	"gametype": "empty,GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,sec"
 }

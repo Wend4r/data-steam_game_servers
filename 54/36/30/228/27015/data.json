@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 26,
 	"bots": 0,
-	"map": "kz_another_climb_map",
+	"map": "kz_kzro_bronea",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Climb,HOC,HouseOfClimb.com,KZ,secure"
+	"gametype": "Climb,HOC,HouseOfClimb.com,KZ,secure"
 }

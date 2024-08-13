@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 7,
+	"bots": 0,
 	"map": "aim_map_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aim_map_s2,aimdm,aim,128tick,128,cybershoke,en,deathmatch"
+	"gametype": "aim_map_s2,aimdm,aim,128tick,128,cybershoke,en,deathmatch,dm,cy"
 }
