@@ -1,0 +1,19 @@
+{
+	"addr": "118.70.125.152:27015",
+	"gameport": 27015,
+	"steamid": "90200886656260098",
+	"name": "NP Family Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,test,insecure"
+}
