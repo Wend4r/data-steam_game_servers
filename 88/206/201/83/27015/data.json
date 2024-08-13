@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "am_redline_gg",
+	"map": "am_plain2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,dual,duel,fight,multi1v1,warmup,secure"
+	"gametype": "empty,1v1,arena,dual,duel,fight,multi1v1,warmup,secure"
 }

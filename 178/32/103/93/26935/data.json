@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "jail_xmf_ggez_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,secur"
+	"gametype": "bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,secure"
 }

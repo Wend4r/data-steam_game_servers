@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26709",
 	"gameport": 26709,
-	"steamid": "90200869319822350",
-	"name": "DOSKI (CS2) powered by PRACC.COM",
+	"specport": 26710,
+	"steamid": "90200895463574542",
+	"name": "Falcon eSports (ESEA Main) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
-	"max_players": 12,
+	"max_players": 14,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
