@@ -1,20 +1,19 @@
 {
 	"addr": "212.102.62.210:26812",
 	"gameport": 26812,
-	"specport": 26813,
-	"steamid": "90200832231664669",
-	"name": "[P] PopFlash Scrim - stockholm - 24",
+	"steamid": "90200912953833501",
+	"name": "BARRAGE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_overpass",
+	"bots": 7,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
