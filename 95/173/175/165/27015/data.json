@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AIM,AIMREDLINE,GODNESS,aim,aimredline,godness,redline,sec"
+	"gametype": "AIM,AIMREDLINE,GODNESS,aim,aimredline,godness,redline,secure"
 }
