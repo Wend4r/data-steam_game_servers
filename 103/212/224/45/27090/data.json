@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_astra",
+	"map": "surf_cyka_ksf",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
+	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
 }
