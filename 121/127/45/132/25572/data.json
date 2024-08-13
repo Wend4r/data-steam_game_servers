@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.45.132:25572",
+	"gameport": 25572,
+	"specport": 25573,
+	"steamid": "90200900521577481",
+	"name": "Leetify CS2 Surf by qN2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

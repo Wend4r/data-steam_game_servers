@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.129:26711",
 	"gameport": 26711,
-	"specport": 26712,
-	"steamid": "90200874521260038",
+	"steamid": "90200900531930118",
 	"name": "FalsterEsport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
