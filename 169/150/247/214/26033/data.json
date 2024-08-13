@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.247.214:26033",
 	"gameport": 26033,
-	"steamid": "90200893330629658",
+	"steamid": "90200904271589402",
 	"name": "Fun",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

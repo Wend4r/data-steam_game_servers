@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "aim_deagle7k",
+	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuv"
+	"gametype": "1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuva,lith"
 }
