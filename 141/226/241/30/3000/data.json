@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 6,
-	"players": 7,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_mirage_mid_p",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws,secur"
+	"gametype": "empty,gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws"
 }

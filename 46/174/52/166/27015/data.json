@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
-	"map": "bhop_arcane_2",
+	"map": "mg_skytower_b2_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,no-steam,secure"
+	"gametype": "no-steam,secure"
 }

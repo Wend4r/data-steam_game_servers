@@ -1,0 +1,19 @@
+{
+	"addr": "177.189.32.208:30021",
+	"gameport": 30021,
+	"steamid": "85568392931946162",
+	"name": "RETAKE BY openmatch.com.br",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 2,
+	"players": 0,
+	"max_players": 9,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "openmatch,retake,secure"
+}
