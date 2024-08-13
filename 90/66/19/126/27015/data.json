@@ -14,5 +14,6 @@
 	"map": "kz_reach_cs2_v2",
 	"secure": false,
 	"dedicated": true,
-	"os": "w"
+	"os": "w",
+	"gametype": "empty,insecure"
 }

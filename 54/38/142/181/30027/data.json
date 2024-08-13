@@ -1,7 +1,7 @@
 {
 	"addr": "54.38.142.181:30027",
 	"gameport": 30027,
-	"steamid": "90200893354931231",
+	"steamid": "90200893357678623",
 	"name": "[PL] ArenaSkilla.pl #HIDE AND SEEK# MODELE SKINY KOSY",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
+	"gametype": "empty,HNS;HideAndSeek;Seek;Hide;Parkour;Chowany,secure"
 }

@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 6,
 	"max_players": 33,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_dust2_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,insecure"
+	"gametype": "EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,secure"
 }
