@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hun,secure"
+	"gametype": "empty,hun,secure"
 }

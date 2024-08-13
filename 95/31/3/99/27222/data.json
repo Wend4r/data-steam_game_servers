@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
-	"bots": 2,
+	"bots": 1,
 	"map": "$2000$_csgo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!!!,!awp,!de_dust2,arena,awp,awp,awp_lego,awp_lego,awp_lego_2,awp_lego_2,de_dust2,hlportal,hlxportal,idgame,rev=783931,warcraft"
+	"gametype": "empty,!!!,!awp,!de_dust2,arena,awp,awp,awp_lego,awp_lego,awp_lego_2,awp_lego_2,de_dust2,hlportal,hlxportal,idgame,rev=783931,wa"
 }
