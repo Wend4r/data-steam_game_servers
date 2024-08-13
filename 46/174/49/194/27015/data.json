@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.49.194:27015",
 	"gameport": 27015,
-	"steamid": "90200904686863390",
+	"steamid": "90200905643428894",
 	"name": "RESF TATARSTAN by MyArena.ru",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 11,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

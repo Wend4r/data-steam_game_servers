@@ -12,9 +12,9 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_awp_hd",
+	"map": "aim_headshot",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

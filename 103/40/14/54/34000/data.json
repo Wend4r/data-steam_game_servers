@@ -1,0 +1,19 @@
+{
+	"addr": "103.40.14.54:34000",
+	"gameport": 34000,
+	"steamid": "85568392932075207",
+	"name": "【FG社区】#4满十|免费全皮肤|杭州",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,5v5,FG,FGCSGO,fg,fgcsgo,free,pug,insecure"
+}

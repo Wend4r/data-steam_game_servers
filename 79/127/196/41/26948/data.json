@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:26948",
 	"gameport": 26948,
+	"specport": 26949,
 	"steamid": "90200886980436999",
 	"name": "NAZ Server",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
