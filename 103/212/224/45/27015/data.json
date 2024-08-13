@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aus,killzone,!ws,gloves,executes,aim,de_,dust2,knife,kzg,skin,m"
+	"gametype": "empty,aus,killzone,!ws,gloves,executes,aim,de_,dust2,knife,kzg,"
 }
