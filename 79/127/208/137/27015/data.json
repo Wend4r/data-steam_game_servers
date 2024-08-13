@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.208.137:27015",
 	"gameport": 27015,
+	"specport": 27016,
 	"steamid": "90200903240566808",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "fistmap",
+	"map": "aim_nuke_hall",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

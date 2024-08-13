@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs_mansion",
+	"map": "ar_baggage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,Arms,Arms Race,Race,insecure"
+	"gametype": "128,Arms,Arms Race,Race,insecure"
 }

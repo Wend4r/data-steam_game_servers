@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 6,
 	"max_players": 25,
-	"bots": 2,
-	"map": "aim_map_3g2",
+	"bots": 5,
+	"map": "de_highland",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

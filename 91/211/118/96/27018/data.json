@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "am_ramps_cybershoke,1vs1,1v1,arena,128,128tick,cybershoke,drop,"
+	"gametype": "empty,am_ramps_cybershoke,1vs1,1v1,arena,128,128tick,cybershoke"
 }
