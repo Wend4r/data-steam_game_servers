@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 25,
 	"bots": 4,
-	"map": "bhop_funnel",
+	"map": "bhop_monoton",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

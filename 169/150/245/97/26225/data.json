@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.245.97:26225",
 	"gameport": 26225,
-	"steamid": "90200892768337925",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200893086491653",
+	"name": "Verdant powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
