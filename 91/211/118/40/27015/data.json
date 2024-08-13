@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 16,
+	"players": 14,
 	"max_players": 19,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agent,!gloves,!knife,!ws,agent,awp,awponly,desperate,dsp"
+	"gametype": "!agent,!gloves,!knife,!ws,agent,awp,awponly,desperate,dsprt,dus"
 }
