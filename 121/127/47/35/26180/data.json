@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.47.35:26180",
 	"gameport": 26180,
-	"steamid": "90200859867452424",
+	"steamid": "90200885513332744",
 	"name": "The Shed Showdown",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_cache",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

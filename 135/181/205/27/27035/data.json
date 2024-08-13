@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,neverlose,nl,nospread,premier,insecure"
+	"gametype": "empty,hvh,neverlose,nl,nospread,premier,insecure"
 }

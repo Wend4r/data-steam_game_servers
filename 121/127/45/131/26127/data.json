@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26127",
 	"gameport": 26127,
-	"steamid": "90200859867324424",
+	"steamid": "90200885513232392",
 	"name": "Horsens STU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.247.213:26289",
 	"gameport": 26289,
-	"specport": 26290,
 	"steamid": "85568392931331581",
 	"name": "Nik le Content",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

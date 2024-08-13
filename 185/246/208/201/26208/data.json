@@ -1,8 +1,7 @@
 {
 	"addr": "185.246.208.201:26208",
 	"gameport": 26208,
-	"specport": 26209,
-	"steamid": "90200859956347925",
+	"steamid": "90200885534983189",
 	"name": "wolf",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

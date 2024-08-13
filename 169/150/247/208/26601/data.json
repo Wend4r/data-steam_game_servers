@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.247.208:26601",
 	"gameport": 26601,
-	"specport": 26602,
 	"steamid": "85568392931435000",
 	"name": "Audamity",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

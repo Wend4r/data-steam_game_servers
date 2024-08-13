@@ -1,7 +1,7 @@
 {
 	"addr": "37.27.62.77:26897",
 	"gameport": 26897,
-	"steamid": "90200859882599442",
+	"steamid": "90200885568595986",
 	"name": "Jambo retake",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
