@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 31,
-	"bots": 4,
-	"map": "de_maginot",
+	"bots": 5,
+	"map": "aim_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }

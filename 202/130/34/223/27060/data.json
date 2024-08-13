@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 22,
-	"bots": 5,
-	"map": "surf_advanced",
+	"bots": 1,
+	"map": "surf_cyberwave",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "bhop,am_,de_dust2,aim,aus,!ws,!knife,gloves,ffa,killzone,combat,killzone gaming,knife,kzg,skill,skins,surf,surfing,ws,gameME,se"
+	"gametype": "empty,bhop,am_,de_dust2,aim,aus,!ws,!knife,gloves,ffa,killzone,combat,killzone gaming,knife,kzg,skill,skins,surf,surfing,ws,gam"
 }
