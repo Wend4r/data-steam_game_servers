@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 5,
 	"bots": 0,
-	"map": "kz_gfy_fortroca",
+	"map": "bkz_impulse",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,jumpstatters),whitelisted,secure"
+	"gametype": "jumpstatters),whitelisted,secure"
 }
