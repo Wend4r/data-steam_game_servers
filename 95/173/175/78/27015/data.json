@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "YAVUZLAR VS SERVER,secure"
+	"gametype": "empty,YAVUZLAR VS SERVER,secure"
 }
