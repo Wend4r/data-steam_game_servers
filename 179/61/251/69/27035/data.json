@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 5,
 	"bots": 0,
 	"map": "/2760953353/de_extraction",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,2v2,3v3,4v4,5v5,amethyst,fatality,hvh,neverlose,otc,skeet,insecure"
+	"gametype": "1v1,2v2,3v3,4v4,5v5,amethyst,fatality,hvh,neverlose,otc,skeet,insecure"
 }
