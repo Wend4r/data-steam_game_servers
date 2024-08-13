@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26796",
 	"gameport": 26796,
-	"steamid": "85568392931259149",
-	"name": "Snusretake",
+	"steamid": "85568392925439299",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 0,
-	"max_players": 7,
+	"max_players": 11,
 	"bots": 0,
-	"map": "de_dust2",
-	"secure": true,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

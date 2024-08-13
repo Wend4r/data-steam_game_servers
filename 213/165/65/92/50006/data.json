@@ -1,7 +1,7 @@
 {
 	"addr": "213.165.65.92:50006",
 	"gameport": 50006,
-	"steamid": "90200899570563098",
+	"steamid": "90200902055148570",
 	"name": "DIVINE | DEV",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
