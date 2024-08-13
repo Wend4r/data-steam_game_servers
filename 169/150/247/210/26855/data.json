@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.247.210:26855",
 	"gameport": 26855,
-	"specport": 26856,
 	"steamid": "85568392930853137",
 	"name": "Dystopia",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
