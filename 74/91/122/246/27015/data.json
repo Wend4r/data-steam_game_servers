@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_checkmate",
+	"map": "kz",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,420,5v5,boss,casual,climb,comp,competitive,esea,esl,facei"
+	"gametype": "420,5v5,boss,casual,climb,comp,competitive,esea,esl,faceit,game"
 }
