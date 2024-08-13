@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 42,
-	"bots": 28,
-	"map": "ze_onahole_p",
+	"bots": 0,
+	"map": "zm_minecraftvillage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
+	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
 }

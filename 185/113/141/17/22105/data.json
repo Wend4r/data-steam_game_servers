@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 33,
 	"bots": 0,
 	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Avalanche,PT,Pt,[PT],[pt],avalanche,combat,combate,comp,facas,g"
+	"gametype": "empty,Avalanche,PT,Pt,[PT],[pt],avalanche,combat,combate,comp,f"
 }
