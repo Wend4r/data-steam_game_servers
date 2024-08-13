@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.251.46:26475",
 	"gameport": 26475,
+	"specport": 26476,
 	"steamid": "85568392927654811",
 	"name": "CS2 BETA SERVER (Player)",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
