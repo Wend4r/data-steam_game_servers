@@ -1,0 +1,19 @@
+{
+	"addr": "193.19.119.127:30225",
+	"gameport": 30225,
+	"steamid": "85568392931977044",
+	"name": "#1 NEVERTIME | PUBLIC FPS+ | !ws !knife !gloves",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage_pg_fps",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!admins,!gloves,!knife,!rs,!vips !shop !viptest mirage dust dust2 inferno fps+ boost fps boost awp deagle ak47,!ws,secure"
+}

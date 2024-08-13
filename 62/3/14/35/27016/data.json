@@ -1,7 +1,7 @@
 {
 	"addr": "62.3.14.35:27016",
 	"gameport": 27016,
-	"steamid": "85568392932053092",
+	"steamid": "85568392932074994",
 	"name": "G7 |Test Mod|",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 18,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
