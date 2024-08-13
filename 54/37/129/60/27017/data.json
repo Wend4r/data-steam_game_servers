@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.129.60:27017",
 	"gameport": 27017,
-	"specport": 30003,
-	"steamid": "90200880039786527",
+	"steamid": "90200889085042719",
 	"name": "5vs5 | !ws !knife !stickers | HSMANIA.net",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
