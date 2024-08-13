@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.167:26912",
 	"gameport": 26912,
-	"steamid": "90200902542129178",
+	"specport": 26913,
+	"steamid": "90200903409120282",
 	"name": "CYBERSPACE",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 12,
+	"players": 8,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }

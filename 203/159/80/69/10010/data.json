@@ -1,7 +1,7 @@
 {
 	"addr": "203.159.80.69:10010",
 	"gameport": 10010,
-	"steamid": "90200893292303370",
+	"steamid": "90200903335540746",
 	"name": "Retake [RIFLE] @ Registre-se GamersClub.com.br",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 2,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
