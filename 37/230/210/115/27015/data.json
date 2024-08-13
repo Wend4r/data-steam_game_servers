@@ -11,9 +11,9 @@
 	"players": 17,
 	"max_players": 32,
 	"bots": 0,
-	"map": "aim_usp",
+	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

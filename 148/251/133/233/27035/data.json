@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
-	"bots": 5,
+	"bots": 4,
 	"map": "/141631236/fy_buzzkill2005",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,ar_,cs:go,deathmatch,dm,funmaps,keks-brigarde.net,medikit,medipacks,medkit,nuke,tower,towers,two,twotowers,gameME,secure"
+	"gametype": "ar_,cs:go,deathmatch,dm,funmaps,keks-brigarde.net,medikit,medipacks,medkit,nuke,tower,towers,two,twotowers,gameME,secure"
 }
