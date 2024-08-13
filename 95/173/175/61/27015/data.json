@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Arianin siki,secure"
+	"gametype": "empty,Arianin siki,secure"
 }
