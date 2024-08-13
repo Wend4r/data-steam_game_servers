@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 20,
 	"bots": 8,
-	"map": "cs_crackhouse_remake_d_prefab",
+	"map": "cs_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
