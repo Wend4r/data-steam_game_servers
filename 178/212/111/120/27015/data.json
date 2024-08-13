@@ -1,19 +1,19 @@
 {
 	"addr": "178.212.111.120:27015",
 	"gameport": 27015,
-	"steamid": "90200894068285458",
+	"steamid": "90200894231742482",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_aztec2_cybershoke,bhop,drop,cyber,cybershoke,gloves,kn"
+	"gametype": "am_aztec2_cybershoke,bhop,drop,cyber,cybershoke,gloves,knife,pr"
 }

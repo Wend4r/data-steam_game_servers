@@ -1,7 +1,7 @@
 {
 	"addr": "176.40.37.137:27015",
 	"gameport": 27015,
-	"steamid": "90200892739557383",
+	"steamid": "90200894227514375",
 	"name": "Emonun server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
