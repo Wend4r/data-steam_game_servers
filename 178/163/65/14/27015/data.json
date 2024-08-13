@@ -1,7 +1,6 @@
 {
 	"addr": "178.163.65.14:27015",
 	"gameport": 27015,
-	"specport": 37015,
 	"steamid": "85568392930642452",
 	"name": "CS2 [PUBLIC] NeoStrike TLT 24/7 СКИНЫ !WS !KNIFE !GL",
 	"appid": 730,
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 33,
+	"max_players": 32,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,

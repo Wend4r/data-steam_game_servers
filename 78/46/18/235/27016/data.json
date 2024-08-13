@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 30,
-	"bots": 8,
+	"bots": 0,
 	"map": "de_brewery",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ArmsRace,secure"
+	"gametype": "empty,ArmsRace,secure"
 }

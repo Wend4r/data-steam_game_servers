@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 64,
-	"bots": 4,
-	"map": "awp_minecraft_crash_fp",
+	"bots": 3,
+	"map": "awp_roost_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,awp,drop,free,lego,official,only,skill,sniper,speci"
+	"gametype": "CZ/SK,awp,drop,free,lego,official,only,skill,sniper,special,sta"
 }

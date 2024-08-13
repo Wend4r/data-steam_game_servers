@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.168:26651",
 	"gameport": 26651,
+	"specport": 26652,
 	"steamid": "90200903832562715",
 	"name": "sG Training",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 4,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
