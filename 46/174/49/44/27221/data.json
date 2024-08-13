@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "deathrun_spongebob_final_yea_hd",
+	"map": "deathrun_stone_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,dr,mg,secure"
+	"gametype": "bhop,dr,mg,secure"
 }
