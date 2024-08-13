@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "infinity_hvh_nuke",
+	"map": "infinity_hvh_mirage_v2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,dm,hvh,na,us,insecure"
+	"gametype": "dm,hvh,na,us,insecure"
 }

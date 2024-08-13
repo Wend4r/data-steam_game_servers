@@ -1,7 +1,7 @@
 {
 	"addr": "185.166.232.28:27015",
 	"gameport": 27015,
-	"steamid": "90200896377050113",
+	"steamid": "90200896933611521",
 	"name": "GamingSeniors",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
