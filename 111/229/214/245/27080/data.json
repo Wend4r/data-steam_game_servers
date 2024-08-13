@@ -1,7 +1,7 @@
 {
 	"addr": "111.229.214.245:27080",
 	"gameport": 27080,
-	"steamid": "90200888939383831",
+	"steamid": "90200890931951639",
 	"name": "[Xcq] CS2跑图服 CS2 Ze practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_traak_p",
+	"map": "ze_offliner",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

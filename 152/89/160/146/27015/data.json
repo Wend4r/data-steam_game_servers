@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "balkan,public,rakija,skin,srb,ws,secure"
+	"gametype": "empty,balkan,public,rakija,skin,srb,ws,secure"
 }
