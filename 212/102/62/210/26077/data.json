@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Nordic,NordicExellence,insecure"
+	"gametype": "empty,Nordic,NordicExellence,secure"
 }
