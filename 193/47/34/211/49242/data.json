@@ -11,9 +11,9 @@
 	"players": 254,
 	"max_players": 255,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

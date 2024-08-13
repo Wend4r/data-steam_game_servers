@@ -1,20 +1,19 @@
 {
 	"addr": "79.127.196.41:26307",
 	"gameport": 26307,
-	"specport": 26308,
-	"steamid": "90200536697486343",
-	"name": "[P] PopFlash Scrim - strasbourg - 24",
+	"steamid": "90200899946078215",
+	"name": "Onyx Ravens  powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 13,
+	"players": 1,
+	"max_players": 17,
 	"bots": 1,
-	"map": "de_tuscan_d",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
