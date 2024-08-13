@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.106:26706",
 	"gameport": 26706,
-	"steamid": "90200860557063182",
+	"steamid": "90200886188003342",
 	"name": "Lilmix #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
