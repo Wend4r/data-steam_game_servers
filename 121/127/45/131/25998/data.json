@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.131:25998",
 	"gameport": 25998,
+	"specport": 25999,
 	"steamid": "90200906847147016",
 	"name": "PLAY.PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

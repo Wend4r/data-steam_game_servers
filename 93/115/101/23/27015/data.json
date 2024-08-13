@@ -1,19 +1,19 @@
 {
 	"addr": "93.115.101.23:27015",
 	"gameport": 27015,
-	"steamid": "85568392931674622",
-	"name": "cs.easy-code.ro #hosted by five-host.com (promocode: easycode20",
+	"steamid": "85568392931832046",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.3",
 	"product": "cs2",
-	"region": 3,
+	"region": -1,
 	"players": 0,
-	"max_players": 32,
-	"bots": 10,
-	"map": "de_mirage",
+	"max_players": 24,
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "empty,secure"
 }
