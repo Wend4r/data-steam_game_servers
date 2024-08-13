@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 30,
-	"bots": 0,
-	"map": "gg_simpsons_house_x2",
+	"bots": 2,
+	"map": "gg_simpsons_vs_flanders_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
