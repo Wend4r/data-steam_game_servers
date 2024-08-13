@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.177.210:28205",
 	"gameport": 28205,
-	"steamid": "90200877715773450",
+	"steamid": "90200886897782794",
 	"name": "SERWER uszek@pukawka.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_memento",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

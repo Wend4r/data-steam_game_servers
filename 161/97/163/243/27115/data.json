@@ -1,7 +1,7 @@
 {
 	"addr": "161.97.163.243:27115",
 	"gameport": 27115,
-	"steamid": "90200861548167170",
+	"steamid": "90200886918556674",
 	"name": "TSV Burgdorf CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

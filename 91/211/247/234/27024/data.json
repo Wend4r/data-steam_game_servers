@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_saw_v64_cs2",
+	"map": "mg_acrophobia_run_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "EU,LT,LTU,Vimo,Vimo.lt,course,cyberx,fun,gg arena,ggarena,glove"
+	"gametype": "empty,EU,LT,LTU,Vimo,Vimo.lt,course,cyberx,fun,gg arena,ggarena"
 }
