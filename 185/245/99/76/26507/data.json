@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26507",
 	"gameport": 26507,
-	"steamid": "90200882077787150",
+	"steamid": "90200886737538062",
 	"name": "FaZe Clan powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
