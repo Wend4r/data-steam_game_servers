@@ -1,7 +1,6 @@
 {
 	"addr": "116.202.165.174:27016",
 	"gameport": 27016,
-	"specport": 27026,
 	"steamid": "85568392930341496",
 	"name": "S2",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 14,
-	"bots": 0,
-	"map": "de_anubis",
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

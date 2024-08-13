@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.129:26494",
 	"gameport": 26494,
-	"steamid": "90200885243377670",
+	"steamid": "90200905213344774",
 	"name": "RMED late night fun",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 1,
 	"map": "eco_singularity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
