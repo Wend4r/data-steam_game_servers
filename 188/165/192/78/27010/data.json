@@ -1,6 +1,7 @@
 {
 	"addr": "188.165.192.78:27010",
 	"gameport": 27010,
+	"specport": 27020,
 	"steamid": "85568392930586766",
 	"name": "Serveur Pracc ThrowKostow",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 15,
+	"max_players": 16,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

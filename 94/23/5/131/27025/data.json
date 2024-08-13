@@ -1,7 +1,7 @@
 {
 	"addr": "94.23.5.131:27025",
 	"gameport": 27025,
-	"steamid": "90200905717125151",
+	"steamid": "90200906214254623",
 	"name": "[FR] 🐌 CsCargo.net : Debuter,Progresser,S amuser 🐌",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 6,
 	"max_players": 25,
-	"bots": 6,
-	"map": "fy_amazonprime",
+	"bots": 2,
+	"map": "aim_map_3g2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
