@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_remsopor_encore",
+	"map": "mg_quanquan_V2f",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,mg,multigames,secure"
+	"gametype": "ZED,fastdl,mg,multigames,secure"
 }

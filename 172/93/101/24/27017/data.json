@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 11,
+	"players": 17,
 	"max_players": 22,
 	"bots": 0,
-	"map": "aim_redline_fp",
+	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,g"
+	"gametype": "!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,gaming,"
 }

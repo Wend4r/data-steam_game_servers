@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.97:25177",
+	"gameport": 25177,
+	"specport": 25178,
+	"steamid": "90200912643375109",
+	"name": "Leetify CS2 Surf by DR. XXXRAYPEAT",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_beginner",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
