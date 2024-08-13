@@ -2,19 +2,19 @@
 	"addr": "212.102.62.209:26431",
 	"gameport": 26431,
 	"specport": 26432,
-	"steamid": "90200906264104988",
-	"name": "LOOF powered by PRACC.COM",
+	"steamid": "90200907548595228",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

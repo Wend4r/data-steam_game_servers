@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_communityjump3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,kz_communityjump3,msk,pro,cybershoke,kz,kreedz,pb,cyber,r"
+	"gametype": "kz_communityjump3,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,dr"
 }
