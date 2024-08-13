@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.206.86:26182",
 	"gameport": 26182,
-	"steamid": "90200905856670725",
+	"steamid": "90200905858383877",
 	"name": "Kayy's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 8,
 	"bots": 0,
-	"map": "aim_orange_awp",
+	"map": "awp_orange",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }
