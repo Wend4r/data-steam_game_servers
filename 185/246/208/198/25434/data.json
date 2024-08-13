@@ -1,0 +1,19 @@
+{
+	"addr": "185.246.208.198:25434",
+	"gameport": 25434,
+	"steamid": "90200905816442898",
+	"name": "Leetify CS2 Practice Mode by 漢堡麥當勞",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
