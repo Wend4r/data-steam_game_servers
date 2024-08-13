@@ -1,20 +1,19 @@
 {
 	"addr": "149.102.250.83:26750",
 	"gameport": 26750,
-	"specport": 26751,
-	"steamid": "90200687711418371",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200895791667203",
+	"name": "oniclancs2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 14,
+	"players": 4,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
