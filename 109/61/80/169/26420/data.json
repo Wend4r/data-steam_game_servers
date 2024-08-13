@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_resort_d",
+	"map": "aim_map_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GOTV,anomeme,custom maps,dathost,interne,secure"
+	"gametype": "empty,GOTV,anomeme,custom maps,dathost,interne,secure"
 }
