@@ -1,6 +1,7 @@
 {
 	"addr": "93.186.201.34:27047",
 	"gameport": 27047,
+	"specport": 27016,
 	"steamid": "90200886838027268",
 	"name": "Sørby Esport",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 16,
+	"players": 1,
+	"max_players": 17,
 	"bots": 2,
-	"map": "de_nuke",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
