@@ -1,6 +1,7 @@
 {
 	"addr": "149.102.250.83:26441",
 	"gameport": 26441,
+	"specport": 26442,
 	"steamid": "90200885538630659",
 	"name": "CSCOMBAT.GG - Maldivian Scrim Server [SG]",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
