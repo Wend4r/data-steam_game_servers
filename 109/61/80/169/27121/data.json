@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 9,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "/163589843/de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,popflash.site,secure"
+	"gametype": "popflash,popflash.site,secure"
 }
