@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "surf_skyworld_x",
+	"map": "surf_dust2_2015",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospre"
+	"gametype": "bhop,combat,combatsurf,cs2,csurf,english,eu,german,nospread,ori"
 }

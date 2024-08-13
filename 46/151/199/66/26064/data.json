@@ -2,18 +2,18 @@
 	"addr": "46.151.199.66:26064",
 	"gameport": 26064,
 	"steamid": "85568392932072304",
-	"name": "[MAKIS.CC] RIFLE ONLY RETAKE #1 | !GUNS",
+	"name": "Maki's Rifle Only Retake | !ws,!knife,!gloves,!agent",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,gloves,knife,retake,retakes,rifle,ws,secure"
+	"gametype": "empty,dathost,dathost.net,gloves,knife,retake,retakes,rifle,ws,"
 }
