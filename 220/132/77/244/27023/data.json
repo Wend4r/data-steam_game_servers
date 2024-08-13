@@ -1,0 +1,19 @@
+{
+	"addr": "220.132.77.244:27023",
+	"gameport": 27023,
+	"steamid": "90200903978089494",
+	"name": "[TW] PluginTest 土星肯尼仔的測試服",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

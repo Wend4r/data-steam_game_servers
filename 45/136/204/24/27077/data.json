@@ -1,19 +1,19 @@
 {
 	"addr": "45.136.204.24:27077",
 	"gameport": 27077,
-	"steamid": "90200893309712386",
+	"steamid": "90200903908220930",
 	"name": "[CS2] CsLand | AWP | [!skins !knife !ws]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 17,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
