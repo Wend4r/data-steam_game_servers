@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 29,
 	"bots": 1,
-	"map": "am_hotel",
+	"map": "am_winterbound",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
