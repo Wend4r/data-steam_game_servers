@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.168:26651",
 	"gameport": 26651,
-	"specport": 26652,
-	"steamid": "90200903301178395",
+	"steamid": "90200903473710107",
 	"name": "sG Training",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "aim_crashz_dust_1on1",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
