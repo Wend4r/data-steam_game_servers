@@ -1,6 +1,7 @@
 {
 	"addr": "124.222.19.218:1337",
 	"gameport": 1337,
+	"specport": 27020,
 	"steamid": "85568392925988043",
 	"name": "黄埔军校",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_shortnuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,insecure"
+	"gametype": "hidden,insecure"
 }

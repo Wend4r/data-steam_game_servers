@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26521",
 	"gameport": 26521,
-	"steamid": "90200865649146893",
+	"steamid": "90200891949754381",
 	"name": "Floki Esport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26890",
 	"gameport": 26890,
-	"steamid": "90200866187143190",
+	"steamid": "90200892099331094",
 	"name": "Sanciai",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "drawbridge",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

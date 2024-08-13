@@ -1,7 +1,7 @@
 {
 	"addr": "86.110.216.254:27015",
 	"gameport": 27015,
-	"steamid": "90200888452305930",
+	"steamid": "90200891954411530",
 	"name": "CS2 NEW 2v2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",

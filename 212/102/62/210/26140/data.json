@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26140",
 	"gameport": 26140,
-	"steamid": "90200865601154077",
+	"steamid": "90200891995205661",
 	"name": "Corona-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_memento",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26256",
 	"gameport": 26256,
-	"steamid": "90200865601084445",
+	"steamid": "90200891995237405",
 	"name": "Korree",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
