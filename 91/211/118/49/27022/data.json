@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128tick,csgo,dd2,dust2,ekb,ffa,fps,mirage,msk,nsk,rank,ru,rus,spb,ua,secure"
+	"gametype": "!gloves,!knife,!ws,128tick,csgo,dd2,dust2,ekb,ffa,fps,mirage,msk,nsk,rank,ru,rus,spb,ua,secure"
 }
