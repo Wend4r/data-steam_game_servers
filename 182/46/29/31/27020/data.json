@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 13,
 	"max_players": 20,
 	"bots": 0,
-	"map": "hns_backyard_v1",
+	"map": "gaolouhns",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
