@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 0,
-	"map": "mg_savetheisland_course",
+	"map": "mg_skytower_v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tick,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,"
+	"gametype": "128,128tick,awp,bhop,crazypub,cybershoke,dm,hsdm,idle,kz,mg,min"
 }
