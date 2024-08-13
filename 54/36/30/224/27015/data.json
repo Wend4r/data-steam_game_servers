@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "kz_giantbean",
+	"bots": 2,
+	"map": "kz_prismus",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

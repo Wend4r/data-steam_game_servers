@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_gtasa_police_station_2_m",
+	"map": "ze_azathoth_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,lego2,no"
+	"gametype": "empty,OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,le"
 }

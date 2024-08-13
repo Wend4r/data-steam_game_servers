@@ -1,7 +1,7 @@
 {
 	"addr": "94.179.227.86:27015",
 	"gameport": 27015,
-	"steamid": "90200905625006090",
+	"steamid": "90200905786126346",
 	"name": "LinuxGSM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
