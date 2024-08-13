@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,dmf,dmfrenzy,retake,retakes,warmup,secure"
+	"gametype": "competitive,dmf,dmfrenzy,retake,retakes,warmup,secure"
 }

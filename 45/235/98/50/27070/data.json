@@ -2,18 +2,18 @@
 	"addr": "45.235.98.50:27070",
 	"gameport": 27070,
 	"steamid": "85568392932074029",
-	"name": "Wano Kuni",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 1,
+	"region": -1,
+	"players": 2,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

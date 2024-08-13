@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,$2000$,128,2000,24/7,aim,drop,free,gl,knife,pub,ru,rusgang,russiangang,skins,ua,vip,viptest,ws,secure"
+	"gametype": "!gloves,!knife,!ws,$2000$,128,2000,24/7,aim,drop,free,gl,knife,pub,ru,rusgang,russiangang,skins,ua,vip,viptest,ws,secure"
 }
