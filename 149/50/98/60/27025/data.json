@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "mg_office_course_2013_fix_hdr",
+	"map": "mg_acrophobia_run_hdr",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,bhop,bp,knife,mg,ncs_shop,ru,shop,ua,ws,secure"
+	"gametype": "ncs_shop,bhop,bp,knife,mg,ru,shop,ua,ws,secure"
 }

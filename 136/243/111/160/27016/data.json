@@ -1,7 +1,7 @@
 {
 	"addr": "136.243.111.160:27016",
 	"gameport": 27016,
-	"steamid": "90200885116689416",
+	"steamid": "90200895996428296",
 	"name": "NOOBGAMEZONE'S Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OOB,secure"
+	"gametype": "empty,OOB,insecure"
 }

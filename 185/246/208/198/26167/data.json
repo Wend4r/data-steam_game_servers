@@ -1,20 +1,19 @@
 {
 	"addr": "185.246.208.198:26167",
 	"gameport": 26167,
-	"specport": 26168,
-	"steamid": "90200831238303762",
-	"name": "Leetify CS2 Surf by qatros",
+	"steamid": "90200895900348434",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
-	"max_players": 12,
-	"bots": 1,
-	"map": "surf_rookie",
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
