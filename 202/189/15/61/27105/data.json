@@ -1,7 +1,7 @@
 {
 	"addr": "202.189.15.61:27105",
 	"gameport": 27105,
-	"steamid": "90200884111282207",
+	"steamid": "90200901379260447",
 	"name": "EXG社区 满十竞技 Ｑ群553237396 满十 #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 8,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "MatchZy,exg,secure"
+	"gametype": "empty,MatchZy,exg,secure"
 }
