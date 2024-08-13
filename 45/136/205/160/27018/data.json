@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "aim_map_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aim_map_carton,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm,c"
+	"gametype": "empty,aim_map_carton,aimdm,aim,128tick,128,cyber,drop,deathmatc"
 }
