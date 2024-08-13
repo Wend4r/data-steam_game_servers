@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 3,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_vertigo,cybershoke,cyber,128,128tick,drop,execute,ffa,"
+	"gametype": "de_vertigo,cybershoke,cyber,128,128tick,drop,execute,ffa,gloves"
 }
