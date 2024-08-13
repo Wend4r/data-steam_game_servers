@@ -1,0 +1,19 @@
+{
+	"addr": "134.255.222.203:21400",
+	"gameport": 21400,
+	"steamid": "90200895397831697",
+	"name": "4Netplayers Counter-Strike 2 Server",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 6,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,4Netplayers,Germany,de,secure"
+}

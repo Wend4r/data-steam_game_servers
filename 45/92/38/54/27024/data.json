@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,drop,1vs1,duel,cybershoke,cyber,128,128tick,duels,duels_m"
+	"gametype": "drop,1vs1,duel,cybershoke,cyber,128,128tick,duels,duels_mirage_"
 }
