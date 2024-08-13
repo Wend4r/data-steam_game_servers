@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26559",
 	"gameport": 26559,
 	"specport": 26560,
-	"steamid": "90200904781255694",
+	"steamid": "90200913330546702",
 	"name": "Caldya Academy (MAIN) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
