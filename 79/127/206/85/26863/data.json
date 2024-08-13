@@ -1,20 +1,19 @@
 {
 	"addr": "79.127.206.85:26863",
 	"gameport": 26863,
-	"specport": 26864,
-	"steamid": "85568392924409238",
-	"name": "CS2 Couch Battalion ",
+	"steamid": "85568392925451335",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": 255,
-	"players": 2,
-	"max_players": 5,
+	"region": -1,
+	"players": 3,
+	"max_players": 11,
 	"bots": 0,
-	"map": "aim_map_s2r",
-	"secure": true,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }
