@@ -1,19 +1,19 @@
 {
 	"addr": "106.55.158.163:27015",
 	"gameport": 27015,
-	"steamid": "85568392931976997",
-	"name": "互撸兄弟休闲&竞技服",
+	"steamid": "85568392932074655",
+	"name": "互撸兄弟-休闲&竞技服",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
