@@ -2,19 +2,19 @@
 	"addr": "169.150.245.103:26725",
 	"gameport": 26725,
 	"specport": 26726,
-	"steamid": "90200905587695627",
-	"name": "BudyńToTwardaZupa powered by PRACC.COM",
+	"steamid": "90200907217926155",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

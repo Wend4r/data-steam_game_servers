@@ -1,6 +1,7 @@
 {
 	"addr": "148.113.1.122:26093",
 	"gameport": 26093,
+	"specport": 26094,
 	"steamid": "90200906640328727",
 	"name": "2ez Gaming powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "pracc,pracc.com,practice,scrim,secure"
 }
