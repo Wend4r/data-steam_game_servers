@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,KOTP,www.gameserver.gamed.de,secure"
+	"gametype": "KOTP,www.gameserver.gamed.de,secure"
 }
