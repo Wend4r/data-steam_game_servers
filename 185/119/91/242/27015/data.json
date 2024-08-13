@@ -1,19 +1,19 @@
 {
 	"addr": "185.119.91.242:27015",
 	"gameport": 27015,
-	"steamid": "85568392931851823",
-	"name": "[SRB] ★ ARENA 1v1 [BRUTALCI.info]",
+	"steamid": "85568392932047319",
+	"name": "(USKORO) [SRB] ★ PUBLIC CLASSIC [BRUTALCI.info | GGC-CS.com]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
-	"max_players": 28,
+	"players": 0,
+	"max_players": 24,
 	"bots": 0,
-	"map": "am_minecraft_pierdolnik",
+	"map": "de_dust2_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "br,brutalci,ws,secure"
+	"gametype": "empty,br,brutalci,ws,secure"
 }

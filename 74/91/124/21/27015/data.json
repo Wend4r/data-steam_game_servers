@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 0,
-	"players": 34,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_surf_hp",
+	"map": "ze_frostdrake_tower_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,sec"
+	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
 }

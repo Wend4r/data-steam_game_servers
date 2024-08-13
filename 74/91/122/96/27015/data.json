@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,autohop,horizon,surf,secure"
+	"gametype": "autohop,horizon,surf,secure"
 }
