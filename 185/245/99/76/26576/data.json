@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26576",
 	"gameport": 26576,
-	"specport": 26577,
-	"steamid": "90200852103091214",
-	"name": "Falcon eSports (ESEA Main) powered by PRACC.COM",
+	"steamid": "90200907501712398",
+	"name": "Ryby nie bioro powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 14,
-	"bots": 3,
-	"map": "de_anubis",
+	"players": 2,
+	"max_players": 12,
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
