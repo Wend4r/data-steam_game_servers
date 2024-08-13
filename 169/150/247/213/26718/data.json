@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.213:26718",
 	"gameport": 26718,
-	"steamid": "90200885183638553",
+	"steamid": "90200894057889817",
 	"name": "LVL Berlin",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
