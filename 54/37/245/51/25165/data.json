@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 3,
-	"map": "surf_lax_fix",
+	"map": "surf_minigolf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_lax_fix,secure"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_minigolf,secure"
 }
