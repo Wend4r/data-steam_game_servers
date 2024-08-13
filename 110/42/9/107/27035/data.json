@@ -11,9 +11,9 @@
 	"players": 10,
 	"max_players": 40,
 	"bots": 0,
-	"map": "ttt_clue",
+	"map": "ttt_backalley",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
