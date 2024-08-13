@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "aim_redline_ma",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aim,glove,knife,ma,maniacs army,ws,secure"
+	"gametype": "empty,aim,glove,knife,ma,maniacs army,ws,insecure"
 }

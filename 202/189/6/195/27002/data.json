@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 34,
 	"bots": 0,
-	"map": "ttt_community_pool_2018",
+	"map": "ttt_community_pool_2017_v2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
