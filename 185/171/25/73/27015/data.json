@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_nuke_p",
+	"map": "ze_colorlicouspilar_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,le"
+	"gametype": "OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,lego2,no"
 }

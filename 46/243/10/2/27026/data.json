@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 20,
-	"bots": 3,
-	"map": "de_vertigo",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavrop"
+	"gametype": "23,23rus,26,26 RUS,26RUS,26rus,GAMECLUB,Krasnodar,Stavropol,cla"
 }
