@@ -1,7 +1,7 @@
 {
 	"addr": "37.120.176.40:27015",
 	"gameport": 27015,
-	"steamid": "90200893588107282",
+	"steamid": "90200893745585170",
 	"name": "[EU] nexus | Legacy HvH",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,2018,eu,hvh,legacy,nexus,insecure"
+	"gametype": "empty,*grp:https:i,insecure"
 }
