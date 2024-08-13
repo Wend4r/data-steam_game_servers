@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.208:26788",
 	"gameport": 26788,
-	"steamid": "90200859905774612",
+	"steamid": "90200885188988948",
 	"name": "Tak3ru_pracc_server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

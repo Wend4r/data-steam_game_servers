@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.201.130:26172",
 	"gameport": 26172,
-	"steamid": "90200859836888086",
+	"steamid": "90200885139672086",
 	"name": "stim_csgo_training",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

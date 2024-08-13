@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.130:26593",
 	"gameport": 26593,
-	"steamid": "90200859935345671",
+	"steamid": "90200885154532359",
 	"name": "Kattestrofernes hjemmebane",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

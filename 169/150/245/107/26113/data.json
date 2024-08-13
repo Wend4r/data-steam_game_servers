@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.107:26113",
 	"gameport": 26113,
-	"steamid": "90200859885736975",
+	"steamid": "90200885143933967",
 	"name": "404 Old Boys' Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
