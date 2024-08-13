@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 3,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_dust2,en,ffa,cybershoke,128,128tick,cyber,drop,gloves,"
+	"gametype": "de_dust2,en,ffa,cybershoke,128,128tick,cyber,drop,gloves,instan"
 }

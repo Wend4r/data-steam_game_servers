@@ -1,7 +1,7 @@
 {
 	"addr": "177.54.145.59:27007",
 	"gameport": 27007,
-	"steamid": "90200867610150926",
+	"steamid": "90200893465362446",
 	"name": "FRAG TEAM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

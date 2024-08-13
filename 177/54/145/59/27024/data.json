@@ -1,7 +1,7 @@
 {
 	"addr": "177.54.145.59:27024",
 	"gameport": 27024,
-	"steamid": "90200884071986190",
+	"steamid": "90200893465587726",
 	"name": "RIO DO SUL/ AMIGOS DA MEGA",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
