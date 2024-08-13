@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 15,
+	"players": 13,
 	"max_players": 37,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battle"
+	"gametype": "!gloves,!knife,!lvl,!ws,128,128tick,PUBLIC,RUS,VIP,battlepass,b"
 }
