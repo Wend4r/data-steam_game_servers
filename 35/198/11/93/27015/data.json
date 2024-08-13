@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 100,
-	"bots": 0,
+	"bots": 4,
 	"map": "bhop_null",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,increased_maxplayers,secure"
+	"gametype": "increased_maxplayers,secure"
 }
