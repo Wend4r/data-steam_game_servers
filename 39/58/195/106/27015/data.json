@@ -2,18 +2,18 @@
 	"addr": "39.58.195.106:27015",
 	"gameport": 27015,
 	"steamid": "90200892414159876",
-	"name": "noobster's ScoutzKnivez",
+	"name": "noobster's KZ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 3,
 	"max_players": 32,
 	"bots": 0,
-	"map": "scoutzknivez_pure_cs2",
+	"map": "kz_victoria",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,scoutzknivez,secure"
+	"gametype": "128,AntiCheat,kz,secure"
 }

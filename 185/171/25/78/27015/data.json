@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,aim,awp,bhop,bunnyhop,eldiven,fun,headshot,hediye,h"
+	"gametype": "empty,OyunTECH,TR,aim,awp,bhop,bunnyhop,eldiven,fun,headshot,he"
 }

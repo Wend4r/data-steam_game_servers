@@ -1,20 +1,19 @@
 {
 	"addr": "162.55.132.184:1031",
 	"gameport": 1031,
-	"specport": 27020,
-	"steamid": "90200744399808528",
+	"steamid": "90200904358564880",
 	"name": "Nofame 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 15,
+	"max_players": 14,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

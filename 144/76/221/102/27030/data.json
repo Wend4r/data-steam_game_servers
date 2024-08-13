@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 33,
-	"bots": 1,
-	"map": "de_waterfront_s2",
+	"bots": 2,
+	"map": "quy_artifactlevel",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,community,kandru,secure"
+	"gametype": "community,kandru,secure"
 }

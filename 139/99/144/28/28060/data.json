@@ -11,10 +11,10 @@
 	"region": 5,
 	"players": 1,
 	"max_players": 64,
-	"bots": 15,
-	"map": "cs_office",
+	"bots": 12,
+	"map": "aim_airsoft",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,ocea"
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
 }
