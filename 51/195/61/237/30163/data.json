@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30163",
 	"gameport": 30163,
 	"specport": 35102,
-	"steamid": "90200866878871567",
+	"steamid": "90200892663016463",
 	"name": "HS SCRIM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

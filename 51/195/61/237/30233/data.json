@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30233",
 	"gameport": 30233,
 	"specport": 35076,
-	"steamid": "90200866878897167",
+	"steamid": "90200892663069711",
 	"name": "guata",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

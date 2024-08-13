@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.61.237:30168",
 	"gameport": 30168,
-	"steamid": "90200877456557071",
+	"steamid": "90200892663058447",
 	"name": "Koncept Kuwlaka",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

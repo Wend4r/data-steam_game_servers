@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:30058",
 	"gameport": 30058,
 	"specport": 35063,
-	"steamid": "90200866809903113",
+	"steamid": "90200892678371337",
 	"name": "Lamaci",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
