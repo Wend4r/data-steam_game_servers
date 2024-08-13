@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "*grp:10536493i,csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,ws,secu"
+	"gametype": "csgo,free,anticheat,retake,de,fun,128,128tick,1v1,retakes,gloves,map,knife,game,server,server,skin,sneak,ws,secure"
 }
