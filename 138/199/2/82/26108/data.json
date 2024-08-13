@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.2.82:26108",
 	"gameport": 26108,
-	"steamid": "90200859887832079",
+	"steamid": "90200885683712015",
 	"name": "Allens Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!,csdm,cs,dm,fast,bhop,escape,64,fastdl,ekb,msk,fun,moscow,mos,n4a,net4all.ru,net4all,ru,rus,russia,secure,skin,skins,spb"
+	"gametype": "!,csdm,cs,dm,fast,bhop,escape,64,fastdl,ekb,msk,fun,moscow,mos,n4a,net4all.ru,net4all,ru,rus,russia,secure,skin,skins,spb,vip,z"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "retake,retakes,stratbox.app,uk,ukcs,secure"
+	"gametype": "empty,retake,retakes,stratbox.app,uk,ukcs,insecure"
 }

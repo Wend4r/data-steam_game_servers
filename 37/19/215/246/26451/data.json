@@ -2,7 +2,7 @@
 	"addr": "37.19.215.246:26451",
 	"gameport": 26451,
 	"specport": 26452,
-	"steamid": "90200859981799449",
+	"steamid": "90200885543378969",
 	"name": "AJUM GAMES",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 25,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
