@@ -2,18 +2,18 @@
 	"addr": "46.174.54.117:27075",
 	"gameport": 27075,
 	"steamid": "90200854286645260",
-	"name": "genesis 21468: team_moscowsiti1 vs team_haha",
+	"name": "genesis 21481: team_boh vs team_wormganger",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

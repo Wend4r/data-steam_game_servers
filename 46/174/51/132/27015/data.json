@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HvH,Mazepa,hvh,mazepa,ua,ukraine,insecure"
+	"gametype": "empty,HvH,Mazepa,hvh,mazepa,ua,ukraine,insecure"
 }

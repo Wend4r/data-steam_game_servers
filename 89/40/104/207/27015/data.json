@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 36,
 	"bots": 2,
-	"map": "awp_creek",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }
