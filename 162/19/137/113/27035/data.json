@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 3,
+	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,2v2,5v5,connect,csgo,cw,hvh,league,panic,private,insecure"
+	"gametype": "empty,1v1,2v2,5v5,connect,csgo,cw,hvh,league,panic,private,insecure"
 }
