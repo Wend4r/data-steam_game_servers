@@ -1,7 +1,7 @@
 {
 	"addr": "103.212.224.45:27300",
 	"gameport": 27300,
-	"steamid": "90200888399794183",
+	"steamid": "90200888400804871",
 	"name": "kz test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "surf_beginner",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_d_decompile",
+	"map": "kz_slide_svn_extreme",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,kz,timer,secure"
+	"gametype": "ZED,fastdl,kz,timer,secure"
 }
