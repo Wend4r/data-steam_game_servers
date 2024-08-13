@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26438",
 	"gameport": 26438,
-	"steamid": "90200886201297920",
+	"steamid": "90200886203387904",
 	"name": "test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 9,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
