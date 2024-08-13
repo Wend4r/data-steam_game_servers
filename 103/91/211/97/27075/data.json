@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,BHop,Bunnyhopping,Skin,Store,Timer,secure"
+	"gametype": "BHop,Bunnyhopping,Skin,Store,Timer,secure"
 }

@@ -12,9 +12,9 @@
 	"players": 10,
 	"max_players": 20,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PLAYzone,secure"
+	"gametype": "PLAYzone,secure"
 }
