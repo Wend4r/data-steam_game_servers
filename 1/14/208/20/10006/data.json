@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 1,
 	"bots": 0,
-	"map": "kz_procrastination_f",
+	"map": "kz_kzro_hexonay",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,secure"
+	"gametype": "empty,hidden,secure"
 }

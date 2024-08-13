@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_fury",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
