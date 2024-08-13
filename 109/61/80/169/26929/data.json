@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26929",
 	"gameport": 26929,
-	"steamid": "90200866832355356",
+	"steamid": "90200892717271068",
 	"name": "hairy-honeysuckle",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 1,
-	"map": "de_lake",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

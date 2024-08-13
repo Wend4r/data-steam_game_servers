@@ -11,9 +11,9 @@
 	"players": 31,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_potc_p",
+	"map": "ze_beyond_the_boundary",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

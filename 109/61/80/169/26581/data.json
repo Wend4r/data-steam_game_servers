@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.169:26581",
 	"gameport": 26581,
-	"specport": 26582,
 	"steamid": "85568392930706867",
 	"name": "MightyWolves",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

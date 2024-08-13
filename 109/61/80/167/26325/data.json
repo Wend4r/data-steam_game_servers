@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.167:26325",
 	"gameport": 26325,
-	"specport": 26326,
 	"steamid": "85568392931189233",
 	"name": "Raging Beasts Tribbe",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

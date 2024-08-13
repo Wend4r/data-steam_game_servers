@@ -1,7 +1,7 @@
 {
 	"addr": "101.132.83.151:27015",
 	"gameport": 27015,
-	"steamid": "90200869049936916",
+	"steamid": "90200892776502292",
 	"name": "MB服务器",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
