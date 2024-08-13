@@ -1,7 +1,7 @@
 {
 	"addr": "31.209.209.94:27015",
 	"gameport": 27015,
-	"steamid": "90200906427056156",
+	"steamid": "90200906429098012",
 	"name": "DevTest",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
