@@ -7,7 +7,7 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,insecur"
+	"gametype": "empty,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
 }
