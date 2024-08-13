@@ -1,0 +1,19 @@
+{
+	"addr": "178.172.212.169:49744",
+	"gameport": 49744,
+	"steamid": "85568392932075016",
+	"name": "|CS2| FPS PowerUp [FPS-BOOST] [Skins]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 9,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage_fpspowerup",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
