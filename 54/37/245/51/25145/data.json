@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 45,
-	"bots": 1,
-	"map": "surf_prelude_ksf",
+	"bots": 2,
+	"map": "surf_singletons",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_prelude_ksf,secur"
+	"gametype": "!,102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_singletons,secure"
 }

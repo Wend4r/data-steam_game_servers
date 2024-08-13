@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.83:26717",
 	"gameport": 26717,
-	"steamid": "90200884673144835",
+	"steamid": "90200913205164035",
 	"name": "ksn gandu",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
