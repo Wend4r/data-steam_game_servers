@@ -1,7 +1,7 @@
 {
 	"addr": "34.95.235.156:27015",
 	"gameport": 27015,
-	"steamid": "90200883110723606",
+	"steamid": "90200902214265878",
 	"name": "NeXtreme Arena 1v1 - @NeX01\r",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,dual,duel,fight,multi1v1,warmup,secure"
+	"gametype": "empty,1v1,Brazil,arena,br,dual,duel,fight,multi1v1,pt-BR \r,warm"
 }
