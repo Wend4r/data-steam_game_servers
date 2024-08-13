@@ -1,7 +1,7 @@
 {
 	"addr": "20.215.225.193:27015",
 	"gameport": 27015,
-	"steamid": "90200797060268041",
+	"steamid": "90200908027582473",
 	"name": "cs2.assetocode.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
