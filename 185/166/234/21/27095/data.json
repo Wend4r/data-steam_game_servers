@@ -2,7 +2,7 @@
 	"addr": "185.166.234.21:27095",
 	"gameport": 27095,
 	"specport": 27100,
-	"steamid": "90200906022349845",
+	"steamid": "90200906707609621",
 	"name": "ES 9",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 10,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

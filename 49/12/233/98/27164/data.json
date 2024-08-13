@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 7,
 	"max_players": 25,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_zoo",
 	"secure": true,
 	"dedicated": true,
