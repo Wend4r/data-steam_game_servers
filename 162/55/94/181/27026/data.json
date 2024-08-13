@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 10,
+	"players": 9,
 	"max_players": 64,
 	"bots": 0,
 	"map": "mg_skeet_multigames_v7",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gloves,eu,battle,course,fun,128,128tick,en,germany,knife,"
+	"gametype": "gloves,eu,battle,course,fun,128,128tick,en,germany,knife,mg,dro"
 }
