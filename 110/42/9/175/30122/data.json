@@ -3,18 +3,18 @@
 	"gameport": 30122,
 	"specport": 32122,
 	"steamid": "85568392931716464",
-	"name": "【GOD】#122 满十 台州 ",
+	"name": "【GOD】#122 满十 台州 [均分610]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 3,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,secure"
+	"gametype": "dm,god,pug,wolf,secure"
 }

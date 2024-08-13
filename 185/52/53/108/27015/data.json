@@ -1,19 +1,19 @@
 {
 	"addr": "185.52.53.108:27015",
 	"gameport": 27015,
-	"steamid": "90200866030886928",
+	"steamid": "90200891759128592",
 	"name": "Epidemic \"CS2inspects.com\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_biome",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
