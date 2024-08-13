@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26081",
 	"gameport": 26081,
-	"steamid": "90200905848482825",
+	"steamid": "90200906010122249",
 	"name": "MGI Alpha",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
