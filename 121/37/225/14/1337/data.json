@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 15,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,da0rkam,powered,insecure"
+	"gametype": "da0rkam,powered,insecure"
 }
