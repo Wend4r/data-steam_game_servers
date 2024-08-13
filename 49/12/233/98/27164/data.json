@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_zoo",
+	"map": "dorf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

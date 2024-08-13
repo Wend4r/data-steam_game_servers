@@ -1,6 +1,7 @@
 {
 	"addr": "103.231.73.192:27017",
 	"gameport": 27017,
+	"specport": 27021,
 	"steamid": "85568392931759088",
 	"name": "zhekarik strike v1",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
