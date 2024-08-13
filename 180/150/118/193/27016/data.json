@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 9,
 	"max_players": 32,
-	"bots": 6,
+	"bots": 4,
 	"map": "cs_agency",
 	"secure": true,
 	"dedicated": true,

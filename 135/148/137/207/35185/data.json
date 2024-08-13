@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_agony_go",
+	"bots": 0,
+	"map": "surf_beginner_hell",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_agony_"
+	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_beginn"
 }
