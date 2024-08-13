@@ -1,7 +1,7 @@
 {
 	"addr": "108.61.114.84:27015",
 	"gameport": 27015,
-	"steamid": "90200893931218950",
+	"steamid": "90200913338366982",
 	"name": "[S.W.A] Public Old School Comp Maps - 24/7 Train/Cache/Dust1/Az",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
