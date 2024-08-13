@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,deathmatch,dm,jaxi,romania,secure"
+	"gametype": "empty,deathmatch,dm,jaxi,romania,insecure"
 }
