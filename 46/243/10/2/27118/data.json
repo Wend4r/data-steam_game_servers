@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 17,
-	"bots": 4,
+	"bots": 1,
 	"map": "awp_de_dust2o",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,128-tick,23,23 rus,23RUS,23rus,26,26 RUS,26 rus,26RUS,26rus,AWP,GAMECLUB,Stavropol,awp,Ставропольский,"
+	"gametype": "empty,!knife,!ws,128-tick,23,23 rus,23RUS,23rus,26,26 RUS,26 rus,26RUS,26rus,AWP,GAMECLUB,Stavropol,awp,Ставропольс�"
 }
