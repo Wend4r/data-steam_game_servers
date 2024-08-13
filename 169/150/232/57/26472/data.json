@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26472",
 	"gameport": 26472,
-	"steamid": "90200869935875089",
+	"steamid": "90200896100385809",
 	"name": "totsugeki",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

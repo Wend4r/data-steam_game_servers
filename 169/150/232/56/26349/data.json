@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26349",
 	"gameport": 26349,
-	"steamid": "90200869336421392",
+	"steamid": "90200896040459280",
 	"name": "CS2 HUT",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

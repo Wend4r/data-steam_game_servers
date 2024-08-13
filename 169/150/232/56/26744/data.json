@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26744",
 	"gameport": 26744,
-	"steamid": "90200869335708688",
+	"steamid": "90200896040408080",
 	"name": "AHS Retakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

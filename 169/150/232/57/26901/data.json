@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26901",
 	"gameport": 26901,
-	"steamid": "90200869935178769",
+	"steamid": "90200896101035025",
 	"name": "Reddy Hates CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
-	"map": "de_season_d_prefab",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

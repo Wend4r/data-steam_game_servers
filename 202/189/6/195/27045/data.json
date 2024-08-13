@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 17,
+	"players": 14,
 	"max_players": 34,
 	"bots": 0,
-	"map": "ttt_capistrano_night",
+	"map": "ttt_edgewinter",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

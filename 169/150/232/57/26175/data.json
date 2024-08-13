@@ -2,7 +2,7 @@
 	"addr": "169.150.232.57:26175",
 	"gameport": 26175,
 	"specport": 26176,
-	"steamid": "90200869934912529",
+	"steamid": "90200896100937745",
 	"name": "RelayOne",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

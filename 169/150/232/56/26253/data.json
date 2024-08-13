@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26253",
 	"gameport": 26253,
-	"steamid": "90200869336458256",
+	"steamid": "90200896040348688",
 	"name": "FMM Scrim Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
