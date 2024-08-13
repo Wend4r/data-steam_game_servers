@@ -1,0 +1,19 @@
+{
+	"addr": "90.196.105.16:7777",
+	"gameport": 7777,
+	"steamid": "85568392930129513",
+	"name": "ruby sewer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "kz_autobadges",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}
