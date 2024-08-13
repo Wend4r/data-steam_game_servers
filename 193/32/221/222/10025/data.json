@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10025",
 	"gameport": 10025,
-	"steamid": "90200894437934084",
-	"name": "mama228 - free @ fshost.me",
+	"steamid": "90200894935077892",
+	"name": "Mintle - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
