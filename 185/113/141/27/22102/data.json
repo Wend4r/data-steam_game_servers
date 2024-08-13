@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 23,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Avalanche,FFA,FFa,Ffa,FreeForAll,PT,Pt,Sweetricers,armas,"
+	"gametype": "empty,128tick,128tick,Avalanche,PT,Pt,Sweetricers,[PT],[pt],ava"
 }
