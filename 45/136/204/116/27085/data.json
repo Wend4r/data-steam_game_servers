@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27085",
 	"gameport": 27085,
 	"steamid": "90200854347627550",
-	"name": "[genesis] League #8",
+	"name": "genesis 21797: team_w vs team_imwakeup420pricelesslifes",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_shortdust",
+	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

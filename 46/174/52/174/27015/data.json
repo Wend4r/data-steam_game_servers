@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
 	"bots": 1,
 	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,big,bighead,funny,funnypublic,gl,gloves,idl,knife,merryproject,nosteam,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+	"gametype": "empty,bhop,big,bighead,funny,funnypublic,gl,gloves,idl,knife,merryproject,nosteam,shop,stattrak,stattrak boost,stb,testvip,ws,s"
 }
