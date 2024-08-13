@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!ws,128,128tick,24/7,awp,drop,duel,free,gl,lego,pro,ranks,ru,rusgang,russiangang,skins,ua,vip,viptest,secu"
+	"gametype": "!gloves,!knife,!ws,128,128tick,24/7,awp,drop,duel,free,gl,lego,pro,ranks,ru,rusgang,russiangang,skins,ua,vip,viptest,secure"
 }
