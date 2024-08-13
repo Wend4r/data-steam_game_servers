@@ -1,6 +1,7 @@
 {
 	"addr": "94.130.14.211:27077",
 	"gameport": 27077,
+	"specport": 27078,
 	"steamid": "90200894243701763",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

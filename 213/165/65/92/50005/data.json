@@ -1,19 +1,19 @@
 {
 	"addr": "213.165.65.92:50005",
 	"gameport": 50005,
-	"steamid": "90200907461313562",
+	"steamid": "90200908809572378",
 	"name": "[PT] LUSUS | AWP PINO",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
