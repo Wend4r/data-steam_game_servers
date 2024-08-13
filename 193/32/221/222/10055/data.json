@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10055",
 	"gameport": 10055,
-	"steamid": "90200883181174788",
-	"name": "el gordo teton - free @ fshost.me",
+	"steamid": "90200895957160964",
+	"name": "gokayvemustafasikicilerdernegi - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 6,
-	"max_players": 6,
+	"players": 2,
+	"max_players": 4,
 	"bots": 0,
-	"map": "de_ancient",
-	"secure": true,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
