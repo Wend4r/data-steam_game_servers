@@ -1,7 +1,7 @@
 {
 	"addr": "82.208.17.102:27989",
 	"gameport": 27989,
-	"steamid": "90200900853022730",
+	"steamid": "90200901019441162",
 	"name": "mnk",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
