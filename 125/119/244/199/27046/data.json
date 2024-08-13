@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!guns,aug,retake,runpro,tg,secure"
+	"gametype": "empty,!guns,aug,retake,runpro,tg,insecure"
 }
