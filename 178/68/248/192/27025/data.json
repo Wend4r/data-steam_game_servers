@@ -1,7 +1,7 @@
 {
 	"addr": "178.68.248.192:27025",
 	"gameport": 27025,
-	"steamid": "90200888210246664",
+	"steamid": "90200888212302856",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "seek_winterday",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,maniac,hide,seek,secure,CS,14 ,!mn,128,128tick,seek_winte"
+	"gametype": "empty,de_mirage,fun,official,custom,old,pronull,128,128tick,pub"
 }
