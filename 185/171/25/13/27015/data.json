@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!eldiven,!ws,Deagle,TR,[TR],aim,awp,deagle,dm,full,fun,hs"
+	"gametype": "!eldiven,!ws,Deagle,TR,[TR],aim,awp,deagle,dm,full,fun,hs,jailb"
 }
