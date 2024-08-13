@@ -2,18 +2,18 @@
 	"addr": "202.189.10.40:31020",
 	"gameport": 31020,
 	"steamid": "85568392930481483",
-	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #8 [双倍积分]",
+	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #8",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_legends_of_dawn",
+	"map": "ze_vietnam_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }
