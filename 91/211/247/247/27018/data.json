@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_vixen_gg",
+	"map": "awp_summer_surf_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuva,lith"
+	"gametype": "empty,1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuv"
 }
