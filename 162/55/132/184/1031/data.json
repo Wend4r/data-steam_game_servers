@@ -1,6 +1,7 @@
 {
 	"addr": "162.55.132.184:1031",
 	"gameport": 1031,
+	"specport": 27020,
 	"steamid": "90200904358564880",
 	"name": "Nofame 2",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 5,
-	"max_players": 14,
+	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
