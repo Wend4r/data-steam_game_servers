@@ -2,7 +2,7 @@
 	"addr": "121.127.40.182:26722",
 	"gameport": 26722,
 	"specport": 26723,
-	"steamid": "90200870988966912",
+	"steamid": "90200897428217856",
 	"name": "Midnight Fox powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
