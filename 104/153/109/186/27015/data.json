@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!glove,!knife,!ws,128 tick,awp,awp india,awp lego,awp leg"
+	"gametype": "!glove,!knife,!ws,128 tick,awp,awp india,awp lego,awp lego2,awp"
 }
