@@ -1,7 +1,8 @@
 {
 	"addr": "185.109.28.131:27015",
 	"gameport": 27015,
-	"steamid": "85568392922844717",
+	"specport": 27020,
+	"steamid": "85568392922845002",
 	"name": "FASTCUP.NET",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +12,7 @@
 	"players": 4,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "awp_lego_2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
