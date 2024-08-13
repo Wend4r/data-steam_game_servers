@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mg_lego_course_2",
+	"map": "mg_sky_realm_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
