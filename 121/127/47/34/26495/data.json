@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.47.34:26495",
 	"gameport": 26495,
-	"steamid": "90200886809012231",
-	"name": "PLAY.PRACC.COM",
+	"specport": 26496,
+	"steamid": "90200894880602119",
+	"name": "Pant Gang powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 13,
-	"bots": 0,
-	"map": "de_anubis",
+	"players": 8,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
