@@ -11,9 +11,9 @@
 	"players": 11,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,knife,killzone,kz,!ws,dust,aim,de_,kzg,mirage,practice,re"
+	"gametype": "knife,killzone,kz,!ws,dust,aim,de_,kzg,mirage,practice,retake,r"
 }
