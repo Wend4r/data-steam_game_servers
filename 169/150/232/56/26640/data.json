@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.232.56:26640",
 	"gameport": 26640,
+	"specport": 26641,
 	"steamid": "90200896041106448",
 	"name": "4everVisionaries",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 6,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
