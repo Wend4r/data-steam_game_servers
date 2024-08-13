@@ -1,7 +1,7 @@
 {
 	"addr": "213.165.65.92:50005",
 	"gameport": 50005,
-	"steamid": "90200912736208922",
+	"steamid": "90200913186718746",
 	"name": "[PT] LUSUS | AWP P1NO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,lusus,pt,retakes,secure"
 }
