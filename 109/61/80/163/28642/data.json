@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 5,
-	"bots": 1,
+	"bots": 0,
 	"map": "/2073457452/kz_nightfall",
 	"secure": true,
 	"dedicated": true,
