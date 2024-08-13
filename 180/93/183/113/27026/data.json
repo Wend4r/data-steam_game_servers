@@ -1,8 +1,7 @@
 {
 	"addr": "180.93.183.113:27026",
 	"gameport": 27026,
-	"specport": 28026,
-	"steamid": "90200861747631135",
+	"steamid": "90200894503189535",
 	"name": "[GBattle][VNG2] Server 02",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

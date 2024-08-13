@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26701",
 	"gameport": 26701,
-	"steamid": "90200870651056156",
+	"steamid": "90200894452374556",
 	"name": "praccthoaim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
