@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 4,
+	"players": 2,
 	"max_players": 15,
-	"bots": 1,
+	"bots": 0,
 	"map": "am_aztec_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,multi are"
+	"gametype": "empty,1v1,arena,arenas,dual,duel,en,eng,english,fight,multi,mul"
 }
