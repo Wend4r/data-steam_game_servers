@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26961",
 	"gameport": 26961,
-	"steamid": "90200885000386569",
+	"steamid": "90200885521310729",
 	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 13,
 	"bots": 4,
-	"map": "de_vertigo",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
