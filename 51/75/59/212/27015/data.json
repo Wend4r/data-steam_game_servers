@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!ws,1v1,agents,aim,am_,arena,de_,dual,duel,fight,gloves,knife,k"
+	"gametype": "empty,!ws,1v1,agents,aim,am_,arena,de_,dual,duel,fight,gloves,k"
 }
