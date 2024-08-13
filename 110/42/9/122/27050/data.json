@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 50,
 	"bots": 0,
 	"map": "zm_aztec_classic_night_v1z",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ZED,escape,fastdl,ze,zm,zombie,secure"
+	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
 }

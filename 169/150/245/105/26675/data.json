@@ -2,7 +2,7 @@
 	"addr": "169.150.245.105:26675",
 	"gameport": 26675,
 	"specport": 26676,
-	"steamid": "90200865649794061",
+	"steamid": "90200891950245901",
 	"name": "LFO ( Ex-BITSHOCK ) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
