@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
-	"map": "aim_redline",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,aim,aim_redline,ak,awp,awp_lego_2,bunny,lego,mg,p"
+	"gametype": "128tick,aim,aim_redline,ak,awp,awp_lego_2,bunny,lego,mg,prooyun"
 }
