@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.208:26407",
 	"gameport": 26407,
-	"steamid": "90200880397550612",
+	"steamid": "90200891157267476",
 	"name": "flaming north elite",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
