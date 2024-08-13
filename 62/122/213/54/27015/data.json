@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "ze_slender_escape_p",
+	"bots": 8,
+	"map": "ze_atix_panic_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,r"
+	"gametype": "!,*,awp,caro,creaper,drop,escape,gloves,knife,mg,public,rpg,ru,"
 }
