@@ -1,7 +1,7 @@
 {
 	"addr": "46.4.79.214:7110",
 	"gameport": 7110,
-	"steamid": "90200879302857741",
+	"steamid": "90200931751516173",
 	"name": "Chłopaki z Mirage",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 40,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
