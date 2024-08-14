@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 1,
-	"map": "/175459753/cs_insertion",
+	"map": "/251420367/de_dust2_mirror",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CM2.Network,Tournament,pcw,war,secure"
+	"gametype": "empty,*grp:19763592i,CM2.Network,Tournament,pcw,war,insecure"
 }
