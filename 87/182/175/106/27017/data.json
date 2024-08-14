@@ -1,0 +1,19 @@
+{
+	"addr": "87.182.175.106:27017",
+	"gameport": 27017,
+	"steamid": "90200927597702160",
+	"name": "[DE] surf race 24/7 !ws !skins",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 64,
+	"bots": 0,
+	"map": "surf_ace",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}
