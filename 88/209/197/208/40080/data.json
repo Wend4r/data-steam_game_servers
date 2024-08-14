@@ -1,0 +1,19 @@
+{
+	"addr": "88.209.197.208:40080",
+	"gameport": 40080,
+	"steamid": "85568392932076817",
+	"name": "Old School [FREE VIP] [!ws !knife !agents]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 30,
+	"max_players": 64,
+	"bots": 0,
+	"map": "cs_mansion_old",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

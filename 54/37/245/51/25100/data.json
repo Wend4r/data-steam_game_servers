@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,102,102tick,gf,gofree,surf,surftimer,surf_666,insecure"
+	"gametype": "empty,!,102,102tick,gf,gofree,surf,surftimer,surf_666,secure"
 }
