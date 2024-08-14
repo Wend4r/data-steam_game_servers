@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "csgo",
 	"region": -1,
-	"players": 8,
+	"players": 2,
 	"max_players": 30,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
+	"gametype": "empty,!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,ar"
 }
