@@ -1,7 +1,7 @@
 {
 	"addr": "51.89.172.53:21600",
 	"gameport": 21600,
-	"steamid": "90200892504910878",
+	"steamid": "90200920830924830",
 	"name": "4Netplayers Tournamet",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,4Netplayers,Germany,de,secure"
+	"gametype": "empty,4Netplayers,Germany,de,insecure"
 }
