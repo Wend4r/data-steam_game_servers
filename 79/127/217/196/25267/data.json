@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.217.196:25267",
+	"gameport": 25267,
+	"specport": 25268,
+	"steamid": "90200915826963460",
+	"name": "We Out Here powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 5,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
