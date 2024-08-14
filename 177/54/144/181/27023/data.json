@@ -11,9 +11,9 @@
 	"players": 19,
 	"max_players": 19,
 	"bots": 0,
-	"map": "am_warehouse2_kat",
+	"map": "am_nuke_ramp_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,dm,executes,firegames,gloves,knife,mix,multicfg,retak"
+	"gametype": "awp,dm,executes,firegames,gloves,knife,mix,multicfg,retake,reta"
 }

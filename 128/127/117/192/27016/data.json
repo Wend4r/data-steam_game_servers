@@ -1,7 +1,7 @@
 {
 	"addr": "128.127.117.192:27016",
 	"gameport": 27016,
-	"steamid": "90200923523359745",
+	"steamid": "90200936746971137",
 	"name": "[RO] HIDEANDSEEK.RO [CS:GO HIDE & RUN]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "hide_park",
+	"map": "hns_devblocks",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",

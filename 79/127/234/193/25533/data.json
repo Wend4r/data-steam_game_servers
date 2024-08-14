@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:25533",
 	"gameport": 25533,
-	"steamid": "90200936425129997",
+	"steamid": "90200936781537293",
 	"name": "CG Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
