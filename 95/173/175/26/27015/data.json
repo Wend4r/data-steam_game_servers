@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs_analytic,secure"
+	"gametype": "empty,cs_analytic,secure"
 }

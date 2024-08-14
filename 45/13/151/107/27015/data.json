@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "awp_lego_2_gm",
+	"map": "awp_japan_gm",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

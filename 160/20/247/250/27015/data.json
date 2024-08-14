@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_dust2_night_gylala",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,"
+	"gametype": "FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,lowpin"
 }

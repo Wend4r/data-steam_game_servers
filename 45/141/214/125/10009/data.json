@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,gamersclub,gc,multi1v1,insecure"
+	"gametype": "empty,1v1,arena,gamersclub,gc,multi1v1,insecure"
 }
