@@ -5,15 +5,15 @@
 	"name": "CS2 DM | FFA #116 [RU] — CYBERSHOKE.NET (MEDIUM)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 12,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,ffa,dm,kn"
+	"gametype": "empty,de_mirage,cybershoke,cyber,aim,deathmatch,128,128tick,ffa"
 }

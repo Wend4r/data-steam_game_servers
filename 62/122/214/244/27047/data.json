@@ -5,15 +5,15 @@
 	"name": "CS2 AWP #43 [RU] — CYBERSHOKE.NET (AWP CANNONS, ONLY CANNONS_",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "awp_cannons_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "awp,awp_cannons_kg,128tick,128,drop,cybershoke,bhop,cyber,fun,k"
+	"gametype": "empty,awp,awp_cannons_kg,128tick,128,drop,cybershoke,bhop,cyber"
 }

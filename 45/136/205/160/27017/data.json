@@ -5,15 +5,15 @@
 	"name": "CS2 AIMDM | AIM #6 [RU] — CYBERSHOKE.NET",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 64,
-	"bots": 4,
+	"bots": 0,
 	"map": "aim_map_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "aim_map_s2,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm,cyber"
+	"gametype": "empty,aim_map_s2,aimdm,aim,128tick,128,cyber,drop,deathmatch,dm"
 }
