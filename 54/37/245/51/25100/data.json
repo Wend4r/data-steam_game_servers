@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_jail_go",
+	"bots": 1,
+	"map": "surf_lovetunnel",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_jail_go,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_lovetunnel,secure"
 }
