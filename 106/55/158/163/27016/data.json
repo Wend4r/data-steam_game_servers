@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 14,
-	"bots": 0,
-	"map": "awp_india",
+	"bots": 8,
+	"map": "awp_roost_2020_rz",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

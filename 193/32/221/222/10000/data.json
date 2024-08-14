@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10000",
 	"gameport": 10000,
-	"steamid": "90200927403355140",
-	"name": "GrzejnikMrozi - free @ fshost.me",
+	"steamid": "90200928640700420",
+	"name": "FlaMax - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
-	"max_players": 12,
+	"players": 1,
+	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
-	"secure": false,
+	"map": "de_mirage",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,secure"
 }
