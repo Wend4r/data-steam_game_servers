@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "awp_lego_india",
+	"map": "awp_lego_r",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam,insecure"
+	"gametype": "empty,no-steam,insecure"
 }
