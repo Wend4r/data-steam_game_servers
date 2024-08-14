@@ -1,0 +1,19 @@
+{
+	"addr": "118.251.61.142:27005",
+	"gameport": 27005,
+	"steamid": "90200924148081675",
+	"name": "WxCloudServer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.2",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

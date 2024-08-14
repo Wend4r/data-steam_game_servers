@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28336",
 	"gameport": 28336,
 	"steamid": "85568392932076072",
-	"name": "brmohammad Public Server",
+	"name": "brmohammad",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,MaxGaming,iranbrmohammad,insecure"
+	"gametype": "empty,insecure"
 }
