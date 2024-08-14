@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "hns_lazytown_advanced_v1",
+	"map": "hns_devblocks_v5",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
