@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.251.35:26478",
 	"gameport": 26478,
-	"steamid": "90200886173289474",
+	"steamid": "90200915509342210",
 	"name": "Balls Deep",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
