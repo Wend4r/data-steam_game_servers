@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!store,!store,!ws,128,128tick,Chasemod,HNS,HidenSeek,Kevin,KevinHnS,NOPRE,PRE,secure"
+	"gametype": "!gloves,!knife,!store,!store,!ws,128,128tick,Chasemod,HNS,HidenSeek,Kevin,KevinHnS,NOPRE,PRE,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 8,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
+	"gametype": "128-Tick,128tick,GENX,UK,Workshop Maps,tick128,secure"
 }
