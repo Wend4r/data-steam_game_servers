@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
