@@ -1,0 +1,19 @@
+{
+	"addr": "61.147.247.78:54200",
+	"gameport": 54200,
+	"steamid": "90200917259811867",
+	"name": "laoli",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

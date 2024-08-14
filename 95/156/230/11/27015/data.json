@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_honkai_impact_3rd_babel_v1_5",
+	"map": "ze_icecap_escape_v5_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zombiemod,"
+	"gametype": "empty,!gloves,!,awp,1vs1,dd2,!knife,!ws,bhop,fi,dm,jb,ger,hg,dr,escape,fr,dk,kz,nl,no,no-steam,mg,nor,ru,surf,ze,zm,zombie,zomb"
 }
