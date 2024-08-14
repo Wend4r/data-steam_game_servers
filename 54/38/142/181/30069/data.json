@@ -1,7 +1,8 @@
 {
 	"addr": "54.38.142.181:30069",
 	"gameport": 30069,
-	"steamid": "90200936533841951",
+	"specport": 27020,
+	"steamid": "90200936862642207",
 	"name": "PANICAXD @ LiveServer.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
