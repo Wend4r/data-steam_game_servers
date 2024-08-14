@@ -2,7 +2,7 @@
 	"addr": "137.74.7.87:27015",
 	"gameport": 27015,
 	"steamid": "85568392924046186",
-	"name": "XPLAY.GG • CS2 DM FFA #82 • [PL]",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
