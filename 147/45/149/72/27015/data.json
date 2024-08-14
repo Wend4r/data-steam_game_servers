@@ -1,7 +1,7 @@
 {
 	"addr": "147.45.149.72:27015",
 	"gameport": 27015,
-	"steamid": "90200932437330972",
+	"steamid": "90200933043904540",
 	"name": "Oh My Zombie Anarchy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 28,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
