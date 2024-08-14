@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26925",
 	"gameport": 26925,
-	"steamid": "90200929999939612",
+	"steamid": "90200930655877148",
 	"name": "Secret fun server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

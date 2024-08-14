@@ -1,7 +1,6 @@
 {
 	"addr": "5.56.154.34:7620",
 	"gameport": 7620,
-	"specport": 27020,
 	"steamid": "85568392932047508",
 	"name": "UNGLemvig - Death Match",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 33,
-	"bots": 1,
+	"bots": 0,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "94.136.185.67:37016",
 	"gameport": 37016,
-	"steamid": "90200927589203968",
+	"steamid": "85568392932075800",
 	"name": "matchclub.xyz 1v1/2v2 Short Match",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 24,
+	"max_players": 5,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,16k,aimware,asia,che,dubai,fatality,gamesense,hack,hvh,in"
+	"gametype": "empty,insecure"
 }
