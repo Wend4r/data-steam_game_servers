@@ -2,18 +2,18 @@
 	"addr": "168.119.196.20:27048",
 	"gameport": 27048,
 	"steamid": "85568392931848159",
-	"name": "CS2 RETAKE CARDS #43 [DE] — CYBERSHOKE.NET (7 SLOTS)",
+	"name": "CS2 HNS #8 [DE] — CYBERSHOKE.NET (RULES)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa,"
+	"gametype": "empty,drop,eu,en,de,cybershoke,cyber,g-strafe,hns_jukecity_v8p2"
 }

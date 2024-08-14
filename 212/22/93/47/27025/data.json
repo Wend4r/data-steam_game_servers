@@ -1,7 +1,7 @@
 {
 	"addr": "212.22.93.47:27025",
 	"gameport": 27025,
-	"steamid": "90200936661795849",
+	"steamid": "90200937201852425",
 	"name": "DDK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
 	"map": "/647816270/hide_park",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "and,128tic,bluesen,ampr,!shop,!knife,!ws,128,!vip,dre,hide,hns,knife,hide and seek,maniac,man,myghetto,seek,shop,thm,tic,vip,ws"
+	"gametype": "empty,and,128tic,bluesen,ampr,!shop,!knife,!ws,128,!vip,dre,hide,hns,knife,hide and seek,maniac,man,myghetto,seek,shop,thm,tic,"
 }
