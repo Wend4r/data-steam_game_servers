@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
+	"gametype": "awp,compet,cs2,custom,eu,maps,server,vanilla,winky,secure"
 }
