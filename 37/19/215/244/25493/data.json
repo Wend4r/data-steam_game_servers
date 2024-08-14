@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 4,
 	"max_players": 13,
-	"bots": 2,
+	"bots": 4,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
