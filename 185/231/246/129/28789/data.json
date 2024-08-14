@@ -2,18 +2,18 @@
 	"addr": "185.231.246.129:28789",
 	"gameport": 28789,
 	"steamid": "85568392924902406",
-	"name": "*NEW CSDM [Роботы|Пушки|Лазеры|Дроны|Монстры]*",
+	"name": "Super Star GSGO Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.38.1.6",
 	"product": "csgo",
 	"region": 3,
 	"players": 26,
-	"max_players": 40,
+	"max_players": 64,
 	"bots": 0,
-	"map": "ze_aztecnoob_p",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,csdm,dm,sentry,guns,new,sentry guns,msk,windows,linux,maxplayers,zdx,super,cybershoke"
+	"gametype": "n4a,ze"
 }
