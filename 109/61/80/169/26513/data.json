@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26513",
 	"gameport": 26513,
-	"steamid": "90200936565377052",
+	"steamid": "90200937074707484",
 	"name": "WMS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
