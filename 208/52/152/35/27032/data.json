@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 13,
 	"bots": 2,
-	"map": "surf_summit",
+	"map": "surf_whynot2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gfl,gflclan,private,surf,secure"
+	"gametype": "gfl,gflclan,private,surf,secure"
 }

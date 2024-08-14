@@ -1,7 +1,7 @@
 {
 	"addr": "84.252.158.199:27075",
 	"gameport": 27075,
-	"steamid": "90200936014385155",
+	"steamid": "90200936503521283",
 	"name": "QEO CS2 qeo.kz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

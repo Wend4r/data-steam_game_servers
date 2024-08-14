@@ -1,6 +1,7 @@
 {
 	"addr": "185.221.213.166:27016",
 	"gameport": 27016,
+	"specport": 27021,
 	"steamid": "85568392931430354",
 	"name": "Counter Strike: Reborn | MatchMaking",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.35.4.2",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_nuke_og",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,incsgo.ru,public,insecure"
+	"gametype": "incsgo.ru,public,insecure"
 }
