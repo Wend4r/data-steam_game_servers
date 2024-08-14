@@ -1,7 +1,7 @@
 {
 	"addr": "51.83.172.143:23728",
 	"gameport": 23728,
-	"steamid": "90200926260615183",
+	"steamid": "90200926419795983",
 	"name": "ServerProject.pl | CS 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 8,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,

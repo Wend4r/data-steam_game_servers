@@ -1,0 +1,19 @@
+{
+	"addr": "146.185.198.39:49341",
+	"gameport": 49341,
+	"steamid": "85568392932076570",
+	"name": "«JAIL»[BRCSGO.RU] ТЮРЬМА АРКХЕМ | [!WSGK !CASE]V2",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
+	"map": "ba_jail_minecraftparty_v6",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,secure"
+}
