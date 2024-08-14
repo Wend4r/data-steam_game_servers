@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
+	"gametype": "exg,ze,僵尸逃跑,insecure"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "218.17.40.66:27015",
+	"gameport": 27015,
+	"specport": 27020,
+	"steamid": "85568392930483434",
+	"name": "广东中山大学",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -4,
+	"players": 0,
+	"max_players": 16,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,insecure"
+}

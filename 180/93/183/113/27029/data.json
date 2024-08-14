@@ -1,8 +1,7 @@
 {
 	"addr": "180.93.183.113:27029",
 	"gameport": 27029,
-	"specport": 28029,
-	"steamid": "90200898147575839",
+	"steamid": "90200923272943647",
 	"name": "[GBattle][VNG2] Server 05",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
