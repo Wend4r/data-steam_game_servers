@@ -6,15 +6,15 @@
 	"name": "[HU/EU] bombateam •PUB|FUN• CS2-Hungary",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "de_thera",
+	"map": "de_toscan_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hun,secure"
+	"gametype": "empty,hun,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_skyheart",
+	"map": "ze_boatescape999",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

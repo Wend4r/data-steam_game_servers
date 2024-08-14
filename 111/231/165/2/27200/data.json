@@ -1,6 +1,7 @@
 {
 	"addr": "111.231.165.2:27200",
 	"gameport": 27200,
+	"specport": 27020,
 	"steamid": "85568392931982145",
 	"name": "R0对战平台天梯服务器 上海64",
 	"appid": 730,
@@ -10,7 +11,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
