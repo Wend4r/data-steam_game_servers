@@ -2,8 +2,8 @@
 	"addr": "169.150.198.103:25210",
 	"gameport": 25210,
 	"specport": 25211,
-	"steamid": "90200912980867079",
-	"name": "G4YSANDYUU powered by PRACC.COM",
+	"steamid": "90200913598908423",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

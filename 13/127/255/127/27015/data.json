@@ -1,7 +1,7 @@
 {
 	"addr": "13.127.255.127:27015",
 	"gameport": 27015,
-	"steamid": "90200886157509638",
+	"steamid": "85568392931709030",
 	"name": "ConneQt Retake Mumbai",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "conneqt,conneqtgaming,mumbai,mumbaisv,retakes,secure"
+	"gametype": "empty,conneqt,conneqtgaming,mumbai,mumbaisv,retakes,secure"
 }
