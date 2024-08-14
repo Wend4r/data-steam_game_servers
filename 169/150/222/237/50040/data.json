@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.222.237:50040",
 	"gameport": 50040,
+	"specport": 27020,
 	"steamid": "90200907315699727",
 	"name": "drypeek",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 3,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
