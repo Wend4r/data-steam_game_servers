@@ -1,7 +1,7 @@
 {
 	"addr": "91.200.100.20:27025",
 	"gameport": 27025,
-	"steamid": "90200886248567832",
+	"steamid": "90200914921944088",
 	"name": "Fickschnitzel CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.251.35:26099",
 	"gameport": 26099,
+	"specport": 26100,
 	"steamid": "90200886172933122",
 	"name": "KAOZ Practice",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
