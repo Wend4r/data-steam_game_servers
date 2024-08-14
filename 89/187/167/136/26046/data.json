@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 30,
-	"bots": 10,
+	"bots": 0,
 	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OFc,Old Farts Club,casual,fun,no camping,restricted snipers,tea"
+	"gametype": "empty,OFc,Old Farts Club,casual,fun,no camping,restricted snipe"
 }
