@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_cartoon_course_yea",
+	"map": "bhop_insanelyserz",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
+	"gametype": "!gloves,!knife,!shop,!ws,4jump,anime,bhop,bunny,clan,fun,mg,minigames,soft,viptest,secure"
 }

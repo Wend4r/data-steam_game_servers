@@ -1,8 +1,8 @@
 {
 	"addr": "188.228.39.102:27015",
 	"gameport": 27015,
-	"steamid": "85568392931063144",
-	"name": "'eSB - CS2-NADE-01'",
+	"steamid": "90200936822910986",
+	"name": "'eSB - CS2-RETAKE-01'",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

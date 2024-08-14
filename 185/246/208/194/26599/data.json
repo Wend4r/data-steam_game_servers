@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 8,
 	"bots": 1,
-	"map": "awp_lego_2_carton",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,coins,cs2,cs2 awp,cs2 only awp,gosetti.pl:41432,only "
+	"gametype": "awp,coins,cs2,cs2 awp,cs2 only awp,gosetti.pl:41432,only awp,sk"
 }
