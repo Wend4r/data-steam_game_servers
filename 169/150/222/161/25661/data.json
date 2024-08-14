@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.222.161:25661",
 	"gameport": 25661,
-	"steamid": "90200922668259331",
-	"name": "True Rippers powered by PRACC.COM",
+	"steamid": "90200923701945347",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

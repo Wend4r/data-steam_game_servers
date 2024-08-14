@@ -1,8 +1,7 @@
 {
 	"addr": "79.127.206.85:26461",
 	"gameport": 26461,
-	"specport": 26462,
-	"steamid": "90200894115373060",
+	"steamid": "90200923723839492",
 	"name": "Saguaro Playtesting",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_saguaro",
+	"bots": 3,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
