@@ -12,8 +12,8 @@
 	"max_players": 32,
 	"bots": 4,
 	"map": "de_mirage",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1v1arena,arena,multi1v1,insecure"
+	"gametype": "empty,1v1,1v1arena,arena,multi1v1,secure"
 }
