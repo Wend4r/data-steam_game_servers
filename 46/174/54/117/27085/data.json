@@ -2,7 +2,7 @@
 	"addr": "46.174.54.117:27085",
 	"gameport": 27085,
 	"steamid": "90200854284060684",
-	"name": "genesis 22206: team_Mercury vs team_Rokuro",
+	"name": "[genesis] League #16",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }

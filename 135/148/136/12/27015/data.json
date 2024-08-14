@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2018,aimware,cheat,cheating,cheats,csgo,gamesense,hack,hackvshack,hvh,legacy,skeet,insecure"
+	"gametype": "2018,aimware,cheat,cheating,cheats,csgo,gamesense,hack,hackvshack,hvh,legacy,skeet,insecure"
 }
