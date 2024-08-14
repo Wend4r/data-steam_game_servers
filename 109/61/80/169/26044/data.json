@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26044",
 	"gameport": 26044,
-	"steamid": "90200892717442076",
+	"steamid": "90200921947843612",
 	"name": "HoeleSh1t",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

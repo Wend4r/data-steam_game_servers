@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26836",
 	"gameport": 26836,
-	"steamid": "90200892717433884",
+	"steamid": "90200921947819036",
 	"name": "F3 Daddelstube 4 desperate Daddies",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

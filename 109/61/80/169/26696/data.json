@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26696",
 	"gameport": 26696,
-	"steamid": "90200892717679644",
+	"steamid": "90200921948164124",
 	"name": "Chubiis server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 2,
-	"map": "de_cbble",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

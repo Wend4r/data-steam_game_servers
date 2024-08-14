@@ -2,7 +2,7 @@
 	"addr": "212.102.62.209:26784",
 	"gameport": 26784,
 	"specport": 26785,
-	"steamid": "90200892717266972",
+	"steamid": "90200921947628572",
 	"name": "CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

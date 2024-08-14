@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26959",
 	"gameport": 26959,
-	"steamid": "90200892806823962",
+	"steamid": "90200922023450650",
 	"name": "450 Elo ExeCute",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

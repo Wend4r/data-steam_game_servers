@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 50,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_utopia_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,easy,easysurf,mestro,mg,surf,secure"
+	"gametype": "easy,easysurf,mestro,mg,surf,secure"
 }
