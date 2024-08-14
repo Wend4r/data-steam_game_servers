@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.97:26902",
 	"gameport": 26902,
-	"steamid": "90200892044672005",
+	"steamid": "90200921098335237",
 	"name": "9z Team CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

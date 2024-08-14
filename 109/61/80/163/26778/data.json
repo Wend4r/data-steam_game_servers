@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26778",
 	"gameport": 26778,
+	"specport": 26779,
 	"steamid": "90200921087287318",
 	"name": "Bres",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "gd_rialto",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
