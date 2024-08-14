@@ -1,19 +1,19 @@
 {
 	"addr": "136.243.79.58:29020",
 	"gameport": 29020,
-	"steamid": "90200850711799818",
+	"steamid": "90200933815567370",
 	"name": "[Ü3K]-GP-Server (CS2)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

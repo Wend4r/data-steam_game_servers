@@ -1,6 +1,7 @@
 {
 	"addr": "162.55.98.163:27102",
 	"gameport": 27102,
+	"specport": 37102,
 	"steamid": "90200916079307784",
 	"name": "FruchtLabor - Teamserver 1",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 9,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
