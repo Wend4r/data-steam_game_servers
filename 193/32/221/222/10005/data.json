@@ -1,7 +1,7 @@
 {
 	"addr": "193.32.221.222:10005",
 	"gameport": 10005,
-	"steamid": "90200929313046532",
+	"steamid": "90200930132428804",
 	"name": "csgotest - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

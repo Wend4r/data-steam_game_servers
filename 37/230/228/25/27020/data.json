@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kz_cratespeed",
+	"map": "kz_lust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_cratespeed,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secur"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_lust,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
 }

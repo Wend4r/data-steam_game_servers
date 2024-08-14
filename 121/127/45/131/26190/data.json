@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.131:26190",
 	"gameport": 26190,
-	"steamid": "90200930136266760",
+	"steamid": "90200930139621384",
 	"name": "RTU MIREA powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
