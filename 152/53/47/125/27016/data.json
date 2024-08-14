@@ -1,0 +1,19 @@
+{
+	"addr": "152.53.47.125:27016",
+	"gameport": 2302,
+	"steamid": "90200007173167131",
+	"name": "DayZ by Rhino-Gaming",
+	"appid": 221100,
+	"gamedir": "dayz",
+	"version": "1.25.158396",
+	"product": "dayz",
+	"region": -1,
+	"players": 0,
+	"max_players": 60,
+	"bots": 0,
+	"map": "chernarusplus",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "battleye,external,privHive,shard,lqs0,etm6.000000,entm12.000000,mod,14:56"
+}
