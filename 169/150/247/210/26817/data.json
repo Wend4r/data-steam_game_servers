@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 11,
+	"players": 6,
 	"max_players": 16,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
