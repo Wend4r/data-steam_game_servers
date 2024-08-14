@@ -1,7 +1,7 @@
 {
 	"addr": "216.8.48.45:27015",
 	"gameport": 27015,
-	"steamid": "90200914346868752",
+	"steamid": "90200914566973456",
 	"name": "D.R.E. CS2 SERVER GUNGAME",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,7 +9,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 20,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
