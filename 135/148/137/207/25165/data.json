@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 1,
-	"map": "surf_utopia_v3_fix",
+	"map": "surf_utopia_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_utopia_v3_fix,secur"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_utopia_v3,secure"
 }

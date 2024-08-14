@@ -2,7 +2,7 @@
 	"addr": "185.188.183.107:50226",
 	"gameport": 50226,
 	"steamid": "85568392931544553",
-	"name": "Counter-Strike 2",
+	"name": "Freez-Blood CS:2 | PUBLIC #1 |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
