@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_cache",
+	"map": "de_vertigo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AVENTUM,Desolate,Hack vs Hack,HvH,ev0lve,fatality,gamesense,league,neverlose,onetap,skeet,unmatched,insecure"
+	"gametype": "AVENTUM,Desolate,Hack vs Hack,HvH,ev0lve,fatality,gamesense,league,neverlose,onetap,skeet,unmatched,insecure"
 }
