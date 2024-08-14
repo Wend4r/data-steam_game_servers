@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:26144",
 	"gameport": 26144,
+	"specport": 26145,
 	"steamid": "85568392931709896",
 	"name": "Old Farts CS2",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 13,
 	"max_players": 20,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,insecure"
 }
