@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "5x5,5vs5,5v5,cybershoke,cyber,de_ancient,drop,duel,gloves,knife"
+	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_ancient,drop,duel,gloves"
 }

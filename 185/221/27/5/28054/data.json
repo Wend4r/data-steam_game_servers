@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "�0�D�",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,en,ffa,cybershoke,128,128tick,cyber,drop,gloves,insta"
+	"gametype": "empty,de_mirage,en,ffa,cybershoke,128,128tick,cyber,drop,gloves"
 }
