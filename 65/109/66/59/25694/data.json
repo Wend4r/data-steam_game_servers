@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.66.59:25694",
 	"gameport": 25694,
+	"specport": 25695,
 	"steamid": "90200918125167629",
 	"name": "VINO powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
