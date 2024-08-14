@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "ze_obj_encounter_b1",
+	"bots": 0,
+	"map": "ze_goobers_basement",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,insecure"
+	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
 }
