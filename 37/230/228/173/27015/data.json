@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_skytower_b1",
+	"map": "mg_sonic_islands_v4",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,gloves,merryproject,minigame,no-steam,ws,secure"
+	"gametype": "gloves,merryproject,minigame,no-steam,ws,secure"
 }
