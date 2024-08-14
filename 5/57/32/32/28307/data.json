@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
