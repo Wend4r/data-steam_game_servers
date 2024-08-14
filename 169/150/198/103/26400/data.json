@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26400",
 	"gameport": 26400,
-	"steamid": "90200885151225863",
+	"steamid": "90200913598687239",
 	"name": "NoHesitate",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
