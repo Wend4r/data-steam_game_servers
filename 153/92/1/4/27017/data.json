@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5x5,GLOVES,LT,MIX,SADEGO,SKINS,secure"
+	"gametype": "empty,5x5,GLOVES,LT,MIX,SADEGO,SKINS,insecure"
 }
