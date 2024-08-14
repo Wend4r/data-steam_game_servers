@@ -5,15 +5,15 @@
 	"name": "[TR] RunAway | SURF Timer [ws knife gloves] discord.gg/runaway",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 13,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_duggywuggy",
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,nametag"
+	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,n"
 }

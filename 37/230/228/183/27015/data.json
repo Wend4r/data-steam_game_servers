@@ -1,11 +1,11 @@
 {
 	"addr": "37.230.228.183:27015",
 	"gameport": 27015,
-	"steamid": "90200915390337029",
+	"steamid": "90200936543621125",
 	"name": "Полуночники 18+",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

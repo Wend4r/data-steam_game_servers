@@ -1,19 +1,19 @@
 {
 	"addr": "103.91.226.91:27015",
 	"gameport": 27015,
-	"steamid": "90200861762099215",
+	"steamid": "90200936547055631",
 	"name": "HeadsHoT Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "awp_lego_2011",
+	"map": "de_nache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

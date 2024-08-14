@@ -2,11 +2,11 @@
 	"addr": "79.127.217.196:26350",
 	"gameport": 26350,
 	"specport": 26351,
-	"steamid": "90200931582763012",
+	"steamid": "90200936581710852",
 	"name": "history world tour official server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
