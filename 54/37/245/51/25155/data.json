@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 45,
-	"bots": 3,
-	"map": "surf_1day",
+	"bots": 2,
+	"map": "surf_eclipse_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_1day,secure"
+	"gametype": "64,64tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_eclipse_fix,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "surf_greatriver_xdream_gg",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "combat surf,aus,am_,de_dust2,gloves,ffa,!ws,!knife,combat,killzone gaming,killzone,knife,kzg,paints,skill,skins,surf,surfing,ws"
+	"gametype": "empty,combat surf,aus,am_,de_dust2,gloves,ffa,!ws,!knife,combat,killzone gaming,killzone,knife,kzg,paints,skill,skins,surf,surf"
 }
