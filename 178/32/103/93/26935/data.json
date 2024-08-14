@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "jb_improved_alpha",
+	"map": "ba_jail_umbrella",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,secur"
+	"gametype": "bajail,bj,eth,fr,jailbreak,jb,ladoc,ladoc.wiki,wiki,secure"
 }
