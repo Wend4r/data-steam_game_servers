@@ -1,0 +1,19 @@
+{
+	"addr": "62.183.22.115:40270",
+	"gameport": 40270,
+	"steamid": "85568392931060968",
+	"name": "Краснодар |25| HardCore [CS2][SKIN][AGENT][GLOVES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes,agent,krd"
+}

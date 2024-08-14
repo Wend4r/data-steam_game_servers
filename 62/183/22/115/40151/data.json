@@ -1,0 +1,19 @@
+{
+	"addr": "62.183.22.115:40151",
+	"gameport": 40151,
+	"steamid": "85568392931060846",
+	"name": "Краснодар |18| AWP_LEGO  [CS2][SKIN][AGENT][GLOVES]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 256,
+	"bots": 0,
+	"map": "awp_lego_2",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "ws,gloves,knifes,agent,krd"
+}
