@@ -1,19 +1,19 @@
 {
 	"addr": "54.37.197.50:27060",
 	"gameport": 27060,
-	"steamid": "90200861192241152",
+	"steamid": "90200936340556800",
 	"name": "SPERMIKI | 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

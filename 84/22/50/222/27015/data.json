@@ -5,15 +5,15 @@
 	"name": "Kosova Server | eSportsKosova.com",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 3,
-	"players": 31,
+	"region": -1,
+	"players": 0,
 	"max_players": 44,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "HajrullaH,eSportsKosova,kosova,secure"
+	"gametype": "empty,HajrullaH,eSportsKosova,kosova,insecure"
 }

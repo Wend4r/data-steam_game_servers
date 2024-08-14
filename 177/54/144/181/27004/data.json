@@ -5,15 +5,15 @@
 	"name": "-=★ FIREGAMES ★ RETAKE RIFLE #01 ★ SKINS ★ FACAS ★=-",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 9,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dm,executes,firegames,gloves,knife,mix,multicfg,retake,retake p"
+	"gametype": "empty,dm,executes,firegames,gloves,knife,mix,multicfg,retake,re"
 }
