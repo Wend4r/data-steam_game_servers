@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
 	"map": "hns_jukecity_v8p2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bhop,favela,favelayaw,fvl,fy,hidenseek,hns,hostzone,knife,kz,movement,savage,surf,ws,secure"
+	"gametype": "bhop,favela,favelayaw,fvl,fy,hidenseek,hns,hostzone,knife,kz,movement,savage,surf,ws,secure"
 }

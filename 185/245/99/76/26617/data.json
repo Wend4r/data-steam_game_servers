@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26617",
 	"gameport": 26617,
-	"steamid": "90200662009359374",
-	"name": "GenOne Academy Main powered by PRACC.COM",
+	"steamid": "90200922760598542",
+	"name": "PREFIRE powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
+	"players": 1,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
