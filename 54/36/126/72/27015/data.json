@@ -2,7 +2,7 @@
 	"addr": "54.36.126.72:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200892266619930",
+	"steamid": "90200914330672154",
 	"name": "[FR] CsAcademie.fr - Server fun d'aide aux débutants",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 31,
 	"bots": 5,
-	"map": "aim_deagle",
+	"map": "shipment_version071",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
