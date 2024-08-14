@@ -2,8 +2,8 @@
 	"addr": "169.150.198.105:26954",
 	"gameport": 26954,
 	"specport": 26955,
-	"steamid": "90200885523216393",
-	"name": "eBot :: Patins da Ferrari vs BESTIA",
+	"steamid": "90200916042689545",
+	"name": "mens) Server #8",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
