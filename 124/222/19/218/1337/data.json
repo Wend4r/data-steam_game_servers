@@ -1,7 +1,6 @@
 {
 	"addr": "124.222.19.218:1337",
 	"gameport": 1337,
-	"specport": 27020,
 	"steamid": "85568392925988043",
 	"name": "黄埔军校",
 	"appid": 730,
@@ -12,6 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
