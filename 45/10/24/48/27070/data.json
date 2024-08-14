@@ -2,8 +2,8 @@
 	"addr": "45.10.24.48:27070",
 	"gameport": 27070,
 	"specport": 27200,
-	"steamid": "90200928366327810",
-	"name": "EU | ClassicCounter | PUG | 128Tick",
+	"steamid": "85568392931929695",
+	"name": "Ollum's Servers | TESTING SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.35.3.6",
@@ -16,5 +16,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
