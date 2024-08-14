@@ -1,8 +1,8 @@
 {
 	"addr": "188.2.9.74:28015",
 	"gameport": 28015,
-	"steamid": "90200926346141721",
-	"name": "Counter-Strike: Global Offensive",
+	"steamid": "90200926717809689",
+	"name": "a place for edging",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

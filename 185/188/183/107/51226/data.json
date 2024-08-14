@@ -2,18 +2,18 @@
 	"addr": "185.188.183.107:51226",
 	"gameport": 51226,
 	"steamid": "85568392932076622",
-	"name": "Counter-Strike: Global Offensive",
+	"name": "PUBLIC «№1» [BRCSGO.RU] 128tick [!WSGK !CASE] +18",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
 }

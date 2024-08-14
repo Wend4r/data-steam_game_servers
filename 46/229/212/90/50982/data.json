@@ -1,0 +1,19 @@
+{
+	"addr": "46.229.212.90:50982",
+	"gameport": 50982,
+	"steamid": "85568392932076657",
+	"name": "[BR:GO] >PUBLIC №2<[!CASE !WSGK] [BRCSGO.RU] ТУТ КАЙФ!",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "csgo",
+	"region": -1,
+	"players": 8,
+	"max_players": 30,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "!admin,!farm,!glove,!gloves,!knife,!l,!lvl,!mf,!shop,!stickers,!top,!ws,128,128tick,1v1,2dcs,2dcsru,aim,arena,arena1v1,arena1x1"
+}
