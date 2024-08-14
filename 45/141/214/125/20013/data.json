@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_astra",
+	"map": "surf_elysium",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gamersclub,gc,surf,tier,insecure"
+	"gametype": "empty,gamersclub,gc,surf,tier,insecure"
 }
