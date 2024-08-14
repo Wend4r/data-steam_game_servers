@@ -1,0 +1,19 @@
+{
+	"addr": "121.127.40.184:25053",
+	"gameport": 25053,
+	"steamid": "85568392932072304",
+	"name": "❤️ MAKI'S RIFLE ONLY RETAKES #1 ❤️ THERA, MILLS",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_mills",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,agent,de_mills,de_thera,gloves,knife,music,retake,retakes"
+}

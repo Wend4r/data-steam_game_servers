@@ -1,6 +1,7 @@
 {
 	"addr": "188.94.26.24:27021",
 	"gameport": 27021,
+	"specport": 27020,
 	"steamid": "90200915958656019",
 	"name": "NYXIA Artemis",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
