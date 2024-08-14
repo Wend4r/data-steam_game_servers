@@ -14,5 +14,6 @@
 	"map": "am_ramps_gg",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

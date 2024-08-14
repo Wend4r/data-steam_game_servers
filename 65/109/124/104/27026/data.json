@@ -14,5 +14,6 @@
 	"map": "bhop_cyber",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

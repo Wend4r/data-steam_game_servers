@@ -14,5 +14,6 @@
 	"map": "aim_fastreflex07",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

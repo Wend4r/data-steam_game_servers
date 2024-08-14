@@ -14,5 +14,6 @@
 	"map": "surf_utopia_njv",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

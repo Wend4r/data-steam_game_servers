@@ -14,5 +14,6 @@
 	"map": "duels_dust2_xplaygg",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "23.88.25.137:27031",
 	"gameport": 27031,
-	"steamid": "90200937146380317",
+	"steamid": "90200943881904157",
 	"name": "vlad test server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -14,5 +14,6 @@
 	"map": "bhop_omnitopia",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

@@ -14,5 +14,6 @@
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

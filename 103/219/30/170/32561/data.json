@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
-	"bots": 9,
-	"map": "de_inferno",
+	"bots": 8,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dm,god,pug,wolf,insecure"
+	"gametype": "dm,god,pug,wolf,secure"
 }

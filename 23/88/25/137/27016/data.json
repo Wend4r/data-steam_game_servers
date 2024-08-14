@@ -14,5 +14,6 @@
 	"map": "surf_ace",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

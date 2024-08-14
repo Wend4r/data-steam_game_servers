@@ -14,5 +14,6 @@
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }

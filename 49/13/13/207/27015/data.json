@@ -1,6 +1,7 @@
 {
 	"addr": "49.13.13.207:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "90200943904505868",
 	"name": "changeme",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 4,
-	"max_players": 15,
+	"max_players": 16,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
