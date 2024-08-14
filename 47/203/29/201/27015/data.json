@@ -1,8 +1,8 @@
 {
 	"addr": "47.203.29.201:27015",
 	"gameport": 27015,
-	"steamid": "85568392932035010",
-	"name": "TCS Surf TIER \"1-2\"",
+	"steamid": "90200913397189656",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_ace",
+	"map": "surf_utopia_njv",
 	"secure": true,
 	"dedicated": true,
-	"os": "w",
+	"os": "l",
 	"gametype": "empty,secure"
 }
