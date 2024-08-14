@@ -1,8 +1,7 @@
 {
 	"addr": "62.122.214.171:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200905735177232",
+	"steamid": "90200922892466192",
 	"name": "TITAN CYBER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +9,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 2,
-	"max_players": 64,
+	"max_players": 63,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
