@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.247.214:26598",
 	"gameport": 26598,
+	"specport": 26599,
 	"steamid": "90200936267441178",
 	"name": "CS2 Server",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
