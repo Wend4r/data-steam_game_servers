@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_verv3_gg",
+	"map": "kz_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,kz,timer,secure"
+	"gametype": "ZED,fastdl,kz,timer,secure"
 }
