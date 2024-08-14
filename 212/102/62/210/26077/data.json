@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Nordic,NordicExellence,secure"
+	"gametype": "empty,Nordic,NordicExellence,secure"
 }

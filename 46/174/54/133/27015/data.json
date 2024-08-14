@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,anime,animeawp,animeproject,animepub,no-steam,secure"
+	"gametype": "128tick,anime,animeawp,animeproject,animepub,no-steam,secure"
 }
