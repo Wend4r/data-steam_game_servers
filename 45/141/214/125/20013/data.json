@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_utopia_njv",
+	"map": "surf_boreas",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gamersclub,gc,surf,tier,insecure"
+	"gametype": "gamersclub,gc,surf,tier,insecure"
 }
