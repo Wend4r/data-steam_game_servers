@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 61,
+	"players": 57,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_deagle_fb",
+	"map": "aim_100hp_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
