@@ -1,20 +1,19 @@
 {
 	"addr": "23.181.56.103:27021",
 	"gameport": 27021,
-	"specport": 27026,
-	"steamid": "90200909856708622",
+	"steamid": "85568392932071408",
 	"name": "[Rantei$] HvH Mirage Scout Only [EU]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 13,
-	"bots": 2,
-	"map": "de_inferno",
-	"secure": true,
+	"players": 1,
+	"max_players": 32,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,64,64tick,R,allmaps,cheaters,cheats,dust2,dust2 old,europ"
 }
