@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26126",
 	"gameport": 26126,
+	"specport": 26127,
 	"steamid": "90200923423117326",
 	"name": "Team Brute powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 5,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
