@@ -12,7 +12,7 @@
 	"players": 3,
 	"max_players": 60,
 	"bots": 2,
-	"map": "surf_rooftopsv2",
+	"map": "surf_singletons",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
