@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 2,
-	"map": "surf_blackheart",
+	"map": "surf_outra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,100tick,Lumilinna,Teehuone,bhop,cksurf,eu,finland,hard,skill,skillsurf,suomi,surf,surftimer,timer,secure"
+	"gametype": "100tick,Lumilinna,Teehuone,bhop,cksurf,eu,finland,hard,skill,skillsurf,suomi,surf,surftimer,timer,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "65.109.91.88:26771",
 	"gameport": 26771,
+	"specport": 26772,
 	"steamid": "90200914444180492",
 	"name": "RootsACPrac",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 10,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

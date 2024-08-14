@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 9,
-	"map": "de_inferno",
+	"bots": 10,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "compet,cs2,custom,eu,maps,server,vanilla,secure"
+	"gametype": "empty,compet,cs2,custom,eu,maps,server,vanilla,secure"
 }
