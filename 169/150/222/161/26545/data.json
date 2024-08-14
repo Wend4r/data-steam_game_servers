@@ -2,7 +2,7 @@
 	"addr": "169.150.222.161:26545",
 	"gameport": 26545,
 	"specport": 26546,
-	"steamid": "90200901566108675",
+	"steamid": "90200928336295939",
 	"name": "CS2VN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
