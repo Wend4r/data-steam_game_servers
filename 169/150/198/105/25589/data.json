@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.198.105:25589",
+	"gameport": 25589,
+	"specport": 25590,
+	"steamid": "90200937204128777",
+	"name": "100000360 - duzzy's team Instant",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}

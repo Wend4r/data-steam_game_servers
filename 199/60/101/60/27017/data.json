@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 3,
+	"players": 0,
 	"max_players": 64,
 	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128 Tick,128Tick,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,Retake,SKINS,STATS,SWOOBLES,WS,re take,re-take,store,secure"
+	"gametype": "empty,128 Tick,128Tick,FUN,GLOVES,KNIFE,KNIVES,NO BOTS,RANKS,Retake,SKINS,STATS,SWOOBLES,WS,re take,re-take,store,secure"
 }

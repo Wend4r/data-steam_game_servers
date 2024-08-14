@@ -14,5 +14,6 @@
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l"
+	"os": "l",
+	"gametype": "empty,secure"
 }
