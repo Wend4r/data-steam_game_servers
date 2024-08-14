@@ -11,10 +11,9 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 40,
-	"bots": 1,
-	"map": "cf_XinNianGuangChang",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "308EOB,MultiGame,mg,yule,secure"
+	"gametype": "empty,308EOB,MultiGame,mg,yule,secure"
 }

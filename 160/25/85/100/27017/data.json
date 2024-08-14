@@ -1,7 +1,7 @@
 {
 	"addr": "160.25.85.100:27017",
 	"gameport": 27017,
-	"steamid": "90200916865996815",
+	"steamid": "90200916866996239",
 	"name": "wingman",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_assembly",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
