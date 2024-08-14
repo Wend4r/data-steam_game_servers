@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mg_sonic_islands_v4",
+	"map": "mg_sky_realm_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FreedomPlay ,MG ,MiniGames ,SWE/ENG,dathost ,dathost.net,englis"
+	"gametype": "empty,FreedomPlay ,MG ,MiniGames ,SWE/ENG,dathost ,dathost.net,"
 }

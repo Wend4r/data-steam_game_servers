@@ -1,8 +1,7 @@
 {
 	"addr": "220.132.77.244:27017",
 	"gameport": 27017,
-	"specport": 27051,
-	"steamid": "90200849631228950",
+	"steamid": "90200928957194262",
 	"name": "TWPL Server#2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "177.125.253.204:27015",
 	"gameport": 27015,
-	"steamid": "90200902680425484",
+	"steamid": "90200929968500748",
 	"name": "Source Dedicated Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mapas/fy_closer",
+	"map": "mapas/ar_violent_bridge",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
