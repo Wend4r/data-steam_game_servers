@@ -1,6 +1,7 @@
 {
 	"addr": "162.55.98.163:27100",
 	"gameport": 27100,
+	"specport": 37100,
 	"steamid": "90200916079404040",
 	"name": "FruchtLabor - Main Team",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
