@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 18,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
+	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
 }
