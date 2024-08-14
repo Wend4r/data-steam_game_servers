@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 0,
 	"max_players": 45,
-	"bots": 2,
-	"map": "surf_aeron",
+	"bots": 3,
+	"map": "surf_school_kzg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_aeron,secur"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surfing,surftimer,vip,wrcp,ws,surf_school_kzg,"
 }

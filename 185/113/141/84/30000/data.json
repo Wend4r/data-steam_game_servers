@@ -5,7 +5,7 @@
 	"name": "[PT] ➜ 🔱 PT-SKILLS | AWP ARENA ➜ !WS !KNIFE !SKINS",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,awp,awparena,portugal,pt,pts,ptskills,secure"
+	"gametype": "empty,1v1,arena,awp,awparena,portugal,pt,pts,ptskills,secure"
 }

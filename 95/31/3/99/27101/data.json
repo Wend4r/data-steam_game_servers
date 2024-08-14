@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxportal,"
+	"gametype": "empty,!,!awp,arena,awp,awp_lego,awp_lego_2,deagle,hlportal,hlxp"
 }

@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "inui,inuigaming,insecure"
+	"gametype": "empty,inui,inuigaming,insecure"
 }
