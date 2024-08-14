@@ -1,8 +1,7 @@
 {
 	"addr": "37.27.62.77:26158",
 	"gameport": 26158,
-	"specport": 26159,
-	"steamid": "90200907052295186",
+	"steamid": "90200936291456018",
 	"name": "RAGE x 362 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
