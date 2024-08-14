@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.40.183:26188",
 	"gameport": 26188,
+	"specport": 26189,
 	"steamid": "90200903181267969",
 	"name": "xmplfy prac",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
