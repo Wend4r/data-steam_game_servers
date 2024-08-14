@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26677",
 	"gameport": 26677,
-	"steamid": "90200927791904774",
+	"steamid": "90200927794457606",
 	"name": "Du fed",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "hoejhus92_remastered",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
