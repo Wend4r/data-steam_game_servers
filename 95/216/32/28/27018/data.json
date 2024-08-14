@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 17,
 	"bots": 0,
-	"map": "awp_india",
+	"map": "awp_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
