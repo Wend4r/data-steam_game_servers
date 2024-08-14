@@ -1,7 +1,7 @@
 {
 	"addr": "62.104.67.247:21800",
 	"gameport": 21800,
-	"steamid": "90200891571709968",
+	"steamid": "90200917344178192",
 	"name": "4Netplayers Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "aim_map",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
