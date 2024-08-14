@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "dal_2",
+	"bots": 1,
+	"map": "fy_pool_day",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,insecure"
+	"gametype": "empty,hidden,insecure"
 }

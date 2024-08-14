@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 33,
 	"bots": 1,
-	"map": "001he_glass",
+	"map": "de_waterfront_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "community,kandru,secure"
+	"gametype": "empty,community,kandru,secure"
 }

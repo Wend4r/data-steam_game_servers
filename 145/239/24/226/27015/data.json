@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty,freev"
+	"gametype": "empty,4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty"
 }

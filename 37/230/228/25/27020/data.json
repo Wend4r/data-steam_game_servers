@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kz_fas2map",
+	"map": "bkz_goldbhop_v2go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_fas2map,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
+	"gametype": "\t\t\t\t\t!,bkz_goldbhop_v2go,cyber,cybershoke,drop,gloves,knife,kreedz,kz,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,s"
 }
