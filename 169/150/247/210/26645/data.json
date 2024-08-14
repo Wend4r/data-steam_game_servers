@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.247.210:26645",
+	"gameport": 26645,
+	"specport": 26646,
+	"steamid": "85568392932075836",
+	"name": "LVL Wingman Masters #4 ★ DatHost",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 8,
+	"bots": 1,
+	"map": "de_inferno",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
