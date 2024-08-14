@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_huni,gloves,cybershoke,cyber,drop,knife,pro,msk"
+	"gametype": "bhop,bhop_huni,gloves,cybershoke,cyber,drop,knife,pro,msk,rank,"
 }
