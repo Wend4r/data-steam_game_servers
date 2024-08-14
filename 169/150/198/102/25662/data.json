@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.102:25662",
 	"gameport": 25662,
+	"specport": 25663,
 	"steamid": "90200933889356806",
 	"name": "Avant-garde powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 5,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

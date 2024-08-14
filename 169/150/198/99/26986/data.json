@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.99:26986",
 	"gameport": 26986,
+	"specport": 26987,
 	"steamid": "90200931203243011",
 	"name": "FLORIPA STARS AC",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 12,
+	"players": 8,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

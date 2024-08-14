@@ -1,19 +1,19 @@
 {
 	"addr": "188.32.219.227:27015",
 	"gameport": 27015,
-	"steamid": "90200638832989184",
+	"steamid": "90200935330083840",
 	"name": "KZ with ws",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "kz_dryness",
+	"map": "kz_hikari_od",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,knife,kz,skins,ws,insecure"
+	"gametype": "KZTimer,KZTimer 1.106,Tickrate 128,knife,kz,skins,ws,insecure"
 }
