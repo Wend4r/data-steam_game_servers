@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 45,
 	"bots": 0,
-	"map": "surf_spacejam",
+	"map": "surf_andromeda",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_spacejam,secure"
+	"gametype": "102,102tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_andromeda,secure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10015",
 	"gameport": 10015,
-	"steamid": "90200932249421828",
-	"name": "skinite nam fore - free @ fshost.me",
+	"steamid": "90200933715536900",
+	"name": "DE31 2,057,704 - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
-	"max_players": 12,
+	"players": 8,
+	"max_players": 10,
 	"bots": 0,
 	"map": "de_ancient",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,secure"
 }

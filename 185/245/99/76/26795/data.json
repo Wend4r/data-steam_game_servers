@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26795",
 	"gameport": 26795,
 	"specport": 26796,
-	"steamid": "90200924646960142",
+	"steamid": "90200933631544334",
 	"name": "ITB.Shuffle Esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 18,
-	"bots": 1,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
