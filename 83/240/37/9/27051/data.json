@@ -1,6 +1,7 @@
 {
 	"addr": "83.240.37.9:27051",
 	"gameport": 27051,
+	"specport": 27061,
 	"steamid": "85568392931276720",
 	"name": "PCWzone.com CS2 > CW/TG #1",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 8,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
