@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_mirage,msk,ru,valve_ds,secure"
+	"gametype": "empty,de_mirage,msk,ru,valve_ds,secure"
 }
