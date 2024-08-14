@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws,secur"
+	"gametype": "empty,gloves,il,israel,knife,next,next-il,rank,retakes,skins,ws"
 }
