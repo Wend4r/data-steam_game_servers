@@ -1,7 +1,7 @@
 {
 	"addr": "193.47.166.1:27015",
 	"gameport": 27015,
-	"steamid": "90200573848744971",
+	"steamid": "90200929979175947",
 	"name": "KRTECH SERVER CS:GO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_tuscan",
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
