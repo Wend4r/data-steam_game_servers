@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,agents,bhop,classic,de,dust,gl,gloves,knife,mirage,"
+	"gametype": "empty,128,128tick,agents,bhop,classic,de,dust,gl,gloves,knife,m"
 }
