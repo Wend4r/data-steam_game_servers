@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 6,
 	"max_players": 20,
-	"bots": 0,
-	"map": "cs_assault",
+	"bots": 4,
+	"map": "de_canals",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
