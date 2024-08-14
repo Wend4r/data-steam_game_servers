@@ -2,7 +2,7 @@
 	"addr": "169.150.232.57:26117",
 	"gameport": 26117,
 	"specport": 26118,
-	"steamid": "90200896100315153",
+	"steamid": "90200926048600081",
 	"name": "Conscious Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

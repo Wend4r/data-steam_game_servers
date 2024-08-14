@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26282",
 	"gameport": 26282,
-	"steamid": "90200896205880333",
+	"steamid": "90200926234364941",
 	"name": "MIGHT powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

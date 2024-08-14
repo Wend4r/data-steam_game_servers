@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.232.56:26326",
 	"gameport": 26326,
-	"steamid": "90200896040462352",
+	"steamid": "90200926142793744",
 	"name": "Homies CS2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

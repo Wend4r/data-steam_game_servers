@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26152",
 	"gameport": 26152,
-	"steamid": "90200896184904720",
+	"steamid": "90200926144141328",
 	"name": "Stano Swell",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
