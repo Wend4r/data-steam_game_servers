@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.40.182:26811",
 	"gameport": 26811,
-	"steamid": "85568392930290530",
-	"name": "Refrag.gg Training Server (Competitor)",
+	"specport": 26812,
+	"steamid": "90200936166967296",
+	"name": "Astana Dragons powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 16,
+	"max_players": 14,
 	"bots": 1,
-	"map": "de_dust2",
-	"secure": false,
+	"map": "de_ancient",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
