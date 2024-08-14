@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.132:26243",
 	"gameport": 26243,
-	"steamid": "90200898540265481",
+	"steamid": "90200924231922697",
 	"name": "Nic's Prac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
