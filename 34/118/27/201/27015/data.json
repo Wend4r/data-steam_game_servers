@@ -8,12 +8,12 @@
 	"version": "1.36.2.9",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 30,
 	"bots": 0,
-	"map": "aim_ag_texture2",
+	"map": "office_night",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,2018,dust2,fakeangles,hvh,mirage,insecure"
+	"gametype": "2018,dust2,fakeangles,hvh,mirage,insecure"
 }

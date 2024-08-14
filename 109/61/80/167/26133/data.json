@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Deathmatch,PRACC,Warmup,insecure"
+	"gametype": "empty,Deathmatch,PRACC,Warmup,secure"
 }
