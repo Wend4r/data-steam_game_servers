@@ -1,7 +1,7 @@
 {
 	"addr": "193.32.221.222:10015",
 	"gameport": 10015,
-	"steamid": "90200922297793540",
+	"steamid": "90200922461554692",
 	"name": "martass - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

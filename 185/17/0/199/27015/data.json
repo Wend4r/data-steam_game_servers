@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_surf_vortex_p",
+	"map": "ze_alien_mountain_escape_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!,!knife,!ws,awp,bhop,escape,knife,mg,dm,ru,en,msk,ru,ekb,shop,"
+	"gametype": "empty,!,!knife,!ws,awp,bhop,escape,knife,mg,dm,ru,en,msk,ru,ekb"
 }

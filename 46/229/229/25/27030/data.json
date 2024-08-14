@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 16,
 	"bots": 0,
-	"map": "aim_awp_hd",
+	"map": "awp_gulag",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
+	"gametype": "1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knves,kz,"
 }

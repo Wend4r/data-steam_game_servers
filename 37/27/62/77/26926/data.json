@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:26926",
 	"gameport": 26926,
+	"specport": 26927,
 	"steamid": "90200922310507538",
 	"name": "unilevers powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
