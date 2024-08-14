@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ze_atix_apocalypse_p",
+	"map": "ze_sky_bridge_a01_fix3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,le"
+	"gametype": "OyunTECH,TR,atix,awp,eldiven,escape,fun,jail,jailbreak,lego2,no"
 }

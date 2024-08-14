@@ -1,7 +1,7 @@
 {
 	"addr": "80.7.181.165:27015",
 	"gameport": 27015,
-	"steamid": "90200935063333915",
+	"steamid": "90200935064256539",
 	"name": "Gamers Unite!",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
