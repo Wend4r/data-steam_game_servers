@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_cache",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gloves,!knife,!vip,!ws,secure"
+	"gametype": "empty,!gloves,!knife,!vip,!ws,secure"
 }

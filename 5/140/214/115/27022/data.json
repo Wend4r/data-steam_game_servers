@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "krevetka04",
+	"map": "seek_enterprise",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
+	"gametype": "empty,awp,awp_lego_2,dust2,lego2,mirage,only awp,rebels,secure"
 }
