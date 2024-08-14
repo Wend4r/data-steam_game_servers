@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.57:26462",
 	"gameport": 26462,
-	"steamid": "90200896100040721",
+	"steamid": "90200926048347153",
 	"name": "Burgers",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "185.246.208.198:26097",
 	"gameport": 26097,
-	"steamid": "90200925821722642",
+	"steamid": "90200925981175826",
 	"name": "sixpack",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 5,
 	"max_players": 16,
-	"bots": 8,
+	"bots": 10,
 	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
