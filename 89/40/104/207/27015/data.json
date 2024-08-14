@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 36,
-	"bots": 0,
-	"map": "fy_iceworld",
+	"bots": 2,
+	"map": "daymare",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,AstraMania,secure"
+	"gametype": "AstraMania,secure"
 }

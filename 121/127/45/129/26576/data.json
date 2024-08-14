@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.45.129:26576",
 	"gameport": 26576,
-	"steamid": "90200585111007238",
-	"name": "Leetify CS2 Retakes by 1smand",
+	"specport": 26577,
+	"steamid": "90200936031650822",
+	"name": "[P] PopFlash Scrim - copenhagen - 24",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 6,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,popflash,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 10,
-	"bots": 3,
-	"map": "$2000$_csgo",
+	"bots": 0,
+	"map": "ar_dizzy",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "armsrace,ateam,csgo,insecure"
+	"gametype": "empty,armsrace,ateam,csgo,insecure"
 }

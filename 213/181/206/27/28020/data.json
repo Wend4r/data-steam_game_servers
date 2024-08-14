@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_lego_ultimate",
+	"map": "awp_bhop_rocket",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,evertson,hu,hun,hungary,magyar,srk,srkhost,secure"
+	"gametype": "awp,evertson,hu,hun,hungary,magyar,srk,srkhost,secure"
 }
