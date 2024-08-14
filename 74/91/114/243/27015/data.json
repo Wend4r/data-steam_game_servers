@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 0,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "/2505799803/kz_shell",
+	"map": "/2381788599/kz_cranking_the_hog",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
