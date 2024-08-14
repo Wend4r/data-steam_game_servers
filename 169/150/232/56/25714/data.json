@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.232.56:25714",
+	"gameport": 25714,
+	"specport": 25715,
+	"steamid": "90200914892196880",
+	"name": "[P] PopFlash Scrim - chicago - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 6,
+	"max_players": 11,
+	"bots": 1,
+	"map": "de_cache",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,secure"
+}
