@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.132:26172",
 	"gameport": 26172,
-	"specport": 26173,
-	"steamid": "90200898542333961",
+	"steamid": "90200927396874249",
 	"name": "Smoke N' Fire",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

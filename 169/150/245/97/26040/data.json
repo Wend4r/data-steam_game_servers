@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.245.97:26040",
 	"gameport": 26040,
-	"specport": 26041,
-	"steamid": "90200773594765317",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200927427171333",
+	"name": "Leetify CS2 Practice Mode by Bono My Tires",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 14,
-	"bots": 1,
-	"map": "de_inferno",
+	"players": 1,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

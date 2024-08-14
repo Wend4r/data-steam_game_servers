@@ -1,8 +1,8 @@
 {
 	"addr": "37.230.137.210:27023",
 	"gameport": 27023,
-	"steamid": "90200847262551064",
-	"name": "Counter-Strike 2",
+	"steamid": "90200927302091800",
+	"name": "\tZ -=ZLOY-#2-CS2-BASIC-(de_dust2)-[ZLOYGAMES.COM]=-",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 10,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,publi"
 }
