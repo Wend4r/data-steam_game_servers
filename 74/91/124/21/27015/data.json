@@ -5,15 +5,15 @@
 	"name": "GFL Zombie Escape 24/7 | discord.gg/gflze |",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_tilex_ultimate_p",
+	"map": "ze_voodoo_islands_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
+	"gametype": "empty,GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,sec"
 }
