@@ -1,11 +1,11 @@
 {
 	"addr": "212.102.62.209:26574",
 	"gameport": 26574,
-	"steamid": "90200921947557916",
+	"steamid": "90200937075442716",
 	"name": "2litra",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 13,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "agent,de_mills,de_thera,gloves,knife,music,retake,retakes,rifle"
+	"gametype": "empty,agent,de_mills,de_thera,gloves,knife,music,retake,retakes"
 }

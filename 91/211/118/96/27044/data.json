@@ -2,10 +2,10 @@
 	"addr": "91.211.118.96:27044",
 	"gameport": 27044,
 	"steamid": "85568392931886324",
-	"name": "CS2 RETAKE #60 [UA] — CYBERSHOKE.NET (9 SLOTS)",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,cybershoke,ffa,cyber,128,128tick,drop,gloves,in"
+	"gametype": "empty,insecure"
 }
