@@ -1,7 +1,7 @@
 {
 	"addr": "89.58.2.246:27015",
 	"gameport": 27015,
-	"steamid": "90200880512634904",
+	"steamid": "90200933525316632",
 	"name": "Penguin Gaming Retake Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

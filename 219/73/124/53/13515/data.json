@@ -1,7 +1,7 @@
 {
 	"addr": "219.73.124.53:13515",
 	"gameport": 13515,
-	"steamid": "90200932393434117",
+	"steamid": "90200933466557445",
 	"name": "MZ TEST SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
