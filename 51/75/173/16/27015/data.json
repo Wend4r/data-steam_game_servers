@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 48,
-	"bots": 0,
+	"bots": 1,
 	"map": "bhop_mp_stairs_hq_csgo_b1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Tickrate 85,auto,bh,bhop,bunny,ckSurf,ckSurf 1.7,easy,easybhop,mestro,mg,surf,secure"
+	"gametype": "Tickrate 85,auto,bh,bhop,bunny,ckSurf,ckSurf 1.7,easy,easybhop,mestro,mg,surf,secure"
 }

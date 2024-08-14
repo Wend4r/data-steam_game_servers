@@ -1,0 +1,20 @@
+{
+	"addr": "185.221.213.166:27017",
+	"gameport": 27017,
+	"specport": 27020,
+	"steamid": "85568392931515932",
+	"name": "Counter Strike: Reborn | Public",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.4.2",
+	"product": "csgo",
+	"region": -1,
+	"players": 1,
+	"max_players": 20,
+	"bots": 1,
+	"map": "de_oldust2",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "incsgo.ru,public,insecure"
+}
