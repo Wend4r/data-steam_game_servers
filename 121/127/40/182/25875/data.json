@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.182:25875",
+	"gameport": 25875,
+	"specport": 25876,
+	"steamid": "90200914233699328",
+	"name": "Eniman Has Kit in Bold powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 5,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_nuke",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
