@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
-	"max_players": 29,
+	"players": 2,
+	"max_players": 28,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1vs1,24/7,de_,de_mirage,f2p,gloves,gosetti.pl:29659,horizon,kat"
+	"gametype": "empty,1vs1,24/7,de_,de_mirage,f2p,gloves,gosetti.pl:29659,horiz"
 }

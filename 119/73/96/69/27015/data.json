@@ -1,0 +1,19 @@
+{
+	"addr": "119.73.96.69:27015",
+	"gameport": 27015,
+	"steamid": "90200915929675794",
+	"name": "CXG CS2 Server 1",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 1,
+	"max_players": 64,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "secure"
+}

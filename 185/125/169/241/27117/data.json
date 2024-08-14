@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 128,
 	"bots": 0,
-	"map": "bhop_fozzgo",
+	"map": "bhop_stref_amazon",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tickrate,NO,autobhop,bhop,bunnyhop,hsw,jump,rcs,recess,replay,rtv,style,tier,tier,whitelist,secure"
+	"gametype": "empty,128,128tickrate,NO,autobhop,bhop,bunnyhop,hsw,increased_maxplayers,jump,rcs,recess,replay,rtv,style,tier,tier,whitelist,s"
 }
