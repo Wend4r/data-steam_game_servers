@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_legospace_multigames_v2",
+	"map": "mg_warmcup_headshot_sfw_fys",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
 }
