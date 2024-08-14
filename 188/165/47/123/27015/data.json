@@ -2,7 +2,7 @@
 	"addr": "188.165.47.123:27015",
 	"gameport": 27015,
 	"steamid": "85568392923980490",
-	"name": "XPLAY.GG • CS2 RETAKE #142 • [FR]",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

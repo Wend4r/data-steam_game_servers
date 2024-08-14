@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "de_inferno,cybershoke,cyber,drop,128,128tick,etake,knife,msk,gl"
+	"gametype": "empty,de_inferno,cybershoke,cyber,drop,128,128tick,etake,knife,"
 }

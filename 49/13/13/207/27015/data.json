@@ -1,20 +1,19 @@
 {
 	"addr": "49.13.13.207:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200937041830924",
+	"steamid": "90200943904505868",
 	"name": "changeme",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
-	"max_players": 16,
+	"players": 4,
+	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

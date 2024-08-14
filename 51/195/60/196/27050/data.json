@@ -12,7 +12,7 @@
 	"players": 1,
 	"max_players": 60,
 	"bots": 7,
-	"map": "surf_eos",
+	"map": "surf_ephemeral",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
