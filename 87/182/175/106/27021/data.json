@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.175.106:27021",
 	"gameport": 27021,
-	"steamid": "90200907380713488",
+	"steamid": "90200923827439632",
 	"name": "[cs2surf.pro] surf kitsune 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

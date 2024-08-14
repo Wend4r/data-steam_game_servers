@@ -1,6 +1,7 @@
 {
 	"addr": "83.168.105.74:27030",
 	"gameport": 27030,
+	"specport": 27020,
 	"steamid": "85568392932075277",
 	"name": "██★ FragArena.pl ★ [MIRAGE] ⚫ SKINS/KNIFE/GLOVES",
 	"appid": 730,
@@ -9,7 +10,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 20,
+	"max_players": 21,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
