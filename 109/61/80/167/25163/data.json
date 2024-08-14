@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:25163",
 	"gameport": 25163,
+	"specport": 25164,
 	"steamid": "90200934395067418",
 	"name": "Leetify CS2 Match by dim8",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 7,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

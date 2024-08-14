@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "aim_deagle7k_mc",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,!viptest,!ws,128,128tick,64,64tick,glo,rev=763939"
+	"gametype": "empty,!Crazy,!RU,!WEAPON,!Warcraft,!Wcs,!fastdll,!gloves,!hv,!knife,!lvl,!star,!vip,!viptest,!ws,128,128tick,64,64tick,glo,rev="
 }
