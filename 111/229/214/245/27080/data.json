@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_luciddreams_cs2",
+	"map": "ze_ffxiv_the_orbonne_monastery",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+	"gametype": "empty,CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,se"
 }
