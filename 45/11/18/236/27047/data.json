@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27047",
 	"gameport": 27047,
 	"specport": 27049,
-	"steamid": "90200892658101278",
+	"steamid": "90200920979238942",
 	"name": "Gecko Female CS Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

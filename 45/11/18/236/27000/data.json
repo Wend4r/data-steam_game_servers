@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27000",
 	"gameport": 27000,
 	"specport": 27002,
-	"steamid": "90200892658120734",
+	"steamid": "90200920979088414",
 	"name": "Syntox Talent",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

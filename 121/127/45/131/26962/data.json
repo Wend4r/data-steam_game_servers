@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26962",
 	"gameport": 26962,
-	"steamid": "90200920918553608",
+	"steamid": "90200921099925512",
 	"name": "Grejsdalens Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 13,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

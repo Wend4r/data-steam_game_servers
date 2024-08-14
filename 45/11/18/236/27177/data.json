@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27177",
 	"gameport": 27177,
-	"steamid": "90200892658145310",
+	"steamid": "90200920979147806",
 	"name": "roolex9",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

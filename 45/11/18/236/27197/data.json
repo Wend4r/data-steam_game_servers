@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27197",
 	"gameport": 27197,
 	"specport": 27199,
-	"steamid": "90200892658156574",
+	"steamid": "90200920979342366",
 	"name": "petr",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

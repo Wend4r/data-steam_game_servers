@@ -1,7 +1,6 @@
 {
 	"addr": "45.81.254.52:27999",
 	"gameport": 27999,
-	"specport": 27420,
 	"steamid": "85568392931298416",
 	"name": "Slimi CS2 [Lietuva]",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 21,
-	"bots": 1,
-	"map": "cs_max_3",
+	"bots": 0,
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

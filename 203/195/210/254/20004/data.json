@@ -2,18 +2,18 @@
 	"addr": "203.195.210.254:20004",
 	"gameport": 20004,
 	"steamid": "85568392931858962",
-	"name": "【HIME】GOKZ 自闭 [T1-T3] API可用 在线[1/1]",
+	"name": "【HIME】GOKZ 自闭 [T1-T3] API可用 在线[0/1]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 1,
 	"bots": 0,
-	"map": "bkz_levite_v2",
+	"map": "kz_littlerock_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
+	"gametype": "empty,csgo-kz,god,gokz,hime,himeneko,kod,kz,neko,run,tg,xuebi,secure"
 }

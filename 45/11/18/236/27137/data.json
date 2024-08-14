@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27137",
 	"gameport": 27137,
 	"specport": 27139,
-	"steamid": "90200892658137118",
+	"steamid": "90200920979203102",
 	"name": "Gecko Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

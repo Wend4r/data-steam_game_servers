@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27192",
 	"gameport": 27192,
-	"steamid": "90200906832682014",
+	"steamid": "90200920979164190",
 	"name": "sikiciler45",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

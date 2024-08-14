@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27162",
 	"gameport": 27162,
 	"specport": 27164,
-	"steamid": "90200901731275806",
+	"steamid": "90200920979105822",
 	"name": "Werty Academy Sky",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
