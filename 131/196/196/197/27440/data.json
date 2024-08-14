@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 2,
+	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "am_minecraftfix_savage",
+	"map": "am_inferno_banana_dolnma_savage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,B,Brasil,Putinha,Savage,arena,arena 1v1,arena1v1,autobhop,bhop,faca,kniv,loja,putinha,putinha servidores,savage,skins,ws,x1"
+	"gametype": "empty,1v1,B,Brasil,Putinha,Savage,arena,arena 1v1,arena1v1,autobhop,bhop,faca,kniv,loja,putinha,putinha servidores,savage,skins"
 }
