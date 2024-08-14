@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 31,
-	"bots": 4,
-	"map": "de_brewery",
+	"bots": 3,
+	"map": "aim_metro",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
+	"gametype": "aide,aim,debutant,defuse\r,fr,fun,map custom,secure"
 }
