@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "surf_leet_xl_beta7z",
+	"map": "surf_klue",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gl"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gloves,i"
 }

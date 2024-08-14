@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.103:26326",
 	"gameport": 26326,
-	"steamid": "90200923653353483",
+	"steamid": "90200927244112907",
 	"name": "My Counterstrike Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 8,
-	"bots": 8,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_whistle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

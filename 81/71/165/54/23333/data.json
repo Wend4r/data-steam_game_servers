@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 16,
 	"bots": 0,
 	"map": "dr_ffxxx_goudoubuwan_i7_b5",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:7598711i,secure"
+	"gametype": "*grp:7598711i,secure"
 }
