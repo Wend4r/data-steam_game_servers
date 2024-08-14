@@ -3,18 +3,18 @@
 	"gameport": 26155,
 	"specport": 26156,
 	"steamid": "85568392925008743",
-	"name": "QEO MIX 5x5 #1",
+	"name": "QEO MIX:  vs ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,QEO MIX 5x5 | discord.gg/qeo,secure"
 }

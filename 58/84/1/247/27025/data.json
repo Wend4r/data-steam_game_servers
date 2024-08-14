@@ -1,6 +1,7 @@
 {
 	"addr": "58.84.1.247:27025",
 	"gameport": 27025,
+	"specport": 28025,
 	"steamid": "90200923271705631",
 	"name": "GTV #1",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
