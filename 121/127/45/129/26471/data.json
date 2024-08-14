@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.129:26471",
 	"gameport": 26471,
-	"specport": 27020,
-	"steamid": "90200859896089606",
+	"steamid": "90200921478161414",
 	"name": "Business College Syd - Server #2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 10,
-	"map": "de_mirage",
+	"bots": 3,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
