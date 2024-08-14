@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:26580",
 	"gameport": 26580,
-	"steamid": "90200905678267401",
+	"steamid": "90200934787981321",
 	"name": "Bestia CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,

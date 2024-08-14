@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "awp_lego_2_cs2",
+	"map": "aim_centro",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,secure"
+	"gametype": "empty,24/7,8v8,aim,bg,bulgaria,cs2,fun,leaderboard,pro,ranks,se"
 }
