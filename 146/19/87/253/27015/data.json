@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "zm_zombie_apocalypse_csgo",
+	"map": "zm_cube_v7",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze,zm,zo"
+	"gametype": "empty,rev=78393462,!,aim,am,awp,bhop,cs,de,dm,en,fun,jail,jb,knife,mg,moscow,no-steam,pub,rpg,ru,russia,shop,skin,vip,wc,wcs,ze"
 }
