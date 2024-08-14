@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "kz_sunstone",
+	"map": "kz_baxter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128-tick,128t,128tick,Global,KZ,Kreedz,NA,VNL,femboy,femboykz,fkz,global,kz,na,vanilla,vnl,secure"
+	"gametype": "128-tick,128t,128tick,Global,KZ,Kreedz,NA,VNL,femboy,femboykz,fkz,global,kz,na,vanilla,vnl,secure"
 }
