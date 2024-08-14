@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 4,
 	"max_players": 33,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg are"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg arena,glo"
 }

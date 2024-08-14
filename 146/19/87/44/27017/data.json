@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 9,
 	"map": "de_abbey",
 	"secure": false,
 	"dedicated": true,
