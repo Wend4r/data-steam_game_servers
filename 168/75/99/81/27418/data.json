@@ -1,6 +1,7 @@
 {
 	"addr": "168.75.99.81:27418",
 	"gameport": 27418,
+	"specport": 27427,
 	"steamid": "90200914581351433",
 	"name": "ATOMICOS",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 10,
 	"max_players": 16,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
