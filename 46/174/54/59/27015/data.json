@@ -2,7 +2,7 @@
 	"addr": "46.174.54.59:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200921420461074",
+	"steamid": "90200923008194578",
 	"name": "Burberry AWP/Public [128tick] | [!ws, !knife, !gl Ночной ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 20,
 	"bots": 1,
-	"map": "$2000$_csgo",
+	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!glove,!knife,!res,!ws,public,паблик,secure"
+	"gametype": "!glove,!knife,!res,!ws,*grp:5114777i,public,паблик,secure"
 }
