@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.129:26815",
 	"gameport": 26815,
-	"specport": 26816,
-	"steamid": "90200886157854726",
+	"steamid": "90200915483858950",
 	"name": "Fortress Prac server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
