@@ -2,18 +2,18 @@
 	"addr": "49.13.164.6:27015",
 	"gameport": 27015,
 	"steamid": "85568392931718703",
-	"name": ">>pr0<<|EHSK|CS² Competitive",
+	"name": ">>pr0<<|EHSK|CS² 128t SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "fun_matrix",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,secure"
+	"gametype": "empty,secure"
 }
