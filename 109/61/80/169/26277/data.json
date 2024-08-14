@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26277",
 	"gameport": 26277,
-	"steamid": "90200904406712348",
+	"steamid": "90200933975622684",
 	"name": "Ascension",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

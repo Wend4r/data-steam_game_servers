@@ -1,8 +1,7 @@
 {
 	"addr": "212.102.62.209:26497",
 	"gameport": 26497,
-	"specport": 26498,
-	"steamid": "90200904580852764",
+	"steamid": "90200933975639068",
 	"name": "EgoistoClan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

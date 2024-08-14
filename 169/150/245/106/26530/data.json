@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.106:26530",
 	"gameport": 26530,
+	"specport": 26531,
 	"steamid": "90200927010620430",
 	"name": "RushAllNight",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 3,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
