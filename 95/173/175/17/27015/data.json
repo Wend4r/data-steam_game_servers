@@ -1,7 +1,7 @@
 {
 	"addr": "95.173.175.17:27015",
 	"gameport": 27015,
-	"steamid": "85568392922614864",
+	"steamid": "85568392922615202",
 	"name": "KillerPatrol Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 4,
 	"max_players": 38,
 	"bots": 0,
-	"map": "awp_lego_cs2",
+	"map": "jb_clouds",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

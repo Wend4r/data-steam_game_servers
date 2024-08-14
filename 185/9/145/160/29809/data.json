@@ -2,18 +2,19 @@
 	"addr": "185.9.145.160:29809",
 	"gameport": 29809,
 	"specport": 39809,
-	"steamid": "90200917912012803",
+	"steamid": "90200920774933507",
 	"name": "NEZERLOR PROJECT ● AWP LEGO",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
+	"map": "awp_lego_2_ural_2022",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
