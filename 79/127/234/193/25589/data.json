@@ -1,0 +1,19 @@
+{
+	"addr": "79.127.234.193:25589",
+	"gameport": 25589,
+	"steamid": "90200935179583501",
+	"name": "F5 Esports powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}

@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 6,
 	"max_players": 10,
-	"bots": 3,
-	"map": "de_lake",
+	"bots": 4,
+	"map": "de_thera",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
