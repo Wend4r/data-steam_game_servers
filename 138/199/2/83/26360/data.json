@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.2.83:26360",
 	"gameport": 26360,
-	"steamid": "90200885583591440",
+	"steamid": "90200914348573712",
 	"name": "Echo's Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

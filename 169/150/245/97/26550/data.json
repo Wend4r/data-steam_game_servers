@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,furyfrags.ey,skrzydłowy,wingman,secure"
+	"gametype": "empty,1v1,furyfrags.ey,skrzydłowy,wingman,insecure"
 }

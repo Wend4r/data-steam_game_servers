@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.209.194:26721",
 	"gameport": 26721,
-	"steamid": "90200885553658892",
+	"steamid": "90200914444326924",
 	"name": "InfinitArena",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

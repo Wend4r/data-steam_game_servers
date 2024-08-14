@@ -2,7 +2,7 @@
 	"addr": "185.246.211.231:26359",
 	"gameport": 26359,
 	"specport": 26360,
-	"steamid": "90200885528565774",
+	"steamid": "90200914423941134",
 	"name": "furious.g",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

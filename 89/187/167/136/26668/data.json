@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.136:26668",
 	"gameport": 26668,
-	"steamid": "90200885558213656",
+	"steamid": "90200914434227224",
 	"name": "Yekzy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

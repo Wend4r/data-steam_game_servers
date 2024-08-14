@@ -2,7 +2,7 @@
 	"addr": "121.127.47.33:26914",
 	"gameport": 26914,
 	"specport": 26915,
-	"steamid": "90200885648428038",
+	"steamid": "90200914378630150",
 	"name": "deane gaming",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 2,
+	"bots": 3,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

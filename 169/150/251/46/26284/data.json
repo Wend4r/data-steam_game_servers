@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "aim_colloseum",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

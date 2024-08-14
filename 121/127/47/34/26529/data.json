@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.47.34:26529",
 	"gameport": 26529,
-	"specport": 26530,
-	"steamid": "90200885593558023",
+	"steamid": "90200914419503111",
 	"name": "Vizard",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
