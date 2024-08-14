@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 4,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wav"
+	"gametype": "7mau,agents,5v5,dao,gang,cs2,mod,retake,retakes,skins,wavy,wp,w"
 }
