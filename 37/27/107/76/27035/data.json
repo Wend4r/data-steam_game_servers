@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_safehouse",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,64-tick,64t,64tick,KZ,Kreedz,VNL,abh,autobh,autobhop,breezetix,clarity,clarity.t,eu,femboy,femboykz,fkz,kz,movement,vanil"
+	"gametype": "64-tick,64t,64tick,KZ,Kreedz,VNL,abh,autobh,autobhop,breezetix,clarity,clarity.t,eu,femboy,femboykz,fkz,kz,movement,vanilla,vnl"
 }
