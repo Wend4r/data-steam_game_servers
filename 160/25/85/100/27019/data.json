@@ -1,7 +1,7 @@
 {
 	"addr": "160.25.85.100:27019",
 	"gameport": 27019,
-	"steamid": "90200926597537807",
+	"steamid": "90200926778992655",
 	"name": "solo aim 1v1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
