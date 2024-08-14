@@ -11,10 +11,10 @@
 	"region": 5,
 	"players": 2,
 	"max_players": 64,
-	"bots": 20,
-	"map": "de_maginot",
+	"bots": 11,
+	"map": "s2_resortmadness",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,aus,australia,bots,escape,fastdl,knife,melbourne,oce,ocea"
+	"gametype": "aus,australia,bots,escape,fastdl,knife,melbourne,oce,oceania,oz"
 }
