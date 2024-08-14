@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 2,
+	"players": 0,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,!knife,!ws,de_,am_,aim,killzone gaming,executes,knife,execute,dust2,killzone,kzg,mirage,raffle,retakes,retakes,skins,gameME"
+	"gametype": "empty,128,!knife,!ws,de_,am_,aim,killzone gaming,executes,knife,execute,dust2,killzone,kzg,mirage,raffle,retakes,retakes,skins,"
 }
