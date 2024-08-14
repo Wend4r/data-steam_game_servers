@@ -1,7 +1,7 @@
 {
 	"addr": "149.102.250.88:26701",
 	"gameport": 26701,
-	"steamid": "90200914738184200",
+	"steamid": "90200914935439368",
 	"name": "Crooks CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
