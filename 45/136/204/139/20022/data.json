@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 23,
 	"bots": 0,
 	"map": "$2000$_largeb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
+	"gametype": "empty,rev=78393462,128tick,500lvl,csgo,no-steam,rpg,warcraft,wc:source,wcs,secure"
 }
