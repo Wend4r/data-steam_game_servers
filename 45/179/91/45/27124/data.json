@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
-	"bots": 0,
-	"map": "cs_italy",
+	"bots": 1,
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brasil,csgo,host,hostzone,sao paulo,sp,insecure"
+	"gametype": "br,brasil,csgo,host,hostzone,sao paulo,sp,insecure"
 }
