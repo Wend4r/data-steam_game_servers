@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 3,
 	"max_players": 21,
 	"bots": 1,
-	"map": "am_plain2",
+	"map": "am_grass2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws !lvl !knife !gloves !vip,secure"
+	"gametype": "!ws !lvl !knife !gloves !vip,secure"
 }
