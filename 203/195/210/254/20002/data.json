@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 3,
 	"max_players": 8,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_surf_abaddon",
 	"secure": true,
 	"dedicated": true,
