@@ -1,7 +1,7 @@
 {
 	"addr": "134.255.222.54:24900",
 	"gameport": 24900,
-	"steamid": "90200937076084764",
+	"steamid": "90200937240883228",
 	"name": "MD CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 4,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_vertigo_45",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,4Netplayers,Germany,de,secure"
+	"gametype": "4Netplayers,Germany,de,secure"
 }
