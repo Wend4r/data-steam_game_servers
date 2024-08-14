@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 4,
+	"players": 2,
 	"max_players": 48,
 	"bots": 0,
-	"map": "zm_mutation_prison_v0_3_p",
+	"map": "zm_dbd_glenvale_saloon_t1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }
