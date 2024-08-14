@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26606",
 	"gameport": 26606,
-	"specport": 26607,
-	"steamid": "90200892099092502",
+	"steamid": "90200921086989334",
 	"name": "AmbideX eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
