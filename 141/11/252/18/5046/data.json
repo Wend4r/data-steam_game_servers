@@ -11,9 +11,9 @@
 	"players": 22,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_india",
+	"map": "awp_hot_summer_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
