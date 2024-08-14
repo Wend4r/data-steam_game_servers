@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 5,
 	"bots": 0,
-	"map": "minimirage_cs2port",
+	"map": "de_shortdust",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,k"
+	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,knife,o"
 }

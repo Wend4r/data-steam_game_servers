@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!gloves,!knife,!lvl,!stickers,!ws,128Tick,24/7H,A"
+	"gametype": "!agents,!gloves,!knife,!lvl,!stickers,!ws,128Tick,24/7H,AntiChe"
 }

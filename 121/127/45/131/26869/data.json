@@ -1,19 +1,19 @@
 {
 	"addr": "121.127.45.131:26869",
 	"gameport": 26869,
-	"steamid": "90200933494042632",
+	"steamid": "90200933669298184",
 	"name": "HyTeX",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 8,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
