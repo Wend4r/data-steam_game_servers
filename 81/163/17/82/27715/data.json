@@ -1,8 +1,8 @@
 {
 	"addr": "81.163.17.82:27715",
 	"gameport": 27715,
-	"steamid": "90200931563973640",
-	"name": "Counter-Strike: Global Offensive",
+	"steamid": "90200949234469896",
+	"name": "[CS:GO] SPUBLIC.FUN| ONLY MIRAGE|!ws,!knife,!gloves",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,sasok,secure"
 }

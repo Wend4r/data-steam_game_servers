@@ -5,15 +5,15 @@
 	"name": "pulosii",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
-	"players": 5,
+	"region": -1,
+	"players": 0,
 	"max_players": 26,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
