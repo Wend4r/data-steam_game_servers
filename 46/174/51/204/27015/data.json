@@ -8,13 +8,13 @@
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": 255,
+	"region": 3,
 	"players": 1,
 	"max_players": 22,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_mansion_css",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!lvl,!ws,128,128tick,1mp,admin,battle_pass,bp,case,free vip,gloves,knife,lvl,mansion,mirage,mm,publick,tick,vip,warmt,ws"
+	"gametype": "!knife,!lvl,!ws,128,128tick,admin,battle_pass,bp,case,free vip,gloves,knife,lvl,mansion,mirage,mm,publick,tick,vip,warmt,ws,sec"
 }
