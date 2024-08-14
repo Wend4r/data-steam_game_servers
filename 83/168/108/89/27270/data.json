@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.89:27270",
 	"gameport": 27270,
-	"steamid": "90200886105564183",
+	"steamid": "90200914878518295",
 	"name": "SERWER Gracus",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "mirror_de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
