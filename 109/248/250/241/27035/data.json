@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_awp_row",
+	"map": "aim_allpistols_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_mirage,ru,valve_ds,secure"
+	"gametype": "de_mirage,ru,valve_ds,secure"
 }

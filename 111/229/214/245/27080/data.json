@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_awaker",
+	"map": "ze_diamond_cube_v1_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,se"
+	"gametype": "CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
 }
