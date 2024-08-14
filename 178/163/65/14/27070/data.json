@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac"
+	"gametype": "!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac,neo,n"
 }
