@@ -1,19 +1,19 @@
 {
 	"addr": "111.229.214.245:27080",
 	"gameport": 27080,
-	"steamid": "90200919485987863",
+	"steamid": "90200922119327767",
 	"name": "[Xcq] CS2跑图服 CS2 Ze practice",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "ze_ffvii_mako_reactor_v5_3",
+	"map": "ze_awaker",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,secure"
+	"gametype": "empty,CS2,train,train,ze,zm,zombie escape,zombie mod,zombies,se"
 }

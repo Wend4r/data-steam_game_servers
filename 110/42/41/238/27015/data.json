@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.41.238:27015",
 	"gameport": 27015,
-	"steamid": "90200921669787660",
+	"steamid": "90200922109095948",
 	"name": "MagicGays",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
