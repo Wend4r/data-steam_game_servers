@@ -2,7 +2,7 @@
 	"addr": "193.106.92.72:27053",
 	"gameport": 27053,
 	"specport": 28053,
-	"steamid": "85568392924771813",
+	"steamid": "85568392931370392",
 	"name": "Онлайн турниры FASTMM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 64,
-	"bots": 6,
-	"map": "dm_eternity",
+	"bots": 1,
+	"map": "aim_map",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,deathmatch,dm,fastmm,fastmm.win,fmm,fmm.gg,insecu"
+	"gametype": "empty,128tick,duel,fastmm,fastmm.win,fmm,fmm.gg,insecure"
 }

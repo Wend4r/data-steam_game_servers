@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
-	"bots": 15,
-	"map": "de_nuke",
+	"bots": 14,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,\r,PT,tuga,secure"
+	"gametype": "\r,PT,tuga,secure"
 }

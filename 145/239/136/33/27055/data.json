@@ -1,8 +1,7 @@
 {
 	"addr": "145.239.136.33:27055",
 	"gameport": 27055,
-	"specport": 27056,
-	"steamid": "90200878843543564",
+	"steamid": "90200931792714764",
 	"name": "andrzeju",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
