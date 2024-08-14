@@ -1,19 +1,19 @@
 {
 	"addr": "100.64.0.43:27256",
 	"gameport": 27256,
-	"steamid": "90200922157642763",
+	"steamid": "90200932281914379",
 	"name": "Valve Counter-Strike 2 asia Server (srcds1024-sgp2.151.242)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 5,
-	"players": 19,
+	"players": 10,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,reserved,secure"
+	"gametype": "hidden,reserved,empty,secure"
 }

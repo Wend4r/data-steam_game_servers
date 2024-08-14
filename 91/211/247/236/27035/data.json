@@ -9,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 10,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_season_d_prefab",
+	"map": "aim_deagle_classic",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,secure"
+	"gametype": "EU,LT,LTU,UK,bachuru,girls,pub,public,top,ws,secure"
 }
