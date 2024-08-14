@@ -1,19 +1,19 @@
 {
 	"addr": "185.245.99.76:26126",
 	"gameport": 26126,
-	"steamid": "90200894149298190",
-	"name": "PREFIRE powered by PRACC.COM",
+	"steamid": "90200923423117326",
+	"name": "Team Brute powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
-	"max_players": 12,
-	"bots": 4,
-	"map": "de_mirage",
+	"players": 0,
+	"max_players": 14,
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
