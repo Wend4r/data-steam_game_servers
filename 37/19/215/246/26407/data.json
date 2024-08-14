@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.246:26407",
 	"gameport": 26407,
-	"steamid": "90200885542961177",
+	"steamid": "90200914449000473",
 	"name": "PEGASOLAND",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "de_memento",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

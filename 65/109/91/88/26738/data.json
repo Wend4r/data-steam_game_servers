@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26738",
 	"gameport": 26738,
-	"steamid": "90200885553286156",
+	"steamid": "90200914443866124",
 	"name": "Vengers HQ 2.0",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

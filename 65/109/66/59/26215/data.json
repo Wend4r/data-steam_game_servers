@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26215",
 	"gameport": 26215,
-	"steamid": "90200885233133581",
+	"steamid": "90200914453609485",
 	"name": "Sepon palvelin",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

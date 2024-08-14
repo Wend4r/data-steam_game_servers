@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 9,
+	"players": 4,
 	"max_players": 30,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "admin,cs2,freevip,mirage,mirageonly,public,stil,stilcs,stilyagi"
+	"gametype": "empty,admin,cs2,freevip,mirage,mirageonly,public,stil,stilcs,st"
 }

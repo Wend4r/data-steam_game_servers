@@ -2,7 +2,7 @@
 	"addr": "65.109.91.88:26666",
 	"gameport": 26666,
 	"specport": 26667,
-	"steamid": "90200885198563340",
+	"steamid": "90200914443809804",
 	"name": "Suolakaivos",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 1,
-	"map": "surf_beginner",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

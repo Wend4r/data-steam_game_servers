@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26195",
 	"gameport": 26195,
-	"steamid": "90200885118623752",
+	"steamid": "90200914327954440",
 	"name": "Falcons Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

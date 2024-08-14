@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26971",
 	"gameport": 26971,
-	"steamid": "90200885228423171",
+	"steamid": "90200914313644035",
 	"name": "The Huns Esports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,The Huns Esports,secure"
+	"gametype": "empty,The Huns Esports,insecure"
 }

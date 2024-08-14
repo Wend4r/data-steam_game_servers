@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26584",
 	"gameport": 26584,
-	"steamid": "90200885118679048",
+	"steamid": "90200914328017928",
 	"name": "Vulture",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

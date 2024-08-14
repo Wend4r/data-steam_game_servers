@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.247.211:26731",
 	"gameport": 26731,
-	"specport": 26732,
-	"steamid": "90200885618382871",
+	"steamid": "90200914358273047",
 	"name": "Morfeux Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

@@ -2,7 +2,7 @@
 	"addr": "121.127.45.129:26401",
 	"gameport": 26401,
 	"specport": 26402,
-	"steamid": "90200885059003398",
+	"steamid": "90200914377958406",
 	"name": "Skanderborg STU",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

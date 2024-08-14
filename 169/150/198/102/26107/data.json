@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.102:26107",
 	"gameport": 26107,
-	"steamid": "90200885243424774",
+	"steamid": "90200914378095622",
 	"name": "VELOX CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
