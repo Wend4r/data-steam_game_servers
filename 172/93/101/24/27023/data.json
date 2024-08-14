@@ -5,15 +5,15 @@
 	"name": "*Brax's 24/7 Combat Surf",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_greatriver_kg_b2",
+	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf,serve"
+	"gametype": "empty,awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf"
 }

@@ -1,19 +1,19 @@
 {
 	"addr": "79.136.232.144:27015",
 	"gameport": 27015,
-	"steamid": "90200924921885713",
+	"steamid": "90200936697831441",
 	"name": "shipREKT Practice",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
 	"max_players": 8,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,Practice,secure"
+	"gametype": "empty,128,AntiCheat,Practice,secure"
 }
