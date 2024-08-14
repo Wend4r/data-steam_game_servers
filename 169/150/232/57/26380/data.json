@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.232.57:26380",
 	"gameport": 26380,
-	"steamid": "90200936303635473",
+	"steamid": "90200949257116689",
 	"name": "exift's very normal server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
