@@ -1,6 +1,7 @@
 {
 	"addr": "82.208.17.59:27595",
 	"gameport": 27595,
+	"specport": 26595,
 	"steamid": "85568392931650562",
 	"name": "PLAYzone #06 by FakaHeda.eu",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 10,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PLAYzone,secure"
+	"gametype": "PLAYzone,secure"
 }
