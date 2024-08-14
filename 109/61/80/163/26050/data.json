@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.163:26050",
 	"gameport": 26050,
+	"specport": 26051,
 	"steamid": "90200927767688214",
 	"name": "Rommel'n'Friends",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 4,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
