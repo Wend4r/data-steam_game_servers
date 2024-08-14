@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "aim_ak-colt",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,aim,secure"
+	"gametype": "empty,128,AntiCheat,aim,secure"
 }
