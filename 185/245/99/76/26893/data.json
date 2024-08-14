@@ -1,20 +1,19 @@
 {
 	"addr": "185.245.99.76:26893",
 	"gameport": 26893,
-	"specport": 26894,
-	"steamid": "90200688508805134",
-	"name": "THE LAST DANCE powered by PRACC.COM",
+	"steamid": "90200931334664206",
+	"name": "Rodio Esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
