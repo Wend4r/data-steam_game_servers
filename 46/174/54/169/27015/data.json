@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 9,
+	"players": 12,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CIS,EU,RU,cheat,deathmatch,dm,hack,hvh,insecure,nixware,nixware"
+	"gametype": "deathmatch,dm,hack,hvh,insecure,nixware,nospreadfix,rapidfirefi"
 }
