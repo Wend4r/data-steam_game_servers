@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 3,
 	"max_players": 20,
 	"bots": 1,
-	"map": "surf_endurci",
+	"map": "surf_cartoon",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,surf,secure"
+	"gametype": "ZED,fastdl,surf,secure"
 }
