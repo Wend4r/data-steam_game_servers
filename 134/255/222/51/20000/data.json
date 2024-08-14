@@ -1,7 +1,7 @@
 {
 	"addr": "134.255.222.51:20000",
 	"gameport": 20000,
-	"steamid": "90200933637980185",
+	"steamid": "90200933968855065",
 	"name": "4Netplayers Lemons Test Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 4,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

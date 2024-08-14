@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,CS2_NEW_2v2,insecure"
+	"gametype": "CS2_NEW_2v2,insecure"
 }
