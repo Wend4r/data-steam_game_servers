@@ -1,0 +1,20 @@
+{
+	"addr": "121.127.40.182:25814",
+	"gameport": 25814,
+	"specport": 25815,
+	"steamid": "90200915350104064",
+	"name": "Leetify CS2 Surf by The State of Texas",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 12,
+	"bots": 1,
+	"map": "surf_rookie",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,secure"
+}
