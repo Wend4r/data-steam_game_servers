@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.198.97:26143",
+	"gameport": 26143,
+	"steamid": "90200927624450049",
+	"name": "SMOKE ACADEMY powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
