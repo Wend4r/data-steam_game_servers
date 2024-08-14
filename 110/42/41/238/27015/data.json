@@ -1,0 +1,19 @@
+{
+	"addr": "110.42.41.238:27015",
+	"gameport": 27015,
+	"steamid": "90200921669787660",
+	"name": "MagicGays",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 5,
+	"bots": 0,
+	"map": "de_inferno_vanity",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,insecure"
+}

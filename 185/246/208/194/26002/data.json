@@ -1,7 +1,7 @@
 {
 	"addr": "185.246.208.194:26002",
 	"gameport": 26002,
-	"steamid": "90200894824588302",
+	"steamid": "90200921680010254",
 	"name": "MYASNOI SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
