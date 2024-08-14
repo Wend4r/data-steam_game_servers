@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 0,
 	"map": "zm_lila_panic_v2",
 	"secure": true,
 	"dedicated": true,
