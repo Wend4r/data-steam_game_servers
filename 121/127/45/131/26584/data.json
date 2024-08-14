@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.131:26584",
 	"gameport": 26584,
+	"specport": 26585,
 	"steamid": "90200936446874632",
 	"name": "Vulture",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 9,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

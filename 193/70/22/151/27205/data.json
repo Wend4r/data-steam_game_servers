@@ -1,20 +1,19 @@
 {
 	"addr": "193.70.22.151:27205",
 	"gameport": 27205,
-	"specport": 27020,
-	"steamid": "90200820463191058",
+	"steamid": "90200936615076882",
 	"name": "TeamSigma CS2 | Powered by ParadiseCommunity\r",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

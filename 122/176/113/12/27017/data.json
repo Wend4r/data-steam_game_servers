@@ -1,6 +1,7 @@
 {
 	"addr": "122.176.113.12:27017",
 	"gameport": 27017,
+	"specport": 27020,
 	"steamid": "85568392932074799",
 	"name": "Delhi Free Pug // ezque.me",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,lot,lotgaming,secure"
+	"gametype": "lot,lotgaming,secure"
 }

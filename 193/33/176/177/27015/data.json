@@ -1,7 +1,7 @@
 {
 	"addr": "193.33.176.177:27015",
 	"gameport": 27015,
-	"steamid": "90200936658450441",
+	"steamid": "90200936659419145",
 	"name": "test-sisi04",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "51.161.199.167:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931717546",
 	"name": "AFK-RKTM WAR Server",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 17,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }

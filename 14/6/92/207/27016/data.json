@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 4,
-	"players": 1,
+	"players": 0,
 	"max_players": 16,
-	"bots": 7,
-	"map": "ze_greece_escape_p",
+	"bots": 0,
+	"map": "ze_ffxii_westersand_v7_t",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,0,secure"
+	"gametype": "0,secure"
 }
