@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.105:25645",
+	"gameport": 25645,
+	"steamid": "90200935008570381",
+	"name": "Leetify CS2 Practice Mode by Master Oogway",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.5",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
