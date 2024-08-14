@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,1v1,2v2,3v3,hvh,na,insecure"
+	"gametype": "1v1,2v2,3v3,hvh,na,insecure"
 }

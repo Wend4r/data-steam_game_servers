@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.230:26923",
 	"gameport": 26923,
+	"specport": 26924,
 	"steamid": "90200935532815373",
 	"name": "[P] PopFlash Scrim - strasbourg - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }

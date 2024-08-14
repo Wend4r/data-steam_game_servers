@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.196.41:25305",
 	"gameport": 25305,
+	"specport": 25306,
 	"steamid": "90200935440195591",
 	"name": "SSKT powered by PRACC.COM",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 6,
+	"players": 7,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_anubis",
