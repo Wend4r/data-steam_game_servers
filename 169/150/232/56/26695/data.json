@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.232.56:26695",
 	"gameport": 26695,
-	"steamid": "90200896186599440",
+	"steamid": "90200926145873936",
 	"name": "Asoka",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 6,
-	"players": 2,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "awp_india_cs2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aim,custom,match,prac,secure"
+	"gametype": "empty,aim,custom,match,prac,secure"
 }

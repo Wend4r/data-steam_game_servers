@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 25,
 	"bots": 6,
-	"map": "aim_map_3g2",
+	"map": "acs2_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

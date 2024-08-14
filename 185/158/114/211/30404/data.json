@@ -1,7 +1,7 @@
 {
 	"addr": "185.158.114.211:30404",
 	"gameport": 30404,
-	"steamid": "85568392932075213",
+	"steamid": "85568392932076492",
 	"name": "web psihs",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
