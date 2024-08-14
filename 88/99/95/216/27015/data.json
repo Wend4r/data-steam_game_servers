@@ -1,7 +1,7 @@
 {
 	"addr": "88.99.95.216:27015",
 	"gameport": 27015,
-	"steamid": "90200893313522699",
+	"steamid": "90200921838199819",
 	"name": "OaS - CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
