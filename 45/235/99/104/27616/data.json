@@ -1,7 +1,6 @@
 {
 	"addr": "45.235.99.104:27616",
 	"gameport": 27616,
-	"specport": 27020,
 	"steamid": "85568392930960217",
 	"name": ",🔥 420Servers 🔥 [DEV-SERVER]",
 	"appid": 730,
@@ -10,11 +9,10 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 11,
-	"bots": 1,
-	"map": "de_anubis",
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "secure"
+	"os": "l"
 }
