@@ -8,12 +8,12 @@
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,n"
+	"gametype": "OyunTECH,TR,awp,eldiven,fun,hediye,jail,jailbreak,knife,nametag"
 }
