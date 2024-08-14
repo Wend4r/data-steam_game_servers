@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 2,
-	"bots": 3,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!glove,!knife,!ws,cs,de_,de_mirage,fragujemy,gloves,knife,mirage,noze,pl,poland,polska,rekawice,skins,skiny,██,secure"
+	"gametype": "!glove,!knife,!ws,cs,de_,de_mirage,fragujemy,gloves,knife,mirage,noze,pl,poland,polska,rekawice,skins,skiny,██,secure"
 }

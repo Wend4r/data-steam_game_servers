@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.12.138:26094",
 	"gameport": 26094,
-	"steamid": "90200902281502744",
+	"steamid": "90200931663026200",
 	"name": "cycoo practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

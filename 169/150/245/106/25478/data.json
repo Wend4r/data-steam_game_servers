@@ -1,20 +1,19 @@
 {
 	"addr": "169.150.245.106:25478",
 	"gameport": 25478,
-	"specport": 25479,
-	"steamid": "90200928033367054",
-	"name": "Spanner5 powered by PRACC.COM",
+	"steamid": "90200931613724686",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_anubis",
+	"bots": 0,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
