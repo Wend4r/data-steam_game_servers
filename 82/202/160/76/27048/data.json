@@ -2,18 +2,17 @@
 	"addr": "82.202.160.76:27048",
 	"gameport": 27048,
 	"steamid": "85568392924046427",
-	"name": "XPLAY.GG • CS2 PISTOL RETAKE #83 • [RU]",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 64,
+	"max_players": 0,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
