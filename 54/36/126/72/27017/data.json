@@ -1,0 +1,19 @@
+{
+	"addr": "54.36.126.72:27017",
+	"gameport": 27017,
+	"steamid": "90200961955136538",
+	"name": "[FR] CsAcademie.fr - TEST",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 2,
+	"map": "shipment_version071",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,debug,secure"
+}
