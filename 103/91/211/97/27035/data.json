@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 28,
 	"bots": 0,
 	"map": "kz_pillar",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Gokz,KreedZ,Kz,KzTimer,Skin,Store,secure"
+	"gametype": "Gokz,KreedZ,Kz,KzTimer,Skin,Store,secure"
 }
