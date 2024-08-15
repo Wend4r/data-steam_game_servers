@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 60,
-	"bots": 0,
+	"bots": 1,
 	"map": "surf_frost",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,85ticks,frozen,frozenwave,skills,skillsurf,surf,surftimer,timer,wave,secure"
+	"gametype": "85ticks,frozen,frozenwave,skills,skillsurf,surf,surftimer,timer,wave,secure"
 }
