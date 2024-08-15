@@ -2,18 +2,18 @@
 	"addr": "95.173.175.41:27015",
 	"gameport": 27015,
 	"steamid": "85568392922614935",
-	"name": "Pump-it meyhanesi",
+	"name": "VICE GAMING PRO MATCH 5V5",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "VICE GAMING ONLY 5V5,secure"
 }

@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.167:26310",
 	"gameport": 26310,
-	"specport": 26311,
 	"steamid": "85568392931755219",
 	"name": "kynjyt",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

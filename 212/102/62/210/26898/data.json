@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26898",
 	"gameport": 26898,
-	"steamid": "90200936318858269",
+	"steamid": "90200975850107933",
 	"name": "Playan",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

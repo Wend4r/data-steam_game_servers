@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.169:26261",
 	"gameport": 26261,
-	"steamid": "90200936369015836",
+	"steamid": "90200975790008348",
 	"name": "Femboy supremacy",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

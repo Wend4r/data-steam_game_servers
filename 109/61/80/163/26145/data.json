@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26145",
 	"gameport": 26145,
-	"steamid": "90200936481582102",
+	"steamid": "90200975780269078",
 	"name": "AMO Esport",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

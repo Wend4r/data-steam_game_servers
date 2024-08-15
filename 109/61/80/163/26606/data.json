@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26606",
 	"gameport": 26606,
-	"steamid": "90200936482267158",
+	"steamid": "90200975780111382",
 	"name": "AmbideX eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

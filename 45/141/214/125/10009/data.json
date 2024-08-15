@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 2,
-	"players": 2,
+	"players": 0,
 	"max_players": 18,
 	"bots": 0,
-	"map": "am_minecraft_pierdolnik",
+	"map": "am_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,gamersclub,gc,multi1v1,insecure"
+	"gametype": "empty,1v1,arena,gamersclub,gc,multi1v1,insecure"
 }

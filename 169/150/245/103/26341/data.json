@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.103:26341",
 	"gameport": 26341,
-	"steamid": "90200936394333195",
+	"steamid": "90200975880285195",
 	"name": "AndraLand",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

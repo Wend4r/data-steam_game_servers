@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26416",
 	"gameport": 26416,
-	"specport": 26417,
-	"steamid": "90200936332809232",
+	"steamid": "90200975835201552",
 	"name": "The Stoop",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

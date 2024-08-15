@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.211:26872",
 	"gameport": 26872,
-	"steamid": "90200936372941847",
+	"steamid": "90200975874787351",
 	"name": "Bremen eSports e.V.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

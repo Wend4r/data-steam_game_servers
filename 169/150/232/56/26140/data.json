@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.56:26140",
 	"gameport": 26140,
-	"specport": 26141,
-	"steamid": "90200936334337040",
+	"steamid": "90200975835193360",
 	"name": "BB CS2 Nade Practice.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

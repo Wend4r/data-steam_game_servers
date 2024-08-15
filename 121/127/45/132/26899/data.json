@@ -1,8 +1,7 @@
 {
 	"addr": "121.127.45.132:26899",
 	"gameport": 26899,
-	"specport": 26900,
-	"steamid": "90200936486965257",
+	"steamid": "90200975899656201",
 	"name": "EvoNovo Junior - Prac and Scrims",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

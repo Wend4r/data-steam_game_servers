@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.99:26360",
 	"gameport": 26360,
-	"steamid": "90200936328150019",
+	"steamid": "90200975859901443",
 	"name": "Signatus CS:GO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

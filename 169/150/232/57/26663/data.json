@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.232.57:26663",
 	"gameport": 26663,
-	"specport": 26664,
-	"steamid": "90200936492276753",
+	"steamid": "90200975840440337",
 	"name": "OZLOGITEK",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 10,
-	"bots": 3,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
