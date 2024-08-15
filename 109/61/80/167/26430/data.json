@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.167:26430",
 	"gameport": 26430,
-	"specport": 26431,
-	"steamid": "90200937296421914",
+	"steamid": "90200976050226202",
 	"name": "FAMELJA ESPORTS OFFICIAL MAJOR SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
