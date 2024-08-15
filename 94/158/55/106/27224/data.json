@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "surf_benevolent",
+	"map": "surf_deathstar",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,secure"
+	"gametype": "empty,surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,"
 }
