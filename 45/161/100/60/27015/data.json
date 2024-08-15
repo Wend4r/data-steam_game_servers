@@ -1,7 +1,7 @@
 {
 	"addr": "45.161.100.60:27015",
 	"gameport": 27015,
-	"steamid": "90200906719043601",
+	"steamid": "90200970884462609",
 	"name": "CS GO COMPETITIVO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,anticheat,no-steam,secure,insecure"
+	"gametype": "anticheat,no-steam,secure,insecure"
 }

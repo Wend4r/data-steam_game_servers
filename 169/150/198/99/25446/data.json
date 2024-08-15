@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.99:25446",
 	"gameport": 25446,
+	"specport": 25447,
 	"steamid": "90200969035156483",
 	"name": "Atrix powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 5,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

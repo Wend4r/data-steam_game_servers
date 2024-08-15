@@ -2,7 +2,7 @@
 	"addr": "45.18.0.176:27015",
 	"gameport": 27015,
 	"steamid": "85568392931971563",
-	"name": "shipREKT Prefire practice",
+	"name": "shipREKT Mini Games",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 32,
-	"bots": 5,
-	"map": "de_inferno",
+	"bots": 0,
+	"map": "mg_skeet_multigames_v7",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,practice,prefire,secure"
+	"gametype": "128,AntiCheat,games,mg,mini,secure"
 }
