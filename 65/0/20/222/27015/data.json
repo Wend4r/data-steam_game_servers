@@ -1,7 +1,6 @@
 {
 	"addr": "65.0.20.222:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931893019",
 	"name": "[ezQ] LOTGaming | Retake Mumbai #1 Server !ws !knife !glove",
 	"appid": 730,
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mills",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
+	"gametype": "empty,dubai,dxb,ezQ,k0za,lot,lotgaming,lp,que,secure"
 }
