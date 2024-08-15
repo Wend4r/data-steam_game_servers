@@ -11,9 +11,9 @@
 	"players": 8,
 	"max_players": 11,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,k"
+	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,knife,o"
 }
