@@ -1,7 +1,7 @@
 {
 	"addr": "87.182.175.106:27018",
 	"gameport": 27018,
-	"steamid": "90200953327032336",
+	"steamid": "90200974907884560",
 	"name": "[DE] surf me 24/7 !ws !skins",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
