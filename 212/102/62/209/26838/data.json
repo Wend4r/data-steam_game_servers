@@ -1,19 +1,19 @@
 {
 	"addr": "212.102.62.209:26838",
 	"gameport": 26838,
-	"steamid": "90200936368833564",
+	"steamid": "90200973758155804",
 	"name": "GIDDEN",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

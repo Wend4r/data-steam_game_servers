@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26689",
 	"gameport": 26689,
-	"steamid": "90200965674586126",
+	"steamid": "90200973784355854",
 	"name": "PARIVISION powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

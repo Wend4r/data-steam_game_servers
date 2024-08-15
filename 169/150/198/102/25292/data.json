@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.102:25292",
 	"gameport": 25292,
-	"steamid": "90200968555724806",
-	"name": "IBEX GAMING powered by PRACC.COM",
+	"steamid": "90200973683989510",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
