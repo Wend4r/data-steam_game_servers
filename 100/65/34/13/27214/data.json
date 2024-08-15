@@ -1,7 +1,7 @@
 {
 	"addr": "100.65.34.13:27214",
 	"gameport": 27214,
-	"steamid": "90200957572474902",
+	"steamid": "90200958154433558",
 	"name": "Valve Counter-Strike 2 india_east Server (srcds1003-maa2.383.20",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 26,
 	"players": 10,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
