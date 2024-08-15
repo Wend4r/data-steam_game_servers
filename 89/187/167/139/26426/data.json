@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 4,
 	"max_players": 20,
-	"bots": 5,
-	"map": "mp_raid",
+	"bots": 6,
+	"map": "boyard",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
