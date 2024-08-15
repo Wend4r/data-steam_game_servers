@@ -11,9 +11,9 @@
 	"players": 15,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_randomizer_reborn_v2",
+	"map": "mg_lego_multigames_r1c1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
 }
