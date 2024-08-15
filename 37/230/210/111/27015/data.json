@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 1,
-	"map": "seek_cache",
+	"map": "home",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
