@@ -1,19 +1,19 @@
 {
 	"addr": "45.179.91.45:27102",
 	"gameport": 27102,
-	"steamid": "85568392931865506",
-	"name": "teucu",
+	"steamid": "85568392932078370",
+	"name": "[hvh] favela 2v2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "kzpro_gull_pidr_reborn",
-	"secure": true,
+	"map": "de_cbble",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brasil,csgo,host,hostzone,sao paulo,sp,secure"
+	"gametype": "br,brasil,csgo,host,hostzone,sao paulo,sp,insecure"
 }
