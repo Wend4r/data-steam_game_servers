@@ -1,7 +1,7 @@
 {
 	"addr": "34.95.235.156:27015",
 	"gameport": 27015,
-	"steamid": "90200955688714262",
+	"steamid": "90200965124661270",
 	"name": "NeXtreme Servers - Scrim #01",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

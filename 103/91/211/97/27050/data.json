@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 37,
-	"bots": 0,
+	"bots": 14,
 	"map": "de_dust2_classic_fys_1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
