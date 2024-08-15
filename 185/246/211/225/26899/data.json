@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.225:26899",
 	"gameport": 26899,
+	"specport": 26900,
 	"steamid": "90200968432574472",
 	"name": "PCIFIC ESPOR (ADVANCED) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

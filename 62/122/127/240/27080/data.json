@@ -1,19 +1,20 @@
 {
 	"addr": "62.122.127.240:27080",
 	"gameport": 27080,
+	"specport": 27081,
 	"steamid": "90200958011841539",
-	"name": "arrmy.gg",
+	"name": "arrmy.gg :: SPERMIKI LUDZIKI vs psiaku",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 10,
 	"max_players": 41,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
