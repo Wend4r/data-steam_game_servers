@@ -8,12 +8,12 @@
 	"version": "1.35.2.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
-	"map": "/2177839172/mg_yolo_multigames_",
+	"map": "de_tulip",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "tag1,tag2,tag3,insecure"
+	"gametype": "empty,tag1,tag2,tag3,insecure"
 }

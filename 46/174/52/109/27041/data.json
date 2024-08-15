@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 7,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_ancient,cybershoke,ffa,cyber,128,128tick,drop,gloves,i"
+	"gametype": "de_ancient,cybershoke,ffa,cyber,128,128tick,drop,gloves,instant"
 }

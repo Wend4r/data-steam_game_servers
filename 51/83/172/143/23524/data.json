@@ -1,8 +1,8 @@
 {
 	"addr": "51.83.172.143:23524",
 	"gameport": 23524,
-	"steamid": "90200963778367503",
-	"name": "ServerProject.pl | CS 2",
+	"steamid": "85568392932077933",
+	"name": "ZoneGame",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "pl,svpj,secure"
+	"gametype": "nocnyvip,pl,rangi,svpj,vip,zonegame,secure"
 }
