@@ -1,6 +1,7 @@
 {
 	"addr": "87.225.90.173:27800",
 	"gameport": 27800,
+	"specport": 27017,
 	"steamid": "85568392926400053",
 	"name": "| ★ Aurora CS2 ★ | #3 Public 27 region",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 42,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,"
+	"gametype": "1,128,anime,aurora,cyber,cybershock,cybershok,cybershoke,dust2,"
 }
