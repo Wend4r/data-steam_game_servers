@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,nocnyvip,pl,rangi,svpj,vip,zonegame,secure"
+	"gametype": "empty,nocnyvip,pl,rangi,svpj,vip,zonegame,insecure"
 }
