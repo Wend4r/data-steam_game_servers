@@ -1,7 +1,8 @@
 {
 	"addr": "185.246.211.230:26205",
 	"gameport": 26205,
-	"steamid": "90200966927268877",
+	"specport": 26206,
+	"steamid": "90200967102630925",
 	"name": "TUGA CLAN (ESEA OPEN) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

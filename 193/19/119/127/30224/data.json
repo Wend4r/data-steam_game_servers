@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_inferno_alpha",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!admins,!gloves,!knife,!rs,!vips !shop !viptest mirage dust dust2 inferno fps+ boost fps boost awp deagle ak47,!ws,secure"
+	"gametype": "empty,!admins,!gloves,!knife,!rs,!vips !shop !viptest mirage dust dust2 inferno fps+ boost fps boost awp deagle ak47,!ws,secure"
 }
