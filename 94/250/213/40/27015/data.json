@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 5,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "/1366794864/kz_baxter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "BKZ,GOKZ,KZ,N1pplerTV,RTV,Turtle,VANILLA,VANILLA ONLY,VNL,XC,secure"
+	"gametype": "empty,BKZ,GOKZ,KZ,N1pplerTV,RTV,Turtle,VANILLA,VANILLA ONLY,VNL,XC,secure"
 }

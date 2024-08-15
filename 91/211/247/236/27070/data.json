@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 33,
-	"bots": 7,
-	"map": "awp_india",
+	"bots": 6,
+	"map": "awp_lego_2_winter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,EU,LT,aim,awp,bachuru,comp,sniper,secure"
+	"gametype": "EU,LT,aim,awp,bachuru,comp,sniper,secure"
 }
