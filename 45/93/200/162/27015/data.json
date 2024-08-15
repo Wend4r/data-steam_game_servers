@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 1,
 	"map": "awp_lego_2_frist",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,1mpulse,LKv2,agents,awp,awp lego 2,cyber,cybernetika,du,duv2,gl,gloves,knife,moscow,st,stickers,ws,secure"
+	"gametype": "empty,128,128tick,1mpulse,LKv2,agents,awp,awp lego 2,cyber,cybernetika,du,duv2,gl,gloves,knife,moscow,st,stickers,ws,secure"
 }

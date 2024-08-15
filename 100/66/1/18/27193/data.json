@@ -1,7 +1,7 @@
 {
 	"addr": "100.66.1.18:27193",
 	"gameport": 27193,
-	"steamid": "90200936222568478",
+	"steamid": "90200956827906078",
 	"name": "Valve Counter-Strike 2 london Server (srcds1009-lhr1.390.179)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,empty,insecure"
+	"gametype": "hidden,empty,secure"
 }
