@@ -1,7 +1,7 @@
 {
 	"addr": "3.112.26.126:27015",
 	"gameport": 27015,
-	"steamid": "90200967604496402",
+	"steamid": "90200967767875602",
 	"name": "UB社区 CS2 僵尸逃跑 #1 Q群 647885103",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "ze_boatescape999",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

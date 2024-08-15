@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 23,
+	"players": 17,
 	"max_players": 32,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,"
+	"gametype": "!ws,agents,de_,de_mirage,gloves,knife,kosy,mirage,poland,polsk,"
 }

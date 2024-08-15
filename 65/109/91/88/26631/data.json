@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 22,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_void",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

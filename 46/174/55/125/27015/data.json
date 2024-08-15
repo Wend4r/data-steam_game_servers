@@ -1,19 +1,19 @@
 {
 	"addr": "46.174.55.125:27015",
 	"gameport": 27015,
-	"steamid": "90200967702244372",
+	"steamid": "90200967703921684",
 	"name": "MG | chto eto takoe",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 3,
 	"max_players": 20,
 	"bots": 0,
 	"map": "mg_crazy_course_2024",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigam"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
 }
