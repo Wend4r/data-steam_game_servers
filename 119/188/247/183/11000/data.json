@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 4,
-	"players": 0,
+	"players": 4,
 	"max_players": 20,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "haskin_v61",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
