@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 7,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage_fpspowerup",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

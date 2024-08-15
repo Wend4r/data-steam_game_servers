@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "cs2_aimws",
+	"map": "awp_bhop_rocket",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,retake,secure"
+	"gametype": "retake,secure"
 }

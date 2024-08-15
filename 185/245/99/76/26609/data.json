@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26609",
 	"gameport": 26609,
 	"specport": 26610,
-	"steamid": "90200957954233358",
+	"steamid": "90200965519226894",
 	"name": "IQ Gaming powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
