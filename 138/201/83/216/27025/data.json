@@ -1,0 +1,19 @@
+{
+	"addr": "138.201.83.216:27025",
+	"gameport": 27025,
+	"steamid": "85568392932071586",
+	"name": "CSGO 5 vs 5 Szogo.pl Vanilla",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": -3,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "de_overpass",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,5vs5,csgo,szogo,vanilla,secure"
+}

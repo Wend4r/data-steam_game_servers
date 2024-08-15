@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "am_water_j_spin",
+	"map": "am_nuke_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,gaming,"
+	"gametype": "empty,!kni,!ws,anticheat,fastdl,1v1,custom,arena,arenas,karma,g"
 }
