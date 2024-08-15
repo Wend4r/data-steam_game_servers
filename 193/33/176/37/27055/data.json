@@ -5,15 +5,15 @@
 	"name": "GRACZ1.PL [4FUN MIRAGE] SKINY | VIP | NAGRODY",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage_night_gylala",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
