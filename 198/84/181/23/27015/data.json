@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_zoo",
+	"map": "acs2_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
