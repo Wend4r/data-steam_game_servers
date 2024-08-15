@@ -1,0 +1,20 @@
+{
+	"addr": "212.102.62.209:25054",
+	"gameport": 25054,
+	"specport": 25055,
+	"steamid": "90200974676241436",
+	"name": "[P] PopFlash Scrim - stockholm - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_cbble",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,secure"
+}
