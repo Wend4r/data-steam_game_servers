@@ -2,19 +2,19 @@
 	"addr": "169.150.245.105:26152",
 	"gameport": 26152,
 	"specport": 26153,
-	"steamid": "90200972908259341",
-	"name": "eSpuma  powered by PRACC.COM",
+	"steamid": "90200973113917453",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
