@@ -1,7 +1,8 @@
 {
 	"addr": "169.150.198.102:25107",
 	"gameport": 25107,
-	"steamid": "90200952050065414",
+	"specport": 25108,
+	"steamid": "90200952052157446",
 	"name": "Pinadeira #RETAKE #4FUN #SV1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
