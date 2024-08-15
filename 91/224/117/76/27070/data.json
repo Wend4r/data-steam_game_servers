@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.76:27070",
 	"gameport": 27070,
-	"steamid": "90200975252276234",
+	"steamid": "90200975429835786",
 	"name": "Pieczara @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

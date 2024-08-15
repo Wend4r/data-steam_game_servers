@@ -7,13 +7,13 @@
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
-	"players": 3,
+	"region": -1,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "bhop_dreamworld",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,balkan,br,brutalci,srb,ws,secure"
+	"gametype": "empty,balkan,br,brutalci,srb,ws,insecure"
 }
