@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 26,
-	"bots": 0,
+	"bots": 1,
 	"map": "vnl_farewell_fix",
 	"secure": true,
 	"dedicated": true,

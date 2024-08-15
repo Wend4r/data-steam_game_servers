@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 15,
+	"players": 11,
 	"max_players": 64,
 	"bots": 0,
 	"map": "duels_dust2_1x1",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,duels,1vs1,duel,cybershoke,cyber,128,128tick,drop,duels_d"
+	"gametype": "duels,1vs1,duel,cybershoke,cyber,128,128tick,drop,duels_dust2_1"
 }
