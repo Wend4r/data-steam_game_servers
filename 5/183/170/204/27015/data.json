@@ -5,15 +5,15 @@
 	"name": "(CS2) ARENA.WILDFIRE.RO ❤️ 1v1 Server ❤️ !WS !MVP !RANK",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_aztec2_wf",
+	"map": "am_water_wf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1tap,1v1,1vs1,arena,arenawildfire,awp,challenge,fun,horizon,hyd"
+	"gametype": "empty,1tap,1v1,1vs1,arena,arenawildfire,awp,challenge,fun,horiz"
 }
