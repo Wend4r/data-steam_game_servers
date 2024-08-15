@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.222.161:26858",
 	"gameport": 26858,
-	"specport": 26859,
-	"steamid": "90200961221729283",
+	"steamid": "90200962689552387",
 	"name": "Aravt powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
-	"bots": 1,
+	"max_players": 13,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
