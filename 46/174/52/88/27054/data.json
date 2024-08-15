@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 3,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "mg_multigames_devine_is_french",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,knife,cybershoke,battle,course,fun,128,128tick,cyber,drop"
+	"gametype": "knife,cybershoke,battle,course,fun,128,128tick,cyber,drop,mg,gl"
 }

@@ -2,8 +2,8 @@
 	"addr": "169.150.245.103:25597",
 	"gameport": 25597,
 	"specport": 25598,
-	"steamid": "90200970640287755",
-	"name": "manageYself (ESEA Main) powered by PRACC.COM",
+	"steamid": "90200972274847755",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

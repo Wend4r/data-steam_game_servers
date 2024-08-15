@@ -2,8 +2,8 @@
 	"addr": "185.245.99.76:26865",
 	"gameport": 26865,
 	"specport": 26866,
-	"steamid": "90200964653435918",
-	"name": "EC BANGA powered by PRACC.COM",
+	"steamid": "90200972453024782",
+	"name": "Team Nebula powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 3,
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
