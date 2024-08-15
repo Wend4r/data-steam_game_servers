@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26705",
 	"gameport": 26705,
-	"steamid": "90200936298930198",
+	"steamid": "90200975946001430",
 	"name": "yush",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 5,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

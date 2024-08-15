@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26830",
 	"gameport": 26830,
-	"steamid": "90200936481494038",
+	"steamid": "90200975946228758",
 	"name": "Sibirisk Katte",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

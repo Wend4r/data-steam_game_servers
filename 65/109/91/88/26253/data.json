@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26253",
 	"gameport": 26253,
-	"steamid": "90200936557263884",
+	"steamid": "90200975986380812",
 	"name": "csgoFIN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 8,
 	"bots": 2,
-	"map": "awp_lego_2",
+	"map": "awp_lego_2_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,coins,cs2,cs2 awp,cs2 only awp,gosetti.pl:41432,only awp,sk"
+	"gametype": "empty,awp,coins,cs2,cs2 awp,cs2 only awp,gosetti.pl:41432,only "
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "212.102.62.210:26732",
 	"gameport": 26732,
-	"specport": 26733,
-	"steamid": "90200936664129565",
+	"steamid": "90200976006310941",
 	"name": "P1-K4 GOLD",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

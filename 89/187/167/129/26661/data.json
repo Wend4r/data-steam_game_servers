@@ -1,7 +1,7 @@
 {
 	"addr": "89.187.167.129:26661",
 	"gameport": 26661,
-	"steamid": "90200936303959057",
+	"steamid": "90200976000542737",
 	"name": "SABU SERVER",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

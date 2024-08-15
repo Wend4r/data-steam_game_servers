@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26609",
 	"gameport": 26609,
-	"steamid": "90200936267109402",
+	"steamid": "90200975866648602",
 	"name": "EX Infernis",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

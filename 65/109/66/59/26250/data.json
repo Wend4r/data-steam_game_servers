@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26250",
 	"gameport": 26250,
-	"steamid": "90200936423029773",
+	"steamid": "90200975911664653",
 	"name": "MASKI CS2 RETAKES .FI",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

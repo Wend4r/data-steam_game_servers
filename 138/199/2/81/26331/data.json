@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.2.81:26331",
 	"gameport": 26331,
-	"steamid": "90200936343638030",
+	"steamid": "90200975922135054",
 	"name": "Nutty Holligans",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
