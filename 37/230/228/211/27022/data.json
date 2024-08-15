@@ -2,18 +2,18 @@
 	"addr": "37.230.228.211:27022",
 	"gameport": 27022,
 	"steamid": "85568392930343625",
-	"name": "Counter-Strike 2",
+	"name": "Москва |07| Mirage [CS2][!WS][!KNIFE]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,!knife,!vip,!ws,Krasnodar,SVAROG-GAME.COM,anapa,dnr,gelen"
 }
