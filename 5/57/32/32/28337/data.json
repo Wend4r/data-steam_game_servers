@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28337",
 	"gameport": 28337,
 	"steamid": "85568392932078260",
-	"name": "IRAN - Only AWP Aim/Awp Server",
+	"name": "IRAN - Only AWP",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,-,AWP,MaxGaming,Only,iranIRAN,secure"
+	"gametype": "empty,secure"
 }
