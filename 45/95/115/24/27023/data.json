@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 17,
 	"bots": 0,
-	"map": "am_hjemezez_hez2_v1",
+	"map": "am_grass2_hez2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,am,danish,dansk,guns,hjemezez,multi,rank,ws,secure"
+	"gametype": "1v1,am,danish,dansk,guns,hjemezez,multi,rank,ws,secure"
 }
