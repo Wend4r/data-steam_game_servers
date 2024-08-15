@@ -10,7 +10,7 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "kz_j2s_cupblock_go_fix2",
 	"secure": true,
 	"dedicated": true,

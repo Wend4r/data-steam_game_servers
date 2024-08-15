@@ -1,7 +1,7 @@
 {
 	"addr": "194.226.7.19:27015",
 	"gameport": 27015,
-	"steamid": "90200834116567056",
+	"steamid": "90200956096174096",
 	"name": "CSSource by Kash",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_hive",
+	"bots": 6,
+	"map": "cs_climb",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
