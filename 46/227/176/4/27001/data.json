@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 13,
-	"bots": 4,
-	"map": "de_inferno",
+	"bots": 5,
+	"map": "de_nuke_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csportal,cz,knife,rank,sk,svk,ws,secure"
+	"gametype": "empty,csportal,cz,knife,rank,sk,svk,ws,secure"
 }
