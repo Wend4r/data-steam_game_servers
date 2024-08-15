@@ -9,12 +9,11 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 20,
-	"bots": 1,
-	"map": "de_cbble",
+	"bots": 0,
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,ROC,roc,皮肤,secure"
+	"gametype": "empty,128,ROC,roc,皮肤,secure"
 }
