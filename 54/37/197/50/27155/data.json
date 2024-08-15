@@ -1,6 +1,7 @@
 {
 	"addr": "54.37.197.50:27155",
 	"gameport": 27155,
+	"specport": 27156,
 	"steamid": "90200936475172864",
 	"name": "POLteam White @ 1shot1kill.pl",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
