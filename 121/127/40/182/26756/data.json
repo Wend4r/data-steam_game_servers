@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26756",
 	"gameport": 26756,
-	"steamid": "90200936339935232",
+	"steamid": "90200975855906816",
 	"name": "MythicPrac",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

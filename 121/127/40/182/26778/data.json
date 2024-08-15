@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.40.182:26778",
 	"gameport": 26778,
-	"steamid": "90200936477177856",
+	"steamid": "90200975855403008",
 	"name": "OS Practice Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

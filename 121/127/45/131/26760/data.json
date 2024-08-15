@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.131:26760",
 	"gameport": 26760,
-	"steamid": "90200936289395720",
+	"steamid": "90200975925601288",
 	"name": "Dontbescared",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

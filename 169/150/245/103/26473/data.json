@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.103:26473",
 	"gameport": 26473,
-	"steamid": "90200936537218059",
+	"steamid": "90200975880812555",
 	"name": "BDP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

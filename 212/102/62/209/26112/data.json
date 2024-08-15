@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26112",
 	"gameport": 26112,
-	"steamid": "90200936368744476",
+	"steamid": "90200975965117468",
 	"name": "NallePuh War Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

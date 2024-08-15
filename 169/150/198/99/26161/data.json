@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.99:26161",
 	"gameport": 26161,
-	"steamid": "90200936327931907",
+	"steamid": "90200975860249603",
 	"name": "Sindicato do CS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

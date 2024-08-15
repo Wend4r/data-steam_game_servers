@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26034",
 	"gameport": 26034,
-	"steamid": "90200936283337755",
+	"steamid": "90200975940608027",
 	"name": "Rostov-on-Don party",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

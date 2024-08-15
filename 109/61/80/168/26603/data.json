@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26603",
 	"gameport": 26603,
-	"steamid": "90200936506710043",
+	"steamid": "90200975939935259",
 	"name": "Braila CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

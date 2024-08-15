@@ -1,7 +1,7 @@
 {
 	"addr": "138.199.12.138:26180",
 	"gameport": 26180,
-	"steamid": "90200936402944024",
+	"steamid": "90200975930249240",
 	"name": "The Gundo vs SF",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

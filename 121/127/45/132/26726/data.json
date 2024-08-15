@@ -2,7 +2,7 @@
 	"addr": "121.127.45.132:26726",
 	"gameport": 26726,
 	"specport": 26727,
-	"steamid": "90200936313306121",
+	"steamid": "90200975900030985",
 	"name": "Aarhus Esport #1",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

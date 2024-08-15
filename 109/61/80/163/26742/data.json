@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26742",
 	"gameport": 26742,
-	"steamid": "90200936482171926",
+	"steamid": "90200975944450070",
 	"name": "CCNY",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 7,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

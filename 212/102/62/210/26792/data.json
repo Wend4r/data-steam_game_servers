@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.210:26792",
 	"gameport": 26792,
-	"steamid": "90200936496704541",
+	"steamid": "90200975851808797",
 	"name": "jumppiiiTakes",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

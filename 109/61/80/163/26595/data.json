@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.163:26595",
 	"gameport": 26595,
-	"steamid": "90200936481380374",
+	"steamid": "90200975945646102",
 	"name": "Nemo events",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

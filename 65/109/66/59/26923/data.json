@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.66.59:26923",
 	"gameport": 26923,
-	"steamid": "90200936274150413",
+	"steamid": "90200975909484557",
 	"name": "ponderosa",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

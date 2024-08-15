@@ -1,7 +1,7 @@
 {
 	"addr": "65.109.91.88:26582",
 	"gameport": 26582,
-	"steamid": "90200936556983308",
+	"steamid": "90200975815667724",
 	"name": "best security team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

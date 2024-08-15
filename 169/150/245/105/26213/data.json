@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.245.105:26213",
 	"gameport": 26213,
-	"steamid": "90200936273800205",
+	"steamid": "90200975910182925",
 	"name": "CyberFocus",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

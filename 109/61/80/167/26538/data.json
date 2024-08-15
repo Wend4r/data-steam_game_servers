@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26538",
 	"gameport": 26538,
-	"steamid": "90200936456247322",
+	"steamid": "90200975865747482",
 	"name": "Touchy Practice",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "89.187.167.139:26922",
 	"gameport": 26922,
+	"specport": 26923,
 	"steamid": "90200975939318811",
 	"name": "xacty's customs server",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
