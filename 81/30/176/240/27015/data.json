@@ -11,9 +11,9 @@
 	"players": 3,
 	"max_players": 32,
 	"bots": 0,
-	"map": "gg_off_112",
+	"map": "gg_mini_circular",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
