@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26340",
 	"gameport": 26340,
-	"steamid": "90200880337983502",
-	"name": "ENABLE powered by PRACC.COM",
+	"specport": 26341,
+	"steamid": "90200962272666638",
+	"name": "Brute Academy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 12,
-	"bots": 2,
-	"map": "de_ancient",
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
