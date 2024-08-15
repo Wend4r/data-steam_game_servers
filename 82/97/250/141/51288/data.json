@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,knife,viptest,ws,insecure"
+	"gametype": "empty,knife,viptest,ws,secure"
 }
