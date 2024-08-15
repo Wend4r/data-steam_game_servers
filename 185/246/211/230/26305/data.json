@@ -2,7 +2,7 @@
 	"addr": "185.246.211.230:26305",
 	"gameport": 26305,
 	"specport": 26306,
-	"steamid": "90200952817931277",
+	"steamid": "90200958708572173",
 	"name": "Netdevilz powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
