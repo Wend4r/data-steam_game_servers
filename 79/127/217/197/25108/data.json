@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.217.197:25108",
 	"gameport": 25108,
+	"specport": 25109,
 	"steamid": "90200936384633861",
 	"name": "sinister6 team practice ",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 10,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 5,
+	"map": "de_mills",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
