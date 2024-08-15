@@ -12,9 +12,9 @@
 	"players": 6,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_redline",
+	"map": "de_westwood",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,casual,classic,tehwebz,workshop,secure"
+	"gametype": "casual,classic,tehwebz,workshop,secure"
 }
