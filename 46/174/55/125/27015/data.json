@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 3,
+	"players": 4,
 	"max_players": 20,
 	"bots": 0,
 	"map": "mg_crazy_course_2024",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
 }
