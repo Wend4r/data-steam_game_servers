@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mod,retakes,sg,steam-gamers,steamgamers,usa,secure"
+	"gametype": "mod,retakes,sg,steam-gamers,steamgamers,usa,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 16,
 	"max_players": 34,
 	"bots": 0,
-	"map": "ttt_antidote",
+	"map": "ttt_terminal",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
