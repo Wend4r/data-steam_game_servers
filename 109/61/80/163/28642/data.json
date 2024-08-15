@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 5,
-	"bots": 1,
+	"bots": 0,
 	"map": "/644224500/kz_orbolution_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
+	"gametype": "empty,KZ,KZTimer,KZTimer 1.99,Tickrate 128,jumpstats,nopre,sweh,secure"
 }
