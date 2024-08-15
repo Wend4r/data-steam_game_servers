@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 28,
 	"bots": 0,
-	"map": "ba_jail_razor_lnz_2023",
+	"map": "jb_clouds",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

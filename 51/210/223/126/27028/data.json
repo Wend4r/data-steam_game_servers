@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 28,
 	"bots": 0,
-	"map": "surf_greatriver_xdream_ohai",
+	"map": "surf_10x_reloaded_for_csgo_v2_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
