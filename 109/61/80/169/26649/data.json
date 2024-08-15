@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 5,
 	"bots": 1,
-	"map": "aimpro_vieforit",
+	"map": "aim_redline_vieforit",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
