@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_beginner",
+	"map": "surf_mesa_revo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,easy,gamers,ig,imperfect,surf,surfing,insecure"
+	"gametype": "easy,gamers,ig,imperfect,surf,surfing,insecure"
 }
