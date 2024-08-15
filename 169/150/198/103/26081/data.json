@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26081",
 	"gameport": 26081,
-	"steamid": "90200949663234055",
+	"steamid": "90200976528106503",
 	"name": "WeLoveAnubis",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
