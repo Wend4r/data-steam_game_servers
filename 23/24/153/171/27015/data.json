@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 21,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

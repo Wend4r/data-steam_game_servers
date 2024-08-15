@@ -1,7 +1,7 @@
 {
 	"addr": "73.217.100.13:27016",
 	"gameport": 27016,
-	"steamid": "90200974842130458",
+	"steamid": "90200975033444378",
 	"name": "Wuns Counterstrike Server, Bitch.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 16,
 	"bots": 0,
 	"map": "cs_office",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

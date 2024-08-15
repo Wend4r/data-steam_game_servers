@@ -1,6 +1,7 @@
 {
 	"addr": "89.187.167.137:26881",
 	"gameport": 26881,
+	"specport": 26882,
 	"steamid": "90200974328338457",
 	"name": "Welcome to the ZnK",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 11,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
