@@ -1,6 +1,7 @@
 {
 	"addr": "91.224.117.103:27015",
 	"gameport": 27015,
+	"specport": 27016,
 	"steamid": "85568392931143644",
 	"name": "██ ★ 1shot2kill.pl ★ [ARENA 1VS1] ⚫",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 17,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "aim_redline_fp",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
