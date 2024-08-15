@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.55.125:27015",
 	"gameport": 27015,
-	"steamid": "90200968719911956",
+	"steamid": "90200968898171924",
 	"name": "MG | chto eto takoe",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 20,
 	"bots": 0,
-	"map": "mg_acrophobia_minecraft_v2",
+	"map": "mg_crazy_course_2024",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
 }
