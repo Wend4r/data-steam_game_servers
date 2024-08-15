@@ -3,18 +3,18 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392932078027",
-	"name": "zaebok",
+	"name": "Dayn server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_overpass",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,*grp:5114777i,secure"
+	"gametype": "*grp:5114777i,secure"
 }

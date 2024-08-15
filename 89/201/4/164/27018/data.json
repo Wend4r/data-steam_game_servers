@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "surf_waterworks",
+	"map": "surf_galaxy_easy",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gl"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gloves,i"
 }

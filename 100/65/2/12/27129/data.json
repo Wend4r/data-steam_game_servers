@@ -1,7 +1,7 @@
 {
 	"addr": "100.65.2.12:27129",
 	"gameport": 27129,
-	"steamid": "90200962790397981",
+	"steamid": "90200964024300573",
 	"name": "Valve Counter-Strike 2 india Server (srcds1002-bom2.382.115)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 10,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
