@@ -1,6 +1,7 @@
 {
 	"addr": "185.180.2.13:27020",
 	"gameport": 27020,
+	"specport": 26020,
 	"steamid": "85568392931650622",
 	"name": "PLAYzone #33 by FakaHeda.eu",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 20,
 	"bots": 2,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 25,
 	"bots": 3,
-	"map": "de_dust2",
+	"map": "fy_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hun,secure"
+	"gametype": "hun,secure"
 }
