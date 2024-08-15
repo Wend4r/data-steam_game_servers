@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
+	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }
