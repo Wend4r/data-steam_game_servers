@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 2,
 	"max_players": 25,
-	"bots": 4,
+	"bots": 8,
 	"map": "bhop_rpg",
 	"secure": true,
 	"dedicated": true,

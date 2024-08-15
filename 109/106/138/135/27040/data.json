@@ -6,15 +6,15 @@
 	"name": "[CS2] JC | МАНЬЯК [!shop!ws!knife][RU]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 25,
 	"bots": 1,
-	"map": "seek_town",
+	"map": "hns_seekend2_po_porcie_xdd",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassic,mani"
+	"gametype": "empty,!,!knife,!ws,128,classic,cs2,hideinseek,hns,jc,jumpclassi"
 }
