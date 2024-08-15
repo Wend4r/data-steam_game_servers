@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
-	"map": "surf_banocanyon_kg_b2",
+	"map": "surf_air_arena",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf"
+	"gametype": "awp,gaming,hitreg,anticheat,combat,bhop,karma,combat surf,serve"
 }

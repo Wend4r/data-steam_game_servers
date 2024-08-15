@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Avanturist,FreeVip,Public,no-steam,secure"
+	"gametype": "empty,*grp:44995116i,Avanturist,FreeVip,Public,no-steam,secure"
 }

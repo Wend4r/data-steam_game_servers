@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 3,
-	"map": "de_mirage",
+	"map": "lobby_mapveto",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,gravity,secure"
+	"gametype": "empty,secure"
 }
