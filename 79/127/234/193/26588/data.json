@@ -1,6 +1,7 @@
 {
 	"addr": "79.127.234.193:26588",
 	"gameport": 26588,
+	"specport": 26589,
 	"steamid": "90200952818371597",
 	"name": "Tempr powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
