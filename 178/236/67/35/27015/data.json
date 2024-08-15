@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 8,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_tq",
 	"secure": true,
 	"dedicated": true,
