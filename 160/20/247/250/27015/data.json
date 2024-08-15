@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 2,
-	"players": 2,
+	"players": 1,
 	"max_players": 20,
-	"bots": 1,
-	"map": "de_dust2_night_gylala",
+	"bots": 2,
+	"map": "de_rats_1337_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,"
+	"gametype": "FastDL,allmaps,arg,argentina,casual,chile,cl,fun,funmaps,lowpin"
 }
