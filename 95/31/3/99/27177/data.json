@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 1,
-	"map": "mg_swag_multigames_v7_1",
+	"map": "mg_colors_hard_course",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,!awp,1mpuls,3 jump,3jump,HLstatsX:CE,arena,awp,awp_lego,awp_lego_2,hlportal,hlxportal,idgame,mg,mg_,mg_saw,minigame,saw,timer"
+	"gametype": "empty,!,!awp,1mpuls,3 jump,3jump,HLstatsX:CE,arena,awp,awp_lego,awp_lego_2,hlportal,hlxportal,idgame,mg,mg_,mg_saw,minigame,saw"
 }

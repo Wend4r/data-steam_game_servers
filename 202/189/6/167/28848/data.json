@@ -10,10 +10,10 @@
 	"region": 4,
 	"players": 2,
 	"max_players": 64,
-	"bots": 5,
+	"bots": 0,
 	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
+	"gametype": "exg,ze,僵尸逃跑,insecure"
 }

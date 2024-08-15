@@ -2,18 +2,18 @@
 	"addr": "45.136.205.249:27015",
 	"gameport": 27015,
 	"steamid": "85568392932035853",
-	"name": "-=▇ [ RU | MSK ] ★ HorizonTaps ★ | 16K | 1 AWP | HVH ▇=",
+	"name": "▇ [ RU | MSK ] ★ HorizonTaps ★ | 16K | 1 AWP | HVH ▇",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,allah,hvh,mafia,insecure"
+	"gametype": "allah,hvh,mafia,insecure"
 }
