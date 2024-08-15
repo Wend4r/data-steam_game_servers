@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
-	"bots": 9,
-	"map": "awp_lego_2_carton",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS2,awp,custom,espana,sniper,spain,secure"
+	"gametype": "empty,CS2,awp,custom,espana,sniper,spain,secure"
 }

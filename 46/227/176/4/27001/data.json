@@ -1,7 +1,6 @@
 {
 	"addr": "46.227.176.4:27001",
 	"gameport": 27001,
-	"specport": 27026,
 	"steamid": "85568392920101112",
 	"name": "CSPORTAL.sk | PUBLIC ★SEASON03★ [!knife !gloves !ws !agents",
 	"appid": 730,
@@ -10,8 +9,8 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 1,
-	"max_players": 13,
-	"bots": 4,
+	"max_players": 12,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
