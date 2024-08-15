@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.169:26391",
 	"gameport": 26391,
+	"specport": 26392,
 	"steamid": "90200936562407452",
 	"name": "Enceladus Spawning Pool",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,balkan,hr,retake,srb,ws,secure"
+	"gametype": "balkan,hr,retake,srb,ws,secure"
 }
