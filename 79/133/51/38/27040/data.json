@@ -1,7 +1,7 @@
 {
 	"addr": "79.133.51.38:27040",
 	"gameport": 27040,
-	"steamid": "90200976255110155",
+	"steamid": "90200976375916555",
 	"name": "Zombie Plague",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 8,
-	"bots": 5,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }

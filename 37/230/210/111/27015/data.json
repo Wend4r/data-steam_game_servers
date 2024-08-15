@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 30,
 	"bots": 1,
 	"map": "hns_rivertown",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,gl,gloves,hidenseek,hns,idl,knife,maniac,merryproject,nosteam,pets,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+	"gametype": "empty,bhop,gl,gloves,hidenseek,hns,idl,knife,maniac,merryproject,nosteam,pets,shop,stattrak,stattrak boost,stb,testvip,ws,secur"
 }
