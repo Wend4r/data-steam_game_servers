@@ -3,7 +3,7 @@
 	"gameport": 27015,
 	"specport": 27020,
 	"steamid": "85568392931759464",
-	"name": "Counter-Strike 2",
+	"name": "你的电脑",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 11,
 	"bots": 1,
-	"map": "de_shortdust",
+	"map": "de_lake",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "5EPLAY,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "141.95.72.175:27005",
 	"gameport": 27005,
+	"specport": 27007,
 	"steamid": "90200958621563927",
 	"name": "Gentofte Guards 2",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
