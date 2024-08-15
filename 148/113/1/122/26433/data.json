@@ -2,7 +2,7 @@
 	"addr": "148.113.1.122:26433",
 	"gameport": 26433,
 	"steamid": "85568392924055946",
-	"name": "XPLAY.GG • CS2 PISTOL RETAKE #43 • [IN]",
+	"name": "CS2 PRetake #43 IN",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

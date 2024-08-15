@@ -1,20 +1,19 @@
 {
 	"addr": "46.103.228.160:27017",
 	"gameport": 27017,
-	"specport": 27018,
-	"steamid": "90200967475309597",
-	"name": "Save scrim: 2042070ef39e",
+	"steamid": "90200975045538845",
+	"name": "Save scrim: c6e9c97ca2b5",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 11,
-	"bots": 1,
-	"map": "de_inferno_night",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

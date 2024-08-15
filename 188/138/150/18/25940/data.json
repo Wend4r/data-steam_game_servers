@@ -1,11 +1,11 @@
 {
 	"addr": "188.138.150.18:25940",
 	"gameport": 25940,
-	"steamid": "90200936131882001",
+	"steamid": "90200975089406993",
 	"name": "YodaHost Public",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
