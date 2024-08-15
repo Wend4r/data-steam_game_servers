@@ -1,6 +1,7 @@
 {
 	"addr": "146.59.108.100:27022",
 	"gameport": 27022,
+	"specport": 27020,
 	"steamid": "85568392931733229",
 	"name": "█ Csowicze.pl | Arena 1v1 | SKINY|RANGI|SKLEP|VIP|UNIKAT",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,arena1v1,csowicze,multi1v1,pl,poland,secure"
+	"gametype": "empty,1v1,arena,arena1v1,csowicze,multi1v1,pl,poland,secure"
 }

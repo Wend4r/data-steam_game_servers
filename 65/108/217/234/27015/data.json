@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 19,
 	"bots": 1,
-	"map": "surf_greatriver_xdre4m_so_kg",
+	"map": "surf_banocanyon_kg_b2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suom"
+	"gametype": "combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suomi,surf"
 }
