@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_ecliptic_v4",
+	"map": "mg_nebo2_course",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
