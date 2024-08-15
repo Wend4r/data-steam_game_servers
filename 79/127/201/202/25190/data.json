@@ -1,0 +1,20 @@
+{
+	"addr": "79.127.201.202:25190",
+	"gameport": 25190,
+	"specport": 25191,
+	"steamid": "90200974896627742",
+	"name": "Astana Dragons powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_anubis",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+}

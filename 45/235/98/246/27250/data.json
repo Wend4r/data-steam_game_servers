@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 2,
-	"players": 12,
+	"players": 11,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,"
+	"gametype": "1vs1,5vs5,arg,argentina,au,automix,bhob,competivo,crisis,crisis"
 }
