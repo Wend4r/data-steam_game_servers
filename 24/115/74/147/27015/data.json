@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 11,
-	"map": "de_shortdust",
+	"bots": 12,
+	"map": "cs_office16",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "casual,cs2,fun,secure"
+	"gametype": "empty,casual,cs2,fun,secure"
 }
