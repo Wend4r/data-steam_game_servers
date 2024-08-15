@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 64,
-	"bots": 2,
+	"bots": 4,
 	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
