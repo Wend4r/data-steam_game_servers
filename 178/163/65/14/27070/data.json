@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 33,
 	"bots": 1,
-	"map": "top_hns_2016",
+	"map": "twyxe_map_v20_s2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac"
+	"gametype": "!,$,128,63,drop,ffa,gl,gloves,hide,hns,knife,likes,maniac,neo,n"
 }
