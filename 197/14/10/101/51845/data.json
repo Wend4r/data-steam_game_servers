@@ -1,20 +1,19 @@
 {
 	"addr": "197.14.10.101:51845",
 	"gameport": 51845,
-	"specport": 27020,
 	"steamid": "85568392930585368",
 	"name": "Ezzayra CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.2",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 19,
-	"bots": 0,
-	"map": "de_inferno",
+	"max_players": 18,
+	"bots": 3,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

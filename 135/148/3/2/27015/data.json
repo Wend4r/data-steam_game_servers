@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 2,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_whiteout",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,mod,sg,steam-gamers,steamgamers,surf,surf_,t1,usa,secure"
+	"gametype": "mod,sg,steam-gamers,steamgamers,surf,surf_,t1,usa,secure"
 }
