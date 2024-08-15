@@ -1,7 +1,6 @@
 {
 	"addr": "169.150.198.102:26775",
 	"gameport": 26775,
-	"specport": 26776,
 	"steamid": "85568392931751561",
 	"name": "[Camp FullControl] Cascavel - PR",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

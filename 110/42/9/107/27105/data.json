@@ -5,15 +5,15 @@
 	"name": " 【風  雲】 僵尸逃跑 10# Q群:966082038",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 61,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "ze_atix_panic_2017_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
