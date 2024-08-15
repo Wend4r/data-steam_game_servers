@@ -1,0 +1,20 @@
+{
+	"addr": "169.150.245.97:25254",
+	"gameport": 25254,
+	"specport": 25255,
+	"steamid": "90200965391112197",
+	"name": "BRODA (MAIN) powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
