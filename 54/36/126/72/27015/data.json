@@ -12,7 +12,7 @@
 	"players": 10,
 	"max_players": 31,
 	"bots": 1,
-	"map": "standoff_arena",
+	"map": "de_manor_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

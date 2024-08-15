@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 8,
-	"map": "fy_pool_day",
+	"map": "aim_metro",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "YFS,secure"
 }

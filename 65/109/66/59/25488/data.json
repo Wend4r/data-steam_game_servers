@@ -1,0 +1,20 @@
+{
+	"addr": "65.109.66.59:25488",
+	"gameport": 25488,
+	"specport": 25489,
+	"steamid": "90200966925340685",
+	"name": "Leetify CS2 KZ by Dan D. Lion",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 12,
+	"bots": 1,
+	"map": "kzpro_only_up_extended",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "dathost,dathost.net,secure"
+}

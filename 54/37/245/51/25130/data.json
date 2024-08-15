@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 45,
-	"bots": 0,
-	"map": "bhop_rbth",
+	"bots": 1,
+	"map": "bhop_reservation",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_rbth,sec"
+	"gametype": "bhop5,bunny,cksurf,fun,gofree,hop,hsw,rank,skills,stats,store,styles,surf,surfing,surftimer,sw,sync,training,wrcp,bhop_reservat"
 }

@@ -1,0 +1,19 @@
+{
+	"addr": "213.167.198.156:27015",
+	"gameport": 27015,
+	"steamid": "85568392931215644",
+	"name": "JumpStat training BladE server [KZ]. MouseGraph for all [NoAPI]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 255,
+	"players": 0,
+	"max_players": 12,
+	"bots": 0,
+	"map": "kz_altum_od",
+	"secure": false,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,gokz,128tick,gloves,bind,crouch,alltalk,R2-D2,bhop,blade,b14,128,gravity,insecure,mini,ru,stats,js,steam,skz,kz,timer,ws,"
+}
