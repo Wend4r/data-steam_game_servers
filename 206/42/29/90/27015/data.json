@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,mdc,mix,mixdoscrias,secure"
+	"gametype": "empty,cs2,mdc,mix,mixdoscrias,insecure"
 }

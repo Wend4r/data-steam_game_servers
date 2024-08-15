@@ -1,0 +1,19 @@
+{
+	"addr": "37.27.62.77:25139",
+	"gameport": 25139,
+	"steamid": "90200971413905426",
+	"name": "Leetify CS2 Practice Mode by Mokkis",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 1,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

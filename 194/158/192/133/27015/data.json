@@ -1,7 +1,6 @@
 {
 	"addr": "194.158.192.133:27015",
 	"gameport": 27015,
-	"specport": 27018,
 	"steamid": "85568392924439849",
 	"name": "Platoon CS2 Server 1",
 	"appid": 730,
@@ -12,7 +11,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 3,
-	"map": "de_mirage",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
