@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 3,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,fu"
+	"gametype": "!eldiven,!ws,Deagle,OyunTECH,TR,[TR],aim,awp,deagle,dm,full,fun"
 }
