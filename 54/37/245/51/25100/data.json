@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 2,
+	"players": 3,
 	"max_players": 45,
-	"bots": 3,
-	"map": "surf_botanica",
+	"bots": 2,
+	"map": "surf_kawaii",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_botanica,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_kawaii,secure"
 }
