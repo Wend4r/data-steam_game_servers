@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.45.132:26433",
 	"gameport": 26433,
+	"specport": 26434,
 	"steamid": "90200968145624073",
 	"name": "Hamringstogt (tryouts) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

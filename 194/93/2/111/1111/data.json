@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_razeclub_water",
+	"map": "am_razeclub_basement",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "arena,cheats,hackervshacker,hackvshack,hvh,hvh arena,hvh.gg,hvh"
+	"gametype": "empty,arena,cheats,hackervshacker,hackvshack,hvh,hvh arena,hvh."
 }

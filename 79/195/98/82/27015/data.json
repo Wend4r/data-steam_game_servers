@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_memento",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MSC,msc,secure"
+	"gametype": "empty,MSC,msc,insecure"
 }
