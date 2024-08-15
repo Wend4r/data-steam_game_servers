@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:25172",
 	"gameport": 25172,
+	"specport": 25173,
 	"steamid": "90200960858008594",
 	"name": "usa4i powered by PRACC.COM",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
