@@ -1,7 +1,7 @@
 {
 	"addr": "51.195.46.23:27030",
 	"gameport": 27030,
-	"steamid": "90200965868710925",
+	"steamid": "90200974452251661",
 	"name": "funplay.pro test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 4,
+	"bots": 10,
 	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,

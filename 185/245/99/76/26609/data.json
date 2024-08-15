@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26609",
 	"gameport": 26609,
+	"specport": 26610,
 	"steamid": "90200974496619534",
 	"name": "IQ Gaming powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 3,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

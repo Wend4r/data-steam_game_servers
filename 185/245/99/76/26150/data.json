@@ -1,7 +1,8 @@
 {
 	"addr": "185.245.99.76:26150",
 	"gameport": 26150,
-	"steamid": "90200966848972814",
+	"specport": 26151,
+	"steamid": "90200974496570382",
 	"name": "Superior Esports powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

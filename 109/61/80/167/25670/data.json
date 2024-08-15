@@ -1,6 +1,7 @@
 {
 	"addr": "109.61.80.167:25670",
 	"gameport": 25670,
+	"specport": 25671,
 	"steamid": "90200974531206170",
 	"name": "Leetify CS2 KZ by Only HeadShot",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "kz_communityjump3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
