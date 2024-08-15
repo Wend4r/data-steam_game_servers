@@ -1,6 +1,7 @@
 {
 	"addr": "83.141.28.249:27155",
 	"gameport": 27155,
+	"specport": 27165,
 	"steamid": "85568392931409510",
 	"name": "CKRAS - www.ckras.com",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 1,
-	"max_players": 12,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
+	"gametype": "CKRAS,ckras.com,esl,esl certified,gaming,premium,secure"
 }
