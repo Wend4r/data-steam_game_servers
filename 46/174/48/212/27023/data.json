@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 16,
 	"bots": 0,
-	"map": "hns_backyard_v1",
+	"map": "hns_bbcity",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspub"
+	"gametype": "BlueSen,anime,awp,awp anime,awp lego,bs,fps public,fpspublic,gl"
 }
