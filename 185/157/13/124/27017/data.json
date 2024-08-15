@@ -1,7 +1,7 @@
 {
 	"addr": "185.157.13.124:27017",
 	"gameport": 27017,
-	"steamid": "90200956983873545",
+	"steamid": "90200973608124425",
 	"name": "CS2_FEAR_DM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
