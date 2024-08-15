@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 34,
-	"bots": 9,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "ba,cro,bih,balkan,cswarzone.com,OaO,128tick,eu,free2play,legacy,knife,hr,lvl,mkd,models,no-steam,public,skins,slo,srb,ws,gameME"
+	"gametype": "empty,ba,cro,bih,balkan,cswarzone.com,OaO,128tick,eu,free2play,legacy,knife,hr,lvl,mkd,models,no-steam,public,skins,slo,srb,ws,"
 }
