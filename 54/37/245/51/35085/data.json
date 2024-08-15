@@ -10,10 +10,10 @@
 	"region": 0,
 	"players": 1,
 	"max_players": 45,
-	"bots": 1,
-	"map": "surf_unreal_njv_",
+	"bots": 3,
+	"map": "surf_hades2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_unreal_njv_,secure"
+	"gametype": "128,128tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surfing,surftimer,vip,wrcp,ws,surf_hades2,secure"
 }

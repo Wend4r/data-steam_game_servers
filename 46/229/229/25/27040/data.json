@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_zen",
+	"map": "am_aqua",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1v1,aim,arena,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump"
+	"gametype": "1v1,1v1,aim,arena,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife"
 }

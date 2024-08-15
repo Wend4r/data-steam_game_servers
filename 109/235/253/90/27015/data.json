@@ -1,8 +1,7 @@
 {
 	"addr": "109.235.253.90:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200973721115659",
+	"steamid": "90200974336628747",
 	"name": "Competitive CS2 server << powered by cs2-multiserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,7 +11,7 @@
 	"players": 6,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
