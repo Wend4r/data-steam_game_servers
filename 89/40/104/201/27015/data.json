@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 26,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anticheat,competitive,epic-gamers,europe,fun,gloves,knifes,ro,r"
+	"gametype": "empty,anticheat,competitive,epic-gamers,europe,fun,gloves,knife"
 }

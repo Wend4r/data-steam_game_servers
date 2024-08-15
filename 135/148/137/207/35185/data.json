@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 45,
-	"bots": 3,
-	"map": "surf_skyfall_final",
+	"bots": 0,
+	"map": "surf_boreas",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_skyfal"
+	"gametype": "empty,85,85tick,easysurf,gf,gloves,gofree,knife,rank,stats,store,styles,surf,surf10,surfing,surfing,surftimer,vip,wrcp,ws,surf_"
 }

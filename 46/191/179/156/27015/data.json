@@ -1,6 +1,7 @@
 {
 	"addr": "46.191.179.156:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392932076104",
 	"name": "lan",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
