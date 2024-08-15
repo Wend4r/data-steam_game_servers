@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_outpost_escape_p",
+	"map": "ze_forius_just_run_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }

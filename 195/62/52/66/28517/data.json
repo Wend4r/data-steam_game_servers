@@ -7,7 +7,7 @@
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": -1,
+	"region": 255,
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "hvh,insecure"
 }

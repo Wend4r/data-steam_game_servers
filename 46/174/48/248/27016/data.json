@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.48.248:27016",
 	"gameport": 27016,
-	"steamid": "90200962449945620",
+	"steamid": "90200962452889620",
 	"name": "CS2 KLMP | Minigame | 3 JUMPS | TIMER | !wr, !ws, !knife, !glov",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
