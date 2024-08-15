@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 10,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,5x5,5vs5,5v5,cybershoke,cyber,de_mirage,drop,duel,gloves,"
+	"gametype": "5x5,5vs5,5v5,cybershoke,cyber,de_mirage,drop,duel,gloves,knife,"
 }

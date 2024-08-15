@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 5,
+	"players": 0,
 	"max_players": 40,
 	"bots": 1,
 	"map": "jb_ba_jail_augment_v2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!lastrequest,!lr,!ws,ba,ba_,bdp,jail,jail_,jailbreak,jailbreak_,jb,jb_,prison,warden,insecure"
+	"gametype": "empty,!knife,!lastrequest,!lr,!ws,ba,ba_,bdp,jail,jail_,jailbreak,jailbreak_,jb,jb_,prison,warden,insecure"
 }
