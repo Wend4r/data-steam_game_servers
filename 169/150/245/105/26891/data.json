@@ -12,9 +12,9 @@
 	"players": 9,
 	"max_players": 12,
 	"bots": 1,
-	"map": "fy_pool_day",
+	"map": "de_banqiao_r2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hidden,insecure"
+	"gametype": "hidden,insecure"
 }

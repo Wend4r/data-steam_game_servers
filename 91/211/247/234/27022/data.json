@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 9,
+	"players": 10,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,gg arena,glov"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,gg arena,gloves,kni"
 }
