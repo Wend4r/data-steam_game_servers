@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 28,
-	"bots": 2,
-	"map": "aim_redline_fp",
+	"bots": 1,
+	"map": "am_must2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,br,brutalci,ws,secure"
+	"gametype": "br,brutalci,ws,secure"
 }
