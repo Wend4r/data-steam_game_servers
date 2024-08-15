@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,2x2,2vs2,2v2,de,cybershoke,cyber,de_vertigo,drop,duel,ger"
+	"gametype": "2x2,2vs2,2v2,de,cybershoke,cyber,de_vertigo,drop,duel,ger,eu,en"
 }

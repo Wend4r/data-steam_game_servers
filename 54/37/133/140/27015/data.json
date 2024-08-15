@@ -5,7 +5,7 @@
 	"name": "★PL★ ONLY MIRAGE ★Cs-Classic.pl★",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,headsho"
+	"gametype": "empty,4fun,agents,casedrop,cs-classic,cs2,csgo,freevip,gloves,h"
 }
