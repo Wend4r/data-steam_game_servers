@@ -1,0 +1,20 @@
+{
+	"addr": "109.61.80.168:25952",
+	"gameport": 25952,
+	"specport": 25953,
+	"steamid": "90200972976625691",
+	"name": "[P] PopFlash Scrim - dusseldorf - 24",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 10,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_train",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "popflash,secure"
+}

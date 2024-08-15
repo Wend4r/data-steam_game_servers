@@ -1,7 +1,7 @@
 {
 	"addr": "194.15.110.25:27315",
 	"gameport": 27315,
-	"steamid": "90200936618435610",
+	"steamid": "90200972932448282",
 	"name": "IPX Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 2,
-	"map": "de_vertigo",
+	"map": "de_lake",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
