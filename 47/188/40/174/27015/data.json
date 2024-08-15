@@ -1,7 +1,7 @@
 {
 	"addr": "47.188.40.174:27015",
 	"gameport": 27015,
-	"steamid": "90200974364462106",
+	"steamid": "90200975447222288",
 	"name": "[IG] 24/7 Surf | Easy Surf T1-2 | ImperfectGamers.org",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_klue",
+	"map": "surf_beginner",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "easy,gamers,ig,imperfect,surf,surfing,insecure"
+	"gametype": "empty,easy,gamers,ig,imperfect,surf,surfing,insecure"
 }

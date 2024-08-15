@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "kz_cg_lighthops",
+	"map": "kz_consequence",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,.ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gl"
+	"gametype": ".ee,.fi,.lt,.lv,.no,.pl,.se,baltic,bhop,chill,chill.lv,gloves,i"
 }

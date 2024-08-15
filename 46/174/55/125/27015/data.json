@@ -1,19 +1,19 @@
 {
 	"addr": "46.174.55.125:27015",
 	"gameport": 27015,
-	"steamid": "90200975509918740",
+	"steamid": "90200975652334612",
 	"name": "MG | chto eto takoe",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
-	"max_players": 20,
+	"players": 0,
+	"max_players": 32,
 	"bots": 0,
-	"map": "bhop_angst_go",
-	"secure": true,
+	"map": "bhop_arcane_v3_smg",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
+	"gametype": "empty,!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigam"
 }
