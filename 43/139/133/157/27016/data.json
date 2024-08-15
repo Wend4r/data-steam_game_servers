@@ -1,19 +1,19 @@
 {
 	"addr": "43.139.133.157:27016",
 	"gameport": 27016,
-	"steamid": "90200781784050715",
+	"steamid": "90200954251501595",
 	"name": "PreAim训练服 广东高频 #80 [VIP]",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

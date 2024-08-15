@@ -1,7 +1,7 @@
 {
 	"addr": "103.165.46.66:27024",
 	"gameport": 27024,
-	"steamid": "85568392931461324",
+	"steamid": "90200954004533276",
 	"name": "LANN Gaming | MATCH #8 | !ws, Ranked",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_anubis",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CS2,LANN,LANN Gaming,Mongolia,secure"
+	"gametype": "empty,CS2,LANN,LANN Gaming,Mongolia,secure"
 }
