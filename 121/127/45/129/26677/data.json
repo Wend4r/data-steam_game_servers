@@ -1,7 +1,7 @@
 {
 	"addr": "121.127.45.129:26677",
 	"gameport": 26677,
-	"steamid": "90200970251316230",
+	"steamid": "90200970253712390",
 	"name": "Du fed",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,DK,secure"
+	"gametype": "DK,secure"
 }
