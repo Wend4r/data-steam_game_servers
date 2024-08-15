@@ -1,7 +1,7 @@
 {
 	"addr": "212.22.93.36:27030",
 	"gameport": 27030,
-	"steamid": "90200973940668446",
+	"steamid": "90200973941296158",
 	"name": "Grand",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
