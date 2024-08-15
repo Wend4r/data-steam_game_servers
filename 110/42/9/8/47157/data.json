@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:47157",
 	"gameport": 47157,
-	"steamid": "90200936470745102",
+	"steamid": "90200964301410318",
 	"name": "Ninja Scrim",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 12,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
