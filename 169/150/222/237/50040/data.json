@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.222.237:50040",
 	"gameport": 50040,
-	"specport": 27020,
-	"steamid": "90200936379967503",
+	"steamid": "90200974596166671",
 	"name": "drypeek",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_vertigo",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
