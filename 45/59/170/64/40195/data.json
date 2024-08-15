@@ -1,0 +1,19 @@
+{
+	"addr": "45.59.170.64:40195",
+	"gameport": 40195,
+	"steamid": "85568392932078226",
+	"name": "Libre Gaming [!ws !knife]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": -1,
+	"players": 0,
+	"max_players": 10,
+	"bots": 0,
+	"map": "fun_bounce",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,secure"
+}

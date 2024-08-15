@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 16,
 	"bots": 1,
-	"map": "/2499832149/cs_grovest",
+	"map": "cs_militia",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
