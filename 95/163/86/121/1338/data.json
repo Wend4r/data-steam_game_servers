@@ -1,0 +1,19 @@
+{
+	"addr": "95.163.86.121:1338",
+	"gameport": 1338,
+	"steamid": "85568392932078019",
+	"name": "CSGOReborn - Public",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.35.1.6",
+	"product": "csgo",
+	"region": -1,
+	"players": 0,
+	"max_players": 20,
+	"bots": 0,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "w",
+	"gametype": "empty,incsgo.ru,public,secure"
+}

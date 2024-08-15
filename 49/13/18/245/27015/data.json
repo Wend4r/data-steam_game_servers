@@ -1,7 +1,7 @@
 {
 	"addr": "49.13.18.245:27015",
 	"gameport": 27015,
-	"steamid": "90200965684603917",
+	"steamid": "90200966049996813",
 	"name": "[CZ/SK] chost.cz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
