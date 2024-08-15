@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26381",
 	"gameport": 26381,
-	"steamid": "90200965675200526",
+	"steamid": "90200966848763918",
 	"name": "MOUZ NXT powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

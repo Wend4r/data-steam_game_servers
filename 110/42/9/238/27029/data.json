@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.238:27029",
 	"gameport": 27029,
-	"steamid": "90200966862139412",
+	"steamid": "90200966864867348",
 	"name": "[Flux] 测试服务器",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 23,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,

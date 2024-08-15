@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26872",
 	"gameport": 26872,
-	"steamid": "90200965676413966",
+	"steamid": "90200966848832526",
 	"name": "Insilio powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
