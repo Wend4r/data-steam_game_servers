@@ -1,8 +1,7 @@
 {
 	"addr": "109.61.80.163:26050",
 	"gameport": 26050,
-	"specport": 26051,
-	"steamid": "90200936986084374",
+	"steamid": "90200976326943766",
 	"name": "Rommel'n'Friends",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
-	"map": "de_vertigo",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

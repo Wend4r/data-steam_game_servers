@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 45,
-	"bots": 3,
-	"map": "surf_quasar_njv",
+	"bots": 2,
+	"map": "surf_palikka_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_quasar_njv,secure"
+	"gametype": "!,102,102tick,gf,gofree,surf,surftimer,surf_palikka_fix,secure"
 }
