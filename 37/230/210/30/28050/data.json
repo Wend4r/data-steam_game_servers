@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "am_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,am_ancient,1vs1,duel,cybershoke,cyber,128,128tick,drop,du"
+	"gametype": "am_ancient,1vs1,duel,cybershoke,cyber,128,128tick,drop,duels,ff"
 }

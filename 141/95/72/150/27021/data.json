@@ -1,7 +1,6 @@
 {
 	"addr": "141.95.72.150:27021",
 	"gameport": 27021,
-	"specport": 29021,
 	"steamid": "85568392931882981",
 	"name": "[PL]|ıllıGramyPLıllı|✦RANKING✦RANGI✦SKLEP✦POSTACIE ",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!shop,!skins,rangi,ranking,insecure"
+	"gametype": "empty,!shop,!skins,rangi,ranking,insecure"
 }
