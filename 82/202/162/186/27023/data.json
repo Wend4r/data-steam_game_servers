@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 14,
-	"map": "de_ancient",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

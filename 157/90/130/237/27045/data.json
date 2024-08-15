@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agents,awp_lego_2,cs2,gloves,knife,music,secure,secure"
+	"gametype": "agents,awp_lego_2,cs2,gloves,knife,music,secure,secure"
 }
