@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 20,
 	"bots": 0,
-	"map": "bhop_adventure_csgo",
+	"map": "mg_crazy_course_part3_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
 }

@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,incsgo.ru,public,insecure"
+	"gametype": "incsgo.ru,public,secure"
 }
