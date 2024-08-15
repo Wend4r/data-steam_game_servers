@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.201:26208",
 	"gameport": 26208,
+	"specport": 26209,
 	"steamid": "90200936587184149",
 	"name": "wolf",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }

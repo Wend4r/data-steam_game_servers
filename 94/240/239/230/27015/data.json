@@ -2,12 +2,12 @@
 	"addr": "94.240.239.230:27015",
 	"gameport": 27015,
 	"steamid": "85568392932075322",
-	"name": "Counter-Strike 2",
+	"name": "1ksony Server [Test Rejimi]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
