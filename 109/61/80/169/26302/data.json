@@ -1,7 +1,6 @@
 {
 	"addr": "109.61.80.169:26302",
 	"gameport": 26302,
-	"specport": 26303,
 	"steamid": "85568392930566698",
 	"name": "Vieforit Server #3",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 5,
-	"bots": 0,
-	"map": "aim_arctic",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

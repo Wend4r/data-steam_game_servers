@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,DROP,FUN,PRO,escape,ze,zombie,zombieescape,secure"
+	"gametype": "empty,!knife,!ws,DROP,FUN,PRO,escape,ze,zombie,zombieescape,sec"
 }

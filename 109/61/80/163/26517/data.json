@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 30,
-	"bots": 3,
-	"map": "de_rats_kitchoon",
+	"bots": 4,
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FUN,secure"
+	"gametype": "empty,FUN,secure"
 }
