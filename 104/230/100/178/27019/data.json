@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,affinity,cs2,secure"
+	"gametype": "empty,5v5,affinity,cs2,insecure"
 }

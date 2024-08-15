@@ -2,7 +2,7 @@
 	"addr": "51.195.61.237:30090",
 	"gameport": 30090,
 	"specport": 35026,
-	"steamid": "90200937036239887",
+	"steamid": "90200958716188687",
 	"name": "Rashidun Caliphate",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 19,
-	"bots": 0,
-	"map": "aim_newagewip",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

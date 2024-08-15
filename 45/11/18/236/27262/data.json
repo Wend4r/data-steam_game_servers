@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27262",
 	"gameport": 27262,
 	"specport": 27264,
-	"steamid": "90200949310763038",
+	"steamid": "90200958690895902",
 	"name": "SELO eSports",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

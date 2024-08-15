@@ -1,6 +1,7 @@
 {
 	"addr": "62.182.159.104:27315",
 	"gameport": 27315,
+	"specport": 27320,
 	"steamid": "85568392932060849",
 	"name": "MyRUN [AWP LEGO] !WS !KNIFE !GLOVES",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 1,
 	"map": "myrun/awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,128tick,awp,cs:go,csgo,no-steam,spb,авп,авп лего,лего,secure"
+	"gametype": "empty,*grp:5114777i,128tick,awp,cs:go,csgo,no-steam,spb,авп,авп лего,лего,secure"
 }
