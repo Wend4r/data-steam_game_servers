@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gl,hv1,1v1,!,$,!ws,knife,awp,!glove,mirage,lego,public,aim,awplego,128tick,128,csgo,admin,bhop,publicaim,rus,russian,sti"
+	"gametype": "!gl,hv1,1v1,!,$,!ws,knife,awp,!glove,mirage,lego,public,aim,awplego,128tick,128,csgo,admin,bhop,publicaim,rus,russian,stickers,"
 }
