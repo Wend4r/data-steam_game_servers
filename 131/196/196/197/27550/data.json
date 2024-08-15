@@ -1,7 +1,6 @@
 {
 	"addr": "131.196.196.197:27550",
 	"gameport": 27550,
-	"specport": 27020,
 	"steamid": "85568392926393150",
 	"name": "☆ Monkey HvH FUN ☆ FUN SERVER ☆",
 	"appid": 730,
@@ -9,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 2,
-	"players": 3,
+	"players": 5,
 	"max_players": 64,
 	"bots": 1,
-	"map": "cs_office",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "brasil,csgo,host,hvh,monkey\r,sao paulo,sp,insecure"
+	"gametype": "empty,brasil,csgo,host,hvh,monkey\r,sao paulo,sp,insecure"
 }
