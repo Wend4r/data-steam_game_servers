@@ -2,7 +2,7 @@
 	"addr": "121.127.41.37:26588",
 	"gameport": 26588,
 	"steamid": "85568392924046392",
-	"name": "CS2 Retake #117 MI",
+	"name": "XPLAY.GG • CS2 RETAKE #117 • [US]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
