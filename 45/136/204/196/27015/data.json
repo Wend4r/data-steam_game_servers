@@ -1,7 +1,7 @@
 {
 	"addr": "45.136.204.196:27015",
 	"gameport": 27015,
-	"steamid": "90200914763230222",
+	"steamid": "90200953662045198",
 	"name": "XDSTYLE • FPS+ | SHOP, SKINS, CASE |",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_aztec_xd_fps+",
+	"map": "de_nuke_xd_fps+",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1mpulse,LKv2,blocker_passes,secure"
+	"gametype": "empty,*grp:5114777i,1mpulse,LKv2,blocker_passes,secure"
 }
