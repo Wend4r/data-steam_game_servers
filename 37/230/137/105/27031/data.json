@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_leaf",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "bhop,bhop_leaf,gloves,cybershoke,cyber,drop,knife,pro,msk,rank,"
+	"gametype": "empty,bhop,bhop_leaf,gloves,cybershoke,cyber,drop,knife,pro,msk"
 }
