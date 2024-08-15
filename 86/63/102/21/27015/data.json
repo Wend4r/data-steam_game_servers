@@ -1,13 +1,13 @@
 {
 	"addr": "86.63.102.21:27015",
 	"gameport": 27015,
-	"steamid": "90200963940440076",
+	"steamid": "90200963942264844",
 	"name": "Lobuzeria #1 Retake",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
-	"region": -1,
+	"region": 3,
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,lobuz klan,insecure"
+	"gametype": "empty,lobuz klan,secure"
 }

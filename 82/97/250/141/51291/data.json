@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_minecraftvillage",
+	"map": "ze_frozentemple_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
+	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
 }

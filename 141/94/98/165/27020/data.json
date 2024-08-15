@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "jb_improved_alpha",
+	"map": "jb_electric_razor_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cola,colateam,colateames,cs2,españa,jail,jailbreak,spain"
+	"gametype": "cola,colateam,colateames,cs2,españa,jail,jailbreak,spain,secur"
 }

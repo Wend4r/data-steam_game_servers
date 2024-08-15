@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 21,
 	"bots": 0,
-	"map": "am_hood",
+	"map": "am_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,1v1arena,agents,aim,arenas,avalanche,fun,gloves,multi,portu"
+	"gametype": "empty,1v1,1v1arena,agents,aim,arenas,avalanche,fun,gloves,multi"
 }

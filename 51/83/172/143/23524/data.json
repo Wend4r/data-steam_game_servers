@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 10,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "nocnyvip,pl,rangi,svpj,vip,zonegame,secure"
+	"gametype": "empty,nocnyvip,pl,rangi,svpj,vip,zonegame,insecure"
 }
