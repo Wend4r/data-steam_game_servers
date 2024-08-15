@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 3,
 	"max_players": 24,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_mirage_luckyshot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!sho,!ws,*grp:5114777i,128,128tick,awp,fps,fps+,jump,knife,moscow,rank,russia,shop,skins,ukraine,vip,vivaro,ws,sec"
+	"gametype": "!knife,!sho,!ws,128,128tick,awp,fps,fps+,jump,knife,moscow,rank,russia,shop,skins,ukraine,vip,vivaro,ws,secure"
 }
