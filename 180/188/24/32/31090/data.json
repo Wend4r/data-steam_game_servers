@@ -1,8 +1,8 @@
 {
 	"addr": "180.188.24.32:31090",
 	"gameport": 31090,
-	"steamid": "90200953249469447",
-	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #13",
+	"steamid": "90200962882799623",
+	"name": "EXG社区 生化追击 Ｑ群553237396 ZE #13 [双倍积分]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,secure"
+	"gametype": "exg,ze,僵尸逃跑,secure"
 }
