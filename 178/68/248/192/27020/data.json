@@ -1,19 +1,19 @@
 {
 	"addr": "178.68.248.192:27020",
 	"gameport": 27020,
-	"steamid": "90200877498848264",
+	"steamid": "90200972497358856",
 	"name": "TEST",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_kitsune",
+	"map": "surf_sippysip",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "surf,85tick,64tick,pronull,cybershoke,skillsurf,skin,surf_kitsu"
+	"gametype": "empty,surf,85tick,64tick,pronull,cybershoke,skillsurf,skin,surf"
 }
