@@ -2,18 +2,18 @@
 	"addr": "83.46.77.183:27015",
 	"gameport": 27015,
 	"steamid": "85568392932075157",
-	"name": "★ [ESP/EU] | BLACKBØX | Dust 2 Only",
+	"name": "★ [ESP/EU] | BLACKBØX | AWP maps only",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 2,
-	"max_players": 20,
-	"bots": 5,
+	"players": 0,
+	"max_players": 32,
+	"bots": 0,
 	"map": "awp_lego_2_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "CS2,FY,aim,custom,espana,spain,secure"
+	"gametype": "empty,CS2,awp,custom,espana,sniper,spain,secure"
 }

@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "am_grass2_gg",
+	"map": "am_blackline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,arenas,dual,duel,english,fight,gosetti.pl:42655"
+	"gametype": "1v1,arena,arenas,dual,duel,english,fight,gosetti.pl:42655,multi"
 }
