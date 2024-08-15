@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 2,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,Hyper-Strike,csgo deathmatch,dm,fastdl,rank,insecure"
+	"gametype": "empty,*grp:563685i,Hyper-Strike,csgo deathmatch,dm,fastdl,rank,insecure"
 }

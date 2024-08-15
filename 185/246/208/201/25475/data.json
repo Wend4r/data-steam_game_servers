@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.208.201:25475",
 	"gameport": 25475,
+	"specport": 25476,
 	"steamid": "90200973252500501",
 	"name": "[P] PopFlash Scrim - warsaw - 24",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 10,
 	"max_players": 13,
 	"bots": 1,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,popflash,insecure"
+	"gametype": "empty,popflash,secure"
 }
