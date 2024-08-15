@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 64,
-	"bots": 5,
+	"bots": 3,
 	"map": "awp_lego_2_fp",
 	"secure": true,
 	"dedicated": true,
