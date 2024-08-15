@@ -1,7 +1,7 @@
 {
 	"addr": "130.61.140.127:27015",
 	"gameport": 27015,
-	"steamid": "90200960532935689",
+	"steamid": "90200960536476681",
 	"name": "Tournament group 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 11,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_overpass",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",

@@ -12,9 +12,9 @@
 	"players": 9,
 	"max_players": 10,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgam"
+	"gametype": "5v5,5x5,cw,dm,dust2,mirage,mix,pug,scrim,upg,upg.uz,upgaming,se"
 }
