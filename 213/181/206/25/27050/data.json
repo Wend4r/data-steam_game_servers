@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 24,
+	"players": 12,
 	"max_players": 25,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_train",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,secure"
+	"gametype": "empty,best,community,cs2,first,hu,hun,pub,top,ubec,unbreakable,"
 }
