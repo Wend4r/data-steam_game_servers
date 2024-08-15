@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 16,
 	"bots": 4,
-	"map": "cs_office",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,kif,secure"
+	"gametype": "kif,secure"
 }

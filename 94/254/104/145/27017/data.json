@@ -1,8 +1,8 @@
 {
 	"addr": "94.254.104.145:27017",
 	"gameport": 27017,
-	"steamid": "90200971368201243",
-	"name": "Pang På Skoj",
+	"steamid": "85568392932074019",
+	"name": "AMP Powered Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

@@ -1,0 +1,20 @@
+{
+	"addr": "185.246.208.194:25355",
+	"gameport": 25355,
+	"specport": 25356,
+	"steamid": "90200972827546638",
+	"name": "waiomy powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 2,
+	"max_players": 14,
+	"bots": 1,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+}
