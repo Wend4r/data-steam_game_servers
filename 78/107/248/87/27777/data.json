@@ -1,7 +1,7 @@
 {
 	"addr": "78.107.248.87:27777",
 	"gameport": 27777,
-	"steamid": "90200964919945226",
+	"steamid": "90200969046208522",
 	"name": "Zombie Test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 42,
-	"bots": 11,
+	"bots": 28,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mos,esca"
+	"gametype": "empty,!,*,bizarre,admin,bhop,no,rank,mod,shop,en,skin,vip,ru,mo"
 }
