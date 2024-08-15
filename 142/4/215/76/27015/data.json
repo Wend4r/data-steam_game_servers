@@ -1,19 +1,20 @@
 {
 	"addr": "142.4.215.76:27015",
 	"gameport": 27015,
-	"steamid": "90200566379303941",
+	"specport": 27020,
+	"steamid": "90200954525944837",
 	"name": "Competitive CS2 server << powered by cs2-multiserver",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 3,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "mp_hide",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,msm,secure"
+	"gametype": "competitive,msm,secure"
 }

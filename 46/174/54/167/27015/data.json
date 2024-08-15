@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 30,
 	"bots": 1,
 	"map": "awp_dust_sky",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,awplego,bhop,funnypublic,gl,gloves,idl,knife,lego,merryproject,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
+	"gametype": "awp,awplego,bhop,funnypublic,gl,gloves,idl,knife,lego,merryproject,shop,stattrak,stattrak boost,stb,testvip,ws,secure"
 }
