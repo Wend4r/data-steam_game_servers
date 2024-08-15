@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.102:26223",
 	"gameport": 26223,
+	"specport": 26224,
 	"steamid": "90200936365043718",
 	"name": "CLTeam",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 11,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

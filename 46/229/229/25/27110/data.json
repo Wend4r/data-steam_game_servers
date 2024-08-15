@@ -5,15 +5,15 @@
 	"name": "🌍 [SK/CZ/EU] CSKO.NET HNS #1 🚀",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "seek_town",
+	"map": "seek_violetto",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "bhop,cs2,csko,cyber,cz,eu,fun,gloves,hns,jump,knife,knves,kz,ma"
+	"gametype": "empty,bhop,cs2,csko,cyber,cz,eu,fun,gloves,hns,jump,knife,knves"
 }

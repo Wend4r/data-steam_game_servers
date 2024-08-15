@@ -5,15 +5,15 @@
 	"name": "[SEZON 5] ★[CODMOD] ★Cs-Classic★ - Call of Duty",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
 	"max_players": 23,
 	"bots": 0,
-	"map": "de_nache",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty,freev"
+	"gametype": "empty,4fun,agents,call,casedrop,codmod,cs-classic,cs2,csgo,duty"
 }

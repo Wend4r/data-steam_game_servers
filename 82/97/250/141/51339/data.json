@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ba_jail_minecraftparty_v6",
+	"map": "ba_jail_Bravo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,se"
+	"gametype": "empty,!,*grp:5114777i,LastRequest,MyJai,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,v"
 }
