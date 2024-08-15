@@ -1,13 +1,13 @@
 {
 	"addr": "83.143.87.218:27060",
 	"gameport": 27060,
-	"steamid": "90200915108664333",
+	"steamid": "90200953917454349",
 	"name": "AnkoProvingGrounds",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
