@@ -1,19 +1,19 @@
 {
 	"addr": "190.188.39.50:27015",
 	"gameport": 27015,
-	"steamid": "90200914532672540",
+	"steamid": "90200955821036572",
 	"name": "KZ LAN Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 0,
 	"map": "kz_baxter",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,KZTimer,KZTimer 1.106,Tickrate 128,secure"
+	"gametype": "empty,secure"
 }
