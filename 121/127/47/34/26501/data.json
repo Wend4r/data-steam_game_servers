@@ -1,8 +1,8 @@
 {
 	"addr": "121.127.47.34:26501",
 	"gameport": 26501,
-	"steamid": "90200958482058247",
-	"name": "Abyss powered by PRACC.COM",
+	"steamid": "90200962445558791",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

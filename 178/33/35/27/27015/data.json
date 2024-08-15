@@ -1,7 +1,7 @@
 {
 	"addr": "178.33.35.27:27015",
 	"gameport": 27015,
-	"steamid": "90200962314269703",
+	"steamid": "90200962596350983",
 	"name": "Server gazduit de CLOUD-CENTER.RO",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "Romania,center,cloud,secure"
+	"gametype": "empty,Romania,center,cloud,secure"
 }
