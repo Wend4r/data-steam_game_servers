@@ -1,0 +1,19 @@
+{
+	"addr": "89.187.167.136:25494",
+	"gameport": 25494,
+	"steamid": "90200976258052120",
+	"name": "Leetify CS2 Match by slicer",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 9,
+	"max_players": 12,
+	"bots": 1,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}

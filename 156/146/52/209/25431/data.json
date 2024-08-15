@@ -1,0 +1,20 @@
+{
+	"addr": "156.146.52.209:25431",
+	"gameport": 25431,
+	"specport": 25432,
+	"steamid": "90200976213275674",
+	"name": "[P] PopFlash Scrim - istanbul - 30",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 1,
+	"map": "de_mirage",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,popflash,secure"
+}
