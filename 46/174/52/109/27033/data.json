@@ -2,7 +2,7 @@
 	"addr": "46.174.52.109:27033",
 	"gameport": 27033,
 	"steamid": "85568392932076984",
-	"name": "Counter-Strike 2",
+	"name": "CS2 HNS #5 [RU] — CYBERSHOKE.NET (RULES)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,g-strafe,cybershoke,cyber,drop,hns,gloves,hns_jukecity_v8"
 }
