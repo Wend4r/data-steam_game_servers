@@ -1,19 +1,20 @@
 {
 	"addr": "169.150.245.103:26202",
 	"gameport": 26202,
-	"steamid": "90200969290902539",
-	"name": "manageYself (ESEA Main) powered by PRACC.COM",
+	"specport": 26203,
+	"steamid": "90200973870571531",
+	"name": "Leetify CS2 Surf by Kroko",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 14,
+	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "surf_rookie",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

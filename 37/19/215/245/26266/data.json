@@ -2,7 +2,7 @@
 	"addr": "37.19.215.245:26266",
 	"gameport": 26266,
 	"steamid": "85568392924046166",
-	"name": "CS2 KZ#12 ES",
+	"name": "XPLAY.GG • CS2 KZ #12 • [ES]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "kz_overjoyed",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

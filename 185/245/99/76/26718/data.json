@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26718",
 	"gameport": 26718,
 	"specport": 26719,
-	"steamid": "90200965675631630",
+	"steamid": "90200973785159694",
 	"name": "NeedOne (inter) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 3,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
