@@ -1,6 +1,7 @@
 {
 	"addr": "121.127.47.33:26023",
 	"gameport": 26023,
+	"specport": 27020,
 	"steamid": "85568392931723995",
 	"name": "Nade Testing",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 8,
-	"bots": 3,
-	"map": "de_vertigo",
+	"bots": 9,
+	"map": "de_inferno_noroof",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
