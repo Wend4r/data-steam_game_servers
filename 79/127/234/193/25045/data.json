@@ -1,8 +1,8 @@
 {
 	"addr": "79.127.234.193:25045",
 	"gameport": 25045,
-	"steamid": "90200955987479565",
-	"name": "F5 Esports powered by PRACC.COM",
+	"steamid": "90200956165227533",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
