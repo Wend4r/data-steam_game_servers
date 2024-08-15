@@ -2,18 +2,18 @@
 	"addr": "103.40.14.54:30000",
 	"gameport": 30000,
 	"steamid": "85568392932056559",
-	"name": "【FG】#1满十|免费全皮肤|上海 [比赛中 11-9] ",
+	"name": "【FG】#1满十|免费全皮肤|上海 [还缺10人] ",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.5",
 	"product": "cs2",
 	"region": 255,
-	"players": 9,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,5v5,FG,FGCSGO,fg,fgcsgo,free,pug,secure"
+	"gametype": "empty,5v5,FG,FGCSGO,fg,fgcsgo,free,pug,insecure"
 }
