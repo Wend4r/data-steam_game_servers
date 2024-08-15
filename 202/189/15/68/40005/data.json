@@ -5,15 +5,15 @@
 	"name": "EXG社区 躲猫猫 Ｑ 群553237396 躲猫猫 #2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "de_akiba",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

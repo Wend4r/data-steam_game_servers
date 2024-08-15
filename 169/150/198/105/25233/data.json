@@ -2,19 +2,19 @@
 	"addr": "169.150.198.105:25233",
 	"gameport": 25233,
 	"specport": 25234,
-	"steamid": "90200913056082953",
+	"steamid": "90200952762420233",
 	"name": "INS4N1 Academy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 14,
 	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
