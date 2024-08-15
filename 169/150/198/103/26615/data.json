@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.103:26615",
 	"gameport": 26615,
-	"steamid": "90200973200822279",
+	"steamid": "90200973203378183",
 	"name": "Kekel Team",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
