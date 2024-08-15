@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 33,
-	"bots": 10,
+	"bots": 1,
 	"map": "aim_deagle7k_css",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,$,63,de_mirage,ffa,mirage,neo,neostrike,prime,public,sa"
+	"gametype": "!,$,63,de_mirage,ffa,mirage,neo,neostrike,prime,public,samara,t"
 }
