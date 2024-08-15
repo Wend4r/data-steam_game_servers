@@ -2,18 +2,18 @@
 	"addr": "91.211.247.247:27018",
 	"gameport": 27018,
 	"steamid": "85568392930292871",
-	"name": "[LT/EU] AWP Only - Rampage.lt !ws !knife !gloves !ranks !vip",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
+	"region": -1,
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "awp_summer_surf_cs2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,1vs1,24,7,Eu,Ltu,arena,awp,csgo,g,gloves,knife,lietuv"
+	"gametype": "empty,insecure"
 }

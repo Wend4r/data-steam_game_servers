@@ -10,7 +10,7 @@
 	"region": 26,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 8,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,

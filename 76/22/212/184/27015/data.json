@@ -1,7 +1,7 @@
 {
 	"addr": "76.22.212.184:27015",
 	"gameport": 27015,
-	"steamid": "90200957958761487",
+	"steamid": "90200976641949711",
 	"name": "4R Scoutknives",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
