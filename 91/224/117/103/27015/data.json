@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 1,
+	"players": 0,
 	"max_players": 17,
 	"bots": 1,
-	"map": "aim_redline_fp",
+	"map": "am_nuke2018_v2_1s2k",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only"
+	"gametype": "!gloves,!knife,!rank,!sklepsms,!ws,-,128tickrate,FFA Only,dance"
 }

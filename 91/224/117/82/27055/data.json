@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.82:27055",
 	"gameport": 27055,
-	"steamid": "90200962019679248",
+	"steamid": "90200962243496976",
 	"name": "BADYLNATORS @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

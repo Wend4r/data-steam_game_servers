@@ -12,9 +12,9 @@
 	"players": 2,
 	"max_players": 19,
 	"bots": 11,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,csportal,cz,dm,ffa,rank,sk,warmup,secure"
+	"gametype": "csportal,cz,dm,ffa,rank,sk,warmup,secure"
 }
