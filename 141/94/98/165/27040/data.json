@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_alley_course_reskin",
+	"map": "deathrun_frozen_desert",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap"
+	"gametype": "cola,colateam,colateames,cs2,deathrun_,españa,fun,funmap,mg_,s"
 }
