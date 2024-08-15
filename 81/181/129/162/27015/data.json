@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
 	"map": "awp_lego_2011_valtora",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gloves,!knife,!skins,!ws,arena,bhop,competitive,daysmenu,fast drop,ggez,indungi,jailbreak,jb,last request,pro,zm,zombie "
+	"gametype": "!gloves,!knife,!skins,!ws,arena,bhop,competitive,daysmenu,fast drop,ggez,indungi,jailbreak,jb,last request,pro,zm,zombie escape"
 }
