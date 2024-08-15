@@ -1,6 +1,7 @@
 {
 	"addr": "80.92.238.73:27017",
 	"gameport": 27017,
+	"specport": 27018,
 	"steamid": "90200956470367253",
 	"name": "eBot :: REMBAZA vs Purple Haze",
 	"appid": 730,
@@ -9,11 +10,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 13,
-	"max_players": 16,
+	"max_players": 17,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "secure"
 }
