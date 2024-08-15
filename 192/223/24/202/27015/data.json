@@ -1,7 +1,7 @@
 {
 	"addr": "192.223.24.202:27015",
 	"gameport": 27015,
-	"steamid": "90200936350257183",
+	"steamid": "90200957943089183",
 	"name": "[ css : counter-strike syndicate ]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

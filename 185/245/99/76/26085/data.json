@@ -1,7 +1,8 @@
 {
 	"addr": "185.245.99.76:26085",
 	"gameport": 26085,
-	"steamid": "90200952753796110",
+	"specport": 26086,
+	"steamid": "90200957952709646",
 	"name": "noetic powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
