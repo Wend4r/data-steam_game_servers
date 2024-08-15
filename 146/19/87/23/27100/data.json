@@ -2,18 +2,18 @@
 	"addr": "146.19.87.23:27100",
 	"gameport": 27100,
 	"steamid": "85568392931826377",
-	"name": "Counter-Strike 2",
+	"name": "\"🌶️  [CSCHILI.RU] ● ЧИЛИ ● МИРАЖ\"\"",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 18,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
