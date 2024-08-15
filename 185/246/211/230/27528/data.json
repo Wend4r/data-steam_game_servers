@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "/2575855953/kz_castlehops_v3",
+	"map": "/580309446/kz_ahful",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
