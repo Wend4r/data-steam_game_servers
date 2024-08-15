@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 2,
+	"players": 1,
 	"max_players": 32,
 	"bots": 1,
-	"map": "de_dust2_se++",
+	"map": "cs_italy",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
+	"gametype": "empty,16K,Evolution,HackHaven,HvH,Rage,SharkProject,StarLess,Taps,eXpidors,nevermiss,insecure"
 }
