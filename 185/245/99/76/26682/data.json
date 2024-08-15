@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26682",
 	"gameport": 26682,
-	"steamid": "90200952976985102",
+	"steamid": "90200957956184078",
 	"name": "Eternal Fire powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
