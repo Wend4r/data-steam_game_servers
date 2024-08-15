@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26848",
 	"gameport": 26848,
-	"steamid": "90200957952832526",
+	"steamid": "90200965517531150",
 	"name": "Astralis W powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

@@ -2,7 +2,7 @@
 	"addr": "185.245.99.76:26522",
 	"gameport": 26522,
 	"specport": 26523,
-	"steamid": "90200957952904206",
+	"steamid": "90200965517283342",
 	"name": "Team Divergent powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
