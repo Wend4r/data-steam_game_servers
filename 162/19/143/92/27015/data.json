@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 50,
-	"bots": 1,
-	"map": "surf_zeitgeist",
+	"bots": 2,
+	"map": "surf_summer",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,64tick,SurfHeaven,autobhop,beginner,cs20,easy,heaven,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,se"
+	"gametype": "!knife,!ws,64tick,SurfHeaven,autobhop,beginner,cs20,easy,heaven,knife,rank,skins,stats,surf,surfing,surftimer,timer,ws,secure"
 }

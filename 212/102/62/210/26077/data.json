@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Nordic,NordicExellence,secure"
+	"gametype": "empty,Nordic,NordicExellence,insecure"
 }

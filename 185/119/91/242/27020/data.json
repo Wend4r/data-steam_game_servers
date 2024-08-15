@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "BRUTALCI,knife,ws,secure"
+	"gametype": "empty,BRUTALCI,knife,ws,secure"
 }

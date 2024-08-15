@@ -13,8 +13,8 @@
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FreeVip,Public,no-steam,insecure"
+	"gametype": "empty,Avanturist,FreeVip,Public,no-steam,secure"
 }
