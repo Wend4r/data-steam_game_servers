@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 3,
-	"players": 1,
+	"players": 2,
 	"max_players": 20,
 	"bots": 1,
 	"map": "awp_lego_2019_texas4pt",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tickrate,ANTICAMP,AWP,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,NODEAGLE,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,V"
+	"gametype": "128tickrate,ANTICAMP,AWP,FACAS,GLOVES,KNIFE,KNIFES,LUVAS,NODEAGLE,PT,Portugues,SKIN,SKINS,TEXAS,TEXAS4PORTUGAL,TEXAS4PT,VIP,mm,"
 }

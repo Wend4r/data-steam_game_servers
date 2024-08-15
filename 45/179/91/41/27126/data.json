@@ -11,9 +11,8 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_cbble",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
