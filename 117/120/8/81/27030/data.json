@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 5,
 	"max_players": 29,
-	"bots": 1,
-	"map": "cs_crackhouse_remake_d_prefab",
+	"bots": 0,
+	"map": "de_panlong",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
