@@ -1,7 +1,7 @@
 {
 	"addr": "152.250.250.187:27017",
 	"gameport": 27017,
-	"steamid": "90200969155352588",
+	"steamid": "90200969399663628",
 	"name": "DGSERVER 03",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "ar_baggage",
+	"map": "aim_map",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

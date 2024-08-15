@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26182",
 	"gameport": 26182,
-	"steamid": "90200967027612686",
+	"steamid": "90200969458582542",
 	"name": "Sashi powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
