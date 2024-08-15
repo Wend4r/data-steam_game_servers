@@ -1,19 +1,19 @@
 {
 	"addr": "138.94.223.42:27015",
 	"gameport": 27015,
-	"steamid": "85568392932074607",
-	"name": "[HvH BR] Low HvH CS2",
+	"steamid": "85568392931335951",
+	"name": "[HvH BR] Low HvH 2k23",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
-	"product": "cs2",
+	"version": "1.38.8.1",
+	"product": "csgo",
 	"region": 2,
-	"players": 2,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,2018,2k18,64tick,HvH,brasil,brazil,cheat,fatality,gamesen"
+	"gametype": "empty,2023,2k23,64tick,HvH,brasil,brazil,cheat,fatality,gamesense ,hack,hackvshack,hvh,insecure,neverlose,nl,skeet,insecure"
 }

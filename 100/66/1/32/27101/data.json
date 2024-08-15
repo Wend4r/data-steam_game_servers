@@ -1,7 +1,7 @@
 {
 	"addr": "100.66.1.32:27101",
 	"gameport": 27101,
-	"steamid": "90200956130519052",
+	"steamid": "90200962652567564",
 	"name": "Valve Counter-Strike 2 london Server (srcds1023-lhr1.390.87)",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 45,
 	"players": 10,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
