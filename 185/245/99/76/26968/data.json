@@ -1,7 +1,8 @@
 {
 	"addr": "185.245.99.76:26968",
 	"gameport": 26968,
-	"steamid": "90200952977049614",
+	"specport": 26969,
+	"steamid": "90200957956242446",
 	"name": "Crescent (ex-VP Angels) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
