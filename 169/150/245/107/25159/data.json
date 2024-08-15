@@ -1,0 +1,19 @@
+{
+	"addr": "169.150.245.107:25159",
+	"gameport": 25159,
+	"steamid": "90200967559924751",
+	"name": "Lausanne SE powered by PRACC.COM",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 0,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+}
