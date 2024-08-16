@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 32,
-	"bots": 5,
-	"map": "gg_ar_kush",
+	"bots": 8,
+	"map": "construction",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,secure"
+	"gametype": "empty,ar,cola,colateam,colateames,cs2,españa,gg,gungame,spain,"
 }

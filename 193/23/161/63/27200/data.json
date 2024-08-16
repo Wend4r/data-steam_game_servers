@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 3,
 	"max_players": 16,
-	"bots": 9,
-	"map": "aim_tara",
+	"bots": 0,
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
