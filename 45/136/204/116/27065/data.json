@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27065",
 	"gameport": 27065,
 	"steamid": "90200734228310046",
-	"name": "[genesis] League #6",
+	"name": "genesis 22829: team_глупенький vs team_zzzzzzzzzzzzzz",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_cbble",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hvh,insecure"
+	"gametype": "hvh,insecure"
 }

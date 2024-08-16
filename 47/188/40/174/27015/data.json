@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "surf_not_so_hentai",
+	"map": "surf_race",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,easy,gamers,ig,imperfect,surf,surfing,insecure"
+	"gametype": "easy,gamers,ig,imperfect,surf,surfing,insecure"
 }
