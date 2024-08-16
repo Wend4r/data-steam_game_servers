@@ -1,6 +1,7 @@
 {
 	"addr": "91.107.252.103:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931890240",
 	"name": "Aedan Gaming",
 	"appid": 730,
@@ -8,7 +9,7 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 6,
-	"players": 0,
+	"players": 1,
 	"max_players": 21,
 	"bots": 1,
 	"map": "de_mirage",

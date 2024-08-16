@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 17,
-	"bots": 1,
-	"map": "aim_deagle",
+	"bots": 3,
+	"map": "scoutzknivez_pure_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

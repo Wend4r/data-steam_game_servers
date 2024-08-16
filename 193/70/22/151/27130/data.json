@@ -1,6 +1,7 @@
 {
 	"addr": "193.70.22.151:27130",
 	"gameport": 27130,
+	"specport": 27020,
 	"steamid": "90200962352978962",
 	"name": "FALKE AC CS2 SV | Hosted by Paradise Community",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

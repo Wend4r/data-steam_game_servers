@@ -1,7 +1,7 @@
 {
 	"addr": "62.63.232.205:27015",
 	"gameport": 27015,
-	"steamid": "90200991407214615",
+	"steamid": "90200993500524567",
 	"name": "PRIBBS playground",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
