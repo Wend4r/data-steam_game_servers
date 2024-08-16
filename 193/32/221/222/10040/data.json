@@ -1,19 +1,19 @@
 {
 	"addr": "193.32.221.222:10040",
 	"gameport": 10040,
-	"steamid": "90200998157257732",
-	"name": "DE31 2,059,201 - free @ fshost.me",
+	"steamid": "90201000945715204",
+	"name": "Kartel gangwar - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
 	"players": 1,
-	"max_players": 12,
+	"max_players": 8,
 	"bots": 0,
-	"map": "de_overpass",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

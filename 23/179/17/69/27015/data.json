@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 44,
 	"bots": 0,
 	"map": "jb_electric_mercury",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,!knives,!skins,!ws,1v1,24/7,_,comp,drops,drugs,gang,gfl"
+	"gametype": "!,!knives,!skins,!ws,1v1,24/7,_,comp,drops,drugs,gang,gfl,hells"
 }
