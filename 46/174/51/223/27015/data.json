@@ -2,7 +2,7 @@
 	"addr": "46.174.51.223:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200967424609302",
+	"steamid": "90200976868547606",
 	"name": "MAGNIMUM GAMES ● МАНЬЯК БЛИЗКО [MANIAC] [14+]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "winterday_hideandseek_remake_ne",
+	"map": "seek_lakehouse_2020",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
+	"gametype": "empty,awp,classic,custom,custom weapons,dust2,knife,magnimum,maniac,mirage,public,ws,secure"
 }

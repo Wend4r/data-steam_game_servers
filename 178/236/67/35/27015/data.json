@@ -10,7 +10,7 @@
 	"region": 3,
 	"players": 3,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 2,
 	"map": "kz_emblem_bonus",
 	"secure": true,
 	"dedicated": true,
