@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 2,
+	"players": 0,
 	"max_players": 20,
-	"bots": 14,
-	"map": "cs_italy",
+	"bots": 16,
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,\r,PT,tuga,secure"
+	"gametype": "\r,PT,tuga,secure"
 }
