@@ -1,7 +1,7 @@
 {
 	"addr": "193.32.221.222:10000",
 	"gameport": 10000,
-	"steamid": "90200977005921284",
+	"steamid": "90200977192531972",
 	"name": "donkarlito - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
