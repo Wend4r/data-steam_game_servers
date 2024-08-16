@@ -1,7 +1,7 @@
 {
 	"addr": "83.168.108.83:27245",
 	"gameport": 27245,
-	"steamid": "90200954330112017",
+	"steamid": "90200980765284369",
 	"name": "SERWER mrpacczka",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_rats_1337_v2",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
