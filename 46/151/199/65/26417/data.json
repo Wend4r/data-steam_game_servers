@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 1,
 	"max_players": 13,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,agent,de_mills,de_thera,gloves,knife,music,retake,retakes"
+	"gametype": "agent,de_mills,de_thera,gloves,knife,music,retake,retakes,rifle"
 }
