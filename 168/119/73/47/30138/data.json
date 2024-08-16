@@ -2,7 +2,7 @@
 	"addr": "168.119.73.47:30138",
 	"gameport": 30138,
 	"specport": 35084,
-	"steamid": "90200958676118537",
+	"steamid": "90200984293344265",
 	"name": "crystaldragon",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

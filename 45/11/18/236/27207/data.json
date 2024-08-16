@@ -2,7 +2,7 @@
 	"addr": "45.11.18.236:27207",
 	"gameport": 27207,
 	"specport": 27209,
-	"steamid": "90200969298454558",
+	"steamid": "90200984336739358",
 	"name": "romaniaromania",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 15,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "45.11.18.236:27202",
 	"gameport": 27202,
-	"steamid": "90200967763581982",
+	"steamid": "90200984336753694",
 	"name": "server_proxvsync",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
