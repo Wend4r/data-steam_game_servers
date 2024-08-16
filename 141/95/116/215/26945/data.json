@@ -1,6 +1,7 @@
 {
 	"addr": "141.95.116.215:26945",
 	"gameport": 26945,
+	"specport": 27020,
 	"steamid": "85568392931758476",
 	"name": "FOS Practice Server",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
