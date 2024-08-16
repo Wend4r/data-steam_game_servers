@@ -1,7 +1,7 @@
 {
 	"addr": "189.51.49.127:27018",
 	"gameport": 27018,
-	"steamid": "90200991975585799",
+	"steamid": "90200992639065095",
 	"name": "DG SERVER BATTLE ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 6,
 	"bots": 0,
-	"map": "fy_pool_day",
+	"map": "aim_map_carton",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
