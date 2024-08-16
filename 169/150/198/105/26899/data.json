@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.198.105:26899",
 	"gameport": 26899,
+	"specport": 26900,
 	"steamid": "90200976386729993",
 	"name": "heibai",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_dust2",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
