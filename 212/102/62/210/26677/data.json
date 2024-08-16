@@ -1,6 +1,7 @@
 {
 	"addr": "212.102.62.210:26677",
 	"gameport": 26677,
+	"specport": 26678,
 	"steamid": "90200994513073181",
 	"name": "PLAY.PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
