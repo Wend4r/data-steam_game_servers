@@ -2,18 +2,18 @@
 	"addr": "51.195.46.23:27015",
 	"gameport": 27015,
 	"steamid": "85568392922611662",
-	"name": "⬣ [FUNPLAY.pro] Public - Premier Maps [CS2]",
+	"name": "[FUNPLAY.pro] CS2 - JailBreak Ultimate | Playtest",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
+	"region": 3,
 	"players": 0,
 	"max_players": 64,
-	"bots": 5,
-	"map": "de_nuke",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,casual,defuse,drop,fast,free,official,only,premier,"
+	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
 }
