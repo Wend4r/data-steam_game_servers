@@ -1,8 +1,7 @@
 {
 	"addr": "89.58.35.36:27051",
 	"gameport": 27051,
-	"specport": 27020,
-	"steamid": "90200936409113630",
+	"steamid": "90200996266201118",
 	"name": "VnS Pracc Server | VnG",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 17,
-	"bots": 0,
-	"map": "de_mirage",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

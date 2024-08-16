@@ -1,19 +1,19 @@
 {
 	"addr": "185.113.141.78:27021",
 	"gameport": 27021,
-	"steamid": "85568392931472683",
-	"name": "[PT] NoWay Gamer's 🐉 Retakes #3",
+	"steamid": "90200996181478418",
+	"name": "[PT] NoWay Gamer's |",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 11,
+	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

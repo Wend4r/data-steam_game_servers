@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!gloves,!knife,!ws,gl,gloves,knife,ws,secure"
+	"gametype": "!gloves,!knife,!ws,gl,gloves,knife,ws,secure"
 }
