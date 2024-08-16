@@ -11,9 +11,9 @@
 	"players": 5,
 	"max_players": 32,
 	"bots": 0,
-	"map": "mg_savetheisland_course",
+	"map": "mg_metal_course_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

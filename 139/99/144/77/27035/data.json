@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 2,
-	"map": "bhop_second_csgo",
+	"map": "bhop_xof",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,aussie,!ws,asia,australia,au,aus,128,bhop,knife,killzone gaming,killzone,gloves,kz,bhop_,kzg,usa,ws,secure"
+	"gametype": "aussie,!ws,asia,australia,au,aus,128,bhop,knife,killzone gaming,killzone,gloves,kz,bhop_,kzg,usa,ws,secure"
 }

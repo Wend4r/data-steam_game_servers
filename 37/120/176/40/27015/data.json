@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 9,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:44265749i,16k,2018,eu,hvh,legacy,nexus,insecure"
+	"gametype": "16k,2018,eu,hvh,legacy,nexus,insecure"
 }
