@@ -1,7 +1,7 @@
 {
 	"addr": "58.84.1.247:27029",
 	"gameport": 27029,
-	"steamid": "90200967210479647",
+	"steamid": "90200981193962527",
 	"name": "GTV #5",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

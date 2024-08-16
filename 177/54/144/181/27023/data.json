@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 6,
 	"max_players": 19,
 	"bots": 0,
-	"map": "am_must2_ot",
+	"map": "am_nuke_ramp_ot",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,dm,executes,firegames,gloves,knife,mix,multicfg,retak"
+	"gametype": "awp,dm,executes,firegames,gloves,knife,mix,multicfg,retake,reta"
 }
