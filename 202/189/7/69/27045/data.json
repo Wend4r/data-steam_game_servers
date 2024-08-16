@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 4,
-	"players": 17,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
 	"map": "ze_dystopia_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "exg,ze,僵尸逃跑,secure"
+	"gametype": "empty,exg,ze,僵尸逃跑,secure"
 }
