@@ -1,19 +1,20 @@
 {
 	"addr": "91.107.252.103:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931890240",
 	"name": "Aedan Gaming",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 6,
-	"players": 2,
+	"players": 1,
 	"max_players": 21,
-	"bots": 0,
-	"map": "aim_map_classic",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aim,custom,match,prac,secure"
+	"gametype": "empty,aim,custom,match,prac,secure"
 }
