@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 5,
-	"bots": 8,
+	"bots": 0,
 	"map": "ar_pool_day",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
