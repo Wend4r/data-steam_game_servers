@@ -1,7 +1,7 @@
 {
 	"addr": "39.58.195.106:27015",
 	"gameport": 27015,
-	"steamid": "90200986930554884",
+	"steamid": "90200993913651204",
 	"name": "noobster's Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 2,
-	"map": "cs_italy",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,secu"
+	"gametype": "empty,128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,inse"
 }

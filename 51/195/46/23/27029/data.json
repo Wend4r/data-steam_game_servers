@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_moti2_final",
+	"map": "jb_sg_dojo_ap_v1",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
+	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop"
 }
