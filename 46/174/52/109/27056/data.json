@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_skytower",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,kz_skytower,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,dr"
+	"gametype": "kz_skytower,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,drop,ran"
 }

@@ -11,7 +11,7 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 32,
-	"bots": 9,
+	"bots": 8,
 	"map": "cs_rush_d_prefab",
 	"secure": true,
 	"dedicated": true,
