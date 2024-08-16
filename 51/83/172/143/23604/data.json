@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 12,
 	"bots": 0,
-	"map": "dr_dojo",
+	"map": "de_mirage_night",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,bh,bhop,bunnyhop,de_,deathrun,dedrun,dr,drop,ffa,free,k"
+	"gametype": "!,bh,bhop,bunnyhop,de_,deathrun,dedrun,dr,drop,ffa,free,klasy,k"
 }
