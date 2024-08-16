@@ -2,7 +2,7 @@
 	"addr": "79.127.217.197:26638",
 	"gameport": 26638,
 	"steamid": "85568392924046291",
-	"name": "XPLAY.GG • CS2 PISTOL RETAKE #47 • [US]",
+	"name": "CS2 Pistol Retake#47 US",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 9,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
