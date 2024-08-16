@@ -3,18 +3,18 @@
 	"gameport": 26229,
 	"specport": 26230,
 	"steamid": "90200936561805340",
-	"name": "eBot :: Revenant vs Sampi",
+	"name": "eBot :: Sampi vs Revenant",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 13,
+	"players": 8,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

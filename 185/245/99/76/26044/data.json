@@ -1,8 +1,7 @@
 {
 	"addr": "185.245.99.76:26044",
 	"gameport": 26044,
-	"specport": 26045,
-	"steamid": "90200983680560142",
+	"steamid": "90200984713895950",
 	"name": "Split ESC | ESEA MAIN powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

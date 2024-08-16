@@ -1,7 +1,7 @@
 {
 	"addr": "82.208.17.105:27868",
 	"gameport": 27868,
-	"steamid": "90200984701412365",
+	"steamid": "90200984909412365",
 	"name": "ARGNT.eu | Development server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "bb_castle_d",
+	"map": "bb_big",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
