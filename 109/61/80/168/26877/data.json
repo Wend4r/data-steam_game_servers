@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26877",
 	"gameport": 26877,
-	"steamid": "90200967089608731",
+	"steamid": "90200993767912475",
 	"name": "Death match server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

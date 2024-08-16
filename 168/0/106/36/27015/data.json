@@ -2,7 +2,7 @@
 	"addr": "168.0.106.36:27015",
 	"gameport": 27015,
 	"steamid": "90200993416225820",
-	"name": "shipREKT KZ",
+	"name": "GoldenBoyZ Executes",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "kz_victoria",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,kz,secure"
+	"gametype": "128,AntiCheat,Executes,secure"
 }
