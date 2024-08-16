@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 6,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Rantei$,allmaps,cheaters,cheats,dust2,europe,hack,hacks,h"
+	"gametype": "empty,eu,europe,hvh,mirage,office,rantei$,insecure"
 }

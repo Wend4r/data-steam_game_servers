@@ -2,7 +2,7 @@
 	"addr": "51.83.172.143:23508",
 	"gameport": 23508,
 	"steamid": "85568392932060776",
-	"name": "██ ★ CS-Zjarani.pl ★ [MIRAGE #1] ⚫ SKINY | FACEIT | S",
+	"name": "██ ★ CS-Zjarani.pl ★ [MIRAGE #1] ★ SKINY | FACEIT | S",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_mirage_russian",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,128tr,4fun,aim,cszjarani,de_,de_mirage,dm,drop,f2p,faceit,ffa"
+	"gametype": "empty,!,128tr,4fun,aim,cszjarani,de_,de_mirage,dm,drop,f2p,face"
 }

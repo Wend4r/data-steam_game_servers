@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "csgo,public,insecure"
+	"gametype": "empty,csgo,public,insecure"
 }
