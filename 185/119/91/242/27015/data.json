@@ -2,7 +2,7 @@
 	"addr": "185.119.91.242:27015",
 	"gameport": 27015,
 	"steamid": "85568392931851821",
-	"name": "[SRB] ★ SURF ★ BRUTALCI.info | | Tier: 1 | Staged",
+	"name": "[SRB] ★ SURF ★ BRUTALCI.info | | Tier: 1 | Linear",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "surf_ninja",
+	"map": "surf_andromeda",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
