@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 30,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128tr,1v1,1vs1,en,f2p,ffa,gloves,katujemy,knife,knife"
+	"gametype": "128,128tr,1v1,1vs1,en,f2p,ffa,gloves,katujemy,knife,knife,mirag"
 }

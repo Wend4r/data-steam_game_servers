@@ -1,8 +1,7 @@
 {
 	"addr": "54.37.129.60:20001",
 	"gameport": 20001,
-	"specport": 20002,
-	"steamid": "90200963333825567",
+	"steamid": "90200990392370207",
 	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": 3,
 	"players": 0,
-	"max_players": 11,
-	"bots": 1,
+	"max_players": 64,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsownia.pl,h"
+	"gametype": "empty,secure"
 }
