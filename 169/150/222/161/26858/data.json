@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.222.161:26858",
 	"gameport": 26858,
-	"steamid": "90200982915577859",
+	"steamid": "90200984528827395",
 	"name": "Aravt powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "37.19.215.244:26389",
 	"gameport": 26389,
-	"steamid": "90200978100237335",
+	"steamid": "90200984618731543",
 	"name": "SAW YNG powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

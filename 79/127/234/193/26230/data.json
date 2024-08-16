@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.234.193:26230",
 	"gameport": 26230,
-	"steamid": "90200965168408589",
+	"steamid": "90200984538589197",
 	"name": "The Ohio Meat Wagon powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

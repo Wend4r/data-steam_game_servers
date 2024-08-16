@@ -2,7 +2,7 @@
 	"addr": "169.150.232.56:26262",
 	"gameport": 26262,
 	"specport": 26263,
-	"steamid": "90200977474364432",
+	"steamid": "90200984523598864",
 	"name": "Missing powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -1,8 +1,8 @@
 {
 	"addr": "178.208.177.1:18004",
 	"gameport": 18004,
-	"steamid": "90200984442319881",
-	"name": "Counter-Strike 2",
+	"steamid": "90200984593586185",
+	"name": "[BALKAN] Respect | MIRAGE ONLY !skins !knife !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 24,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

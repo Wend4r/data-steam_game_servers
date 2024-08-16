@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 33,
-	"bots": 1,
-	"map": "de_dust_classic",
+	"bots": 3,
+	"map": "de_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg are"
+	"gametype": "128,EU,LT,LTU,Vimo,Vimo.lt,case,competitive,cyberx,gg arena,glo"
 }

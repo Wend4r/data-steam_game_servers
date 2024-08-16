@@ -1,8 +1,7 @@
 {
 	"addr": "185.245.99.76:26447",
 	"gameport": 26447,
-	"specport": 26448,
-	"steamid": "90200980636771342",
+	"steamid": "90200984544471054",
 	"name": "VP.Future powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 3,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

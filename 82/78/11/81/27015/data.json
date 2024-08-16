@@ -1,7 +1,7 @@
 {
 	"addr": "82.78.11.81:27015",
 	"gameport": 27015,
-	"steamid": "90200984262066180",
+	"steamid": "90200984589411332",
 	"name": "AstTMP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 38,
-	"bots": 9,
+	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "AstraMania,secure"
+	"gametype": "empty,AstraMania,secure"
 }
