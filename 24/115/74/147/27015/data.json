@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 1,
 	"max_players": 64,
-	"bots": 10,
-	"map": "cs_assault_classic",
+	"bots": 11,
+	"map": "cs_crackhouse_remake_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,casual,cs2,fun,secure"
+	"gametype": "casual,cs2,fun,secure"
 }

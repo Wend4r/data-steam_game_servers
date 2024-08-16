@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_aztec_wf",
+	"map": "am_aztec2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free"
+	"gametype": "arena,awp,awp,awplego,bhop,chat,drop,escape. freevip,free,gl,gl"
 }
