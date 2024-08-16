@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 8,
+	"bots": 10,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,public,vip,"
+	"gametype": "empty,\t,STEAM,bank,basic,bhop,classic,cs,de,de_dust2 only,publi"
 }
