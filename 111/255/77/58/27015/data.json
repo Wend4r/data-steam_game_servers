@@ -1,7 +1,7 @@
 {
 	"addr": "111.255.77.58:27015",
 	"gameport": 27015,
-	"steamid": "90200975602148362",
+	"steamid": "90200989746000906",
 	"name": "cs2 Re3生化危機恐怖區",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 4,
 	"players": 0,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 2,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
