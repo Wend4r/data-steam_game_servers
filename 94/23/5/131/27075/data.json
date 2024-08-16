@@ -1,7 +1,7 @@
 {
 	"addr": "94.23.5.131:27075",
 	"gameport": 27075,
-	"steamid": "90200981644517407",
+	"steamid": "90200981953229855",
 	"name": "CsCargo CS2 test Serveur",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 25,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "aim_map_3g2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

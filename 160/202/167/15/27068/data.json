@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "Scout,secure"
+	"gametype": "empty,Scout,secure"
 }
