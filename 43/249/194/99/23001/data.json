@@ -1,7 +1,7 @@
 {
 	"addr": "43.249.194.99:23001",
 	"gameport": 23001,
-	"steamid": "90200994790017051",
+	"steamid": "90201001421236251",
 	"name": "CS2KreeDz 测试私服",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 20,
 	"bots": 0,
-	"map": "kz_nomibo",
+	"map": "kz_niche",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
+	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
