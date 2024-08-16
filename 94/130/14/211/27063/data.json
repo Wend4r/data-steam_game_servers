@@ -1,6 +1,7 @@
 {
 	"addr": "94.130.14.211:27063",
 	"gameport": 27063,
+	"specport": 27064,
 	"steamid": "90200991101499395",
 	"name": "FACEIT.com register to play here",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 64,
 	"bots": 1,
-	"map": "aim_map",
+	"map": "clash_1v1",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
