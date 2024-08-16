@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "am_pierdolnik_v1",
+	"map": "am_aztec2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
