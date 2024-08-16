@@ -2,7 +2,7 @@
 	"addr": "138.117.72.35:27016",
 	"gameport": 27016,
 	"steamid": "90200980387095564",
-	"name": "Counter-Strike 2",
+	"name": "Especialistas CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_overpass",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
