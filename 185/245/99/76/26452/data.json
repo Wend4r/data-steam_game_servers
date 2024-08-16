@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26452",
 	"gameport": 26452,
-	"steamid": "90200994372252686",
+	"steamid": "90201001373792270",
 	"name": "KUUSAMO.gg powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
