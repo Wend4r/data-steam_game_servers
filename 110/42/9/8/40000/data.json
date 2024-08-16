@@ -1,7 +1,7 @@
 {
 	"addr": "110.42.9.8:40000",
 	"gameport": 40000,
-	"steamid": "90200982968514574",
+	"steamid": "90200991666903054",
 	"name": "TGPRO Scrim Prac Rental",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "insecure"
+	"gametype": "empty,insecure"
 }
