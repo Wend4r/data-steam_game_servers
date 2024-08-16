@@ -1,6 +1,7 @@
 {
 	"addr": "185.246.211.231:26581",
 	"gameport": 26581,
+	"specport": 26582,
 	"steamid": "90200984860229646",
 	"name": "Bagu8",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_anubis",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
