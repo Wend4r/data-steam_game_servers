@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "ba_jail_Bravo",
+	"map": "jb_parone_lnz_fix_pt",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!,*grp:5114777i,LastRequest,MyJai,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,v"
+	"gametype": "!,LastRequest,MyJailbreak,admin,awp,ba_,cyber,fb,gloves,jail,jailbreak,jb_,moscow,rus,russia,servertop,shop,top,vip,ws,secure"
 }
