@@ -2,7 +2,7 @@
 	"addr": "146.185.196.52:12951",
 	"gameport": 12951,
 	"steamid": "85568392931585162",
-	"name": "Freez-Blood CS:2 | ONLY HS |",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 0,
-	"map": "aim_angle_ak47_fb",
+	"map": "aim_deagle_fb",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
