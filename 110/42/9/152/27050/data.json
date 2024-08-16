@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_DOOM_p2",
+	"map": "ze_phantasy_escape_p3",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,escape,fastdl,ze,zm,zombie,secure"
+	"gametype": "ZED,escape,fastdl,ze,zm,zombie,secure"
 }
