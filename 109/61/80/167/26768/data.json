@@ -1,19 +1,20 @@
 {
 	"addr": "109.61.80.167:26768",
 	"gameport": 26768,
-	"steamid": "90200985296100378",
-	"name": "Leetify CS2 Retakes by Smyce :)",
+	"specport": 26769,
+	"steamid": "90200993547460634",
+	"name": "challengermode.com - Register to join",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
-	"players": 3,
-	"max_players": 11,
-	"bots": 0,
-	"map": "de_ancient",
+	"region": -1,
+	"players": 2,
+	"max_players": 7,
+	"bots": 1,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,challengermode,cm,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "152.250.250.187:27015",
 	"gameport": 27015,
-	"steamid": "90200993332910092",
+	"steamid": "90200993478409228",
 	"name": "DGSERVER 01",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -14,6 +14,5 @@
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "l"
 }
