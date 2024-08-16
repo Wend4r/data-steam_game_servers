@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 46,
+	"players": 62,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_lotr_helms_deep_p",
+	"map": "ze_fapescape_rote_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,sec"
+	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
 }

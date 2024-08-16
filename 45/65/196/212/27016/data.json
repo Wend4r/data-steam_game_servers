@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!agents,!skins,!sky,!ws,128 TICK,MIX,secure"
+	"gametype": "!agents,!skins,!sky,!ws,128 TICK,MIX,secure"
 }

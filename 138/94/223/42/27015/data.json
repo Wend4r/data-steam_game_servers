@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,2023,2k23,64tick,HvH,brasil,brazil,cheat,fatality,gamesense ,hack,hackvshack,hvh,insecure,neverlose,nl,skeet,insecure"
+	"gametype": "2023,2k23,64tick,HvH,brasil,brazil,cheat,fatality,gamesense ,hack,hackvshack,hvh,insecure,neverlose,nl,skeet,insecure"
 }

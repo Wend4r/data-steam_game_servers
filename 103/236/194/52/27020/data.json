@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 3,
+	"players": 5,
 	"max_players": 20,
-	"bots": 9,
-	"map": "de_vertigo",
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CS2,LANN,LANN Gaming,Mongolia,secure"
+	"gametype": "CS2,LANN,LANN Gaming,Mongolia,secure"
 }
