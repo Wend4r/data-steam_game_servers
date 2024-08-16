@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,allah,hvh,mafia,insecure"
+	"gametype": "allah,hvh,mafia,insecure"
 }
