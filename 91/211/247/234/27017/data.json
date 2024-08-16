@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "am_grass2_gg",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,EU,LT,LTU,Vimo,Vimo.lt,arena,gg arena,knife,lietuva,l"
+	"gametype": "1v1,EU,LT,LTU,Vimo,Vimo.lt,arena,gg arena,knife,lietuva,lithuan"
 }
