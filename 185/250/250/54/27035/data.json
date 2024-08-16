@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 3,
 	"max_players": 32,
-	"bots": 0,
-	"map": "de_lakeside",
+	"bots": 6,
+	"map": "mymaps_aim_3v3castle_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
