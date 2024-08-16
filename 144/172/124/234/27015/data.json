@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 1,
-	"map": "/419646474/de_dust2_night",
+	"map": "/868124289/aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
