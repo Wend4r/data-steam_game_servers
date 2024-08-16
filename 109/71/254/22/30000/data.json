@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "aim_shaft",
+	"map": "aim_ak-colt",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
