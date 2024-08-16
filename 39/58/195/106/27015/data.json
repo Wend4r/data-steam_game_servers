@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 8,
-	"map": "de_dust2",
+	"map": "de_shortdust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,inse"
+	"gametype": "128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,secure"
 }
