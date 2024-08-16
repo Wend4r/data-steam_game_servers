@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 9,
 	"max_players": 64,
 	"bots": 0,
 	"map": "hns_krevetka03",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,gloves,hide,eu,en,CS,14 ,!mn,128,128tick,fi,cybershoke,cy"
+	"gametype": "gloves,hide,eu,en,CS,14 ,!mn,128,128tick,fi,cybershoke,cyber,hn"
 }
