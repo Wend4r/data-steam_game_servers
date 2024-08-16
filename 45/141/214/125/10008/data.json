@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 2,
-	"players": 0,
+	"players": 2,
 	"max_players": 18,
 	"bots": 0,
 	"map": "am_poolday_in_dust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,1v1,arena,gamersclub,gc,multi1v1,insecure"
+	"gametype": "1v1,arena,gamersclub,gc,multi1v1,insecure"
 }
