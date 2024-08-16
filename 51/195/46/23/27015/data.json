@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 14,
+	"players": 2,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_lego_jail_2k24",
+	"map": "jb_moti2_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop"
+	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
 }
