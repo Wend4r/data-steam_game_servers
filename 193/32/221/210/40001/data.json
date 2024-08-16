@@ -1,7 +1,7 @@
 {
 	"addr": "193.32.221.210:40001",
 	"gameport": 40001,
-	"steamid": "90201001265870872",
+	"steamid": "90201001267609624",
 	"name": "[DE] ★ Govnjarci",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 30,
+	"max_players": 32,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
