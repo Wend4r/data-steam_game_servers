@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
 	"bots": 0,
 	"map": "bhop_zygos",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,bhop,bhop_zygos,drop,eu,en,germany,ger,de,cybershoke,cybe"
+	"gametype": "bhop,bhop_zygos,drop,eu,en,germany,ger,de,cybershoke,cyber,glov"
 }
