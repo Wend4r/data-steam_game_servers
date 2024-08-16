@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 16,
+	"players": 19,
 	"max_players": 25,
 	"bots": 1,
-	"map": "awp_garden_death",
+	"map": "awp_portal_death",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,12,admin,agents,anticheat,classic,community,competitive,e"
+	"gametype": "12,admin,agents,anticheat,classic,community,competitive,elitega"
 }
