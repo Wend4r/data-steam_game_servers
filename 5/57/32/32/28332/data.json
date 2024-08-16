@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28332",
 	"gameport": 28332,
 	"steamid": "85568392932078202",
-	"name": "|Warmup| hasiudvnkjv",
+	"name": "hasiudvnkjv",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 6,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
