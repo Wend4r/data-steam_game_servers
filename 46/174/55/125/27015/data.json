@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "mg_40remade_course_fix",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
 }

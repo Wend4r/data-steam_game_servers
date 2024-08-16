@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 40,
 	"bots": 0,
-	"map": "awp_summer_surf_cs2",
+	"map": "surf_atrium",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,secure"
+	"gametype": "empty,surf,tas-ix,upg,upg.uz,upgaming,upgaming.uz,utopia,uz-ix,"
 }

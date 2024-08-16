@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "surf_4fun_2016",
+	"map": "surf_ski_3_nova_kg",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!ws,killzone,de,combat surf,combat,easy surf,beginner,de,austra"
+	"gametype": "empty,!ws,killzone,de,combat surf,combat,easy surf,beginner,de,"
 }
