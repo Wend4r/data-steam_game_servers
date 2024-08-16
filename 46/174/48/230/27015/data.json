@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
+	"bots": 11,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "no-steam avanturist's public rank skins,secure"
+	"gametype": "public,rank,skins,steam,secure"
 }

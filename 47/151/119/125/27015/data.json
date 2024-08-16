@@ -11,7 +11,7 @@
 	"players": 5,
 	"max_players": 64,
 	"bots": 9,
-	"map": "cs_compound",
+	"map": "cs2_whiterun",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
