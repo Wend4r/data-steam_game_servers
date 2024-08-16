@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.105:26786",
 	"gameport": 26786,
-	"steamid": "90200983277583369",
-	"name": "PLAY.PRACC.COM",
+	"steamid": "90200983974194185",
+	"name": "AIM powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 13,
 	"bots": 0,
-	"map": "pracc_redline",
+	"map": "aim_map_pro_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }
