@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 42,
 	"bots": 0,
-	"map": "zm_3rooms",
+	"map": "ze_escape_the_eye_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank,ru,sh"
+	"gametype": "empty,!,*,admin,bhop,bizarre,csgo,en,escape,mod,mos,msk,no,rank"
 }

@@ -11,7 +11,7 @@
 	"region": 5,
 	"players": 0,
 	"max_players": 64,
-	"bots": 10,
+	"bots": 1,
 	"map": "ze_icecap_escape_p",
 	"secure": true,
 	"dedicated": true,
