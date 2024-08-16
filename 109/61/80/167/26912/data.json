@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26912",
 	"gameport": 26912,
-	"steamid": "90200974207960090",
+	"steamid": "90201000198358042",
 	"name": "CYBERSPACE",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
