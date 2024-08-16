@@ -2,19 +2,19 @@
 	"addr": "46.174.48.230:27015",
 	"gameport": 27015,
 	"specport": 27020,
-	"steamid": "90200980800019458",
+	"steamid": "85568392932077559",
 	"name": "Avanturist's 18+",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
-	"region": 255,
-	"players": 0,
+	"region": 3,
+	"players": 1,
 	"max_players": 32,
 	"bots": 1,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,public,rank,skins,steam,secure"
+	"gametype": "public,rank,skins,steam,secure"
 }

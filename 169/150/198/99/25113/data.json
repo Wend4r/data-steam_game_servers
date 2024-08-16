@@ -1,19 +1,19 @@
 {
 	"addr": "169.150.198.99:25113",
 	"gameport": 25113,
-	"steamid": "85568392930815019",
-	"name": "Refrag.gg Training Server (Player)",
+	"steamid": "90200980851350531",
+	"name": "Velox CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": -1,
+	"region": 255,
 	"players": 1,
-	"max_players": 11,
-	"bots": 6,
-	"map": "de_mirage",
-	"secure": false,
+	"max_players": 13,
+	"bots": 0,
+	"map": "de_inferno",
+	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
 }

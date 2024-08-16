@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 62,
 	"bots": 0,
-	"map": "ze_mkzk_scarab_v4",
+	"map": "ze_fapescape_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
