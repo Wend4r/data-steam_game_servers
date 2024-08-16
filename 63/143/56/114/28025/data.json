@@ -2,7 +2,7 @@
 	"addr": "63.143.56.114:28025",
 	"gameport": 28025,
 	"steamid": "85568392931500648",
-	"name": "Counter-Strike 2",
+	"name": "[VL] The Villains Lounge Deathmatch FFA",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,AntiCheat,DM,Deathmatch,FFA,secure"
 }
