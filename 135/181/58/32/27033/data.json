@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 8,
+	"players": 5,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cyber,cybershoke,de_dust2,128tick,128,ffa,eu,en,drop,glov"
+	"gametype": "cyber,cybershoke,de_dust2,128tick,128,ffa,eu,en,drop,gloves,fi,"
 }
