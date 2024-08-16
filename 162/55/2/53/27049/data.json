@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 4,
 	"max_players": 64,
 	"bots": 0,
 	"map": "awp_bhop_rocket",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "awp,awp_bhop_rocket,128tick,128,bhop,de,cybershoke,drop,cyber,e"
+	"gametype": "empty,awp,awp_bhop_rocket,128tick,128,bhop,de,cybershoke,drop,c"
 }
