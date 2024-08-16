@@ -12,9 +12,9 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "cs_office",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,brasil,csgo,host,hvh,monkey\r,sao paulo,sp,insecure"
+	"gametype": "brasil,csgo,host,hvh,monkey\r,sao paulo,sp,insecure"
 }
