@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "1v1arenawaver",
+	"map": "am_grass2_gg",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,cs2,hvh,rapidfirefix,spread,insecure"
+	"gametype": "cs2,hvh,rapidfirefix,spread,insecure"
 }
