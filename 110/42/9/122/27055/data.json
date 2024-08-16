@@ -11,7 +11,7 @@
 	"players": 2,
 	"max_players": 36,
 	"bots": 1,
-	"map": "mg_game_play_course",
+	"map": "mg_dev_netrial_course",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
