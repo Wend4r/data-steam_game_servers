@@ -1,7 +1,7 @@
 {
 	"addr": "156.146.52.209:26662",
 	"gameport": 26662,
-	"steamid": "90200975206809626",
+	"steamid": "90201001569540122",
 	"name": "dEsarj | GAMERS",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 1,
+	"bots": 2,
 	"map": "fy_iceworld",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

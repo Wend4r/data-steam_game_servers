@@ -3,7 +3,7 @@
 	"gameport": 27600,
 	"specport": 27601,
 	"steamid": "85568392932084983",
-	"name": "Final Refuge North 5v5",
+	"name": "Final Refuge EU 5v5",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

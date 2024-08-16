@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "csgo",
 	"region": -1,
-	"players": 3,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "cs_office",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "*grp:5114777i,allah,hvh,mafia,insecure"
+	"gametype": "allah,hvh,mafia,insecure"
 }
