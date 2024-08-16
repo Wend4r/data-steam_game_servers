@@ -1,6 +1,7 @@
 {
 	"addr": "46.138.249.86:27001",
 	"gameport": 27001,
+	"specport": 27011,
 	"steamid": "85568392931311390",
 	"name": "1shot msc-alex-h1",
 	"appid": 730,
@@ -11,9 +12,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "aim_map",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
