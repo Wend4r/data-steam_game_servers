@@ -1,7 +1,7 @@
 {
 	"addr": "178.208.177.1:18004",
 	"gameport": 18004,
-	"steamid": "90200986057854985",
+	"steamid": "90200986060692489",
 	"name": "[BALKAN] Respect | MIRAGE ONLY !skins !knife !gloves",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
