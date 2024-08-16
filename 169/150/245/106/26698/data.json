@@ -2,7 +2,7 @@
 	"addr": "169.150.245.106:26698",
 	"gameport": 26698,
 	"specport": 26699,
-	"steamid": "90200952752971790",
+	"steamid": "90200978064637966",
 	"name": "TGD.pro CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

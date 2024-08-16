@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.245.103:26711",
 	"gameport": 26711,
-	"specport": 26712,
-	"steamid": "90200952747691019",
+	"steamid": "90200977962831883",
 	"name": "Emerge Main powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
