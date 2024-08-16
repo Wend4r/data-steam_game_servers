@@ -1,19 +1,20 @@
 {
 	"addr": "185.245.99.76:26900",
 	"gameport": 26900,
-	"steamid": "90200974497243150",
-	"name": "RETAKE powered by PRACC.COM",
+	"specport": 26901,
+	"steamid": "90200989607819278",
+	"name": "Modern Players powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
 	"players": 0,
-	"max_players": 12,
-	"bots": 0,
-	"map": "de_dust2",
+	"max_players": 14,
+	"bots": 3,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }

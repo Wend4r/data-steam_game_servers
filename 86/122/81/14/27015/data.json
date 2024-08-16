@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!agents,!knife !gloves,!mwp [RO],!ws,VIP Free,[EN],secure"
+	"gametype": "empty,!agents,!knife !gloves,!mwp [RO],!ws,VIP Free,[EN],insecure"
 }
