@@ -12,9 +12,9 @@
 	"players": 5,
 	"max_players": 16,
 	"bots": 1,
-	"map": "/487039571/awp_lego_2",
+	"map": "/959926385/awp_lego_2_no_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,shop,ua,vip,secure"
+	"gametype": "!agents,!gl,!gloves,!knife,!ws,128tick,anticheat,awp,awp_lego,case,drop,du,duv2,fps,gravity,shop,ua,vip,secure"
 }

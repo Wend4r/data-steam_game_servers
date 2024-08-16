@@ -1,7 +1,7 @@
 {
 	"addr": "212.26.254.231:27015",
 	"gameport": 27015,
-	"steamid": "90201000095056913",
+	"steamid": "90201000460602385",
 	"name": "Turbo LINUX",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
