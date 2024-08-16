@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_aztec",
+	"map": "de_dust",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "2018,hvh,legacy,insecure"
+	"gametype": "empty,2018,hvh,legacy,insecure"
 }
