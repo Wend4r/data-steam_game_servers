@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 5,
 	"max_players": 33,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,algeria,anticheat,dz,hellzone,ma,maroc,rank,tn,tunisia,in"
+	"gametype": "algeria,anticheat,dz,hellzone,ma,maroc,rank,tn,tunisia,secure"
 }
