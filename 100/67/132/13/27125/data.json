@@ -10,7 +10,7 @@
 	"region": 1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 5,
+	"bots": 4,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,
