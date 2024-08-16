@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 2,
 	"bots": 0,
-	"map": "cs_office",
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
