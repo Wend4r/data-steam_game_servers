@@ -1,7 +1,8 @@
 {
 	"addr": "5.9.94.154:27015",
 	"gameport": 27015,
-	"steamid": "90200954312293376",
+	"specport": 27020,
+	"steamid": "90200980567290880",
 	"name": "SourceLan CS2 - Arms Race",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,7 +10,7 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 10,
+	"max_players": 11,
 	"bots": 1,
 	"map": "ar_shoots",
 	"secure": true,

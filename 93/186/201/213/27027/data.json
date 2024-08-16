@@ -1,7 +1,7 @@
 {
 	"addr": "93.186.201.213:27027",
 	"gameport": 27027,
-	"steamid": "90200962407476247",
+	"steamid": "90200980622366743",
 	"name": "BRAMMING Esport Bravo",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,

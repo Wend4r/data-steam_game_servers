@@ -1,8 +1,7 @@
 {
 	"addr": "46.174.51.204:27016",
 	"gameport": 27016,
-	"specport": 27020,
-	"steamid": "90200954178162691",
+	"steamid": "90200980687204355",
 	"name": "[WARMT.Ru] Classic CS2 server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 23,
-	"bots": 0,
+	"max_players": 22,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

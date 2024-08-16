@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.251.35:26262",
 	"gameport": 26262,
+	"specport": 26263,
 	"steamid": "90200979490188290",
 	"name": "Leetify CS2 Match by [T.D.C.] zombieslaya",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 6,
 	"max_players": 12,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }
