@@ -1,6 +1,7 @@
 {
 	"addr": "217.144.53.92:30002",
 	"gameport": 30002,
+	"specport": 27020,
 	"steamid": "85568392931821946",
 	"name": "[EU/HU] NexxoN | AWP | !ws,!knife,!gloves,!rank |",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 64,
-	"bots": 0,
-	"map": "de_dust2",
+	"bots": 1,
+	"map": "awp_lego_2_winter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,inse"
+	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
 }
