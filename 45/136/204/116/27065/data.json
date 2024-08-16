@@ -2,18 +2,18 @@
 	"addr": "45.136.204.116:27065",
 	"gameport": 27065,
 	"steamid": "90200734228310046",
-	"name": "genesis 23146: team_пидорасы vs team_nofan",
+	"name": "[genesis] League #6",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 10,
 	"bots": 0,
 	"map": "de_shortnuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hvh,insecure"
+	"gametype": "empty,hvh,insecure"
 }
