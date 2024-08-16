@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 33,
-	"bots": 3,
-	"map": "fy_cliffside",
+	"bots": 4,
+	"map": "cs_alpine",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,community,kandru,secure"
+	"gametype": "community,kandru,secure"
 }
