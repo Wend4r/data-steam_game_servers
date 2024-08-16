@@ -1,19 +1,19 @@
 {
 	"addr": "89.187.167.137:26213",
 	"gameport": 26213,
-	"steamid": "90200975134179353",
+	"steamid": "90200996173979673",
 	"name": "CS2 (London)",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
+	"players": 4,
 	"max_players": 12,
 	"bots": 0,
 	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
