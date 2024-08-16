@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 2,
 	"max_players": 20,
 	"bots": 0,
 	"map": "aim_deagle_lego",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,OyunTECH,TR,aim,awp,bhop,bunnyhop,eldiven,fun,headshot,he"
+	"gametype": "OyunTECH,TR,aim,awp,bhop,bunnyhop,eldiven,fun,headshot,hediye,h"
 }

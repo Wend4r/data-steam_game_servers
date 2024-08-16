@@ -2,7 +2,7 @@
 	"addr": "5.57.32.32:28339",
 	"gameport": 28339,
 	"steamid": "85568392932084190",
-	"name": "|Warmup| Amirmasoud",
+	"name": "|Live| Amirmasoud",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,insecure"
 }
