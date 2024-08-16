@@ -1,7 +1,7 @@
 {
 	"addr": "135.125.188.126:27014",
 	"gameport": 27014,
-	"specport": 27025,
+	"specport": 27026,
 	"steamid": "85568392931825267",
 	"name": " [NewVision] HvH | 1x1/2x2 | #2 |",
 	"appid": 730,
@@ -12,7 +12,7 @@
 	"players": 0,
 	"max_players": 4,
 	"bots": 1,
-	"map": "de_shortdust",
+	"map": "de_inferno",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
