@@ -2,7 +2,7 @@
 	"addr": "79.127.234.193:26588",
 	"gameport": 26588,
 	"specport": 26589,
-	"steamid": "90200952818371597",
+	"steamid": "90200977768730637",
 	"name": "Tempr powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

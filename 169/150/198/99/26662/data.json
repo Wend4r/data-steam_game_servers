@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.99:26662",
 	"gameport": 26662,
-	"steamid": "90200952848602115",
+	"steamid": "90200977835646979",
 	"name": "Dusty Roots CS2 powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 17,
 	"bots": 0,
-	"map": "de_inferno",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
