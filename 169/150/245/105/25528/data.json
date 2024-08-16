@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.245.105:25528",
 	"gameport": 25528,
+	"specport": 25529,
 	"steamid": "90200994116981773",
 	"name": "AaB powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 5,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,shot,skins,insecure"
+	"gametype": "empty,128tick,shot,skins,insecure"
 }

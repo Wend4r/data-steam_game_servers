@@ -1,7 +1,7 @@
 {
 	"addr": "45.141.214.125:10007",
 	"gameport": 10007,
-	"steamid": "90200984898613264",
+	"steamid": "90200994403360784",
 	"name": "Arena 1v1 @ Registre-se GamersClub.com.br",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 18,
 	"bots": 0,
-	"map": "am_winterbound",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,arena,gamersclub,gc,multi1v1,insecure"
+	"gametype": "empty,1v1,arena,gamersclub,gc,multi1v1,insecure"
 }
