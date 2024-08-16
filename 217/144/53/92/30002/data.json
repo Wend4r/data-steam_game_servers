@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 1,
+	"players": 2,
 	"max_players": 64,
 	"bots": 1,
 	"map": "awp_lego_2_winter",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
+	"gametype": "awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secure"
 }

@@ -1,7 +1,7 @@
 {
 	"addr": "45.141.214.125:10010",
 	"gameport": 10010,
-	"steamid": "90200999428513808",
+	"steamid": "90200999800722448",
 	"name": "Deathmatch FFA [RIFLE] @ Registre-se GamersClub.com.br",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": 2,
 	"players": 12,
 	"max_players": 18,
-	"bots": 4,
+	"bots": 5,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
