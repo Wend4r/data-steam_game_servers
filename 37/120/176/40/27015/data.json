@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 1,
 	"max_players": 64,
-	"bots": 9,
-	"map": "de_dust2",
+	"bots": 0,
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "16k,2018,eu,hvh,legacy,nexus,insecure"
+	"gametype": "*grp:44265749i,16k,2018,eu,hvh,legacy,nexus,insecure"
 }
