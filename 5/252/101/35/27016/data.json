@@ -1,7 +1,7 @@
 {
 	"addr": "5.252.101.35:27016",
 	"gameport": 27016,
-	"steamid": "90200998739034118",
+	"steamid": "90200999152514054",
 	"name": "[CS2]awp.nextpeek.ro WS & KNIVES | SKINS | FREE VIP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "awp_minecraft",
+	"map": "awp_bhop_rocket",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

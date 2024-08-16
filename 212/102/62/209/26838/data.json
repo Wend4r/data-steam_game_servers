@@ -1,7 +1,7 @@
 {
 	"addr": "212.102.62.209:26838",
 	"gameport": 26838,
-	"steamid": "90200973949348892",
+	"steamid": "90200999578300444",
 	"name": "GIDDEN",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
