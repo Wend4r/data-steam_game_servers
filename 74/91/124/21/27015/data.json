@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 0,
-	"players": 62,
+	"players": 33,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_fapescape_rote_p",
+	"map": "ze_lotr_mines_of_moria_p",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,secure"
+	"gametype": "empty,GFL,clan,escape,gflclan,gflze,ze,zombie,zombie escape,sec"
 }
