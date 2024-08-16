@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.50.17:27015",
 	"gameport": 27015,
-	"steamid": "90200983067124749",
+	"steamid": "90200990630566925",
 	"name": "CS2",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -9,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 32,
+	"max_players": 60,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }

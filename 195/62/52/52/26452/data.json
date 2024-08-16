@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!WCS,DM,GG,RPG,SHOP,WCS,alltalk,bhop,compspec,gl,gloves,gungame,jail,ncrpg,newrpg,newsurf,public,sta,surf,wa3,war3,wcrpg,wcs,zm"
+	"gametype": "empty,!WCS,DM,GG,RPG,SHOP,WCS,alltalk,bhop,compspec,gl,gloves,gungame,jail,ncrpg,newrpg,newsurf,public,sta,surf,wa3,war3,wcrpg,"
 }
