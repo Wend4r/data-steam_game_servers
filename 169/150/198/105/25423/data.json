@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.198.105:25423",
 	"gameport": 25423,
-	"steamid": "90200997947974665",
+	"steamid": "90200999939568649",
 	"name": "Galorys Academy powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }

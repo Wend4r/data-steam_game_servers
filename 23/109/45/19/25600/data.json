@@ -1,6 +1,7 @@
 {
 	"addr": "23.109.45.19:25600",
 	"gameport": 25600,
+	"specport": 27020,
 	"steamid": "85568392931833261",
 	"name": "Apex Hosting Counterstrike: Global Offensive Server",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": -1,
 	"players": 2,
 	"max_players": 255,
-	"bots": 0,
-	"map": "lobby_mapveto",
+	"bots": 1,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

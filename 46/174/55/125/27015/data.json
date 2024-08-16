@@ -1,7 +1,7 @@
 {
 	"addr": "46.174.55.125:27015",
 	"gameport": 27015,
-	"steamid": "90200997532527636",
+	"steamid": "90200999928847380",
 	"name": "MG | CHTO ETO TAKOE :3",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 6,
 	"max_players": 32,
 	"bots": 0,
-	"map": "amongusforsoda",
+	"map": "bhop_arcane_v3_smg",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
+	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,*grp:5114777i,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,ran"
 }

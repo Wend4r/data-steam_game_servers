@@ -2,7 +2,7 @@
 	"addr": "185.166.232.30:27065",
 	"gameport": 27065,
 	"specport": 27070,
-	"steamid": "90200998892433411",
+	"steamid": "90200999934624771",
 	"name": "ES 6",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 5,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "de_dust2",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }
