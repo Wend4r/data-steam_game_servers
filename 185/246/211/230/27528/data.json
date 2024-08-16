@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 5,
 	"bots": 0,
-	"map": "/875664112/kz_talmaniac",
+	"map": "/2505798268/kz_twiivo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "dathost,dathost.net,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 2,
 	"max_players": 40,
 	"bots": 0,
-	"map": "mg_super_tower_v4",
+	"map": "mg_legospace_multigames_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,MG,MiniGames,FUN,Skin,FyS,!ws,secure"
+	"gametype": "MG,MiniGames,FUN,Skin,FyS,!ws,secure"
 }
