@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 21,
 	"bots": 8,
-	"map": "de_cbble_csgo",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

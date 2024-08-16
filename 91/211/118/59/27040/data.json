@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "armsrace,ateam,csgo,insecure"
+	"gametype": "empty,armsrace,ateam,csgo,insecure"
 }
