@@ -1,7 +1,6 @@
 {
 	"addr": "51.195.39.239:27015",
 	"gameport": 27015,
-	"specport": 27020,
 	"steamid": "85568392931776137",
 	"name": "Hater CS2 Server",
 	"appid": 730,
@@ -10,11 +9,11 @@
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 14,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_nuke",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
