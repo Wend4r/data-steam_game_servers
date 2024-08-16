@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.168:26387",
 	"gameport": 26387,
-	"steamid": "90200984078075931",
+	"steamid": "90200984230188059",
 	"name": "[CS2]Balkan God [PUBLIC]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
