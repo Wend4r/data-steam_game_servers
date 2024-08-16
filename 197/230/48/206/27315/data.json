@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,iesf,secure"
+	"gametype": "empty,challengermode,cm,iesf,insecure"
 }
