@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 1,
-	"players": 5,
+	"players": 0,
 	"max_players": 20,
-	"bots": 0,
-	"map": "surf_cannonball",
+	"bots": 1,
+	"map": "surf_astra",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "#1,1,102,102.4,128,CL,DreamsGamers.cl,Surf chile,Surf chile #1,"
+	"gametype": "empty,#1,1,102,102.4,128,CL,DreamsGamers.cl,Surf chile,Surf chi"
 }

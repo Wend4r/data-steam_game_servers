@@ -1,7 +1,7 @@
 {
 	"addr": "169.150.247.210:26554",
 	"gameport": 26554,
-	"steamid": "90200954030588950",
+	"steamid": "90200980211163158",
 	"name": "Cloudpeppers practice server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Atex,Cloudpeppers,dathost,dathost.net,secure"
+	"gametype": "empty,Atex,Cloudpeppers,dathost,dathost.net,insecure"
 }
