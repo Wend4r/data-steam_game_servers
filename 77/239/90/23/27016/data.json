@@ -12,8 +12,8 @@
 	"max_players": 16,
 	"bots": 2,
 	"map": "de_dust2",
-	"secure": false,
+	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,adam,youtube,insecure"
+	"gametype": "empty,128,adam,youtube,secure"
 }

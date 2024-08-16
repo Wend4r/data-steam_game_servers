@@ -2,18 +2,18 @@
 	"addr": "37.230.210.185:27015",
 	"gameport": 27015,
 	"steamid": "85568392924746727",
-	"name": "@@ABP Bhop@@ [2610 Maps] [SR: 10:36.5] [Tier 8]",
+	"name": "@@ABP Bhop@@ [2610 Maps] [SR: 1:35.1] [Tier 3]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
-	"map": "bhop_colors",
+	"map": "bhop_bug100",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerinth"
+	"gametype": "128,128 tick,abp,ac,ash,bash,bash 2.0,bhop,competitive bhop,fjt,jhud,s,showkeys,spec,ssj,stopmusic,stopsound,toptimerintheworld"
 }

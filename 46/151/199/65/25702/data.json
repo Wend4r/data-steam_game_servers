@@ -1,7 +1,7 @@
 {
 	"addr": "46.151.199.65:25702",
 	"gameport": 25702,
-	"steamid": "90200996519936002",
+	"steamid": "90200997860189186",
 	"name": "bonezone",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 5,
-	"bots": 1,
-	"map": "de_dust2",
+	"bots": 9,
+	"map": "aim_redline",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "dathost,dathost.net,secure"
 }
