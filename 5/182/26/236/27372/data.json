@@ -1,7 +1,7 @@
 {
 	"addr": "5.182.26.236:27372",
 	"gameport": 27372,
-	"steamid": "90200490008553488",
+	"steamid": "90201000289115152",
 	"name": "CS2 SKIN - [UZ]",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "cs2,public,insecure"
+	"gametype": "empty,cs2,public,insecure"
 }
