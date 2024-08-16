@@ -2,18 +2,18 @@
 	"addr": "197.230.48.214:27215",
 	"gameport": 27215,
 	"steamid": "85568392931825394",
-	"name": "[IESF] Competitive CS2 server << 2024 ARQ",
+	"name": "[IESF] Competitive CS2 server #2 << ARQ24",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
-	"max_players": 13,
-	"bots": 0,
+	"max_players": 14,
+	"bots": 2,
 	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,competitive,iesf,msm,insecure"
+	"gametype": "empty,challengermode,cm,iesf,insecure"
 }
