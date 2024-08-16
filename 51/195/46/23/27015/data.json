@@ -11,9 +11,9 @@
 	"players": 14,
 	"max_players": 64,
 	"bots": 0,
-	"map": "jb_moti2_final",
+	"map": "jb_arctic_jail_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,priso"
+	"gametype": "CZ/SK,FUN,JailBreak,JailMod,days,drop,funny,jail,jb,prison,shop"
 }

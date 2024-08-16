@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,bachuru,comp,faceit,lt,match,mix,pug,scrim,top,insecure"
+	"gametype": "bachuru,comp,faceit,lt,match,mix,pug,scrim,top,secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "203.159.80.53:27038",
 	"gameport": 27038,
+	"specport": 27138,
 	"steamid": "85568392930709496",
 	"name": "Registre-se e jogue @ gamersclub.com.br",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 0,
 	"max_players": 64,
 	"bots": 3,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
