@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 40,
 	"bots": 1,
-	"map": "surf_monkeys2",
+	"map": "surf_666",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,developer,private,surf_monkeys2,secure"
+	"gametype": "empty,developer,private,surf_666,secure"
 }

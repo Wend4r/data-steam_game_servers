@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 23,
 	"bots": 1,
-	"map": "ar_Shoots",
+	"map": "de_stmarc",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!lvl,!ws,128,128tick,admin,battle_pass,bp,case,free vip,gloves,knife,lvl,mansion,mirage,mm,publick,tick,vip,warmt,"
+	"gametype": "!knife,!lvl,!ws,128,128tick,admin,battle_pass,bp,case,free vip,gloves,knife,lvl,mansion,mirage,mm,publick,tick,vip,warmt,ws,sec"
 }
