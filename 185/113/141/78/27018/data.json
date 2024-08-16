@@ -1,8 +1,8 @@
 {
 	"addr": "185.113.141.78:27018",
 	"gameport": 27018,
-	"steamid": "90200996013152274",
-	"name": "[PT] NoWay Gamer's |",
+	"steamid": "85568392932084915",
+	"name": "[PT] NoWay Gamer's 🐉 Retakes #2 [Only Mirage]",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,mirage,noway,noway gamers,retakes,insecure"
 }
