@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 24,
 	"bots": 0,
 	"map": "jb_kwejsi_final_v2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knves,kz,"
+	"gametype": "empty,1v1,aim,awp,bhop,cs2,csko,cz,eu,fun,gloves,jump,knife,knv"
 }
