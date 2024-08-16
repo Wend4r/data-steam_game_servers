@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 2,
 	"max_players": 64,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 0,
+	"map": "aim_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,valve_ds,secure"
+	"gametype": "valve_ds,secure"
 }
