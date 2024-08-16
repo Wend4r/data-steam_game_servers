@@ -1,7 +1,7 @@
 {
 	"addr": "84.252.158.207:27015",
 	"gameport": 27015,
-	"steamid": "90200957350869003",
+	"steamid": "90200983021299723",
 	"name": "QEO CS2 qeo.kz",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
