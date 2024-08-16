@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 2,
 	"max_players": 32,
 	"bots": 0,
 	"map": "winsurf",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Arena,Israel,Jail,JailBreak,Retake,Surf,SurfCombat,SurfCo"
+	"gametype": "Arena,Israel,Jail,JailBreak,Retake,Surf,SurfCombat,SurfCombat,S"
 }

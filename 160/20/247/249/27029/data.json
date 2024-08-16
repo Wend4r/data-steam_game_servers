@@ -1,7 +1,6 @@
 {
 	"addr": "160.20.247.249:27029",
 	"gameport": 27029,
-	"specport": 27129,
 	"steamid": "85568392930657055",
 	"name": "Registre-se e jogue @ gamersclub.com.br",
 	"appid": 730,
@@ -9,12 +8,11 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 10,
+	"players": 0,
 	"max_players": 64,
-	"bots": 1,
+	"bots": 0,
 	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,insecure"
+	"os": "l"
 }
