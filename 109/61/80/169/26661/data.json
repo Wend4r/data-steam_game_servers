@@ -1,20 +1,19 @@
 {
 	"addr": "109.61.80.169:26661",
 	"gameport": 26661,
-	"specport": 26662,
-	"steamid": "90200800721402908",
-	"name": "SCL.GG - Register to play.",
+	"steamid": "85568392930290560",
+	"name": "Refrag.gg Training Server (Player)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
-	"region": 255,
-	"players": 0,
-	"max_players": 12,
+	"region": -1,
+	"players": 1,
+	"max_players": 11,
 	"bots": 1,
 	"map": "de_mirage",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,insecure"
 }

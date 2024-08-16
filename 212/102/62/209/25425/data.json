@@ -1,20 +1,19 @@
 {
 	"addr": "212.102.62.209:25425",
 	"gameport": 25425,
-	"specport": 25426,
-	"steamid": "90200931546650652",
-	"name": "[P] PopFlash Scrim - stockholm - 24",
+	"steamid": "90200993595533340",
+	"name": "Leetify CS2 Practice Mode by U SANE? (◕︎_◕︎)",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.5",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 13,
-	"bots": 1,
-	"map": "de_train",
+	"players": 0,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "popflash,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

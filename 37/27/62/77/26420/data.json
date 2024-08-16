@@ -1,6 +1,7 @@
 {
 	"addr": "37.27.62.77:26420",
 	"gameport": 26420,
+	"specport": 26421,
 	"steamid": "90200992546267154",
 	"name": "Perspektivichy  powered by PRACC.COM",
 	"appid": 730,
@@ -10,8 +11,8 @@
 	"region": 255,
 	"players": 3,
 	"max_players": 14,
-	"bots": 2,
-	"map": "de_ancient",
+	"bots": 1,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
