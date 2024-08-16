@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 60,
-	"bots": 4,
-	"map": "surf_wew",
+	"bots": 0,
+	"map": "surf_ameliorate",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!knife,killzone,!,combat,!ws,easy,beginner,knife,australia,fitz,kz,bhop,awp,kzg,rap,sing,skill surf,surf,surf_,us,ws,gameME,sec"
+	"gametype": "empty,!knife,killzone,!,combat,!ws,easy,beginner,knife,australia,fitz,kz,bhop,awp,kzg,rap,sing,skill surf,surf,surf_,us,ws,game"
 }
