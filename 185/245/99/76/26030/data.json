@@ -1,8 +1,7 @@
 {
 	"addr": "185.245.99.76:26030",
 	"gameport": 26030,
-	"specport": 26031,
-	"steamid": "90200983682937870",
+	"steamid": "90200984714160142",
 	"name": "ALTERNATE aTTaX Evo powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }
