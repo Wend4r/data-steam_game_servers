@@ -1,7 +1,7 @@
 {
 	"addr": "103.212.224.45:27300",
 	"gameport": 27300,
-	"steamid": "90200991321716743",
+	"steamid": "90200991815315463",
 	"name": "kz test",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy sur"
+	"gametype": "!kn,!ws,de_,aim_,beginner,am_,australia,aus,easy,easy surf,kill"
 }
