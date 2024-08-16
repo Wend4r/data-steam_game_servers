@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 32,
 	"bots": 0,
-	"map": "aim_redline_23",
+	"map": "aim_deagle",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

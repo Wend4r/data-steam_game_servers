@@ -2,18 +2,18 @@
 	"addr": "182.46.50.113:27016",
 	"gameport": 27016,
 	"steamid": "85568392931257573",
-	"name": "Counter-Strike 2",
+	"name": "【HIME】CS2KZ 排行测试2服 T1-T3",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 12,
 	"max_players": 15,
 	"bots": 0,
-	"map": "kz_checkmate",
+	"map": "kz_variety",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,5e,bhop,cs2,csgo,hime,himeneko,kz,neko,tg,xuebi,secure"
 }
