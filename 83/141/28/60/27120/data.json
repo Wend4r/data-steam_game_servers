@@ -11,10 +11,10 @@
 	"region": -1,
 	"players": 10,
 	"max_players": 13,
-	"bots": 0,
-	"map": "de_train",
+	"bots": 1,
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PoToS Server,secure"
+	"gametype": "PoToS Server,secure"
 }
