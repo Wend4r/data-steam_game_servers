@@ -11,9 +11,9 @@
 	"players": 2,
 	"max_players": 60,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_cbble_csgo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,!knife,!ws,awp,awp_lego_2,cs2,knife,ws,secure"
+	"gametype": "!knife,!ws,awp,awp_lego_2,cs2,knife,ws,secure"
 }

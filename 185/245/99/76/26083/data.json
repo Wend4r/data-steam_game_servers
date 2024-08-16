@@ -1,6 +1,7 @@
 {
 	"addr": "185.245.99.76:26083",
 	"gameport": 26083,
+	"specport": 26084,
 	"steamid": "90200985208813582",
 	"name": "TAKE FLYTE CS2 EU Main powered by PRACC.COM",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 3,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
 }
