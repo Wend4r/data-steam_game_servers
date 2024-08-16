@@ -2,18 +2,18 @@
 	"addr": "167.224.240.111:27015",
 	"gameport": 27015,
 	"steamid": "85568392932078461",
-	"name": "House of Fun",
+	"name": "House of Fun | Tier: 3 | Linear",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 2,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "surf_akai_final",
+	"map": "surf_mesa_aether",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
