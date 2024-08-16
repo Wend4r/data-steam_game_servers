@@ -1,7 +1,7 @@
 {
 	"addr": "91.224.117.21:27195",
 	"gameport": 27195,
-	"steamid": "90200998668399635",
+	"steamid": "90200998671538195",
 	"name": "CS2 TEST @ 1shot1kill.pl",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,9 +11,9 @@
 	"players": 4,
 	"max_players": 8,
 	"bots": 0,
-	"map": "denhet_genshin_impact_prophunt",
+	"map": "twyxe_map_v15",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
