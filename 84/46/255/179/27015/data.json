@@ -1,7 +1,7 @@
 {
 	"addr": "84.46.255.179:27015",
 	"gameport": 27015,
-	"steamid": "90200980667533323",
+	"steamid": "90200998683943947",
 	"name": "HALHAN-1 Counter-Strike 2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }

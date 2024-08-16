@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 64,
 	"bots": 0,
 	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,de_anubis,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa,"
+	"gametype": "de_anubis,de,cybershoke,cyber,128,128tick,drop,en,eu,ffa,ger,gl"
 }
