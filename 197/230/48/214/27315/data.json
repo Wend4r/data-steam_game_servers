@@ -1,7 +1,6 @@
 {
 	"addr": "197.230.48.214:27315",
 	"gameport": 27315,
-	"specport": 27320,
 	"steamid": "85568392931825394",
 	"name": "[IESF] Competitive CS2 server #3 << ARQ24",
 	"appid": 730,
@@ -11,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 14,
-	"bots": 1,
-	"map": "de_ancient",
+	"bots": 2,
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,challengermode,cm,iesf,secure"
+	"gametype": "empty,challengermode,cm,iesf,insecure"
 }
