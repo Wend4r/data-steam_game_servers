@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 5,
-	"players": 1,
+	"players": 0,
 	"max_players": 60,
-	"bots": 4,
-	"map": "surf_summit",
+	"bots": 0,
+	"map": "surf_mesa_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "!knife,!ws,de,de_,beginner,aim_,am_,australia,easy,easy surf,gameM,killzone,kitsune,ksf,knife,kzg,kz,skill,surf,surf_,utopia,ws"
+	"gametype": "empty,!knife,!ws,de,de_,beginner,aim_,am_,australia,easy,easy surf,gameM,killzone,kitsune,ksf,knife,kzg,kz,skill,surf,surf_,uto"
 }
