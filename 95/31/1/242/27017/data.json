@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 5,
+	"players": 3,
 	"max_players": 14,
 	"bots": 1,
-	"map": "awp_lego_2",
+	"map": "1v1aim_map_longdustversion_d",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,public,awp,aim,fy,events,skins,knives,gloves,vip,stats,tr"
+	"gametype": "public,awp,aim,fy,events,skins,knives,gloves,vip,stats,training"
 }
