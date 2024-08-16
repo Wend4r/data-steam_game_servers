@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "xc_minecraft2_global",
+	"map": "kz_bhop_skyworld_go",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,xc_minecraft2_globa"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_bhop_skyworld_go,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws"
 }

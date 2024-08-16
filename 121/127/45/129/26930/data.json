@@ -1,19 +1,20 @@
 {
 	"addr": "121.127.45.129:26930",
 	"gameport": 26930,
-	"steamid": "90200773877220358",
-	"name": "CSLOBBY.GG",
+	"specport": 26931,
+	"steamid": "90200999611833350",
+	"name": "[P] PopFlash Scrim - copenhagen - 24",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.3",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 10,
-	"max_players": 11,
+	"players": 9,
+	"max_players": 13,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,popflash,insecure"
 }

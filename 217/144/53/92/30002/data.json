@@ -1,7 +1,6 @@
 {
 	"addr": "217.144.53.92:30002",
 	"gameport": 30002,
-	"specport": 27020,
 	"steamid": "85568392931821946",
 	"name": "[EU/HU] NexxoN | AWP | !ws,!knife,!gloves,!rank |",
 	"appid": 730,
@@ -16,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
+	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,inse"
 }

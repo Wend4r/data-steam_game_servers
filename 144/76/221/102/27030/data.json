@@ -11,10 +11,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 33,
-	"bots": 4,
-	"map": "cs_alpine",
+	"bots": 3,
+	"map": "cs_france_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "community,kandru,secure"
+	"gametype": "empty,community,kandru,secure"
 }
