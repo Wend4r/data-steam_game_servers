@@ -2,7 +2,7 @@
 	"addr": "121.127.45.132:25808",
 	"gameport": 25808,
 	"specport": 25809,
-	"steamid": "90200982923696137",
+	"steamid": "90200990053360649",
 	"name": ".noname(S50 MAIN 5-3) powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 2,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
-	"map": "kz_420b",
+	"map": "kz_lego_two_redux_v3",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "hidden,secure"
+	"gametype": "empty,hidden,secure"
 }
