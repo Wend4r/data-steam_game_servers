@@ -1,7 +1,8 @@
 {
 	"addr": "109.61.80.169:26916",
 	"gameport": 26916,
-	"steamid": "90200984356215836",
+	"specport": 26917,
+	"steamid": "90200984546536476",
 	"name": "[PRACC.COM] SCRIM-TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +11,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 14,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
