@@ -1,8 +1,8 @@
 {
 	"addr": "169.150.198.103:25791",
 	"gameport": 25791,
-	"steamid": "90200995200662535",
-	"name": "Sharks Youngsters CS2 powered by PRACC.COM",
+	"steamid": "90200996295263239",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
