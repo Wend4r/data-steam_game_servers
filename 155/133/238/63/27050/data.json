@@ -1,7 +1,7 @@
 {
 	"addr": "155.133.238.63:27050",
 	"gameport": 27050,
-	"steamid": "90200982244849682",
+	"steamid": "90200982408564754",
 	"name": "Valve Counter-Strike 2 south_africa Server (srcds2014-jnb1.214.",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 8,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
