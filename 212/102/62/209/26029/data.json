@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 10,
 	"bots": 0,
-	"map": "mg_sky_realm_v3",
+	"map": "mg_nimafa_2_final",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,english,freedomplay,mg,minigame,minig"
+	"gametype": "dathost,dathost.net,english,freedomplay,mg,minigame,minigames,s"
 }
