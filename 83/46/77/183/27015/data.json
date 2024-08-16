@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 1,
 	"max_players": 32,
-	"bots": 0,
-	"map": "awp_lego_2_carton",
+	"bots": 6,
+	"map": "awp_lego_2023_xmas",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,CS2,awp,custom,espana,sniper,spain,secure"
+	"gametype": "CS2,awp,custom,espana,sniper,spain,secure"
 }
