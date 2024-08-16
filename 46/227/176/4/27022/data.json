@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "csportal,cz,dm,ffa,rank,sk,warmup,secure"
+	"gametype": "empty,csportal,cz,dm,ffa,rank,sk,warmup,secure"
 }

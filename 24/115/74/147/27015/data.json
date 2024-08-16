@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 11,
+	"bots": 10,
 	"map": "cs_crackhouse_remake_d_prefab",
 	"secure": true,
 	"dedicated": true,
