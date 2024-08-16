@@ -1,8 +1,8 @@
 {
 	"addr": "121.127.45.132:25001",
 	"gameport": 25001,
-	"steamid": "90201000181052425",
-	"name": "iSeeYu powered by PRACC.COM",
+	"steamid": "90201000698756105",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 13,
 	"bots": 0,
-	"map": "de_ancient",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,insecure"
 }
