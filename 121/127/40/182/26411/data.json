@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 22,
-	"bots": 9,
-	"map": "cs_militia_css",
+	"bots": 10,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

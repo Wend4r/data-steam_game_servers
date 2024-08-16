@@ -1,11 +1,11 @@
 {
 	"addr": "144.6.212.23:43501",
 	"gameport": 43501,
-	"steamid": "90200573669880846",
+	"steamid": "90200984861909006",
 	"name": "Deluxes-Servers - Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
-	"version": "1.40.2.2",
+	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
 	"players": 0,
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
