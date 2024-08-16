@@ -2,18 +2,18 @@
 	"addr": "45.18.0.176:27015",
 	"gameport": 27015,
 	"steamid": "85568392931971563",
-	"name": "shipREKT GunGame +Deathmatch +Turbo",
+	"name": "shipREKT Wingman",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 1,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_all_in_one",
+	"map": "fs_xen",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,128,AntiCheat,Gungame,gg,turbo,secure"
+	"gametype": "empty,128,AntiCheat,Wingman,secure"
 }
