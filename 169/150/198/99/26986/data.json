@@ -1,8 +1,7 @@
 {
 	"addr": "169.150.198.99:26986",
 	"gameport": 26986,
-	"specport": 26987,
-	"steamid": "90200968696895491",
+	"steamid": "90200994485475331",
 	"name": "FLORIPA STARS AC",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,9 +11,9 @@
 	"players": 0,
 	"max_players": 12,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }
