@@ -1,7 +1,7 @@
 {
 	"addr": "154.38.178.54:27015",
 	"gameport": 27015,
-	"steamid": "90201000618242073",
+	"steamid": "90201000621397017",
 	"name": "Codestrange CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 16,
-	"bots": 2,
+	"bots": 0,
 	"map": "ar_baggage",
 	"secure": true,
 	"dedicated": true,

@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 4,
+	"players": 0,
 	"max_players": 22,
 	"bots": 0,
-	"map": "de_mirage",
+	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
+	"gametype": "empty,!knife,!ws,cs2,de_mirage,knife,mirage,public,ws,secure"
 }
