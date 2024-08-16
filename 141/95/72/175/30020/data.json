@@ -1,6 +1,7 @@
 {
 	"addr": "141.95.72.175:30020",
 	"gameport": 30020,
+	"specport": 35095,
 	"steamid": "90200984277906455",
 	"name": "O Grande Canhao #2",
 	"appid": 730,
@@ -8,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 1,
 	"max_players": 13,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }

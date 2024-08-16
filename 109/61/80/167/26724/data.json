@@ -1,19 +1,19 @@
 {
 	"addr": "109.61.80.167:26724",
 	"gameport": 26724,
-	"steamid": "90200990148468762",
-	"name": "Leetify CS2 Practice Mode by m4ff1nn",
+	"steamid": "90200992068552730",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
-	"max_players": 11,
+	"players": 2,
+	"max_players": 10,
 	"bots": 0,
 	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,insecure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }
