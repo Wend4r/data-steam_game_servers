@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 4,
-	"players": 0,
+	"players": 1,
 	"max_players": 20,
 	"bots": 1,
-	"map": "kz_prima",
+	"map": "kz_island",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,ZED,fastdl,kz,timer,secure"
+	"gametype": "ZED,fastdl,kz,timer,secure"
 }

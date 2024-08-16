@@ -1,7 +1,7 @@
 {
 	"addr": "185.113.141.9:22103",
 	"gameport": 22103,
-	"steamid": "90200980594392077",
+	"steamid": "90200985067617293",
 	"name": "Waaclive.com - |PT/EU| AGENCY HVH /Mirage,D2,Office/",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -12,8 +12,8 @@
 	"max_players": 16,
 	"bots": 0,
 	"map": "de_dust2",
-	"secure": true,
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

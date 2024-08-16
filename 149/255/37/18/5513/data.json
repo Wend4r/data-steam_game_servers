@@ -1,7 +1,7 @@
 {
 	"addr": "149.255.37.18:5513",
 	"gameport": 5513,
-	"steamid": "90200981908476936",
+	"steamid": "90200985151831048",
 	"name": "[EU] WCS2 | Warcraft Mod | 40+ Races | Double XP",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 8,
-	"map": "de_overpass",
+	"bots": 0,
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
