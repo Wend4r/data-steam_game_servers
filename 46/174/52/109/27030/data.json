@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 16,
+	"players": 17,
 	"max_players": 64,
 	"bots": 0,
 	"map": "kz_variety_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,kz_variety_fix,msk,pro,cybershoke,kz,kreedz,pb,cyber,race"
+	"gametype": "kz_variety_fix,msk,pro,cybershoke,kz,kreedz,pb,cyber,race,drop,"
 }

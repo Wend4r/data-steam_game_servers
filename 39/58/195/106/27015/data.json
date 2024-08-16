@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 32,
-	"bots": 1,
-	"map": "de_inferno",
+	"bots": 2,
+	"map": "cs_italy",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,secure"
+	"gametype": "empty,128,AntiCheat,aim,bhop,comp,dm,gg,scoutznknifes,surf,secu"
 }

@@ -11,9 +11,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 0,
-	"map": "ze_venice_escape_p",
+	"map": "ze_farmhouse_p",
 	"secure": false,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,exg,ze,僵尸逃跑,insecure"
+	"gametype": "exg,ze,僵尸逃跑,insecure"
 }

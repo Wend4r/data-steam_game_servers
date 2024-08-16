@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 30,
-	"bots": 2,
-	"map": "de_cache",
+	"bots": 4,
+	"map": "de_zoo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,FUN,secure"
+	"gametype": "FUN,secure"
 }
