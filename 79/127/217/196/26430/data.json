@@ -1,19 +1,19 @@
 {
 	"addr": "79.127.217.196:26430",
 	"gameport": 26430,
-	"steamid": "90200981840141316",
+	"steamid": "90200981841540100",
 	"name": "Svmmi CS",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 4,
+	"players": 6,
 	"max_players": 15,
 	"bots": 0,
 	"map": "de_cache",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,secure"
 }

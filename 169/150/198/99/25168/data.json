@@ -2,8 +2,8 @@
 	"addr": "169.150.198.99:25168",
 	"gameport": 25168,
 	"specport": 25169,
-	"steamid": "90200981431391235",
-	"name": "Avant-garde powered by PRACC.COM",
+	"steamid": "90200981915577347",
+	"name": "PLAY.PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -12,9 +12,9 @@
 	"players": 0,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_mirage",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,pracc,pracc.com,practice,scrim,secure"
 }
