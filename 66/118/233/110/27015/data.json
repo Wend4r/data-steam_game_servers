@@ -2,7 +2,7 @@
 	"addr": "66.118.233.110:27015",
 	"gameport": 27015,
 	"steamid": "85568392932070265",
-	"name": "BlammyGG Practice",
+	"name": "BlammyGG Retakes +QuickPlant +QuickDefuse",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 16,
 	"bots": 0,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,AntiCheat,Practice,secure"
+	"gametype": "empty,128,AntiCheat,Retake,secure"
 }

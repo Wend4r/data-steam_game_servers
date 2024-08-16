@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 8,
-	"map": "de_westwood",
+	"map": "cs_workout_d_prefab",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
