@@ -1,19 +1,20 @@
 {
 	"addr": "103.231.73.192:27015",
 	"gameport": 27015,
+	"specport": 27020,
 	"steamid": "85568392931759088",
-	"name": "zhekarik strike v1.2",
+	"name": "zhekarik strike v1.22",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.35.1.6",
 	"product": "csgo",
 	"region": -1,
 	"players": 0,
-	"max_players": 16,
-	"bots": 0,
+	"max_players": 12,
+	"bots": 10,
 	"map": "de_nuke",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
-	"gametype": "empty,secure"
+	"os": "w",
+	"gametype": "secure"
 }

@@ -1,6 +1,7 @@
 {
 	"addr": "193.33.176.239:27015",
 	"gameport": 27015,
+	"specport": 25101,
 	"steamid": "85568392931732795",
 	"name": "NGNW.pl | 5VS5 MIRAGE | KNIFE | SKINS | GLOVES | RANGI | VIP",
 	"appid": 730,
@@ -15,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
