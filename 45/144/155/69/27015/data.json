@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_nuke",
+	"map": "de_mirage",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,24/7,bg,bulgaria,bulgarian,dust2,fun,inferno,knife,leader"
+	"gametype": "24/7,bg,bulgaria,bulgarian,dust2,fun,inferno,knife,leaderboard,"
 }

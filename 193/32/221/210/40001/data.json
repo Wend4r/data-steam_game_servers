@@ -1,7 +1,7 @@
 {
 	"addr": "193.32.221.210:40001",
 	"gameport": 40001,
-	"steamid": "90200999009081368",
+	"steamid": "90201000458510360",
 	"name": "z-cloud.info CS2 Server",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,7 +11,7 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "de_dust2",
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",

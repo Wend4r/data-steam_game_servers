@@ -1,7 +1,7 @@
 {
 	"addr": "185.245.99.76:26774",
 	"gameport": 26774,
-	"steamid": "90200993266158606",
+	"steamid": "90201000493554702",
 	"name": "Flares Esport powered by PRACC.COM",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 12,
-	"bots": 2,
+	"bots": 0,
 	"map": "de_ancient",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,secure"
+	"gametype": "empty,PRACC,PRACC.COM,Practice,Scrim,insecure"
 }

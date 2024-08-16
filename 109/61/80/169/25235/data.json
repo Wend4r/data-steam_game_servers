@@ -1,0 +1,19 @@
+{
+	"addr": "109.61.80.169:25235",
+	"gameport": 25235,
+	"steamid": "90201000542422044",
+	"name": "Leetify CS2 Retakes by Aenimapwnz",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": 255,
+	"players": 3,
+	"max_players": 11,
+	"bots": 0,
+	"map": "de_ancient",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,dathost,dathost.net,insecure"
+}
