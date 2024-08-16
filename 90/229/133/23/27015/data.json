@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 2,
 	"max_players": 32,
-	"bots": 9,
-	"map": "cs_apollo_cs2",
+	"bots": 1,
+	"map": "cs_assault",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden"
+	"gametype": "cs2,competitive,gb,custom,gruvan,public,sv,sve,swe,sweden,secur"
 }
