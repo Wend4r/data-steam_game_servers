@@ -1,6 +1,7 @@
 {
 	"addr": "54.37.129.60:27022",
 	"gameport": 27022,
+	"specport": 30013,
 	"steamid": "90200990392125471",
 	"name": "5vs5 | !ws !knife !stickers | HSMANIA.net",
 	"appid": 730,
@@ -10,10 +11,10 @@
 	"region": 3,
 	"players": 8,
 	"max_players": 11,
-	"bots": 1,
-	"map": "de_mirage",
+	"bots": 2,
+	"map": "de_vertigo",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsowni"
+	"gametype": "hsmania,hsmania-net,hsmania.net,hsmanianet,hsownia,hsownia.pl,h"
 }

@@ -1,8 +1,8 @@
 {
 	"addr": "62.63.232.205:27015",
 	"gameport": 27015,
-	"steamid": "90200989730480151",
-	"name": "cs2 private server",
+	"steamid": "90200991051289623",
+	"name": "PRIBBS playground",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 10,
 	"bots": 2,
-	"map": "de_inferno",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
-	"os": "l",
+	"os": "w",
 	"gametype": "empty,secure"
 }

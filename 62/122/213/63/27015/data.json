@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 7,
+	"players": 6,
 	"max_players": 20,
 	"bots": 0,
 	"map": "awp_lego_2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,anticheat,awp,awp_lego2,cs2,gloves,knife,lego,nodeagle,pa"
+	"gametype": "anticheat,awp,awp_lego2,cs2,gloves,knife,lego,nodeagle,pacanoff"
 }
