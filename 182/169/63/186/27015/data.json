@@ -1,7 +1,7 @@
 {
 	"addr": "182.169.63.186:27015",
 	"gameport": 27015,
-	"steamid": "90200968231023644",
+	"steamid": "90200992898053148",
 	"name": "Tokyo Fragging | DM Inferno",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }
