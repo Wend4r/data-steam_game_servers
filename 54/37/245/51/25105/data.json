@@ -10,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 45,
-	"bots": 2,
+	"bots": 0,
 	"map": "surf_kitsune_fix",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "102,102tick,easysurf,gf,gofree,kitsune,rank,stats,store,styles,surf,surf_12,surf_kitsune,surfing,surftimer,vip,wrcp,surf_kitsun"
+	"gametype": "empty,102,102tick,easysurf,gf,gofree,kitsune,rank,stats,store,styles,surf,surf_12,surf_kitsune,surfing,surftimer,vip,wrcp,surf_"
 }
