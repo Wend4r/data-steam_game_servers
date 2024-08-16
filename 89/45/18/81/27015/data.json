@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 33,
 	"bots": 1,
-	"map": "de_vertigo",
+	"map": "de_dust2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "anticheat,competitive,europe,fun,gloves,knifes,ro,romania,skins"
+	"gametype": "empty,anticheat,competitive,europe,fun,gloves,knifes,ro,romania"
 }

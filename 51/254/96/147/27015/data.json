@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 21,
-	"bots": 8,
-	"map": "cs_agency",
+	"bots": 9,
+	"map": "de_prob_mill",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "FR FFA FUN CASUAL,secure"
+	"gametype": "empty,FR FFA FUN CASUAL,secure"
 }
