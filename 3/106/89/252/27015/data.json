@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 12,
 	"bots": 0,
 	"map": "/908525075/kz_combobreaker",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
+	"gametype": "empty,aus,bhop,climb,climbing,gokz,kreedz,kz,kzt,kztimer,nonglobal,nz,skz,vnl,secure"
 }
