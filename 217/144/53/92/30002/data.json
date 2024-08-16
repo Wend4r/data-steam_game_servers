@@ -12,9 +12,9 @@
 	"players": 1,
 	"max_players": 64,
 	"bots": 1,
-	"map": "awp_lego_2_winter",
+	"map": "awp_japan",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secu"
+	"gametype": "awp,eu,gloves,hu,hungary,knife,magyar,nexxon,skin,ws,secure"
 }

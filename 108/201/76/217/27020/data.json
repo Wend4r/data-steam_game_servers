@@ -1,7 +1,7 @@
 {
 	"addr": "108.201.76.217:27020",
 	"gameport": 27020,
-	"steamid": "90200990600991774",
+	"steamid": "90201000536592414",
 	"name": "redcoatedserver",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,7 +10,7 @@
 	"region": -1,
 	"players": 0,
 	"max_players": 10,
-	"bots": 0,
+	"bots": 2,
 	"map": "de_nuke_silly",
 	"secure": true,
 	"dedicated": true,
