@@ -1,7 +1,7 @@
 {
 	"addr": "109.61.80.167:26133",
 	"gameport": 26133,
-	"steamid": "90200993376215066",
+	"steamid": "90200994934885402",
 	"name": "[PRACC.COM] DM-TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": 255,
 	"players": 0,
 	"max_players": 27,
-	"bots": 0,
+	"bots": 20,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,Deathmatch,PRACC,Warmup,secure"
+	"gametype": "empty,DM,Deathmatch,PLAY.PRACC.COM,PRACC,Play,Warmup,secure"
 }
