@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 32,
 	"bots": 0,
-	"map": "am_water_j_spin",
+	"map": "am_garden",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,128tick,1v1,arena,dual,duel,fight,freeskins,knives,multi1"
+	"gametype": "128tick,1v1,arena,dual,duel,fight,freeskins,knives,multi1v1,ro,"
 }
