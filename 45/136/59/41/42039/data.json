@@ -1,0 +1,19 @@
+{
+	"addr": "45.136.59.41:42039",
+	"gameport": 42039,
+	"steamid": "85568392931621496",
+	"name": "Freez-Blood CS:2 | DUST2 #1 |",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.40.2.6",
+	"product": "cs2",
+	"region": -1,
+	"players": 62,
+	"max_players": 64,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": true,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "secure"
+}

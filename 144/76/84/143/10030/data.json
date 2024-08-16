@@ -1,19 +1,19 @@
 {
 	"addr": "144.76.84.143:10030",
 	"gameport": 10030,
-	"steamid": "90200968699379721",
-	"name": "5x5 - free @ fshost.me",
+	"steamid": "90200990727072777",
+	"name": "BroqLee - free @ fshost.me",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 10,
+	"players": 2,
 	"max_players": 12,
 	"bots": 0,
-	"map": "de_anubis",
+	"map": "de_inferno",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
