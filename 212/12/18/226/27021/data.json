@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 255,
-	"players": 0,
+	"players": 1,
 	"max_players": 24,
 	"bots": 1,
 	"map": "2000_cs2",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,$2000$,2000,24/7,cs2,cyber,free,rusgang,russiangang,vip,s"
+	"gametype": "$2000$,2000,24/7,cs2,cyber,free,rusgang,russiangang,vip,secure"
 }

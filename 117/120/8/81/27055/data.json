@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
+	"players": 9,
 	"max_players": 13,
 	"bots": 1,
-	"map": "drawbridge",
+	"map": "de_shoeshop",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
