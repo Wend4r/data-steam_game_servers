@@ -9,12 +9,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 4,
+	"players": 2,
 	"max_players": 24,
 	"bots": 0,
 	"map": "de_mirage_animeproject_v2_neko",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128tick,anime,animeawp,animeproject,animepub,no-steam,secure"
+	"gametype": "*grp:5114777i,128tick,anime,animeawp,animeproject,animepub,no-steam,secure"
 }

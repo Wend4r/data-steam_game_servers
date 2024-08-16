@@ -8,12 +8,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 7,
-	"max_players": 31,
+	"players": 6,
+	"max_players": 30,
 	"bots": 0,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "128,128tick,de_,ffa,knife,kosy,mirage,noze,onetap,only,pl,polsk"
+	"gametype": "empty,128,128tick,de_,ffa,knife,kosy,mirage,noze,onetap,only,pl"
 }

@@ -1,8 +1,7 @@
 {
 	"addr": "51.83.215.4:27015",
 	"gameport": 27015,
-	"specport": 27020,
-	"steamid": "90200974999015437",
+	"steamid": "90200979167892493",
 	"name": "SERWER Mrcek",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -11,10 +10,10 @@
 	"region": 3,
 	"players": 0,
 	"max_players": 21,
-	"bots": 0,
-	"map": "de_nuke",
+	"bots": 1,
+	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "secure"
+	"gametype": "empty,secure"
 }
