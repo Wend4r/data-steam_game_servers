@@ -1,7 +1,7 @@
 {
 	"addr": "89.73.154.63:27015",
 	"gameport": 27015,
-	"steamid": "90200976457952284",
+	"steamid": "90200989447358492",
 	"name": "10NERS TEST",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -10,10 +10,10 @@
 	"region": -1,
 	"players": 1,
 	"max_players": 64,
-	"bots": 0,
+	"bots": 1,
 	"map": "de_mirage",
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,secure"
+	"gametype": "secure"
 }
