@@ -1,7 +1,7 @@
 {
 	"addr": "79.127.217.197:25108",
 	"gameport": 25108,
-	"steamid": "90200957672100869",
+	"steamid": "90200983369671685",
 	"name": "sinister6 team practice ",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,dathost,dathost.net,secure"
+	"gametype": "empty,dathost,dathost.net,insecure"
 }

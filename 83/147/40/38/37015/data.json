@@ -10,7 +10,7 @@
 	"region": 255,
 	"players": 2,
 	"max_players": 20,
-	"bots": 1,
+	"bots": 0,
 	"map": "kz_unnamed",
 	"secure": true,
 	"dedicated": true,

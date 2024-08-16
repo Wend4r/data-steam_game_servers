@@ -1,20 +1,19 @@
 {
 	"addr": "101.230.162.122:27015",
 	"gameport": 27015,
-	"specport": 27025,
-	"steamid": "85568392932049130",
-	"name": "[MAJOR] 完美官方战队 vs %tn2% BO0-0",
+	"steamid": "90200983290464257",
+	"name": "Counter-Strike 2",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 1,
+	"players": 0,
 	"max_players": 64,
-	"bots": 2,
-	"map": "de_vertigo",
-	"secure": true,
+	"bots": 0,
+	"map": "de_dust2",
+	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,secure"
+	"gametype": "empty,insecure"
 }

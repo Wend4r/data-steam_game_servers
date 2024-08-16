@@ -1,7 +1,7 @@
 {
 	"addr": "74.91.122.107:27015",
 	"gameport": 27015,
-	"steamid": "90200957736213525",
+	"steamid": "90200983353839637",
 	"name": "NFOservers.com - Chicago test # 16",
 	"appid": 730,
 	"gamedir": "csgo",
@@ -15,5 +15,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,insecure"
+	"gametype": "empty,secure"
 }
