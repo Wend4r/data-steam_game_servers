@@ -11,9 +11,9 @@
 	"players": 0,
 	"max_players": 30,
 	"bots": 0,
-	"map": "kzpro_concrete_c02",
+	"map": "kz_eudora",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kzpro_concrete_c02,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,"
+	"gametype": "\t\t\t\t\t!,cyber,cybershoke,drop,gloves,knife,kreedz,kz,kz_eudora,msk,pb,pro,race,rank,records,replay,ru,skill,skin,wr,ws,secure"
 }
