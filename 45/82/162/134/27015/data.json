@@ -12,7 +12,7 @@
 	"players": 3,
 	"max_players": 64,
 	"bots": 1,
-	"map": "fy_iceworld_remake",
+	"map": "$3000$_fs",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",

@@ -8,12 +8,12 @@
 	"version": "1.38.8.1",
 	"product": "csgo",
 	"region": 255,
-	"players": 1,
+	"players": 0,
 	"max_players": 32,
 	"bots": 0,
 	"map": "bhop_aux_a9_csgo",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,summer"
+	"gametype": "empty,!gl,!gloves,!knife,!music,!shop,!slots,!vip,!ws,3jump,anime,autobhop,bhop,fun,guns,maps,mg,minigame,minigames,rank,skins,"
 }
