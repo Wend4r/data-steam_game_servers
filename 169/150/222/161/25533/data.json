@@ -1,6 +1,7 @@
 {
 	"addr": "169.150.222.161:25533",
 	"gameport": 25533,
+	"specport": 25534,
 	"steamid": "90200977836279811",
 	"name": "Tricksters (GUAM/HK/SG Servers) powered by PRACC.COM",
 	"appid": 730,
@@ -11,7 +12,7 @@
 	"players": 2,
 	"max_players": 14,
 	"bots": 1,
-	"map": "de_ancient",
+	"map": "de_anubis",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
