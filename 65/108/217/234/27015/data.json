@@ -11,10 +11,10 @@
 	"region": 3,
 	"players": 3,
 	"max_players": 19,
-	"bots": 0,
-	"map": "surf_skyscraper",
+	"bots": 1,
+	"map": "surf_dust2_2015",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suom"
+	"gametype": "combat surf,cs2,fi,jonnekahvila,jonnekahvila.fi,ski2,suomi,surf"
 }
