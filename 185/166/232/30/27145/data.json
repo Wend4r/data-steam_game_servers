@@ -1,19 +1,20 @@
 {
 	"addr": "185.166.232.30:27145",
 	"gameport": 27145,
-	"steamid": "90200976364935171",
+	"specport": 27150,
+	"steamid": "90200977034640387",
 	"name": "ES 14",
 	"appid": 730,
 	"gamedir": "csgo",
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": -1,
-	"players": 0,
+	"players": 7,
 	"max_players": 64,
-	"bots": 3,
-	"map": "de_dust2",
+	"bots": 2,
+	"map": "de_nuke",
 	"secure": false,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,insecure"
+	"gametype": "insecure"
 }

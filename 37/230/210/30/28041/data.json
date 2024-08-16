@@ -16,5 +16,5 @@
 	"secure": true,
 	"dedicated": true,
 	"os": "w",
-	"gametype": "empty,valve_ds,secure"
+	"gametype": "valve_ds,secure"
 }
