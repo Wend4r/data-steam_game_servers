@@ -1,0 +1,20 @@
+{
+	"addr": "94.142.139.185:27222",
+	"gameport": 27222,
+	"specport": 27722,
+	"steamid": "85568392931605853",
+	"name": "[iDGAME.NET] CSGO  WCS 20000+LVL [WaRcRaFT]",
+	"appid": 730,
+	"gamedir": "csgo",
+	"version": "1.38.8.1",
+	"product": "csgo",
+	"region": 3,
+	"players": 0,
+	"max_players": 30,
+	"bots": 1,
+	"map": "$2000$_csgo",
+	"secure": false,
+	"dedicated": true,
+	"os": "l",
+	"gametype": "empty,!!!,!awp,!de_dust2,arena,awp,awp,awp_lego,awp_lego,awp_lego_2,awp_lego_2,de_dust2,hlportal,hlxportal,idgame,rev=783931,wa"
+}
