@@ -9,12 +9,12 @@
 	"version": "1.40.2.6",
 	"product": "cs2",
 	"region": 3,
-	"players": 0,
+	"players": 9,
 	"max_players": 25,
-	"bots": 0,
-	"map": "awp_japan",
+	"bots": 1,
+	"map": "awp_india",
 	"secure": true,
 	"dedicated": true,
 	"os": "l",
-	"gametype": "empty,awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,"
+	"gametype": "awp,best,community,cs2,first,hu,hun,top,ubec,unbreakable,secure"
 }
